@@ -1,0 +1,6 @@
+task_name: str mmlu_xx
+instuction: str please xxxx
+
+
+few_shot_instances: List[(input,output)]
+instances: List[(input,output)]

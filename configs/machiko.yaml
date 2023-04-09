@@ -1,0 +1,12 @@
+model_path: /home/cl/Machiko_v1/Machiko/sft/machiko_zh_en
+batch_size: 2
+
+
+
+generate_config:
+  do_sample: True
+  temperature: 0.7
+  top_p: 0.9
+  top_k: 50
+  num_beams: 1
+  max_new_tokens: 600

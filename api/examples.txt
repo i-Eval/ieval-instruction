@@ -1,0 +1,1 @@
+curl -X POST -H "Content-Type: application/json" -d '{"prompts":["A robe takes 2 bolts of blue fiber and half that much white fiber. How many bolts in total does it take? Think step by step"]}' http://127.0.0.1:8080/llm_serving/
