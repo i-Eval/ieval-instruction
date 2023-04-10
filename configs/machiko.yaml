@@ -1,7 +1,14 @@
 model_path: /home/cl/Machiko_v1/Machiko/sft/machiko_zh_en
 batch_size: 2
 
+zero_shot_template: 
+  no_input: "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\n{instruction}\n\n### Response:"
+  with_input: "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\n{instruction}\n\n### Input:\n{input}\n\n### Response:"
 
+few_shot_template:
+  instance_template: "{input} {output}"
+  split_by: ","
+  question_prompt: " {input}"
 
 generate_config:
   do_sample: True
