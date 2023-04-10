@@ -23,7 +23,7 @@ python run.py --serving_config_path ./configs/alpaca.yaml --dataset_path /home/c
 ```
 
 ## Results
-| Models  | mmlu_astronomy | mmlu_anatomy | college_mathematics |
+| Models  | mmlu_astronomy | mmlu_anatomy | mmlu_college_mathematics |
 |---------|----------------|--------------|---------------------|
 | alpaca  | 0.40           | 0.41         | 0.31                |
 | llama-i | 0.53           | 0.41         | 0.29                |
