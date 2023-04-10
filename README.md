@@ -27,4 +27,4 @@ python run.py --serving_config_path ./configs/alpaca.yaml --dataset_path /home/c
 |---------|----------------|--------------|---------------------|
 | alpaca  | 0.40           | 0.41         | 0.31                |
 | llama-i | 0.53           | 0.41         | 0.29                |
-| ChatGPT(2023.04.10) |      0.79          | 0.71         |                     |
+| ChatGPT(2023.04.10) |      0.79          | 0.71         |      0.3               |
