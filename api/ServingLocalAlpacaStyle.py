@@ -32,23 +32,6 @@ def load(
         **kwargs,
     )
     return generator
- 
-#HACK need to build this from the config file
-PROMPT_DICT = {
-    "prompt_input": (
-        "Below is an instruction that describes a task, paired with an input that provides further context. "
-        "Write a response that appropriately completes the request.\n\n"
-        "### Instruction:\n{instruction}\n\n### Input:\n{input}\n\n### Response:"
-    ),
-    "prompt_no_input": (
-        "Below is an instruction that describes a task. "
-        "Write a response that appropriately completes the request.\n\n"
-        "### Instruction:\n{instruction}\n\n### Response:"
-    ),
-}
-
-    
-
 
 if __name__ == "__main__":
     args = get_args()
@@ -56,10 +39,14 @@ if __name__ == "__main__":
         serving_config = yaml.safe_load(f)
 
     generator = load(model_path=serving_config["model_path"], batch_size=serving_config["batch_size"], device_map="auto")
+
+    PROMPT_DICT = serving_config["zero_shot_template"]
     
     #HACK build directly from 
     class Config(BaseModel):
-        prompts: List[str]
+        instructions: List[str]
+        inputs: List[str]
+        few_shot_examples: List[str] = []
         do_sample: bool = serving_config['generate_config'].get('do_sample', True)
         max_new_tokens: int = serving_config['generate_config'].get('max_new_tokens', 512)
         temperature: float = serving_config['generate_config'].get('temperature', 0.7)
@@ -67,14 +54,21 @@ if __name__ == "__main__":
         top_k: int = serving_config['generate_config'].get('top_k', 50)
 
 
-    
-
     @app.post("/llm_serving/")
     def generate(config: Config):
-        if len(config.prompts) > serving_config["batch_size"]:
+        if len(config.instructions) > serving_config["batch_size"]:
             return {"error": "too much prompts."}
+        
+        if len(config.inputs)!=0 and len(config.inputs) != len(config.instructions):
+            return {"error": "inputs and instructions should be the same length or no inputs."}
+
+        if len(config.inputs)!=0:
+            final_prompts = [ PROMPT_DICT['with_input'].format_map({"instruction":ins,"input":inp}) for ins,inp in zip(config.instructions,config.inputs) ]
+        else:
+            final_prompts = [PROMPT_DICT['no_input'].format_map({"instruction":ins}) for ins in config.instructions]
+        
         results = generator(
-            [PROMPT_DICT['prompt_no_input'].format_map({"instruction":i}) for i in config.prompts],
+            final_prompts,
             do_sample=config.do_sample,
             max_new_tokens=config.max_new_tokens,
             temperature=config.temperature,

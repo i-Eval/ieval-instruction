@@ -1,7 +1,0 @@
-{"task_name": "last_word_nth", 
-"instuction": "You are a helpful assistant.",
-"instances": [
-    ["What is the 4th word in \"I am a programmer\"? Answer directly with the word, make no additional comment, don't use quotation marks.", "programmer"],
-    ["What is the 6th word in \"He was playing with a ball\"? Answer directly with the word, make no additional comment, don't use quotation marks.", "ball"]],
-"few_shot_instances": []
-}
