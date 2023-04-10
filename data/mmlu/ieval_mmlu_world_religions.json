@@ -1,0 +1,712 @@
+{
+    "task_name": "mmlu_world_religions",
+    "instruction": "Please anwser the multiple choice question (with answers) about world religions.",
+    "instances": [
+        {
+            "input": " What can murtis be translated as?\nA. Offerings\nB. Prayers\nC. Apparitions\nD. Idols",
+            "output": "D"
+        },
+        {
+            "input": " Naturalists who concentrated on natural elements and processes are associated with which of the following?\nA. Daoism\nB. Yin-Yang School\nC. Mengzi\nD. Humanistic Buddhism",
+            "output": "B"
+        },
+        {
+            "input": " When was the first Buddhist temple constructed in Japan?\nA. 325 CE\nB. 119 CE\nC. 451 CE\nD. 596 CE",
+            "output": "D"
+        },
+        {
+            "input": " What is the name of the ten day New Year festival that celebrated Babylon's culture?\nA. Akitu\nB. Wag and Thoth\nC. Bast\nD. Nehebkau",
+            "output": "A"
+        },
+        {
+            "input": "Which of the following terms denote the Japanese art of flower arranging?\nA. Zazen\nB. Tariki\nC. Kami\nD. Ikebana",
+            "output": "D"
+        },
+        {
+            "input": " Guru Nanak and his successors instructed the use of particular Sikh Ragas in order to promote which of the following?\nA. Harmony and balance\nB. Devotion and piety\nC. Love and passion\nD. Goodwill and love",
+            "output": "A"
+        },
+        {
+            "input": " Guru Nanak used what term to denote the \"divine word\" as part of divine revelation?\nA. Shabad\nB. Khalse\nC. Nam\nD. Guru",
+            "output": "A"
+        },
+        {
+            "input": "What is the mi'raj?\nA. Muhammad's miraculous ascent to heaven\nB. Muhammad's migration to Mecca\nC. Muhammad's first community in Mecca\nD. Muhammad's revelations of the Qur'an",
+            "output": "A"
+        },
+        {
+            "input": "What is the name of the most famous dharmashastras, which probably dates from around the first century?\nA. Laws of Dharma\nB. Laws of Karma\nC. Laws of Vishnu\nD. Laws of Manu",
+            "output": "D"
+        },
+        {
+            "input": "What does the term \"Qur'an\" literally mean?\nA. The Holy Book\nB. The Narrative\nC. The Recitation\nD. The Pillars",
+            "output": "C"
+        },
+        {
+            "input": " Mani referred to God by which of the following names?\nA. Mother of Light\nB. Father of Goodness\nC. Ineffable Lover\nD. Eternal Spirit",
+            "output": "B"
+        },
+        {
+            "input": " Which tradition is known to promote \"gradual enlightenment\"?\nA. Bushido\nB. Shinto\nC. Nichiren\nD. Soto Zen",
+            "output": "D"
+        },
+        {
+            "input": "What is the communal meal offered at the place of worship called in Sikhism?\nA. Sangat\nB. Langar\nC. Gurdwara\nD. Panth",
+            "output": "B"
+        },
+        {
+            "input": "To which tradition do the anti-Han rebel group known as the Celestial Masters belong?\nA. Buddhism\nB. Daoism\nC. Confucianism\nD. Shamanism",
+            "output": "B"
+        },
+        {
+            "input": "What does the word \"Islam\" mean in Arabic?\nA. Worship\nB. Submission\nC. Obedience\nD. Faith",
+            "output": "B"
+        },
+        {
+            "input": "What does the term anatman mean?\nA. Suffering\nB. Soul\nC. Impermanence\nD. No-self",
+            "output": "D"
+        },
+        {
+            "input": " What genre of Sikh literature is denoted by the term janam-sakhis?\nA. Spiritual narratives\nB. Redemption narratives\nC. Birth narratives\nD. Theological narratives",
+            "output": "C"
+        },
+        {
+            "input": "Pure Land Buddhism belongs to which school?\nA. Vajrayana\nB. Theravada\nC. Mahayana\nD. Mahavira",
+            "output": "C"
+        },
+        {
+            "input": " Which Jaina group only allows women to lead a life of semi-renunciation?\nA. Svetambara\nB. Jina\nC. Agama\nD. Digambara",
+            "output": "D"
+        },
+        {
+            "input": "What is the most important prayer in Judaism?\nA. The Shema\nB. The Sefirot\nC. Deuteronomy\nD. The Decalogue",
+            "output": "A"
+        },
+        {
+            "input": " The socio-political alliance between the kshatriyas and the shramanas was rooted in their shared opposition to which of the following?\nA. Brahminic orthodoxy\nB. Legalistic asceticism\nC. Bhakti devotionals\nD. Unorthodox practices",
+            "output": "A"
+        },
+        {
+            "input": " Which early battle led to the conversion of Mecca?\nA. The Battle of Uhud\nB. The Battle of Camel\nC. The Battle of the Trench\nD. The Battle of Badr",
+            "output": "C"
+        },
+        {
+            "input": " What interior discipline must be adopted to achieve spiritual liberation within Sikhism?\nA. Remembering the Divine Name\nB. Meditating on the sacred hymns\nC. Remembering that death is inevitable\nD. Meditating on the goodness of the created world",
+            "output": "A"
+        },
+        {
+            "input": " During Japan's occupation of Korea (1910-1945), which of the following was imposed upon the Koreans?\nA. Confucianism\nB. Buddhism\nC. Christianity\nD. Daoism",
+            "output": "A"
+        },
+        {
+            "input": "What is the meaning of the Punjabi word \"Sikh\"?\nA. Disciple\nB. Faithful\nC. Devotee\nD. Enlightened",
+            "output": "A"
+        },
+        {
+            "input": " Which of the following shuns politics?\nA. The sages of the Zhuangzi\nB. The Songs of the South\nC. The Duke of Zhou\nD. The Confucian \"sage kings\"",
+            "output": "A"
+        },
+        {
+            "input": "What does the Hebrew word mashiach mean?\nA. Anointed one\nB. God\nC. Prophet\nD. The line of David",
+            "output": "A"
+        },
+        {
+            "input": "According to Jaina traditions, what does the term ajiva mean?\nA. Soul\nB. Sound\nC. Non-matter\nD. Non-soul",
+            "output": "D"
+        },
+        {
+            "input": " In the Japanese Zen tradition, what is zazen?\nA. A collection of statues\nB. Veneration of ancestors\nC. Seated meditation\nD. Funeral rituals",
+            "output": "C"
+        },
+        {
+            "input": " What is a central component of tantric Buddhism?\nA. Asceticism\nB. Bodily pleasure\nC. Music\nD. Sexual union",
+            "output": "D"
+        },
+        {
+            "input": " How does the Egyptian composition Ludul Bel Nemequi (\"I will praise the Lord of wisdom) portray Marduk?\nA. Loving and forgiving\nB. Wrathful and merciful\nC. Judging and vengeful\nD. Transcendent and immanent",
+            "output": "B"
+        },
+        {
+            "input": " After the Bar Kochba revolt, where were the two main centres for Jewish development?\nA. Palestine and Babylonia\nB. Babylonia and Europe\nC. Palestine and Spain\nD. Spain and France",
+            "output": "A"
+        },
+        {
+            "input": " In addition to Jainism, which other tradition began as a world-renouncing movement?\nA. Buddhism\nB. Hinduism\nC. Judaism\nD. Islam",
+            "output": "A"
+        },
+        {
+            "input": "According to Hindu tradition, which age are we in currently?\nA. Kali yuga\nB. Maha yuga\nC. Krita yuga\nD. Satya yuga",
+            "output": "A"
+        },
+        {
+            "input": " In the Zoroastrian tradition, the term Gathas refers to which of the following?\nA. Hymns\nB. Laws\nC. Ethics\nD. Myths",
+            "output": "A"
+        },
+        {
+            "input": "Which form of Buddhism taught the only hope for salvation was in the saving grace of Amida?\nA. Pure Land\nB. Tendai\nC. Shingon\nD. Soto Zen",
+            "output": "A"
+        },
+        {
+            "input": " According to Hindu tradition, who is considered to be the ideal wife?\nA. Sita\nB. Rama\nC. Kali\nD. Durga",
+            "output": "A"
+        },
+        {
+            "input": "Who is the woman mystic who exemplified the all-consuming love of the divine?\nA. Rumi\nB. Rabi'a\nC. Fatimah\nD. Khadija",
+            "output": "B"
+        },
+        {
+            "input": " Who is the eighth-century CE female poet worshipped throughout many South Indian temples dedicated to Vishnu?\nA. Andal\nB. Devi\nC. Ganga\nD. Kali",
+            "output": "A"
+        },
+        {
+            "input": " Who is associated with the stigmata and preaching to birds?\nA. Paul of Tarsus\nB. Clare of Assisi\nC. Francis of Assisi\nD. John of the Cross",
+            "output": "C"
+        },
+        {
+            "input": " In his final work, Laws, Plato shifted from cosmology to which of the following issues?\nA. Epistemology\nB. Morality\nC. Religion\nD. Aesthetics",
+            "output": "B"
+        },
+        {
+            "input": " Which Christian denomination promotes a stripped-down Christianity?\nA. Greek Orthodox\nB. Roman Catholic\nC. Puritans\nD. Quakers",
+            "output": "D"
+        },
+        {
+            "input": " Rome claimed that their bishop (pope) was the director successor of which leader?\nA. Peter\nB. Paul\nC. Jesus\nD. Matthew",
+            "output": "A"
+        },
+        {
+            "input": "When was the current Dalai Lama born?\nA. 1935\nB. 2000\nC. 1965\nD. 1975",
+            "output": "A"
+        },
+        {
+            "input": " According to Jaina traditions, who were the caityavasis?\nA. Householders who supported renouncers\nB. Orthodox interpreters of the scriptures\nC. Women ascetics who lived in communities\nD. Temple-dwelling renouncers",
+            "output": "D"
+        },
+        {
+            "input": "Zhuangzi describes a state as ziran, which means which of the following?\nA. Thoughtfulness\nB. Non-action\nC. Spontaneity\nD. Meditation",
+            "output": "C"
+        },
+        {
+            "input": " The mudras, which are an important feature of Buddhist art, are also known as what?\nA. hand gestures\nB. saints\nC. religious clothing\nD. temples",
+            "output": "A"
+        },
+        {
+            "input": " The Maccabean Revolt is associated with which ruler?\nA. Julius Caesar\nB. Alexander the Great\nC. Cyrus of Persia\nD. Antiochus IV Epiphanes",
+            "output": "D"
+        },
+        {
+            "input": " How old was Guru Nanak when he started to preach the message of the divine Name?\nA. 30\nB. 40\nC. 33\nD. 52",
+            "output": "A"
+        },
+        {
+            "input": "The widely adored Egyptian goddess Hathor was depicted as which of the following?\nA. Serpent\nB. Eagle\nC. Cheetah\nD. Cow",
+            "output": "D"
+        },
+        {
+            "input": "What does the phrase Guru-Panth mean within the Sikh traditions?\nA. Community\nB. Scripture\nC. Worship\nD. Apprenticeship",
+            "output": "A"
+        },
+        {
+            "input": " After what event did the Rabbinical period begin within Judaism?\nA. Construction of the Second Temple\nB. Destruction of the Second Temple\nC. The Christianization of the Roman Empire\nD. The emergence of Islam",
+            "output": "B"
+        },
+        {
+            "input": "Which monk developed Pure Land Buddhism as we know it today?\nA. Genshin\nB. Dogen\nC. Honen\nD. Shinran",
+            "output": "C"
+        },
+        {
+            "input": "Which is the largest Muslim country in the world with more than 200 million adherents?\nA. Pakistan\nB. Iraq\nC. Indonesia\nD. Turkey",
+            "output": "C"
+        },
+        {
+            "input": "Which pope promoted the cults of St. Peter and St. Paul to bolster authority in Rome?\nA. Gregory\nB. Augustine\nC. Athanasius\nD. Francis",
+            "output": "A"
+        },
+        {
+            "input": "Which of the following does the term \"Arhats\" refer to?\nA. Enlightened being\nB. Worthy ones\nC. Saintly ones\nD. Sages",
+            "output": "A"
+        },
+        {
+            "input": "Which Guru was martyred when he refused to embrace Islam?\nA. Guru Ram Das\nB. Guru Tegh Bahadur\nC. Guru Gobind Singh\nD. Guru Har Rai",
+            "output": "B"
+        },
+        {
+            "input": " Which Guru donned the two swords symbolling temporal and spiritual authority?\nA. Guru Nanak\nB. Guru Arjan\nC. Guru Hargobind\nD. Guru Ram Das",
+            "output": "C"
+        },
+        {
+            "input": " Where is the key to liberation found within Sikhism?\nA. In the community\nB. In faith in God\nC. In ascetic renunciation\nD. In the life of the householder",
+            "output": "D"
+        },
+        {
+            "input": "Which is one of the most fundamental themes of Japanese culture and civilization?\nA. God is eternal and merciful to those who offer worship\nB. Humans can align themselves with life energy through worship of kami\nC. Justice will be the final outcome in the next world\nD. Power and force are the most divine attributes",
+            "output": "A"
+        },
+        {
+            "input": " Which goddess is worshipped during the festival of Divali?\nA. Durga\nB. Sri Lakshmi\nC. Kali\nD. Mahavira",
+            "output": "B"
+        },
+        {
+            "input": " Where did people believe in the goddess known as Holy Mother of Mount Fairy Peach?\nA. China\nB. Silla\nC. Goguryeo\nD. Joseon",
+            "output": "B"
+        },
+        {
+            "input": " To whom is the Yoga Sutras attributed?\nA. Madhva\nB. Patanjali\nC. Ramanuja\nD. Aryabhatta",
+            "output": "B"
+        },
+        {
+            "input": " Which of the following does NOT describe the Ka'ba?\nA. It was visited by Moses.\nB. It is a haram.\nC. It was built by Abraham.\nD. It is a square building.",
+            "output": "A"
+        },
+        {
+            "input": "Which elephant-headed Hindu deity is often described as the most beloved?\nA. Parvati\nB. Ganesha\nC. Vishnu\nD. Sita",
+            "output": "B"
+        },
+        {
+            "input": "Sacred literature originated with which of the following jina?\nA. Sri Lakshmi\nB. Mahavira\nC. Rsabha\nD. Nanak",
+            "output": "C"
+        },
+        {
+            "input": " Who is the author of Admonitions for Women?\nA. Ban Zhao\nB. Laozi\nC. Menicus\nD. Liu Xiang",
+            "output": "A"
+        },
+        {
+            "input": "How many female renouncers were under the tutelage of Chandanbala?\nA. 36,000\nB. 12,000\nC. 24,000\nD. 7,000",
+            "output": "A"
+        },
+        {
+            "input": "According to the Sikh tradition, the Mul Mantar illuminates the nature of what?\nA. Ultimate Reality\nB. The gurus\nC. The community\nD. Sikh worship",
+            "output": "A"
+        },
+        {
+            "input": " What term refers the divine order as an ell-embracing higher principle in Sikhism?\nA. Sansar\nB. Hukam\nC. Mantar\nD. Karam",
+            "output": "B"
+        },
+        {
+            "input": " How many books are in the New Testament?\nA. 30\nB. 29\nC. 27\nD. 47",
+            "output": "C"
+        },
+        {
+            "input": "Which form of Buddhism focuses on social engagement that attracts lay participation?\nA. Zen Buddhism\nB. Chan Buddhism\nC. Humanistic Buddhism\nD. Pure Land Buddhism",
+            "output": "C"
+        },
+        {
+            "input": " What was one of the distinctive beliefs or practices of the southerners (Digambara)?\nA. They worshipped exclusively outside of the temple\nB. They believed that nakedness was an elemental expression of non-attachment\nC. They included women within the ranks of the leadership\nD. They believed that the omniscient Jina must eat and sleep",
+            "output": "B"
+        },
+        {
+            "input": "The central prayer in Jainism is known by which of the following names?\nA. Namokar Mantra\nB. The Liberation Mantra\nC. Ahimsa\nD. Archaryas",
+            "output": "A"
+        },
+        {
+            "input": "When did the first Jaina temples appear?\nA. Second century CE\nB. Fifth century CE\nC. Fifth century BCE\nD. Eighteenth century CE",
+            "output": "B"
+        },
+        {
+            "input": "How many Jinas have appeared during our age?\nA. 7\nB. 42\nC. 24\nD. 13",
+            "output": "C"
+        },
+        {
+            "input": "The title Dalai Lama means which of the following?\nA. Ocean of Love\nB. Lover of Wisdom\nC. Ocean of Wisdom\nD. Stillness of Love",
+            "output": "C"
+        },
+        {
+            "input": "Who accompanies Vishnu in many of his incarnations as his consort, and is known as the goddess of good fortune?\nA. Parvati\nB. Sita\nC. Sri (Lakshmi)\nD. Sarasvati",
+            "output": "C"
+        },
+        {
+            "input": "What is bhakti often translated as?\nA. Gods\nB. Yoga\nC. Devotion\nD. Religion",
+            "output": "C"
+        },
+        {
+            "input": " Which Hindu god or goddess is speech incarnate, the power of the word, and the mother of the Vedas?\nA. Vishnu\nB. Ganesha\nC. Sarasvati\nD. Indra",
+            "output": "C"
+        },
+        {
+            "input": " What is the name of the Jewish prayer used for mourning since the Middle Ages?\nA. The Shema\nB. The Kaddish\nC. The K'nesset\nD. The Kippah",
+            "output": "B"
+        },
+        {
+            "input": "Krishna and Rama are incarnations of which Hindu god?\nA. Shiva\nB. Vishnu\nC. Brahma\nD. Ganesha",
+            "output": "B"
+        },
+        {
+            "input": " The kshatriyas is the caste name assigned to which group?\nA. Priests\nB. Servants\nC. Rulers, warriors\nD. Merchants",
+            "output": "C"
+        },
+        {
+            "input": "When was the Old Babylonian version of Gilgamesh modified into the standard version?\nA. Toward the end of the first millennium BCE\nB. Towards the middle of the first millennium BCE\nC. Toward the end of the second millennium BCE\nD. Toward the middle of the second millennium BCE",
+            "output": "C"
+        },
+        {
+            "input": " What is the meaning ofsamyak jnanawithin the Jaina traditions?\nA. Correct knowledge\nB. Correct practice\nC. Correct intiution\nD. Correct belief",
+            "output": "C"
+        },
+        {
+            "input": " What type of Buddhist organization is the Bodu Bala Sena?\nA. Activist and militant organization in Sri Lanka\nB. Ecumenical organization in India\nC. Modern organization in the United States\nD. Peacekeeping organization in Japan",
+            "output": "A"
+        },
+        {
+            "input": "Which mystic believed that evil was a distortion that reveals divine love more clearly?\nA. Julian of Norwich\nB. Catherine of Siena\nC. Teresa of Avila\nD. John of the Cross",
+            "output": "A"
+        },
+        {
+            "input": "In the Jaina traditions \"bad karma\" is known by which of the following terms?\nA. Paap\nB. Punya\nC. Pudgala\nD. Akash",
+            "output": "A"
+        },
+        {
+            "input": " During what Japanese festival do the spirits of deceased family members return to receive ritual offerings of food made by their loved ones?\nA. Obon\nB. Mikoshi\nC. Omizutori\nD. Tanabata",
+            "output": "A"
+        },
+        {
+            "input": "What does \"Mahavira\" mean?\nA. \"Great Hero\"\nB. \"Master\"\nC. \"The Lesser One\"\nD. \"Mendicant\"",
+            "output": "A"
+        },
+        {
+            "input": " What does the Tripitaka mean?\nA. Three gems\nB. Three baskets\nC. Three bodhisattvas\nD. Three buddhas",
+            "output": "B"
+        },
+        {
+            "input": "Where is the largest network of Confucian shrines in the world?\nA. Indonesia\nB. China\nC. Korea\nD. Singapore",
+            "output": "C"
+        },
+        {
+            "input": " Ghosa, Apala and Lopamurda, all named in the early Vedas, are which of the following?\nA. Female princesses\nB. Female warriors\nC. Female goddesses\nD. Female poets",
+            "output": "D"
+        },
+        {
+            "input": " What is the title for the religious and administrative leaders who succeeded the Prophet?\nA. Rasul\nB. Nabi\nC. Caliph\nD. Mahdi",
+            "output": "C"
+        },
+        {
+            "input": "Which of the following is NOT included in the Islamic understanding of jurisprudence?\nA. Consensus\nB. Personal reasoning\nC. Interpretation\nD. Divine inspiration",
+            "output": "D"
+        },
+        {
+            "input": "Why is Mahavira a significant person in the Jaina traditions?\nA. He is the last of the ascetic prophets.\nB. He is the first of the ascetic prophets\nC. He is the most learned of the ascetic prophets\nD. He is the most holy of the ascetic prophets",
+            "output": "A"
+        },
+        {
+            "input": " The Tibetan Book of the Dead is also known as which of the following?\nA. Bardo Thodol\nB. Bardo Ngawang\nC. Bardo Gyaltsen\nD. Bardo Chogye",
+            "output": "A"
+        },
+        {
+            "input": " Which Hindu festival involves decorating the house with lights, setting off firecrackers and wearing new clothes?\nA. Deepavali\nB. Holi\nC. Diwali\nD. Navaratri",
+            "output": "A"
+        },
+        {
+            "input": "What hours are set aside as the ambrosial hours for the Sikhs?\nA. 5\u20137 a.m.\nB. 9\u201311 p.m.\nC. 3\u20136 p.m.\nD. 3\u20136 a.m.",
+            "output": "D"
+        },
+        {
+            "input": " Self-sacrifice is an important theme for which Buddhist thinker?\nA. Thich Nhat Hanh\nB. The Dalai Lama\nC. Daisetsu T. Suzuki\nD. Shaku Soyen",
+            "output": "A"
+        },
+        {
+            "input": " How many times a day is the Fatihah recited?\nA. Exactly 17\nB. At least 17\nC. At least 13\nD. Exactly 24",
+            "output": "B"
+        },
+        {
+            "input": "Which branch of Judaism founded by Zacharias Frankel is known for its \"Positive-Historical Judaism\"?\nA. Conservative\nB. Reformed\nC. Reconstructionism\nD. Orthodox",
+            "output": "A"
+        },
+        {
+            "input": " What is the term used to describe the \"pure\" as an order of loyal Sikhs bound together?\nA. Khalsa\nB. Rahit\nC. Panj Kakke\nD. Shabad",
+            "output": "A"
+        },
+        {
+            "input": "Who is the founder of Sikhism?\nA. Guru Gobind Singh\nB. Guru Nanak\nC. Guru Kabir\nD. Guru Hargobind",
+            "output": "B"
+        },
+        {
+            "input": "Which term is usually associated with women in Hindu traditions?\nA. Polluted\nB. Ideal\nC. Auspiciousness\nD. Kind",
+            "output": "C"
+        },
+        {
+            "input": "What is another name for Enuma Elish?\nA. Epic of Creation\nB. Epic of Destruction\nC. Epic of Egypt\nD. Epic of Origins",
+            "output": "A"
+        },
+        {
+            "input": " What was the most important female-centered festival in cities throughout Greece?\nA. Thesmophoria\nB. Oracle Days\nC. Isthmian Games\nD. Feast of Athrodite",
+            "output": "A"
+        },
+        {
+            "input": "Speaking in tongues is a feature of which Christian denomination?\nA. Evangelicalism\nB. Pietism\nC. Pentecostalism\nD. Fundamentalism",
+            "output": "C"
+        },
+        {
+            "input": " Charism can be defined as which of the following?\nA. An oil\nB. Prophecy\nC. A spiritual gift\nD. Authority",
+            "output": "C"
+        },
+        {
+            "input": " In Islam, what is the qiblah?\nA. Almsgiving\nB. Pilgrimage\nC. Direction of prayer\nD. Revelation",
+            "output": "C"
+        },
+        {
+            "input": "In Tendai Buddhism, what does the term honji mean?\nA. Trace\nB. Original ground\nC. Manifestation\nD. True sign",
+            "output": "B"
+        },
+        {
+            "input": " What is the name of a recent revivalist movement in Turkey led by Fetullah G\u00fclen?\nA. Hizmet\nB. Nation of Islam\nC. Muslim Brotherhood\nD. Sufism",
+            "output": "A"
+        },
+        {
+            "input": "For whom are the Hindu Vedas most significant?\nA. Brahmins\nB. Kshatriyas\nC. Shiva\nD. Yogis",
+            "output": "A"
+        },
+        {
+            "input": " According to the Korean foundation myth, who transformed into a human in order to father Dangun?\nA. Hwanin\nB. Hwanung\nC. Joseon\nD. Yi",
+            "output": "B"
+        },
+        {
+            "input": " In Buddhism, what are ordained women known as?\nA. Bhikshus\nB. Bhikshunis\nC. The Sangha\nD. Arhats",
+            "output": "B"
+        },
+        {
+            "input": " What is the name of the most authoritative Kabbalah text?\nA. Gemarah\nB. Midrash\nC. Zohar\nD. Septuagint",
+            "output": "C"
+        },
+        {
+            "input": " Which Confucian philosopher is described as a mystic due to his focus on qi (or ch'i)?\nA. Dao\nB. Xunzi\nC. Mencius\nD. Confucius",
+            "output": "C"
+        },
+        {
+            "input": " Which of the following does the Qur'an permit?\nA. Honor Killing\nB. Stoning\nC. Adultery\nD. Polygyny",
+            "output": "D"
+        },
+        {
+            "input": " Which is the main form of Buddhism in Sri Lanka?\nA. Theravada\nB. Mahayana\nC. Pure Land\nD. Zen",
+            "output": "A"
+        },
+        {
+            "input": " Which leader is known for spreading the dharma of non-violence?\nA. Ngo Dinh Diem\nB. The Dalai Lama\nC. Siddhartha\nD. Ashoka",
+            "output": "D"
+        },
+        {
+            "input": "What are the two sacraments that all Christians celebrate?\nA. Baptism and Eucharist\nB. Baptism and Ordination\nC. Eucharist and Marriage\nD. Eucharist and Confession",
+            "output": "A"
+        },
+        {
+            "input": "What is the most important festival for Sikhs?\nA. Holi\nB. Divali\nC. Baisakhi Day\nD. Hola Mahalla",
+            "output": "C"
+        },
+        {
+            "input": " Who declared Muhammad a prophet?\nA. Khadijah\nB. Gabriel\nC. Waraqah\nD. Abu Bakr",
+            "output": "C"
+        },
+        {
+            "input": "The Jataka tales are a collection of which genre of stories?\nA. Life stories\nB. Warrior stories\nC. Birth stories\nD. Hero stories",
+            "output": "C"
+        },
+        {
+            "input": " Which of the following is the timespan for Japan's closure to Christianity and Europe?\nA. 1749-1945\nB. 1052-1616\nC. 1641-1853\nD. 1517-1870",
+            "output": "C"
+        },
+        {
+            "input": " In Yiddish, what is the word for covenant?\nA. Haggadah\nB. Halakhah\nC. Brit\nD. Bris",
+            "output": "D"
+        },
+        {
+            "input": "According to the Sumerian King List, where does kingship come from?\nA. Through initiation into the mystery cults\nB. By military victories\nC. Direct lineage of ancestors\nD. Descends from heaven",
+            "output": "D"
+        },
+        {
+            "input": "What is the name of the Hindu community associated with environmental activism?\nA. Puranas\nB. Bishnoi\nC. Rajasthan\nD. Jambho",
+            "output": "B"
+        },
+        {
+            "input": " Which bodhisattva is known for conducting the souls of dead children to salvation?\nA. Guan-yin\nB. Kannon\nC. Ojizo-sama\nD. Amitabha",
+            "output": "C"
+        },
+        {
+            "input": " The Gospel of John is associated with which theological concept?\nA. Incarnation\nB. Logos of God\nC. Jesus as messiah and saviour\nD. All of the above",
+            "output": "D"
+        },
+        {
+            "input": "Which god supplanted the earlier Mesopotamian supreme god Enil?\nA. Horus\nB. Inanna\nC. Marduk\nD. Isis",
+            "output": "C"
+        },
+        {
+            "input": "Which of the following movements was founded by Mordechai Kaplan?\nA. Liberal Judaism\nB. Reform Judaism\nC. Conservative Judaism\nD. Reconstructionist Judaism",
+            "output": "D"
+        },
+        {
+            "input": "When was the State of Israel established?\nA. 1947\nB. 1948\nC. 1945\nD. 1949",
+            "output": "B"
+        },
+        {
+            "input": " Icons are a main feature of which church?\nA. Anglican\nB. Catholic\nC. Orthodox\nD. Lutheran",
+            "output": "C"
+        },
+        {
+            "input": "The first of the Four Noble Truths teaches which of the following cannot be escaped?\nA. Pride\nB. Hatred\nC. Suffering\nD. Fate",
+            "output": "C"
+        },
+        {
+            "input": " The Continental Reformation started in what year?\nA. 1545\nB. 1517\nC. 1492\nD. 1705",
+            "output": "B"
+        },
+        {
+            "input": "The minimalism of Haiku is said to be derived from which tradition?\nA. Zen Buddhism\nB. Shinto\nC. Pure Land Buddhism\nD. Confucianism",
+            "output": "A"
+        },
+        {
+            "input": "Which deity is the Roman counterpart to the Greek god Zeus?\nA. Jupiter\nB. Juno\nC. Dionysius\nD. Neptune",
+            "output": "A"
+        },
+        {
+            "input": "The philosopher Laozi is associated with which tradition?\nA. Jainism\nB. Buddhism\nC. Confucianism\nD. Daoism",
+            "output": "D"
+        },
+        {
+            "input": " Which Egyptian gods did Akhenaten make a determined effort to eliminate?\nA. Shu and Set\nB. Horus and Isis\nC. Amun and Mut\nD. Khonsu and Nekhbet",
+            "output": "C"
+        },
+        {
+            "input": "The term xin refers to which of the following?\nA. Piety\nB. Non-action\nC. Heart-mind\nD. World",
+            "output": "C"
+        },
+        {
+            "input": " Which term in the dharma texts of the classical period denotes the four stages of life?\nA. Kama\nB. Samnyasin\nC. Ashramas\nD. Arthas",
+            "output": "C"
+        },
+        {
+            "input": "What is the term for commentary on the Qur'an, which means \"unveiling\"?\nA. fiqh\nB. dhikr\nC. ijtihad\nD. tafsir",
+            "output": "D"
+        },
+        {
+            "input": " With which branch of Islam are the Isma'ilis are associated?\nA. The Sunni\nB. The Shi'a\nC. The Sufi\nD. The Ahmadiyya",
+            "output": "B"
+        },
+        {
+            "input": " The term mappo is associated with which of the following?\nA. The dharma\nB. An age of decline\nC. The golden age\nD. Samurai",
+            "output": "B"
+        },
+        {
+            "input": " What is the name of the bodhisattva in Japan known for a commitment to alleviating suffering?\nA. Amaterasu\nB. Izanami\nC. Kannon\nD. Guanyin",
+            "output": "C"
+        },
+        {
+            "input": "Who was the first significant anchorite hermit?\nA. Pachomius\nB. Athanasius\nC. Anthony\nD. Basil",
+            "output": "C"
+        },
+        {
+            "input": "Which are the synoptic Gospels?\nA. Peter, John, Mark\nB. Matthew, Mark, John\nC. Matthew, Mark, Luke\nD. John, Luke, Mark",
+            "output": "C"
+        },
+        {
+            "input": "What is the English title for the divination text also known as the Yijing?\nA. The Classic of Documents\nB. The Lotus Sutra\nC. The Flower Garland Sutra\nD. The Classic of Changes",
+            "output": "D"
+        },
+        {
+            "input": " Where was the most famous site of the mystery cults in Greece?\nA. Ephesus\nB. Corinth\nC. Athens\nD. Eleusis",
+            "output": "D"
+        },
+        {
+            "input": "When did the Babylonian captivity of \"Exile\" begin?\nA. 515 BCE\nB. 535 BCE\nC. 586 BCE\nD. 70 CE",
+            "output": "C"
+        },
+        {
+            "input": " The term vajrya means diamond and which of the following?\nA. Emerald\nB. Brilliance\nC. Thunderbolt\nD. Lightning",
+            "output": "C"
+        },
+        {
+            "input": " In Jainism, what is the cycle that one must liberate oneself from?\nA. Punya\nB. Samsara\nC. Samayika\nD. Jiva",
+            "output": "B"
+        },
+        {
+            "input": " The classic text Daodejing is known by what title in English?\nA. Classic of Changes\nB. Classic of the Way and Power\nC. Classic of Women\nD. Classic of Philosophy",
+            "output": "B"
+        },
+        {
+            "input": " The Communidades de Base is associated with which of the following?\nA. Bishop Oscar Romero\nB. Resistance and renewal\nC. Dignity of all human beings\nD. All of the above",
+            "output": "D"
+        },
+        {
+            "input": "What does the term matsuri mean?\nA. Amulets\nB. Meditation\nC. Rituals\nD. Grand festivals",
+            "output": "D"
+        },
+        {
+            "input": " Which Roman statesman encouraged civic religion in his work The Laws?\nA. Varro\nB. Plato\nC. Cicero\nD. Augustus",
+            "output": "C"
+        },
+        {
+            "input": " What does \"Svetambara\" mean?\nA. \"Sky-clad\"\nB. \"Naked\"\nC. \"White-clad\"\nD. \"Clothed\"",
+            "output": "C"
+        },
+        {
+            "input": "What is seen by Europeans, and many Muslims, as the symbol of Islam?\nA. The Hijab\nB. The Crescent\nC. The Minaret\nD. The Qur'an",
+            "output": "B"
+        },
+        {
+            "input": " What is the purpose for hearing the Guru's Vak in the morning?\nA. Prayers on behalf of people outside of the Sikh community\nB. Communal confession to cleanse the community\nC. Inspiration for personal meditation throughout the day\nD. Doctrinal instruction for discussion in the community",
+            "output": "C"
+        },
+        {
+            "input": " What are the rabbinical commentaries produced after the Mishnah called?\nA. Septuagint\nB. Talmud\nC. Yeshiva\nD. Gemarah",
+            "output": "D"
+        },
+        {
+            "input": "What is a mohel?\nA. A ritual circumciser\nB. A type of oil lame\nC. A teacher\nD. A covenant",
+            "output": "A"
+        },
+        {
+            "input": "The \"Flower Sermon\" is associated with which form of Buddhism?\nA. Theravada\nB. Chan-Zen\nC. Pure Land\nD. Yogicara",
+            "output": "B"
+        },
+        {
+            "input": " When was the major shift by Greek philosophers who rejected the anthropomorphic view of the divine?\nA. Early Third Century BCE\nB. Second and First Century BCE\nC. Late Sixth Century BCE\nD. Fourth and Third Century BCE",
+            "output": "C"
+        },
+        {
+            "input": " What is the foremost reason for wearing the hijab in the present day?\nA. Islamic identity\nB. Islamic modesty\nC. Islamic obedience\nD. Islamic seclusion",
+            "output": "A"
+        },
+        {
+            "input": "The Oral Torah, in its written form, is known as what?\nA. Mishnah\nB. Midrash\nC. Tanakh\nD. Pentateuch",
+            "output": "A"
+        },
+        {
+            "input": "What has been a central focus of religious traditions in China and Korea?\nA. Peace and harmony\nB. Power and influence\nC. Truth and love\nD. Wisdom and ethics",
+            "output": "A"
+        },
+        {
+            "input": " To whom did ordinary folk appeal during a drought in the time of the Han Dynasty?\nA. The Buddha\nB. Laozi\nC. The Queen Mother of the West\nD. Confucius",
+            "output": "C"
+        },
+        {
+            "input": " The theological term homoousios means which of the following?\nA. of a similar substance\nB. of the same substance\nC. of like substance\nD. of human substance",
+            "output": "B"
+        },
+        {
+            "input": "According to the Japanese origin myth, who gives birth to Amaterasu from his left eye?\nA. Es\nB. Izanagi\nC. Izanami\nD. Kami",
+            "output": "B"
+        },
+        {
+            "input": " The numen of Augustus referred to which of the following characteristics?\nA. Divine power\nB. Sexual virility\nC. Military acumen\nD. Philosophical intellect",
+            "output": "A"
+        }
+    ],
+    "few_shot_instances": [
+        {
+            "input": " What is the sign of the covenant for Jewish males?\nA. The rainbow\nB. Circumcision\nC. A son\nD. Bar mitzvah",
+            "output": "B"
+        },
+        {
+            "input": "What is the Second Gem in Buddhism?\nA. The Dharma\nB. The Sangha\nC. The Buddha\nD. The Bodhisattva",
+            "output": "A"
+        },
+        {
+            "input": " In which dynasty was the \"Mandate of Heaven\" developed to legitimatize the new rulers?\nA. Shang\nB. Zhou\nC. Han\nD. Xia",
+            "output": "B"
+        },
+        {
+            "input": " Which Japanese government promoted a kind of national cult based on the emperor and his associations with kami?\nA. Honen\nB. Tanaka\nC. Tokugawa\nD. Meiji",
+            "output": "D"
+        },
+        {
+            "input": "How can the Upanishads be characterized?\nA. Ritual texts\nB. Philosophical texts\nC. Hymns\nD. Origin stories",
+            "output": "B"
+        }
+    ]
+}

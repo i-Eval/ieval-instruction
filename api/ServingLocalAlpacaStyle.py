@@ -77,4 +77,4 @@ if __name__ == "__main__":
         )
         return {"responses": results,"answers": [i[0]['generated_text'].split("Response:")[1] for i in results]}
 
-    uvicorn.run(app, host="0.0.0.0", port=8080)
+    uvicorn.run(app, host="0.0.0.0", port=8181)

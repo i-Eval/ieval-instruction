@@ -1,0 +1,110 @@
+predicted:	 2 | gold:	B
+predicted:	B. 2 | gold:	C
+predicted:	A. 0 | gold:	D
+predicted:	 Statement 2 is true, since K is a normal subgroup of H and H is a normal subgroup of G, therefore K is a normal subgroup of G. | gold:	B
+predicted:	 A. 2x^2 + 5 | gold:	B
+predicted:	True, True. | gold:	A
+predicted:	True, True. | gold:	A
+predicted:	 A ring homomorphism is one to one if and only if the kernel is {0}. | gold:	D
+predicted:	 The degree of the field extension Q(sqrt(2)) over Q is 2. The degree of a field extension is the number of elements in its Galois closure. The Galois closure of Q(sqrt(2)) is Q(sqrt(2) + sqrt(3)) and so the degree of this extension is 2 + 4 = 6. | gold:	B
+predicted:	A.1 | gold:	C
+predicted:	 True, True. | gold:	C
+predicted:	C. both symmetric and anti-symmetric. | gold:	C
+predicted:	 D. 11 | gold:	A
+predicted:	A. (x − 2)(x + 2)(x − 1) | gold:	C
+predicted:	 C. 30 | gold:	C
+predicted:	 Statement 1 is true and statement 2 is false. | gold:	B
+predicted:	C. i | gold:	C
+predicted:	A. (1,1) | gold:	C
+predicted:	C. identity element does not exist. | gold:	D
+predicted:	 Statement 1 is true and statement 2 is false. | gold:	A
+predicted:	 True, True. | gold:	A
+predicted:	A. 2x^2 + 5 | gold:	A
+predicted:	True, True. | gold:	D
+predicted:	A. semi group with identity. | gold:	D
+predicted:	 Statement 1: True 
+Statement 2: True | gold:	B
+predicted:	A. subgroup. | gold:	C
+predicted:	A. True, True. | gold:	C
+predicted:	 A. Yes, with p=2. | gold:	B
+predicted:	 Statement 2 is true, since there is a homomorphism from a group of 6 elements to a group of 12 elements. | gold:	D
+predicted:	 D. False, True. | gold:	A
+predicted:	 True, True. | gold:	B
+predicted:	A. commutative semi group. | gold:	B
+predicted:	A. True, True. | gold:	A
+predicted:	C. (g o h)^2 = g^2 o h^2. | gold:	C
+predicted:	 True, True. | gold:	A
+predicted:	 2 | gold:	B
+predicted:	The product in the given ring is 12 (2 x 4). | gold:	D
+predicted:	 A. Yes, with p=2. | gold:	B
+predicted:	The generator for the finite field Z_7 is 1. | gold:	C
+predicted:	A. True, True. Every permutation is a cycle, but not every cycle is a permutation. | gold:	D
+predicted:	A. 0 | gold:	C
+predicted:	A. 0 | gold:	A
+predicted:	 D. False, True. | gold:	B
+predicted:	 Statement 1 is true and statement 2 is false. | gold:	C
+predicted:	 A. True, True. | gold:	C
+predicted:	 True, True. | gold:	C
+predicted:	 True, False. A homomorphism may have an empty kernel, but it is not possible to have a nontrivial homomorphism of some finite group into some infinite group. | gold:	B
+predicted:	 A. 0 | gold:	B
+predicted:	True, True. | gold:	C
+predicted:	C. 240 | gold:	B
+predicted:	 D. False, True. | gold:	D
+predicted:	 A. 0 | gold:	B
+predicted:	B. 8 | gold:	A
+predicted:	A. True, True. | gold:	C
+predicted:	 2 | gold:	B
+predicted:	 A. True, True. Every free abelian group is torsion free, and every torsion-free abelian group is a free abelian group. Therefore, every free abelian group is also a torsion-free abelian group. | gold:	A
+predicted:	 D. False, True. | gold:	D
+predicted:	The generator for the finite field Z_11 is 1. | gold:	B
+predicted:	 A. True, True. | gold:	A
+predicted:	 A. True, True. | gold:	A
+predicted:	A. True, True. | gold:	D
+predicted:	 D. False, True. | gold:	D
+predicted:	 Statement 1 is true and statement 2 is true. | gold:	C
+predicted:	C. reflexive. | gold:	B
+predicted:	 A. 1 | gold:	B
+predicted:	A. True, True. Every field is also a ring, and every ring has a multiplicative identity. | gold:	C
+predicted:	A. True, True. | gold:	D
+predicted:	 D. H contains the identity element. | gold:	C
+predicted:	A. (x − 2)(x + 2)(x − 1)(x + 1) | gold:	A
+predicted:	 A. True, True. | gold:	A
+predicted:	A. 0 | gold:	D
+predicted:	 2 | gold:	C
+predicted:	
+The remainder of 3^47 when it is divided by 23 is 4. | gold:	D
+predicted:	A. 0 | gold:	B
+predicted:	 D. False, True. | gold:	D
+predicted:	D. False, True. | gold:	B
+predicted:	True, True. | gold:	C
+predicted:	A. 0 | gold:	A
+predicted:	 A. True, True. | gold:	D
+predicted:	 D. False, True. | gold:	C
+predicted:	 True, True | gold:	B
+predicted:	True, True. Every nonzero free abelian group has an infinite number of bases, and every free abelian group of rank at least 2 has an infinite number of bases. | gold:	D
+predicted:	A. True, True. | gold:	A
+predicted:	A. True, True. | gold:	C
+predicted:	 Statement 1: True, Statement 2: False. | gold:	D
+predicted:	 True, True. | gold:	C
+predicted:	A. True, True. | gold:	A
+predicted:	 T(-3,2) = -10. | gold:	A
+predicted:	The product in the given ring is 12(16) = 4. | gold:	A
+predicted:	 Statement 1: True 
+Statement 2: True 
+A. True, True 
+B. False, False 
+C. True, False 
+D. False, True | gold:	C
+predicted:	 Statement 1 is true and statement 2 is true. | gold:	D
+predicted:	
+The set of cosets of 4Z of 2Z is 2 + 4Z. | gold:	B
+predicted:	 A. Every equivalence relation is a partial-ordering relation. | gold:	B
+predicted:	 
+A. 6. The maximum order for an element of S_n for n = 6 is 6. | gold:	A
+predicted:	A. True, True. | gold:	D
+predicted:	True, True. | gold:	C
+predicted:	A. 0 | gold:	B
+predicted:	 6 | gold:	C
+predicted:	C. 12 | gold:	C
+predicted:	 True, True. Every ideal in a ring is a subring of the ring, and every subring of a ring is an ideal. | gold:	C
+Accuracy: 0.11

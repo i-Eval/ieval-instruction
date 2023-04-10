@@ -17,10 +17,12 @@ python ./api/ServingLocalAlpacaStyle.py --serving_config_path ./configs/llama-i.
 ```
 
 start a new terminal
+```bash
+bash eval_mmlu_all.sh # eval all mmlu task in zero shot manner
 ```
-python run.py --serving_config_path ./configs/alpaca.yaml --dataset_path /home/cl/i-Eval/ieval/data/ieval_mmlu_anatomy_noendanwser.json --llm_service_address http://127.0.0.1:8080/llm_serving/
 
-```
+
+
 
 ## Results
 | Models(Zero-Shot)              | mmlu_astronomy | mmlu_anatomy | mmlu_college_mathematics | mmlu_abstract_algebra |
