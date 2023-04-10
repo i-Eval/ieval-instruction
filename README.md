@@ -21,3 +21,10 @@ start a new terminal
 python run.py --serving_config_path ./configs/alpaca.yaml --dataset_path /home/cl/i-Eval/ieval/data/ieval_mmlu_anatomy_noendanwser.json --llm_service_address http://127.0.0.1:8080/llm_serving/
 
 ```
+
+## Results
+| Models  | mmlu_astronomy | mmlu_anatomy | college_mathematics |
+|---------|----------------|--------------|---------------------|
+| alpaca  | 0.40           | 0.41         | 0.31                |
+| llama-i | 0.53           | 0.41         | 0.29                |
+| ChatGPT |                | 0.75         |                     |
