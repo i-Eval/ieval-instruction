@@ -23,8 +23,9 @@ python run.py --serving_config_path ./configs/alpaca.yaml --dataset_path /home/c
 ```
 
 ## Results
-| Models  | mmlu_astronomy | mmlu_anatomy | mmlu_college_mathematics |
-|---------|----------------|--------------|---------------------|
-| alpaca  | 0.40           | 0.41         | 0.31                |
-| llama-i | 0.53           | 0.41         | 0.29                |
-| ChatGPT(2023.04.10) |      0.79          | 0.71         |      0.3               |
+| Models(Zero-Shot)              | mmlu_astronomy | mmlu_anatomy | mmlu_college_mathematics | mmlu_abstract_algebra |
+|---------------------|----------------|--------------|--------------------------|-----------------------|
+| alpaca              | 0.40           | 0.41         | 0.31                     | 0.10                  |
+| llama-i             | 0.53           | 0.41         | 0.29                     | 0.27                  |
+| ChatGPT(2023.04.10) | 0.79           | 0.71         | 0.30                     | 0.35                  |
+
