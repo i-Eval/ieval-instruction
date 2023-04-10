@@ -1,0 +1,5 @@
+pydantic
+uvicorn
+fastapi
+accelerate
+sentencepiece

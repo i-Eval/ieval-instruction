@@ -1,6 +1,6 @@
 {
     "task_name": "mmlu_college_biology",
-    "insturction": "Please anwser the multiple choice question (with answers) about college biology.",
+    "instruction": "Please anwser the multiple choice question (with answers) about college biology.",
     "instances": [
         {
             "input": "Based on the characteristic population curves that result from plotting population growth of a species, the most effective means of controlling the mosquito population is to\nA. maintain the population at a point corresponding to the midpoint of its logistic curve\nB. opt for zero population control once the K value of the curve has been reached\nC. reduce the carrying capacity cif the environment to lower the K value\nD. increase the mortality rate\nAnswer:",

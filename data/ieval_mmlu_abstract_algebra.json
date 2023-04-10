@@ -1,6 +1,6 @@
 {
     "task_name": "mmlu_abstract_algebra",
-    "insturction": "Please anwser the multiple choice question (with answers) about abstract algebra.",
+    "instruction": "Please anwser the multiple choice question (with answers) about abstract algebra.",
     "instances": [
         {
             "input": "Find the degree for the given field extension Q(sqrt(2), sqrt(3), sqrt(18)) over Q.\nA. 0\nB. 4\nC. 2\nD. 6\nAnswer:",

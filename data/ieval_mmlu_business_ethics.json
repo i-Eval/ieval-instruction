@@ -1,6 +1,6 @@
 {
     "task_name": "mmlu_business_ethics",
-    "insturction": "Please anwser the multiple choice question (with answers) about business ethics.",
+    "instruction": "Please anwser the multiple choice question (with answers) about business ethics.",
     "instances": [
         {
             "input": "_______ such as bitcoin are becoming increasingly mainstream and have a whole host of associated ethical implications, for example, they are______ and more ______. However, they have also been used to engage in _______.\nA. Cryptocurrencies, Expensive, Secure, Financial Crime\nB. Traditional currency, Cheap, Unsecure, Charitable giving\nC. Cryptocurrencies, Cheap, Secure, Financial crime\nD. Traditional currency, Expensive, Unsecure, Charitable giving\nAnswer:",

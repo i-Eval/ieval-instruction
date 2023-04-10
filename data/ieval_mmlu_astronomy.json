@@ -1,6 +1,6 @@
 {
     "task_name": "mmlu_astronomy",
-    "insturction": "Please anwser the multiple choice question (with answers) about astronomy.",
+    "instruction": "Please anwser the multiple choice question (with answers) about astronomy.",
     "instances": [
         {
             "input": "What is true for a type-Ia (\"type one-a\") supernova?\nA. This type occurs in binary systems.\nB. This type occurs in young galaxies.\nC. This type produces gamma-ray bursts.\nD. This type produces high amounts of X-rays.\nAnswer:",

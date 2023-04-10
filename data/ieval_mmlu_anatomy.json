@@ -1,6 +1,6 @@
 {
     "task_name": "mmlu_anatomy",
-    "insturction": "Please anwser the multiple choice question (with answers) about anatomy.",
+    "instruction": "Please anwser the multiple choice question (with answers) about anatomy.",
     "instances": [
         {
             "input": "A lesion causing compression of the facial nerve at the stylomastoid foramen will cause ipsilateral\nA. paralysis of the facial muscles.\nB. paralysis of the facial muscles and loss of taste.\nC. paralysis of the facial muscles, loss of taste and lacrimation.\nD. paralysis of the facial muscles, loss of taste, lacrimation and decreased salivation.\nAnswer:",
