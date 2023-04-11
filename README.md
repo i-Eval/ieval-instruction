@@ -19,6 +19,7 @@ python ./api/ServingLocalAlpacaStyle.py --serving_config_path ./configs/alpaca.y
 start a new terminal
 ```bash
 bash eval_mmlu_all.sh # eval all mmlu task in zero shot manner
+python compute_avg_acc_mmlu.py ./results alpaca mmlu # compute avg acc on all mmlu tasks
 ```
 
 
