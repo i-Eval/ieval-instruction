@@ -10,6 +10,9 @@ pip install torch==2.0.0 --extra-index-url https://download.pytorch.org/whl/cu11
 cd ../..
 ```
 
+## current supported tasks
+1. MMLU (56 subjects)
+
 ## start eval
 
 1. set up llm service
