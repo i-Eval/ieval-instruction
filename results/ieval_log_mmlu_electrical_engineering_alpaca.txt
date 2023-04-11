@@ -1,0 +1,155 @@
+predicted:	 D. Both A and C. | gold:	D
+predicted:	C. It uses centre zero galvanometer instead of voltmeter. | gold:	D
+predicted:	B. XOR, NOR, NAND. | gold:	A
+predicted:	A. 30° to 150°. | gold:	A
+predicted:	A. Data Box. | gold:	C
+predicted:	D. zero. | gold:	D
+predicted:	D. Almost zero. | gold:	C
+predicted:	C. Power stability. | gold:	D
+predicted:	The normal voltage used in directional heating is 33 KV. | gold:	A
+predicted:	B. 100 KHz to 500 MHz. | gold:	A
+predicted:	A. High resistance when forward or reverse biased. | gold:	B
+predicted:	A. Zinc silicate. | gold:	D
+predicted:	A. 1. | gold:	D
+predicted:	C. increase efficiency. A commutator is used to increase efficiency of a DC generator by converting AC armature current into DC. | gold:	D
+predicted:	C. ratio of 1 C to 1 V. | gold:	C
+predicted:	A. 3. There are a total of 3 entries in the truth table of a 3 input NAND gate:
+
+A 0 0 0
+A 0 0 1 
+A 0 1 0 
+A 0 1 1 
+A 1 0 0 
+A 1 1 1 
+
+So, there are a total of 3 entries in the truth table. | gold:	C
+predicted:	A. First digit from left to right. | gold:	A
+predicted:	C. Generic Advance Logic. | gold:	D
+predicted:	A. Enable the data bus to be used as low order address bus. | gold:	A
+predicted:	A. 111.9 ohm | gold:	A
+predicted:	A. constant torque operation. | gold:	A
+predicted:	A. 0.015 joule. | gold:	B
+predicted:	A. protect the insulation. | gold:	B
+predicted:	A. closed winding. | gold:	A
+predicted:	C. Sawtooth wave. | gold:	D
+predicted:	D. 10 KHz to 400 KHz. | gold:	D
+predicted:	B) J = 1, K = 1. | gold:	B
+predicted:	A. all of below. | gold:	A
+predicted:	A. 0.32. | gold:	B
+predicted:	A binary number system has two digits. | gold:	C
+predicted:	C. RC. | gold:	C
+predicted:	A. simple and economical. | gold:	A
+predicted:	A. product of its inductance and current through it. | gold:	D
+predicted:	The input is 'A'. Therefore, there are a total of 8 bits for each hexadecimal number that needs to convert to binary. | gold:	C
+predicted:	B. conducting materials which may be either magnetic or non-magnetic. | gold:	B
+predicted:	B) 100 | gold:	A
+predicted:	C. Weber. | gold:	C
+predicted:	D. Compensation theorem. | gold:	A
+predicted:	 A D-flip-flop is said to be transparent when the output is LOW. | gold:	D
+predicted:	A. 500 Hz. | gold:	B
+predicted:	C. variable power drive. | gold:	A
+predicted:	 SRAM. | gold:	B
+predicted:	A. 2 | gold:	A
+predicted:	A. open loop control system. | gold:	B
+predicted:	A sinusoidal signal is an analog signal because it has positive and negative values, and it is negative for one half cycle. | gold:	A
+predicted:	A. frequent modulation. | gold:	B
+predicted:	C. LIFO memory. | gold:	C
+predicted:	C. Residual magnetism of the generator. | gold:	C
+predicted:	C. Resonant circuit oscillator. | gold:	D
+predicted:	C. 2121.32 A. | gold:	C
+predicted:	C. Accumulators. | gold:	C
+predicted:	A. environmental errors. | gold:	D
+predicted:	A. Inaccurate. | gold:	C
+predicted:	A diode (p-n Junction) when reverse biased acts as an off switch. | gold:	D
+predicted:	C. m derived. | gold:	B
+predicted:	C. type of material. | gold:	C
+predicted:	C. precision. | gold:	A
+predicted:	B. Amplitude Modulation. | gold:	C
+predicted:	C. Either A or B. | gold:	B
+predicted:	A. PLD | gold:	B
+predicted:	A null type instrument has a higher accuracy. | gold:	C
+predicted:	C. doubled. | gold:	C
+predicted:	A. minority carriers. | gold:	B
+predicted:	D. Nitrogen. | gold:	A
+predicted:	D. All the above. | gold:	D
+predicted:	C. Both A and B. | gold:	C
+predicted:	C. eddy current disk. | gold:	A
+predicted:	C. Capacitance. | gold:	B
+predicted:	B. edge | gold:	C
+predicted:	C. Snubber circuit. | gold:	A
+predicted:	A. gross error. | gold:	A
+predicted:	B. conductance. | gold:	B
+predicted:	 LED is the best choice for colour rendering, as it produces no visible light spectrum. | gold:	C
+predicted:	D. A finite value. | gold:	C
+predicted:	C. Either of above. | gold:	B
+predicted:	A. higher electrical conductivities. | gold:	D
+predicted:	A. Resistor. | gold:	C
+predicted:	A. heating occurs in the material itself. | gold:	A
+predicted:	A. high thermal conductivity. | gold:	D
+predicted:	C. static induced emf. | gold:	C
+predicted:	A. 500 MVA. | gold:	A
+predicted:	A. moving faster or slower in an allowed orbit. | gold:	B
+predicted:	C. Both A and B. | gold:	C
+predicted:	A. mass element. | gold:	D
+predicted:	A. 160 µF. | gold:	A
+predicted:	C. 4R Ω. | gold:	C
+predicted:	A single phase full bridge inverter can operate in load commutation mode in case the load consists of RL. | gold:	B
+predicted:	A microprocessor is ALU. | gold:	D
+predicted:	C. high. | gold:	C
+predicted:	C. most simple and least time consuming. | gold:	C
+predicted:	D. all of the above. | gold:	D
+predicted:	A. Power transfer capability of the transmission line is increased. | gold:	D
+predicted:	A. high. | gold:	B
+predicted:	D. midway between the conductor and ground. | gold:	A
+predicted:	A. 6. | gold:	C
+predicted:	A. Regulator of a fan. | gold:	D
+predicted:	B. square of the instantaneous current. | gold:	A
+predicted:	A. tachometer | gold:	B
+predicted:	A. 5 µF. | gold:	D
+predicted:	C. ferromagnetic substances. | gold:	B
+predicted:	C. generates sustained oscillations at a constant amplitude and specific frequency. | gold:	C
+predicted:	A. rough. | gold:	B
+predicted:	The latching current of SCR is 20 mA, and its holding current will be 20 mA. | gold:	C
+predicted:	C. capacitance. | gold:	D
+predicted:	C. Inductive coupling between input and output. | gold:	D
+predicted:	C. RLC circuit. | gold:	D
+predicted:	The value of the dielectric constant of air is 1. | gold:	C
+predicted:	A. Digital quantity. | gold:	B
+predicted:	The candle power of the lamp is 150. | gold:	C
+predicted:	The correct answer is D. low and high. | gold:	B
+predicted:	A. reluctance of conductor. | gold:	C
+predicted:	C. Equalizing circuit. | gold:	A
+predicted:	A. Mnemonics. | gold:	B
+predicted:	B. 2 mbps. | gold:	D
+predicted:	C. Both. | gold:	C
+predicted:	C. 1/C. | gold:	C
+predicted:	C. Both series and parallel frequencies. | gold:	C
+predicted:	A. LC oscillators are used for low frequency (LF) applications. | gold:	B
+predicted:	B. 1 / 3. | gold:	C
+predicted:	D. none of the above. | gold:	A
+predicted:	C. 0.009 A. | gold:	D
+predicted:	A. An op-code fetch cycle. | gold:	A
+predicted:	A. Reduces the overall gain. | gold:	D
+predicted:	A. LC network. | gold:	D
+predicted:	The magnetisation and applied field in ferromagnetic materials is related linearly. This means the materials respond to the applied field and generate a magnetic response that is proportional to the strength and direction of the field. | gold:	B
+predicted:	C. Both A and B. | gold:	A
+predicted:	A. 40π coulombs. | gold:	B
+predicted:	C. First Bit. | gold:	A
+predicted:	D. none of above. | gold:	B
+predicted:	C. 2 %. | gold:	B
+predicted:	A. shunt capacitor. | gold:	D
+predicted:	A. MROM. | gold:	A
+predicted:	A. stack pointer. | gold:	C
+predicted:	A. shunt capacitor. | gold:	D
+predicted:	C. either series or parallel. | gold:	B
+predicted:	D. Atomic number. | gold:	C
+predicted:	C. hexavalant. | gold:	D
+predicted:	C. 21. | gold:	A
+predicted:	A. P | gold:	A
+predicted:	C. Wien bridge oscillator. | gold:	D
+predicted:	C. Either AC or DC. The superposition theorem states that the response of a network to a given excitation is the same regardless of the type of excitation. Therefore, if the network is linear, then it will be the same regardless of whether the excitation is AC or DC. | gold:	C
+predicted:	A. 1/3. | gold:	C
+predicted:	C. T2 & T3. | gold:	C
+predicted:	C. Relaxation oscillator. | gold:	C
+predicted:	A. parallel to the plane of the wire. | gold:	A
+Accuracy: 0.32413793103448274

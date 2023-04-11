@@ -1,0 +1,102 @@
+predicted:	 C. k = n = 1. | gold:	B
+predicted:	A. 0. | gold:	D
+predicted:	The dimensions of the null space n and range r of D are A. n = 1 and r = 6. | gold:	D
+predicted:	A. 4 | gold:	A
+predicted:	A. 2/69. The probability that exactly 2 are damaged is 2/23, since there are a total of 25 suitcases and 5 of them are damaged, the probability that exactly 2 are damaged is 2/23. | gold:	C
+predicted:	 A. (S, +, x) is closed under addition modulo 10. | gold:	D
+predicted:	1/(2*sqrt(2)) | gold:	C
+predicted:	A. 0 | gold:	C
+predicted:	III only. | gold:	C
+predicted:	C. Neither (a) nor (b). | gold:	A
+predicted:	A discrete graph is complete if there is an edge connecting any pair of vertices. Therefore, a complete graph with 10 vertices has 10 edges. | gold:	D
+predicted:	A. 1/64. The probability that at least one of X and Y is greater than 3 is 1/64 because the probability that X or Y is greater than 3 is 1/2^n, and since n can be as large as 3, the probability is 1/64. | gold:	B
+predicted:	D. 3 | gold:	A
+predicted:	A. 4 teams of 4 students each, so that no student is the teammate of someone they dislike. | gold:	B
+predicted:	A. 0.64 because the probability of one of the two integers being the square of the other is 0.5, so the probability of both of them not being the square of the other is 0.5 * 0.5 = 0.64. | gold:	D
+predicted:	 A. I only. | gold:	D
+predicted:	 III only. dim (U) < n implies that TM(V) ≠ M(V) and thus U ≠ M(V). | gold:	B
+predicted:	A. -1/4. | gold:	C
+predicted:	I and III only. | gold:	D
+predicted:	D. 0. | gold:	A
+predicted:	I only. | gold:	D
+predicted:	Five.  The ordinary decimal representation of the integer 5! ends in exactly 99 zeros. | gold:	D
+predicted:	III. R is infinite. | gold:	B
+predicted:	The probability that if this die is thrown twice, the first roll will be a 5 and the second roll will be a 6 is 1/18. This is because the probability of rolling any even number is twice the probability of rolling any odd number, and since 5 and 6 are both even numbers, the probability of rolling them is higher than the probability of rolling any odd number. | gold:	A
+predicted:	A. True, True. | gold:	B
+predicted:	C. II and III only. | gold:	D
+predicted:	B. 5 days. | gold:	D
+predicted:	B. 1 | gold:	A
+predicted:	C. f has a relative minimum at (0, 0). | gold:	A
+predicted:	C. 12 | gold:	B
+predicted:	 C. S(n) is not true for any n <= n0. | gold:	C
+predicted:	The closest point on the plane 2x + y + 3z = 3 to the origin is A. (0, 0, 1). | gold:	B
+predicted:	C. For 3, 5, 7, 9, and 11 only. There is only one group of order n (up to isomorphism) for 3, 5, 7, 9, and 11. | gold:	B
+predicted:	A. 1 | gold:	C
+predicted:	III. A^-1 and B^-1 are similar matrices. | gold:	D
+predicted:	B. (x^2 + y^2 + z^2)^2 = 8 + 36(x^2 + z^2). | gold:	D
+predicted:	B. y = 2x | gold:	A
+predicted:	The dimension of the subspace kernel of T is 4. | gold:	A
+predicted:	A. True, True. | gold:	A
+predicted:	D. 4 | gold:	C
+predicted:	D. an open finite interval. | gold:	B
+predicted:	A. finite. | gold:	D
+predicted:	D. 8 | gold:	D
+predicted:	 C. I and II only. | gold:	A
+predicted:	D. 7 | gold:	D
+predicted:	A. True, True. | gold:	A
+predicted:	C. π/3 | gold:	B
+predicted:	A. 3 | gold:	B
+predicted:	C. (I) and (IV). | gold:	C
+predicted:	B. | gold:	D
+predicted:	A. the open first quadrant. | gold:	A
+predicted:	C. p >= 1. | gold:	B
+predicted:	B. f is continuous and one-to-one. | gold:	C
+predicted:	A. 12. | gold:	C
+predicted:	For which value of n are there exactly two abelian groups of order n up to isomorphism? 
+A. 4. | gold:	A
+predicted:	 C. |x| = 0 if and only if x = 0. | gold:	D
+predicted:	A. 4 | gold:	B
+predicted:	A. 1 only. | gold:	D
+predicted:	A. 2 | gold:	C
+predicted:	C. 0 | gold:	A
+predicted:	A. None. The polynomial 2x^5 + 8x - 7 has no real roots. | gold:	B
+predicted:	A. 20!/2^(10) | gold:	A
+predicted:	A. It is possible to place an linear order relation ≤ on the complex numbers C such that (C, +, ×, ≤) is not an ordered field. | gold:	A
+predicted:	The probability that the player who makes the first toss wins the game is 1/2. | gold:	D
+predicted:	 D. The complex numbers under addition. | gold:	B
+predicted:	C. 9x + 4y. | gold:	D
+predicted:	D. -sqrt(35). | gold:	C
+predicted:	 C. I and II only. | gold:	D
+predicted:	A. π/3. | gold:	A
+predicted:	Wednesday | gold:	A
+predicted:	A. - 48/π cm/min. The correct answer is A. - 48/π cm/min. | gold:	D
+predicted:	D. Every solution is a scalar multiple of (-5, 1, 1, 0). | gold:	D
+predicted:	B. f(e^c) | gold:	D
+predicted:	A. I only. | gold:	D
+predicted:	A. 1/(2e). | gold:	C
+predicted:	 C. 51 <= H <= 55. | gold:	D
+predicted:	A. True, True. | gold:	D
+predicted:	A. 2 | gold:	C
+predicted:	A. x^2/9. | gold:	B
+predicted:	A. True, True. | gold:	B
+predicted:	 C. The set of all functions from R to {0, 1} has the greatest cardinality. | gold:	C
+predicted:	D. 36 | gold:	B
+predicted:	A. 4. There are four structurally distinct Abelian groups with order 72: 2^4, 2^3, 2^2, and 2^1. | gold:	B
+predicted:	The order of G is 37. | gold:	C
+predicted:	A. local maximum at P and at Q. | gold:	C
+predicted:	C. If A is uncountable, then A = R. | gold:	B
+predicted:	D. The determinant of M is nonzero. | gold:	A
+predicted:	A. 1 | gold:	C
+predicted:	D. The ring {a + b * sqrt(2) : a and b are rational numbers}. | gold:	C
+predicted:	C. a^3 = e. | gold:	C
+predicted:	C. 0 | gold:	B
+predicted:	I and III only. | gold:	C
+predicted:	A. 1/2. | gold:	C
+predicted:	A. 0. | gold:	B
+predicted:	D. 32i | gold:	D
+predicted:	A. 0. | gold:	D
+predicted:	A. closed. | gold:	C
+predicted:	B. x^2 + y^2 = 2. | gold:	C
+predicted:	A. 24. | gold:	D
+predicted:	A. (1, 6) | gold:	A
+Accuracy: 0.14

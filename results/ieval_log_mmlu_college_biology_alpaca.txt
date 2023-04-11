@@ -1,0 +1,145 @@
+predicted:	C. reduce the carrying capacity. | gold:	C
+predicted:	A frameshift mutation is created when a codon's nucleotide sequence changes so that it codes for a different amino acid than the original one. | gold:	C
+predicted:	B. chorion. | gold:	A
+predicted:	C. Inositol triphosphate. | gold:	B
+predicted:	A. a DNA or RNA primer and DNA polymerase. | gold:	A
+predicted:	D. Matings are random. | gold:	A
+predicted:	B. heterochromatin. | gold:	B
+predicted:	B. Photosynthesis. | gold:	B
+predicted:	B. ecological succession arrested by sudden environmental changes, e.g., fire. | gold:	D
+predicted:	B. Destroy the host cell’s transcriptional machinery. | gold:	C
+predicted:	A. meroblastic cleavage. | gold:	C
+predicted:	D. Chloroplast. | gold:	D
+predicted:	A. Both fox and hare populations will decrease. | gold:	C
+predicted:	A cell nucleus contains DNA. | gold:	D
+predicted:	A. Archaea and Eukarya diverged after their common ancestor diverged from Bacteria. | gold:	A
+predicted:	A. zona reaction. | gold:	C
+predicted:	A. They protect plant roots from desiccation in extremely dry habitats. | gold:	C
+predicted:	C. both instinctive and learned. | gold:	C
+predicted:	D. A DNA sequence that replicates via a protein intermediate. | gold:	C
+predicted:	Taiga soils have the highest rate of leaching and cycling of nutrients. | gold:	A
+predicted:	C. They increase the V_max. | gold:	D
+predicted:	D. exponential growth. | gold:	C
+predicted:	A. homologous structures. | gold:	B
+predicted:	A. parenchyma. | gold:	A
+predicted:	Cistrons are regions of DNA that can insert themselves into an existing genome. | gold:	D
+predicted:	B. stabilizing succession. | gold:	D
+predicted:	C. on average, little energy is spent on rearing a fledgling bird, whether it is an interloper or one's own. | gold:	A
+predicted:	A. adhesion plaques. | gold:	C
+predicted:	D. rate of reciprocity. | gold:	A
+predicted:	A. Numerous stomata. | gold:	C
+predicted:	A. thrombin. | gold:	A
+predicted:	A. The entire genetic information possessed by the original zygote. | gold:	B
+predicted:	A. their fundamental niche only. | gold:	B
+predicted:	A. high reproductive rate. | gold:	D
+predicted:	A. 5′ GCU AAC 3′. | gold:	D
+predicted:	A. Ferns undergo alternation of generations in which a dominant sporophyte alternates with an independent gametophyte. | gold:	A
+predicted:	D. The proteins troponin and tropomyosin constitute the thick and thin filaments, respectively. | gold:	B
+predicted:	B. Remove oil-rich bodies and measure subsequent ant density. | gold:	A
+predicted:	C. compound eye. | gold:	C
+predicted:	A. Ontogeny recapitulates phylogeny. | gold:	A
+predicted:	The larvae would encounter the following tissues and tissue regions as they eat their way toward the outside of the twig: pith, primary xylem, secondary xylem, vascular cambium, primary phloem, and cortex. | gold:	D
+predicted:	A and D could be separated by performing low-speed centrifugation. | gold:	B
+predicted:	A. Decreasing the partial pressure gradient of the gas. | gold:	C
+predicted:	The structures that act as sites of gas exchange in a woody stem are the lenticels. | gold:	A
+predicted:	D. lekking behavior. Natural enemies have been implicated as a strong selective force for aposematic coloration and chemical defenses, but not masting or lekking behavior. | gold:	D
+predicted:	C. They are found interspersed with exons on a region of DNA that codes for a polypeptide chain. | gold:	D
+predicted:	A decrease in partial pressure of carbon dioxide and an increase in concentration of hydrogen ions. | gold:	B
+predicted:	A. Oviduct, uterus, rete, vagina. | gold:	C
+predicted:	A marine ecosystem region characterized by penetrance of solar radiation and upwelling of nutrients is the benthic zone. | gold:	B
+predicted:	D. Single strand DNA breaks. | gold:	A
+predicted:	A. oxidizing inorganic substances. | gold:	A
+predicted:	B. cAMP. | gold:	C
+predicted:	D. Precursors of all three plant tissue systems are formed during embryogenesis. | gold:	C
+predicted:	A. Injecting eggs with antibodies that bind to ZP3 blocks in vitro fertilization. | gold:	A
+predicted:	D. Random mating. | gold:	D
+predicted:	A. The blastomere with the gray crescent will grow in size more quickly than the one without the gray crescent. | gold:	B
+predicted:	A. microtubules in the axon to undergo reversible dissociation. | gold:	C
+predicted:	A monoclonal antibody is made from a single B lymphocyte, while a polyclonal antibody is made from multiple B and T lymphocytes. | gold:	C
+predicted:	C. mammals. | gold:	B
+predicted:	D. Capacity for long-distance dispersal. | gold:	D
+predicted:	A. Nucleus. | gold:	B
+predicted:	A. DNA provides the macromolecular basis of heredity. | gold:	D
+predicted:	D. association with the roots of plants to form mycorrhizae. | gold:	A
+predicted:	D. four | gold:	C
+predicted:	A. no change in pressure in either compartment. | gold:	D
+predicted:	B. It is typically associated with small secretory vesicles located near its cis face. | gold:	A
+predicted:	C. pericycle | gold:	D
+predicted:	A. Phloem sieve tube member. | gold:	B
+predicted:	A. Perennial growth. | gold:	D
+predicted:	B. Cliff-side nesting confers a higher fitness than does beach nesting. | gold:	B
+predicted:	C. IgD. | gold:	A
+predicted:	A. spot desmosome. | gold:	C
+predicted:	A. have segmented bodies. | gold:	A
+predicted:	D. 90%. | gold:	A
+predicted:	A. Air provides more physical support. | gold:	B
+predicted:	A. They are eukaryotic. | gold:	A
+predicted:	C. kinetochore. | gold:	C
+predicted:	A. thigmotropism. Thigmotropism is the process in which plants move towards light or dark areas of their environment, allowing them to maximize the amount of light they get. | gold:	A
+predicted:	C. ionizing groups on both the enzyme and substrate participate in the reaction. | gold:	D
+predicted:	A. All tall violets. In a cross between a tall violet plant and a dwarf white plant, all of the progeny would be tall violets since the tall violet allele (D) is completely dominant to the dwarf allele (d). | gold:	D
+predicted:	C. require a surface for attachment in order to grow. | gold:	C
+predicted:	Electrophoretic mobility shift assay. | gold:	D
+predicted:	D. parathyroid hormone. | gold:	D
+predicted:	C. Oxaloacetate. | gold:	C
+predicted:	A. Wind-borne pollen. | gold:	D
+predicted:	D. metabolic rate. | gold:	D
+predicted:	D. learned behavior. | gold:	B
+predicted:	C. females in order to obtain individual food resources. | gold:	B
+predicted:	C. Epidermis. | gold:	B
+predicted:	B. The pollen grains had a higher osmotic pressure than the surrounding environment. | gold:	B
+predicted:	B. The descendants would be at a selective advantage because of the increased ability to introgress. | gold:	D
+predicted:	C. Microfilaments. | gold:	C
+predicted:	C. random mating. | gold:	B
+predicted:	C. Most are filamentous. | gold:	D
+predicted:	D. Tyrosine kinase. | gold:	D
+predicted:	C. C4 plants store CO2 as phosphoglycolate, while CAM plants store CO2 as oxaloacetate. | gold:	B
+predicted:	A. Thylakoid membrane, inner membrane, outer membrane. | gold:	A
+predicted:	D. reverse transcriptase. | gold:	D
+predicted:	D. multiple copies of a single chromosome. | gold:	D
+predicted:	B. Colchicine. | gold:	B
+predicted:	A. Plants have chloroplasts but no mitochondria; animals have mitochondria but no chloroplasts. | gold:	D
+predicted:	Cyanoberacteria are larger than green unicellular algae and lack cell walls. They also have no nuclei and produce their own food through chemosynthesis. Green algae, on the other hand, are smaller and do have cell walls. They also produce cell membranes and do not have nuclei. | gold:	C
+predicted:	A. hydrogen bonding between the peptide backbone atoms. | gold:	A
+predicted:	A. the H1 histone. | gold:	D
+predicted:	D. an archaeon. | gold:	D
+predicted:	A. high temperature. Transpiration rate is dependent on the temperature of the environment, so higher temperatures will result in a higher rate of transpiration. | gold:	B
+predicted:	C. The vegetal pole undergoes cleavage more readily than does the animal pole. | gold:	C
+predicted:	B. Reduction of NADP+ to NADPH. | gold:	A
+predicted:	A. Marine birds absorb water from the environment through specialized salt-exchange glands and produce large volumes of dilute urine in the kidneys. | gold:	C
+predicted:	D. Frequent extrapair matings. | gold:	B
+predicted:	C. Water and carbon dioxide from the air. | gold:	C
+predicted:	A. The frequencies of some alleles in a population's gene pool has changed over successive generations. | gold:	A
+predicted:	C. beneficial traits are worth the cost to the organism in energy and physiology, so those traits will persist in the genome. | gold:	B
+predicted:	A. Nearly all of the enzyme molecules are interacting with acetaldehyde molecules. | gold:	A
+predicted:	C. Nucleic acids are methylated. | gold:	A
+predicted:	A. irreversibly forming covalent links with the enzyme, effectively preventing the enzyme's dissociation from it. | gold:	D
+predicted:	C. The number of action potentials per second. | gold:	C
+predicted:	A. The higher species diversity in the tropics tends to increase plant growth. | gold:	C
+predicted:	A. Producing a heterokaryon. | gold:	A
+predicted:	D. disruption of Hardy-Weinberg equilibrium in the metapopulation. | gold:	A
+predicted:	C. nucleosome. | gold:	C
+predicted:	C. Changing air temperature. | gold:	B
+predicted:	A. It increases the concentration of OH- causing the mitochondria to pump H+ to the intermembrane space. | gold:	D
+predicted:	D. Protist. | gold:	A
+predicted:	A. occurs the second time an animal is exposed to the correct stimulus at the appropriate time in its life. | gold:	B
+predicted:	A. Patterns of ultraviolet color on the petals. | gold:	C
+predicted:	C. embryo. | gold:	D
+predicted:	A. Absence of a group of contiguous segments. | gold:	B
+predicted:	A. translocation. | gold:	C
+predicted:	D. receptor-mediated endocytosis. | gold:	B
+predicted:	D. vessel elements and companion cells. | gold:	C
+predicted:	B. The kidneys of desert mammals produce urine that is hypoosmotic to the urine of freshwater fishes. | gold:	D
+predicted:	C. A moth exhibits nearly identical coloration to that of a stinging bee. | gold:	C
+predicted:	C. are more abundant than most other species in their communities. | gold:	D
+predicted:	A. mtDNA is passed from mother to child via maternal inheritance and is free from recombination. | gold:	B
+predicted:	A. There exist large populations of a low number of species. | gold:	A
+predicted:	A. crossing over. | gold:	A
+predicted:	D. The oceans. The ocean is the largest pool of carbon on Earth and contributes the most to carbon cycling. | gold:	D
+predicted:	D. overproduction of offspring. | gold:	A
+predicted:	A. The evaporation of water from leaf mesophyll cells generates tension in the water column. | gold:	A
+predicted:	C. Lignin. | gold:	A
+predicted:	C. It requires ATP. | gold:	C
+predicted:	A. High niche divergence among co-occurring species. | gold:	B
+predicted:	A. Fibers, phloem parenchyma, companion cell, sieve tube. | gold:	D
+Accuracy: 0.3402777777777778

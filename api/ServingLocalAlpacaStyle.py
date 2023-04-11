@@ -15,6 +15,9 @@ def get_args():
     import argparse
     parser = argparse.ArgumentParser()
     parser.add_argument("--serving_config_path", type=str, default="../configs/machiko.yaml")
+    parser.add_argument("--host", type=str, default="0.0.0.0")
+    parser.add_argument("--port", type=str, default="8080")
+    
     return parser.parse_args()
 
 
@@ -77,4 +80,4 @@ if __name__ == "__main__":
         )
         return {"responses": results,"answers": [i[0]['generated_text'].split("Response:")[1] for i in results]}
 
-    uvicorn.run(app, host="0.0.0.0", port=8181)
+    uvicorn.run(app, host=args.host, port=args.port)

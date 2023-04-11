@@ -1,0 +1,312 @@
+predicted:	Aesthetics deals with objects that are important to our existence. | gold:	C
+predicted:	D. the soul. | gold:	D
+predicted:	C. happiness. | gold:	D
+predicted:	Plato's view is that true beauty is everywhere in the natural world. | gold:	D
+predicted:	D. one does the right action, but for the wrong reason. | gold:	B
+predicted:	C. are logically self-refuting. | gold:	D
+predicted:	A. enter a particular society. | gold:	C
+predicted:	C. drastic changes to our personal habits, as well as to society. | gold:	D
+predicted:	A. knowledge. | gold:	A
+predicted:	C. behave only in such a way as a perfectly virtuous person would behave. | gold:	B
+predicted:	C. the agreement of rational persons choosing the terms of their interaction. | gold:	C
+predicted:	C. psychology. | gold:	C
+predicted:	C. virtue. | gold:	B
+predicted:	B. Both nonexistent. | gold:	A
+predicted:	C. constitutional. | gold:	D
+predicted:	A. a mind. | gold:	A
+predicted:	C. egoism and altruism. | gold:	A
+predicted:	A. To what our senses reveal to us about how things appear to us, not how they really are. | gold:	D
+predicted:	C. Life was uncertain but ultimately rewarding. | gold:	A
+predicted:	A. provide an account of what makes right actions right. | gold:	D
+predicted:	C. intrinsic value. | gold:	C
+predicted:	A. must be for the good of human beings. | gold:	A
+predicted:	C. relativism. | gold:	C
+predicted:	Philosophers use reasoning, evidence, and argumentation to reach their conclusions. They often use a Socratic method of dialogue to examine the implications of their beliefs and the beliefs of those they oppose. They also use the principles of logic and critical thinking to evaluate the strength of their arguments and the strength of the opposition's arguments. | gold:	B
+predicted:	A. free and unhindered; free and unhindered. | gold:	B
+predicted:	C. static and dynamic. | gold:	B
+predicted:	A. would likewise be destroyed. | gold:	A
+predicted:	A. Because if someone did not know how to act virtuously, he or she would still be considered virtuous by others who also did not know the principles for good living. | gold:	C
+predicted:	A. mythos is ultimately based on logos, just as myth is ultimately based on reasoning or thinking. | gold:	B
+predicted:	A. It is not in accordance with natural law. | gold:	D
+predicted:	A. expression. | gold:	A
+predicted:	B. happiness or beatitude. | gold:	B
+predicted:	C. synthetic and a priori. | gold:	C
+predicted:	C. justice. | gold:	A
+predicted:	C. be motivated by genuine benevolence. | gold:	D
+predicted:	The systematic use of critical reasoning to try to find answers to fundamental questions about reality, morality, and knowledge is called philosophy. | gold:	B
+predicted:	A. determining which one is objectively most pleasurable. | gold:	B
+predicted:	A. disobedience to a sovereign. | gold:	C
+predicted:	C. produce knowledge. | gold:	D
+predicted:	C. contractualism and rule-following. | gold:	B
+predicted:	A. usefulness to society. | gold:	C
+predicted:	To Kant, making a lying promise would be wrong because A. lying to people can cause them harm. This implies that lying is inherently wrong, regardless of the consequences it may have for others. This provides a more objective grounding for the wrongness of lying. | gold:	C
+predicted:	Stevenson claims that his theory does not account for objective goodness, but that it is nevertheless true. He argues that the concept of goodness is subjective and is determined by the individual according to their own beliefs and experiences, rather than an objective standard. As such, goodness is something that is relative to each person, and it is impossible to objectively define what is good or bad. | gold:	C
+predicted:	C. yields a theory that is too demanding. | gold:	B
+predicted:	A. Aristotle. | gold:	C
+predicted:	C. more natural. | gold:	D
+predicted:	A. We must first know whether something is right before we can know whether it conforms to God’s will. | gold:	A
+predicted:	A. your desires were always the same. | gold:	C
+predicted:	A. can be proven. | gold:	B
+predicted:	C. chosen arbitrarily. | gold:	D
+predicted:	C. loving God. | gold:	D
+predicted:	A. Y is obligated to choose saving the life of X. | gold:	D
+predicted:	C. both a and b. | gold:	D
+predicted:	C. how anyone can recognize the correct answer to a question without already knowing the answer. | gold:	C
+predicted:	C. epistemic justification. | gold:	B
+predicted:	A. Socrates was known to believe that an unexamined life is not worth living, and that one should instead strive to understand the deeper meanings of their existence. He believed that by understanding the world and examining one's values, beliefs, and motivations, one can make more informed decisions and lead a life that is truly worth living. | gold:	C
+predicted:	C. psychological egoism. | gold:	B
+predicted:	D. It is more concerned with one's religious beliefs than with factual claims about the world. | gold:	C
+predicted:	C. whatever mental action or quality gives a spectator a sentiment of approbation. | gold:	C
+predicted:	C. Both a and b. | gold:	C
+predicted:	B. whether the moral rule forbidding it is a genuine moral rule. | gold:	B
+predicted:	C. social agreements. | gold:	D
+predicted:	C. culturally relative. | gold:	A
+predicted:	A. the moral point of view. | gold:	D
+predicted:	D. all of the above. | gold:	D
+predicted:	C. moral values still exist. | gold:	A
+predicted:	C. meaning. | gold:	C
+predicted:	C. The researcher representing their research as being about a different topic. | gold:	C
+predicted:	C. are based on interviews and surveys. | gold:	D
+predicted:	B. TRUE | gold:	C
+predicted:	Critics of the divine command theory have argued that the theory implies that God's commands are mysterious or unknowable. | gold:	D
+predicted:	C. some good. | gold:	C
+predicted:	C. important, but unpleasant. | gold:	D
+predicted:	D. all of the above. | gold:	B
+predicted:	A. We should always calculate the expected consequences of our action. | gold:	B
+predicted:	A. social meaning. | gold:	D
+predicted:	A. | gold:	D
+predicted:	D. all of the above. | gold:	B
+predicted:	C. has value solely because it is useful to society. | gold:	C
+predicted:	C. So that government officials, teachers, and other people in authority can have easy access to the data. | gold:	B
+predicted:	B. physical objects. | gold:	D
+predicted:	C. how “good” is to be defined. | gold:	C
+predicted:	C. both a and b. | gold:	B
+predicted:	According to Moore, which of the following concepts can be defined? A. good, B. yellow, C. horse, D. all of the above. | gold:	C
+predicted:	Cicero would argue that we should follow our conscience. He believes that our conscience is a reliable guide to morality and that it will never lead us astray. Following our conscience means following the moral law of love and reciprocity, which is the foundation of all ethical systems. Following the laws is important, but it is not enough. We must also follow our own inner voice and use the law as a guide to living a good life. | gold:	D
+predicted:	C. the maxim that is acted on. | gold:	C
+predicted:	C. having sex before marriage. | gold:	D
+predicted:	A. are continuations of the very same debate about sexual activity that went on in the Greek world. | gold:	D
+predicted:	A. There is no one distinguishing feature that identifies an issue as philosophic, only an overlapping of issues roughly associated with one another. | gold:	A
+predicted:	A. constructing logical proofs for moral principles. | gold:	C
+predicted:	C. is right. | gold:	B
+predicted:	D. justice and virtue are universal goals of all human beings, even if people do not always agree on how to achieve those ends. | gold:	B
+predicted:	B. confused epistemological theories. | gold:	B
+predicted:	C. those who contemplate the truth. | gold:	C
+predicted:	D. disagreement in practice. | gold:	A
+predicted:	C. democracy. | gold:	B
+predicted:	C. ad hominem. | gold:	C
+predicted:	C. It means that records of personal data about the participants cannot be made anonymous. | gold:	A
+predicted:	C. describe one’s own approval of things. | gold:	B
+predicted:	A. life. | gold:	D
+predicted:	Answer: A. We can never err through wickedness or temptation. | gold:	B
+predicted:	C. maximize utility, with both positive and negative utilities being counted. | gold:	C
+predicted:	A. Both seek to provide us with true beliefs about the world. | gold:	C
+predicted:	C. entirely objective. | gold:	A
+predicted:	A. Three. | gold:	B
+predicted:	A. Gauthier expands the definition of deliberative justification. | gold:	C
+predicted:	A. delight. | gold:	A
+predicted:	C. It requires us to do unjust things, such as executing innocent people. | gold:	B
+predicted:	C. internal meaning. | gold:	C
+predicted:	A. the empirical observations to which it applies. | gold:	C
+predicted:	C. a warped sense of beauty. | gold:	B
+predicted:	C. they do not have extension. | gold:	D
+predicted:	A. a social agreement. | gold:	A
+predicted:	C. a unique force, opposed to goodness. | gold:	B
+predicted:	A. shows purposefulness. | gold:	A
+predicted:	D. none of the above. | gold:	A
+predicted:	C. is false and can be refuted. | gold:	D
+predicted:	D. reductio ad absurdum. | gold:	D
+predicted:	C. politics. | gold:	C
+predicted:	C. God. | gold:	B
+predicted:	Aesthetics addresses questions that interest philosophers and nonphilosophers. | gold:	D
+predicted:	A. It is morally wrong to ever lose control of oneself. | gold:	C
+predicted:	A. is true, and supports psychological egoism. | gold:	C
+predicted:	A. grounded ultimately in what our senses reveal to us about the world of becoming. | gold:	D
+predicted:	The two principal answers to whether life has any meaning for us are the theistic view and the agnostic's view. The theistic view believes that life has an inherent meaning and is created by an all-knowing deity. The agnostic's view believes that life is meaningful because it is the result of a random process and there is no higher power or purpose to life. | gold:	B
+predicted:	A. Its chance of occurring. | gold:	C
+predicted:	C. vacuous. | gold:	B
+predicted:	A. There is no agreement about the answer. | gold:	C
+predicted:	A. purity. | gold:	B
+predicted:	A. finite. | gold:	C
+predicted:	C. undisturbed. | gold:	C
+predicted:	A. Because to know something that is false is to know no real thing, nothing (i.e., not to know at all). | gold:	A
+predicted:	D. All voluntary behavior. | gold:	D
+predicted:	C. The death of two people is always exactly as bad as the death of one. | gold:	D
+predicted:	D. No choice. | gold:	A
+predicted:	C. nothing in the sensible, experienced world could exist or be identified as one particular thing or another unless there were a "Sensible World" Form (like the Form of beauty or justice). | gold:	B
+predicted:	C. a thing that thinks. | gold:	C
+predicted:	B. God. | gold:	B
+predicted:	C) his own well-being. | gold:	B
+predicted:	When using visual methods in a research project, it is important to consider the legal guidelines, protecting individuals from potential harm, and any risk of invasion of privacy. It is also important to consider whether or not the project is taking place in a public or private space, and if it is, how the participants were recruited. Additionally, the researcher should consider the potential for harm to participants and consider whether or not the participants are being adequately informed. | gold:	D
+predicted:	C. is unconcerned with death. | gold:	C
+predicted:	A. The story of Oedipus the King. | gold:	A
+predicted:	A. honor. | gold:	B
+predicted:	C. can be compared within individuals, but not between individuals. | gold:	B
+predicted:	C. what is due to factors beyond their control. | gold:	C
+predicted:	C. the commands of God. | gold:	D
+predicted:	A. a quality in things themselves. | gold:	D
+predicted:	C. our knowledge of the world is not really of the sensible world itself but of the world grasped mathematically and ideally. | gold:	C
+predicted:	A. are never useful in resolving ethical disagreement. | gold:	B
+predicted:	D. what is considered deep insight. | gold:	A
+predicted:	D. existence precedes essence. | gold:	D
+predicted:	C. ethical egoism. | gold:	D
+predicted:	C. the mutual support of many considerations, which it fits into one coherent view. | gold:	C
+predicted:	A. the way one deals with one’s impressions. | gold:	A
+predicted:	A. It is conducive to human happiness. | gold:	B
+predicted:	C. All good things are pleasant. | gold:	B
+predicted:	C. deliberate with us. | gold:	C
+predicted:	A. deontological. | gold:	C
+predicted:	D. just. | gold:	D
+predicted:	D. in a world in which everyone complied with those rules perfectly. | gold:	A
+predicted:	C. moral duties. | gold:	C
+predicted:	A. acting virtuously means acting in a way that is informed about what one is doing and why. | gold:	A
+predicted:	C. less attention and fewer resources than those with more native assets. | gold:	A
+predicted:	C. is necessarily relative to a culture. | gold:	B
+predicted:	A. only by leaving society and remaking social institutions from scratch. | gold:	B
+predicted:	C. is desirable as a means to the happiness of others. | gold:	D
+predicted:	D. are fundamentally flawed. | gold:	B
+predicted:	D. tradition. | gold:	B
+predicted:	C. refutes morality. | gold:	D
+predicted:	A. partially learned and culturally variant. | gold:	A
+predicted:	C. All of them are successful. | gold:	D
+predicted:	Most externalists view meaning as a _____ matter. | gold:	C
+predicted:	B. should operate completely independently of our passions. | gold:	A
+predicted:	A. This has empirically been shown to be false. | gold:	C
+predicted:	C. he ends up rejecting them both. | gold:	A
+predicted:	C. all a part of God. | gold:	B
+predicted:	At first Descartes supposes that everything he sees is doubtful. | gold:	B
+predicted:	A. What is right or wrong, true or false varies from one culture to another. | gold:	D
+predicted:	A. lie whenever doing so is necessary to prevent a catastrophe. | gold:	C
+predicted:	D. his own will. | gold:	A
+predicted:	D. Duty and self-interest. | gold:	A
+predicted:	D. the idea of a monistic soul. | gold:	C
+predicted:	A. a state of mind. | gold:	D
+predicted:	C. social achievement. | gold:	D
+predicted:	D. He believed in an afterlife in which all misery vanishes. | gold:	C
+predicted:	C. the naturalistic fallacy. | gold:	C
+predicted:	A. which things are intrinsically valuable. | gold:	B
+predicted:	A. easily procured. | gold:	A
+predicted:	D. Actually involves a confusion between ethical egoism and psychological egoism. | gold:	B
+predicted:	C. ethereal. | gold:	B
+predicted:	C. cannot coherently invoke morality to protect one’s own interests. | gold:	C
+predicted:	A. maximize happiness. | gold:	C
+predicted:	B. acquired through philosophical reflection. | gold:	A
+predicted:	C. strong and weak duties. | gold:	A
+predicted:	A. undoubtedly exists. Descartes' evil demon argument is based on the idea that an all-powerful being could be deceiving him, leading him to believe that an evil being exists even though it may not be the case. Therefore, it is possible that an evil being exists and could be deceiving Descartes. | gold:	C
+predicted:	A. It is his duty not to do so. | gold:	B
+predicted:	A. Everything will happen; everything will happen. | gold:	B
+predicted:	C. both a and b. | gold:	B
+predicted:	A. cannot read Victorian novels. | gold:	B
+predicted:	D. none of the above. Socrates believed that justice is the result of the soul following the laws of the state and paying attention to the rational part. It is not based on desire for honor or respect for the law. | gold:	B
+predicted:	C. Thomas Aquinas. | gold:	C
+predicted:	C. good and evil. | gold:	A
+predicted:	A. final and complete. | gold:	B
+predicted:	C. in a Kantian way. | gold:	D
+predicted:	Cicero is claiming that there is no greater danger than the idea that a thing may be expedient without being morally right. This implies that one should not prioritize practicality over ethical considerations, as there is a risk of doing something that is not only harmful, but also unjustified. | gold:	B
+predicted:	C. fruitfulness. | gold:	B
+predicted:	C. maximize the productivity of society. | gold:	A
+predicted:	B. must be applied to everyone alike in the absence of morally relevant differences. | gold:	B
+predicted:	C. an explanation of how free will is possible. | gold:	B
+predicted:	C. absolute. | gold:	A
+predicted:	C. only after careful reflection on the consequences of our actions. | gold:	C
+predicted:	C. infallible. | gold:	A
+predicted:	D. all of the above. | gold:	A
+predicted:	C. provides a comprehensive guide to conduct. | gold:	D
+predicted:	A. what we ought to do. | gold:	C
+predicted:	A. eternally and unchangeably good. | gold:	C
+predicted:	A. often permissible if done for the right reasons. | gold:	D
+predicted:	A. | gold:	B
+predicted:	A. how we come to learn what to call a thing in virtue of our own experiences. | gold:	B
+predicted:	C. exceptional desires. | gold:	D
+predicted:	A. too complicated. | gold:	B
+predicted:	A. His income increased dramatically. | gold:	C
+predicted:	A. Fidelity. | gold:	D
+predicted:	Cicero claims that it is sometimes permissible to steal. | gold:	B
+predicted:	A. peace and harmony. | gold:	D
+predicted:	A. wealth. | gold:	C
+predicted:	One objection to Singer’s theory is that it does not do enough to address suffering in other countries besides our own. | gold:	D
+predicted:	C. exists only in the understanding. | gold:	C
+predicted:	C. It promotes the good of some people. | gold:	D
+predicted:	C. serves some important function. | gold:	C
+predicted:	A. a state of tranquility. | gold:	B
+predicted:	B. man. | gold:	B
+predicted:	A. our strongest inward principle. | gold:	B
+predicted:	A. He does not distinguish between the foreseen and intended consequences of one’s action. | gold:	A
+predicted:	A. It is not practicable to present every participant with all the information about the study because it is impossible to expect that the participants will be able to understand and evaluate the information in its entirety, as well as the potential implications of participating in the study. Additionally, presenting the information could cause participants to be overwhelmed or confused, which could further complicate the informed consent process. | gold:	D
+predicted:	A. a command of God. | gold:	C
+predicted:	A. | gold:	A
+predicted:	C. that which we desire to desire. | gold:	D
+predicted:	Feinberg claims that when people are hungry, they typically desire both pleasant gustatory sensations and to eat food. | gold:	A
+predicted:	A. an entitlement to the fruits of one’s labors. | gold:	D
+predicted:	A. no one in society will ever do any action that really is merciful or just, only those actions that they think are merciful or just. | gold:	C
+predicted:	B. pursue happiness. | gold:	C
+predicted:	C. treating another person as a mere means. | gold:	B
+predicted:	C. ill-will towards others. | gold:	A
+predicted:	A. are interdependent: You cannot accept one part without accepting the other. | gold:	B
+predicted:	D. Human virtues and divine virtues. | gold:	B
+predicted:	C. methodological behaviorism. | gold:	B
+predicted:	C. formalism. | gold:	C
+predicted:	A. We can determine whether our internal perspective is useful, true, or valuable by comparing it to an objective, external perspective (the "real" world). | gold:	B
+predicted:	C. Whether it violates any duties. | gold:	B
+predicted:	B. In-depth interviewing. | gold:	C
+predicted:	D. the insult involved. | gold:	C
+predicted:	A. The universe is finite in the past and began to exist. | gold:	A
+predicted:	A. pleasure exists for its own sake. | gold:	B
+predicted:	C. positive law. | gold:	D
+predicted:	C. both a and b. | gold:	C
+predicted:	A. enlightened egoism. | gold:	C
+predicted:	C. knowledge of the essences of things is impossible, because that would require that we know what we are looking for before we know what it is we are looking for. | gold:	B
+predicted:	C. immoralists. | gold:	A
+predicted:	C. moral virtue. | gold:	C
+predicted:	A. He will also enjoy absolute freedom when subject to the state. | gold:	B
+predicted:	A. hatred. | gold:	D
+predicted:	C. when the distribution of happiness is in accordance with merit. | gold:	C
+predicted:	C. exist. | gold:	A
+predicted:	A. by seeing the prima facie rightness of particular acts, and then apprehending general principles. | gold:	A
+predicted:	A. the thing in itself. | gold:	D
+predicted:	C. a moral sense that is universal in our species. | gold:	C
+predicted:	C. our moral theories are hopelessly off track. | gold:	B
+predicted:	A moral theory explains why an action is right or wrong. | gold:	A
+predicted:	C. We really can derive an “ought” from an “is.” | gold:	A
+predicted:	A. Tranquility. | gold:	C
+predicted:	A. “pleasure is desired.” | gold:	D
+predicted:	A. an employer. | gold:	B
+predicted:	D. the thesis of determinism is true. | gold:	D
+predicted:	A. essential and inevitable. | gold:	A
+predicted:	D. all of the above. | gold:	D
+predicted:	C. the costs of its restrictions, in terms of the guilt it induces. | gold:	D
+predicted:	C. substance dualism. | gold:	C
+predicted:	C. dynamic. | gold:	C
+predicted:	A. domination over other commonwealths. | gold:	C
+predicted:	C. They will disagree morally only if they have different inclinations. | gold:	D
+predicted:	A. Natural laws. | gold:	A
+predicted:	C. the advantage of the stronger. | gold:	C
+predicted:	A. a natural instinct. | gold:	D
+predicted:	C. man is nothing else but what he makes of himself. | gold:	C
+predicted:	A. virtue is in our power, and so is vice. | gold:	A
+predicted:	B. the source of all moral actions. | gold:	A
+predicted:	A. act-utilitarianism. | gold:	C
+predicted:	C. ideal rules. | gold:	C
+predicted:	C. Describing sense experience without providing an explanation for dialectical methods. | gold:	A
+predicted:	A. Writers differ over what is ethically acceptable. | gold:	D
+predicted:	C. in accord with Nature; repugnant to Nature. | gold:	B
+predicted:	C. the deprivation of all sensation. | gold:	C
+predicted:	C. neutral between competing specifications of the virtue. | gold:	C
+predicted:	C. Aesthetics. | gold:	B
+predicted:	A. representational. | gold:	A
+predicted:	C. both a and b. | gold:	C
+predicted:	C. a person who drives drunk and hits a child. | gold:	A
+predicted:	C. good is identical to a natural property. | gold:	C
+predicted:	A. can be proven from self-evident principles. | gold:	D
+predicted:	C. identity theory. | gold:	C
+predicted:	A. act as one pleases. | gold:	D
+predicted:	B. the universe has a cause. | gold:	B
+predicted:	A. | gold:	B
+predicted:	A. a rule for maximizing happiness. | gold:	C
+predicted:	Aesthetic values have to do with judging the artistic merits and the beauty of an object. | gold:	B
+predicted:	C. will produce someone who does the right thing simply because it is right. | gold:	D
+predicted:	A. Socrates' claim that "the unexamined life is not worth living" implies that one must first examine their own life in order to recognize its value. By reflecting on one's own beliefs, one can gain insight into the importance of questioning their own values and the choices they make. | gold:	D
+predicted:	Craig says that an actually infinite number of things exists somewhere. | gold:	D
+predicted:	C. the pineal gland. | gold:	C
+predicted:	 All of the above. | gold:	D
+Accuracy: 0.2861736334405145
