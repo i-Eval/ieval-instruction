@@ -18,6 +18,7 @@ def get_avg_acc_mmlu(log_dir,model_name,task_name):
     # print acc for each task line by line
     for k,v in acc_list.items():
         print(k,v)
+    print("there are {} tasks".format(len(acc_list)))
     return sum(acc_list.values())/len(acc_list)
 
-print(get_avg_acc_mmlu(sys.argv[1],sys.argv[2],sys.argv[3]))
+print("Average Accuracy for all evaluated MMLU tasks: {}".format(get_avg_acc_mmlu(sys.argv[1],sys.argv[2],sys.argv[3])))
