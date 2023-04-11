@@ -13,7 +13,7 @@ cd ../..
 ## start eval
 
 ```
-python ./api/ServingLocalAlpacaStyle.py --serving_config_path ./configs/alpaca.yaml --host 0.0.0.0 --port 8888
+python ./api/ServingLocalAlpacaStyle.py --serving_config_path ./configs/alpaca.yaml --host 0.0.0.0 --port 8080
 ```
 
 start a new terminal
