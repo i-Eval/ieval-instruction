@@ -27,6 +27,7 @@ bash eval_mmlu_all.sh # eval all mmlu task in zero shot manner
 1. add more tasks' data
 2. speed up inference
 3. add api for evalauting OpenAI models
+4. implement few shots evaluation
 
 
 
