@@ -12,15 +12,21 @@ cd ../..
 
 ## start eval
 
+1. set up llm service
 ```
 python ./api/ServingLocalAlpacaStyle.py --serving_config_path ./configs/alpaca.yaml --host 0.0.0.0 --port 8080
 ```
 
-start a new terminal
+2. start a new terminal, make evaluation request
 ```bash
 bash eval_mmlu_all.sh # eval all mmlu task in zero shot manner
 ```
 
+## Todos
+
+1. add more tasks' data
+2. speed up inference
+3. add api for evalauting OpenAI models
 
 
 
