@@ -1,0 +1,104 @@
+predicted:	Bargaining. | gold:	B
+predicted:	D. Heuristics | gold:	D
+predicted:	C. The way things should be. | gold:	C
+predicted:	A. The potential for entry into the industry. | gold:	D
+predicted:	Mikhail Gorbachov. | gold:	D
+predicted:	B. Work schedule design. | gold:	B
+predicted:	D. Workers like to be directed. | gold:	D
+predicted:	D. Legitimate | gold:	D
+predicted:	B. Max Weber | gold:	B
+predicted:	C. Henry Ford | gold:	B
+predicted:	A. John Kenneth Galbraith | gold:	C
+predicted:	A. Mary Parker Follett | gold:	B
+predicted:	D. Developmental. Transformational leaders think strategically and focus on the future, rather than the here and now. They are visionaries who can inspire others and build enthusiasm for their goals. They strive to create an environment of trust, collaboration and mutual respect. | gold:	A
+predicted:	B. Guiding, commanding and motivating. | gold:	A
+predicted:	D. High level of certainty regarding the environment. | gold:	A
+predicted:	C. To operate the organisation's status system. | gold:	C
+predicted:	A. A theoretical assumption | gold:	D
+predicted:	D. Communication skills. | gold:	C
+predicted:	C. Resource investigator | gold:	C
+predicted:	Building planning (D) is not a recognised form of business continuity planning. The other three answers are: A. Contingency planning (correct answer); B. Scenario planning; C. Financial planning. | gold:	D
+predicted:	D. Agile organisation. | gold:	D
+predicted:	D. Managing the learning organisation. | gold:	A
+predicted:	D. How people view and understand themselves and others. | gold:	D
+predicted:	A. Job design. | gold:	B
+predicted:	D. Economic reward. | gold:	D
+predicted:	D. Price-fixing. | gold:	D
+predicted:	A. John Stuart Mill | gold:	A
+predicted:	B. Work design. | gold:	A
+predicted:	C. Interdependent. | gold:	B
+predicted:	D. Functional | gold:	D
+predicted:	D. Service | gold:	A
+predicted:	D. Socialisation. | gold:	D
+predicted:	C. Two unequal partners join together. | gold:	D
+predicted:	B. James Dyson | gold:	B
+predicted:	Conflict can be resolved easily using face-to-face meetings. | gold:	C
+predicted:	B. Face-to-face | gold:	B
+predicted:	A. Bring together managers and workers to find improvements. | gold:	A
+predicted:	B. Introducing private sector business principles into the public sector. | gold:	B
+predicted:	B. Jay Barney | gold:	C
+predicted:	B. specialisation | gold:	B
+predicted:	B. A formal process of planning to fill a role that will become vacant. | gold:	B
+predicted:	A. An imagined sequence of future events | gold:	A
+predicted:	C. Limited knowledge and uncertainty. | gold:	C
+predicted:	B. Maximisation of outcomes for individuals | gold:	C
+predicted:	Group roles. | gold:	A
+predicted:	C. Social audit. | gold:	C
+predicted:	D. People culture. | gold:	B
+predicted:	Rensis Likert | gold:	D
+predicted:	B. Uncertain and non-routine. | gold:	D
+predicted:	D. Small span of control. | gold:	B
+predicted:	B. Formal agreement committing two or more firms to exchange resources to produce products or services. | gold:	B
+predicted:	A. Modes of behaviour that are acceptable to and shared by group members. | gold:	A
+predicted:	C. Ad hoc | gold:	C
+predicted:	C. Global competition | gold:	D
+predicted:	B. Processes | gold:	D
+predicted:	A. Expectations | gold:	A
+predicted:	B. Political, environmental, strategic, technological. | gold:	D
+predicted:	A. Suitable, measurable, actionable, rewarded and timely. | gold:	D
+predicted:	B. Weber | gold:	C
+predicted:	B. 5 | gold:	D
+predicted:	D. Supplier. | gold:	D
+predicted:	Minimal and formal knowledge sharing (A) | gold:	A
+predicted:	D. Technical | gold:	D
+predicted:	B. Market penetration. | gold:	B
+predicted:	D. remotely | gold:	D
+predicted:	B. Calm and self-confident. | gold:	D
+predicted:	C. Strategy statement. | gold:	B
+predicted:	B. Strategy formulation. | gold:	B
+predicted:	B. Time and motion studies | gold:	B
+predicted:	D. Scenario planning. | gold:	D
+predicted:	Esprit de corps (A. Esprit de corps) | gold:	D
+predicted:	D. Feedback | gold:	C
+predicted:	B. Collaborative culture. | gold:	B
+predicted:	A. An organisation that uses information and communications technologies (ICT's) to coordinate activities without physical boundaries between different functions. | gold:	A
+predicted:	B. Top to bottom | gold:	B
+predicted:	B. People-oriented | gold:	C
+predicted:	D. One best way to do a job | gold:	D
+predicted:	Tuckman uses the term "norming" for reaching consensus as a group. | gold:	D
+predicted:	B. Instrumental. | gold:	A
+predicted:	C. Bounded rationality. | gold:	C
+predicted:	C. A clearly defined and measurable outcome to be achieved over a specified timeframe. | gold:	C
+predicted:	To limit workers' rights. | gold:	D
+predicted:	B. Medium-term | gold:	A
+predicted:	C. Formal | gold:	B
+predicted:	D. Henry Mintzberg | gold:	D
+predicted:	B. Events | gold:	B
+predicted:	D. Rationality. | gold:	C
+predicted:	C. Job characteristics model | gold:	D
+predicted:	C. Adam Smith | gold:	C
+predicted:	D. Productivity | gold:	D
+predicted:	A. organising, planning, controlling, leading. | gold:	C
+predicted:	D. Information passes between different departments and functions. | gold:	D
+predicted:	D. Growth | gold:	B
+predicted:	A. Market focus and position. | gold:	D
+predicted:	C. Worker empowerment. | gold:	C
+predicted:	A. Towards the source of supply. | gold:	B
+predicted:	A. Subsidiary. | gold:	D
+predicted:	Retaining the status quo (A) | gold:	A
+predicted:	A. Someone who reports illegal or unethical acts. | gold:	A
+predicted:	A. A group whose aim is transformational change. | gold:	D
+predicted:	C. Providing public service | gold:	D
+predicted:	Pre-conceptions (Answer A) | gold:	B
+predicted:	C. Organisational. | gold:	D
+Accuracy: 0.4854368932038835

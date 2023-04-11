@@ -1,0 +1,107 @@
+predicted:	C. Whitebox | gold:	C
+predicted:	A and D. TLS protects against replay attacks and impersonation attacks. It does not protect against side-channel attacks or cryptographic attacks. | gold:	A
+predicted:	B. When a client connects to a server, the server sets a 24-hour timer to terminate the connection, which ensures a client cannot remain connected past the ticket’s maximum lifetime. | gold:	C
+predicted:	B. Sender | gold:	A
+predicted:	C. BankerA | gold:	A
+predicted:	Buffer-overrun (D) | gold:	B
+predicted:	C. all loads or stores to addresses that are not 0 mod 32 | gold:	A
+predicted:	C. Tor | gold:	A
+predicted:	A. No string boundary checks in predefined functions. | gold:	A
+predicted:	B. Authenticated | gold:	B
+predicted:	C. an integer is used to access a buffer outside of the bounds. | gold:	D
+predicted:	A. Given H(k \| m)H(k∥m) anyone can compute H(w \| k \| m \| \text{PB})H(w∥k∥m∥PB) for any ww.
+
+Answer: H(k \| m)H(k∥m) = H(w \| k \| m \| \text{PB})H(w∥k∥m∥PB) ⇒ H(w \| k)H(w∥k) = H(w \| m)H(w∥m) ⇒ w = k  OR  m = k | gold:	C
+predicted:	C. Forward secrecy. | gold:	C
+predicted:	D. Both A & C | gold:	B
+predicted:	D. SQL Injection | gold:	C
+predicted:	B. Access Point | gold:	B
+predicted:	A. 160 | gold:	B
+predicted:	A. It is a scanner which works by injecting packets to a range of addresses, and inferring what hosts and services might be at those addresses, based on the responses. | gold:	A
+predicted:	D. All of the above. | gold:	A
+predicted:	B. Using encryption during tests to make the source of attacks impossible to determine. | gold:	D
+predicted:	D. Unauthorized network access. | gold:	D
+predicted:	B. Blinding changes the p and q primes that are used, so an adversary cannot learn the server’s true p and q values. | gold:	C
+predicted:	B. False, MR. | gold:	D
+predicted:	D. Key length. | gold:	C
+predicted:	The Silk Road was a huge marketplace of the Dark Web specifically famous for selling of illegal drugs & narcotics as well as you can find a wide range of other goods for sale. | gold:	A
+predicted:	C. Dark web | gold:	C
+predicted:	B. Assume that the query is not satisfiable and stop executing the path. | gold:	B
+predicted:	A. Sender’s Private key | gold:	B
+predicted:	C. Compiling the program with address sanitizer (ASAN) will make errors harder to reproduce. | gold:	C
+predicted:	A. Valid DV certificates provide more confidence to a user that she is connecting to the intended party than valid EV certificates.
+B. OCSP stapling allows a server to prove to a browser that its certificate hasn’t been revoked.
+C. DANE makes it difficult for an adversary to launch a SSL stripping attack.
+D. Server key-pinning makes it harder for an adversary to convince a CA to mint a certificate for a site and launch an MITM attack on that site. | gold:	A
+predicted:	C. Nslookup | gold:	D
+predicted:	C. WPA2 | gold:	D
+predicted:	A. It would be impossible for services to get a TCP connection to the client web browser. | gold:	C
+predicted:	C. Session layer. | gold:	C
+predicted:	D. All of the above | gold:	D
+predicted:	A. when writing to a pointer that has been freed. | gold:	C
+predicted:	A. Private-key system | gold:	C
+predicted:	A packet filter firewall filters at the Network or transport layer. | gold:	D
+predicted:	A. No, an attacker can simply guess the tag for messages. | gold:	A
+predicted:	C. Snort | gold:	C
+predicted:	B. Condentiality | gold:	B
+predicted:	B. 4-way handshake | gold:	B
+predicted:	B. Message Integrity | gold:	B
+predicted:	D. SQL queries based on user input. | gold:	D
+predicted:	A. True, True | gold:	A
+predicted:	D. Wireshark | gold:	D
+predicted:	B. backdoor | gold:	B
+predicted:	D. CBC | gold:	C
+predicted:	A. A piece of software that intercepts and possibly modifies requests (and responses) between a web browser and web server. | gold:	A
+predicted:	D. buffer checks. | gold:	C
+predicted:	B. Python, Ruby | gold:	C
+predicted:	D. All of the above | gold:	B
+predicted:	A. IM – Trojans | gold:	A
+predicted:	D. 64 | gold:	B
+predicted:	B. It works by making small mutations to the target program to induce faults. | gold:	A
+predicted:	A. Port, network, and services. | gold:	B
+predicted:	A. Message Nonrepudiation | gold:	A
+predicted:	A proxy firewall filters at the Network layer. | gold:	B
+predicted:	B. Secure IP Protocol | gold:	B
+predicted:	D. Tor browser | gold:	D
+predicted:	A. By overwriting the return address to point to the location of that code. | gold:	A
+predicted:	C. Message authentication control | gold:	A
+predicted:	A. Yes, whenever F is a secure PRF. | gold:	C
+predicted:	D. UNIX. | gold:	D
+predicted:	B. An attack that continuously repeats, probing for a weakness. | gold:	D
+predicted:	A U2F USB dongle prevents malware on the user’s computer from stealing the user’s second factor to authenticate as that user even when the user’s computer is turned off. A server using U2F can reliably determine that the user who is attempting to login is indeed behind the computer that sent the login request. | gold:	C
+predicted:	B. Wireless security | gold:	B
+predicted:	A. Results are often reproducible. | gold:	A
+predicted:	B. Metasploit | gold:	B
+predicted:	B. Yes, the key is k = m xor c. | gold:	B
+predicted:	B. CR and MR. | gold:	A
+predicted:	B. Message Integrity | gold:	B
+predicted:	A. A direct leak creates a denial of service by failing to free memory, while a channel frees memory as a side effect. | gold:	C
+predicted:	A session symmetric key between two parties is used multiple times. | gold:	A
+predicted:	B. It is a sequence of nops preceding injected shellcode, useful when the return address is unknown. | gold:	B
+predicted:	B. TCP connect | gold:	A
+predicted:	B and C. | gold:	D
+predicted:	C. Buffer-overflow | gold:	C
+predicted:	A. Snort | gold:	D
+predicted:	C. Base Transceiver Station | gold:	C
+predicted:	A buffer is a sequential segment of the memory location that is allocated for containing some data such as a character string or an array of integers. | gold:	D
+predicted:	D. AES | gold:	C
+predicted:	A. buffer | gold:	A
+predicted:	WPA2 | gold:	C
+predicted:	B. Open, half-open, closed | gold:	C
+predicted:	D. WPA2 | gold:	A
+predicted:	A. Programs are not allowed to reference memory using absolute addresses. | gold:	C
+predicted:	A. Local variables | gold:	A
+predicted:	A. Yes, if the PRG is really “secure” | gold:	D
+predicted:	A. Restrict what operations/data the user can access | gold:	A
+predicted:	A. Sender Site | gold:	C
+predicted:	A. crypter | gold:	C
+predicted:	B. Comparing the TTL values of the actual and spoofed addresses. | gold:	B
+predicted:	D. Weak or non-existent authentication mechanisms. | gold:	D
+predicted:	A. It would be impossible for services to send messages to oklogd.
+B. It would be impossible for services to get a TCP connection to a database proxy. | gold:	B
+predicted:	A. To identify live systems. | gold:	A
+predicted:	The four Primary Security Principles related to messages are A. Confidentiality, Integrity, Non repudiation and Authentication. | gold:	A
+predicted:	B. SQL Slammer. | gold:	C
+predicted:	C. SMS Trojan | gold:	C
+predicted:	D. Integrity. | gold:	B
+Accuracy: 0.47

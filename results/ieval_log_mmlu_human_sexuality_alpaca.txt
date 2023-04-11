@@ -1,0 +1,132 @@
+predicted:	D. Lumpectomy. | gold:	B
+predicted:	D. all of the above | gold:	D
+predicted:	A. can be treated with antibiotics. | gold:	A
+predicted:	C. the superego | gold:	A
+predicted:	A. paraphilias guarantee survival of the species. | gold:	B
+predicted:	D. experienced regret. | gold:	C
+predicted:	D. all of the above. | gold:	D
+predicted:	B. an avoidant lover | gold:	C
+predicted:	A. Bruce likely participated in more female-typical play than Chuck. | gold:	A
+predicted:	C. a gift from God. | gold:	C
+predicted:	D. puberty. | gold:	C
+predicted:	According to Sternberg, what makes a relationship last is commitment, decision, and passion. Intimacy is also important, but it is not as important as the other three factors. | gold:	B
+predicted:	D. all of the above. | gold:	D
+predicted:	C. asceticism | gold:	B
+predicted:	A. are homologous. | gold:	D
+predicted:	A. The cortical activity of these two groups. | gold:	C
+predicted:	C. script theory. | gold:	D
+predicted:	B. Mexican Americans; African Americans | gold:	A
+predicted:	C. Masters and Johnson. | gold:	A
+predicted:	C. sexually motivated. | gold:	C
+predicted:	C. Gender schema. | gold:	A
+predicted:	C. 7 inches | gold:	B
+predicted:	D. psychological and sociological. | gold:	D
+predicted:	B. Sigmund Freud | gold:	C
+predicted:	It seems to be true for heterosexuals but not for homosexuals. | gold:	A
+predicted:	B. 24 hours. | gold:	B
+predicted:	B. corpus luteum | gold:	B
+predicted:	A. antiprosaglandin drugs | gold:	C
+predicted:	C. Bartholin glands. | gold:	C
+predicted:	Buffy's fantasies indicate that she is not getting enough sex to keep her satisfied. | gold:	D
+predicted:	A. preovulation. | gold:	C
+predicted:	B. immediately before orgasm. | gold:	D
+predicted:	D. all of the above. Some cultures have restrictions on sexual activity during menstruation and/or after childbirth. Additionally, some cultures have restrictions on sexual activity between parents and children. | gold:	D
+predicted:	A. U.S. | gold:	A
+predicted:	A. hormones secreted by the Mother's ovaries | gold:	C
+predicted:	A. Henry Havelock Ellis | gold:	D
+predicted:	C. negative arousal. | gold:	B
+predicted:	D. we anticipate positive interactions with that person | gold:	D
+predicted:	A. Chinese; North African Muslim | gold:	B
+predicted:	C. sympathetic | gold:	D
+predicted:	D. clitoris | gold:	D
+predicted:	D. 22 | gold:	C
+predicted:	D. legal and religion. | gold:	A
+predicted:	A. the homosexuality concordance rate for identical twins is 100% | gold:	C
+predicted:	D. both a and b. | gold:	D
+predicted:	B. erotica may lead to increases in sexual arousal for men and women. | gold:	B
+predicted:	B. at birth | gold:	C
+predicted:	D. all of the above. Chlamydia can cause tubal pregnancies, premature delivery, and spontaneous abortion. | gold:	D
+predicted:	C. take the birth control pill. | gold:	D
+predicted:	C. The diaphragm. | gold:	A
+predicted:	C. sexual selection. | gold:	C
+predicted:	C. poor Puerto Rican women. | gold:	C
+predicted:	A and B only. Some monkey and ape species, as well as some breeds of dogs, have menstrual cycles. | gold:	D
+predicted:	D. sex with a non-spouse if the person is married. | gold:	B
+predicted:	D. prepuce | gold:	D
+predicted:	A....a hormone released during menstruation. | gold:	C
+predicted:	D. scoptophilia (the pleasure derived from looking at erotic images or fantasies). | gold:	B
+predicted:	A. males have one exit structure for urine and reproductive fluids, whereas females have two. | gold:	A
+predicted:	C. genital sensation. | gold:	D
+predicted:	B. gonadotropin-releasing hormone. | gold:	A
+predicted:	A. fundamentally positive | gold:	D
+predicted:	A. will produce a high voice because of decreased testosterone production. | gold:	C
+predicted:	A. artificial insemination | gold:	D
+predicted:	B. it varies across men lasting from a few minutes to 24 hours. | gold:	B
+predicted:	B. 4 | gold:	B
+predicted:	A. Menstruation | gold:	A
+predicted:	D. confusion stage. | gold:	B
+predicted:	C. genital herpes. | gold:	B
+predicted:	D. all of the above. | gold:	A
+predicted:	C. highly sensitive nerve endings. | gold:	A
+predicted:	B. If Avalon contracted genital herpes she can be cured with antibiotics if administered immediately after the first occurrence. | gold:	D
+predicted:	A. arousal | gold:	C
+predicted:	B. blood accumulation in the genitals. | gold:	B
+predicted:	Both A and B. | gold:	D
+predicted:	D. gonorrhea | gold:	D
+predicted:	D. Most swingers also tend to have tolerant attitudes towards various forms of "exotic" sexuality. | gold:	D
+predicted:	A. Frotteurism | gold:	A
+predicted:	C. synthetic androgens and estrogen. | gold:	B
+predicted:	Heterosexual fantasies about sexual activity never involve someone of the same gender, and gay and lesbian fantasies never involve persons of the other gender. | gold:	A
+predicted:	C. decreased sperm production. | gold:	D
+predicted:	B and C. | gold:	D
+predicted:	D. necrophilia | gold:	B
+predicted:	A. postovulatory. | gold:	C
+predicted:	C. rear entry. | gold:	B
+predicted:	D. both A and B. | gold:	D
+predicted:	C. plateau | gold:	A
+predicted:	A. supplies oxygen to the fetus | gold:	C
+predicted:	A. painful menstruation | gold:	A
+predicted:	B. an avoidant lover | gold:	B
+predicted:	D. 30 million | gold:	B
+predicted:	B. drag queen | gold:	D
+predicted:	B. reproduction | gold:	B
+predicted:	A. Behaviour modification. | gold:	A
+predicted:	A. homosexuality in sons with distant fathers. | gold:	C
+predicted:	B. Pope Paul VI's | gold:	B
+predicted:	C. provide an equal balance of punishment and reinforcement. | gold:	A
+predicted:	B. He is overcome with feelings of self doubt and his sadomasochistic behaviour allows him a safe outlet for that self doubt. | gold:	C
+predicted:	C. As long as Timmy has at least one supportive and accepting caregiver he will have a healthy development. | gold:	C
+predicted:	A. (s)he experiences feelings of hopelessness and despair. | gold:	A
+predicted:	B. foreskin too tight, C. vaginismus. | gold:	A
+predicted:	C. the luteal phase. | gold:	B
+predicted:	A. pituitary gland releases FSH. | gold:	C
+predicted:	C. heterosexual | gold:	A
+predicted:	A. orgasmic reconditioning. | gold:	A
+predicted:	D. observing others doing it. | gold:	C
+predicted:	D. 20. | gold:	B
+predicted:	A. declined for both men and women. | gold:	A
+predicted:	C. They typically want to view friends' sexual behaviours. | gold:	D
+predicted:	A. affective, trusting, and friendship. | gold:	C
+predicted:	B. Mike suffers from erectile dysfunction. | gold:	B
+predicted:	B. Ectopic pregnancy. | gold:	B
+predicted:	A....a male companion-master of a prostitute | gold:	A
+predicted:	A....a sharp increase in estrogen levels. | gold:	C
+predicted:	B. self-disclosure on the part of one partner often leads to self-disclosure on the part of the other. | gold:	B
+predicted:	A. in the hours immediately following birth. | gold:	A
+predicted:	D. none of the above. Female sterilization inhibits egg production. | gold:	D
+predicted:	A. masturbation | gold:	D
+predicted:	The plausible criticisms of LeVay's work are A and D. The sample size was relatively small and all of the participants were male, which may have limited the accuracy of the results. Additionally, gay and straight groups were not equivalent in terms of the number of deaths due to AIDS, which may have impacted the findings of the study. | gold:	D
+predicted:	D. 30 | gold:	B
+predicted:	D. into the ovaries and testes. | gold:	A
+predicted:	D. 4 | gold:	A
+predicted:	B. Mulroney | gold:	D
+predicted:	B. anxiety inhibits the sympathetic system. | gold:	A
+predicted:	A. mostly heterosexual with incidental homosexual experience | gold:	C
+predicted:	B. orgasm | gold:	A
+predicted:	A....a protective layer surrounding the egg. | gold:	A
+predicted:	C. urethra. | gold:	C
+predicted:	D. dilation and curettage. | gold:	A
+predicted:	A. chlamydia | gold:	D
+predicted:	D. Dartos Muscle. | gold:	D
+predicted:	B. become less permissive; become more accepting. | gold:	D
+Accuracy: 0.366412213740458

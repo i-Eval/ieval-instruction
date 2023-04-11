@@ -1,266 +1,266 @@
 predicted:	A. 18 gauge. | gold:	A
-predicted:	A. strength. | gold:	D
-predicted:	Cerebrovascular (stroke) disease. | gold:	A
+predicted:	D. stamina. | gold:	D
+predicted:	A. Alzheimer's disease. | gold:	A
 predicted:	D. Rash. | gold:	B
-predicted:	C. In the immediate post-operative period. | gold:	B
-predicted:	A. anaerobic contribution progressively increases. | gold:	D
+predicted:	A. The patient has a semi-formed or liquid output. | gold:	B
+predicted:	B. pH of the muscle falls below 6.0. | gold:	D
 predicted:	A. Diplopia can never occur if one eye is covered. | gold:	B
 predicted:	A. elevating the pH and buffering capacity of the extracellular fluid allowing a faster efflux of hydrogen ions from muscle. | gold:	A
-predicted:	A. triplet sequences of nucleotide bases in mRNA or DNA. | gold:	A
-predicted:	B. coenzyme A (CoA). | gold:	D
-predicted:	 A. Blood type AB (rhesus negative), blood type B, and blood type O (rhesus negative). | gold:	C
-predicted:	A. It leads to increased tone in the arm (hypertonia). | gold:	D
+predicted:	Codons are composed of triplet sequences of nucleotide bases in mRNA or DNA. | gold:	A
+predicted:	B. thiokinase. | gold:	D
+predicted:	A. Blood type AB (rhesus negative), blood type B, and blood type O (rhesus negative). | gold:	C
+predicted:	D. An ulna nerve palsy is an example of a lower motor neurone lesion. | gold:	D
 predicted:	B. Muscle lactate accumulation does not begin until at least 5 seconds of intermittent muscle contractions have taken place. | gold:	B
-predicted:	A. glucose. | gold:	B
+predicted:	B. glucose-1-phosphate. | gold:	B
 predicted:	A. actin and troponin. | gold:	B
-predicted:	A. Unilateral constricted pupil. | gold:	C
+predicted:	B. Bilateral constricted pupils. | gold:	C
 predicted:	C. An ultrasound of the swelling is the best test to determine whether the nodule is actively secreting hormone. | gold:	D
-predicted:	C. The presence of jaundice, spider naevi and purpura suggest alcohol as a cause. | gold:	C
+predicted:	B. The liver enlarges downwards from the left hypochondrium. | gold:	C
 predicted:	A. A positive babinski reflex is the same as a normal flexor response in the assessment of the plantar reflex. | gold:	C
-predicted:	B) Ramsay Hunt Syndrome is an upper motor neurone lesion secondary to a Herpes Zoster infection. | gold:	C
-predicted:	A. Hand fracture. | gold:	D
+predicted:	Bells palsy is another term for an upper motor neurone lesion. | gold:	C
+predicted:	B. Elbow fracture. | gold:	D
 predicted:	A. turn off the transfusion, inform medical staff immediately, and follow transfusion policy advice on dealing with acute transfusion reactions. | gold:	A
-predicted:	A. 30 minutes. | gold:	A
-predicted:	Answer: D. The majority of informal carers are fit and active. | gold:	B
-predicted:	 C. Glycosylation. | gold:	B
-predicted:	A. When their urine is clear. | gold:	B
-predicted:	A 14-16 gauge needle is most likely to be used for inserting in the back of the hand. | gold:	D
-predicted:	C. No pain over the area. | gold:	A
-predicted:	C. is usually higher at the end of the game than at the end of the first half. This is because as the game progresses, the players become more fatigued and their lactate levels rise, making it harder to perform. | gold:	B
-predicted:	A. via a cotransport mechanism with carnosine. | gold:	C
-predicted:	B. Schober's test is designed to quantify the flexion of the lumbar spine. | gold:	B
-predicted:	C. Tophi can sometimes be seen over affected joints. | gold:	D
-predicted:	B. It causes a large multi-nodular goitre. | gold:	A
+predicted:	C. 4 hours. | gold:	A
+predicted:	B. One in six over 65s is providing some form of informal care. | gold:	B
+predicted:	B. Attachment of more amino acids via peptide bonds. | gold:	B
+predicted:	D. When the catheter is dirty. | gold:	B
+predicted:	D. inserting in the back of the hand. | gold:	D
+predicted:	D. Clubbing. | gold:	A
+predicted:	D. increases throughout the course of the game as the players become more fatigued. | gold:	B
+predicted:	B. via an active transport mechanism. | gold:	C
+predicted:	B. Back pain is an uncommon complaint. | gold:	B
+predicted:	D. Nail pitting may give a clue to the diagnosis. | gold:	D
+predicted:	A. It is a cause of ophthalmoplegia. | gold:	A
 predicted:	A. Calcitonin causes a rise in plasma calcium. | gold:	B
-predicted:	A. inhibit ATP breakdown. | gold:	B
-predicted:	The normal respiratory rate for an adult male is 8-10 breaths per minute. | gold:	D
+predicted:	B. involve the addition or removal of a phosphate group. | gold:	B
+predicted:	A. 10-12 breaths per minute. | gold:	D
 predicted:	A. are re-established in the first five days of wound healing. | gold:	C
-predicted:	 D. One gram of alcohol. | gold:	B
-predicted:	A. the enzymes of the tricarboxylic acid cycle (Krebs' cycle). | gold:	B
-predicted:	C. 80 kJ/min. | gold:	D
-predicted:	A normal heart rate for an adult at rest is 60-110 bpm. | gold:	B
-predicted:	A. Phosphofructokinase is the rate limiting enzyme in glycolysis. | gold:	D
+predicted:	A. One gram of glucose | gold:	B
+predicted:	B. the components of the electron transport chain. | gold:	B
+predicted:	A. 400 kJ/min. | gold:	D
+predicted:	A. 60-80 bpm. | gold:	B
+predicted:	Phosphorylase activity is higher in Type II fibres than in Type I fibres. (False) | gold:	D
 predicted:	C. It leads to loss of sensation over the medial half of the hand and medial one and a half digits on both palmar and dorsal aspects of the hand. | gold:	C
-predicted:	 A smear. | gold:	B
-predicted:	Cushing's Syndrome is caused by an excess of cortisol hormone, leading to symptoms such as a moon face, buffalo hump, and osteoporosis. It is not a deficiency of the hormone, as is the case with other disorders. | gold:	D
-predicted:	A. High energy diet and large appetite. | gold:	D
-predicted:	C. genetically determined. | gold:	D
+predicted:	B. A pea-sized amount. | gold:	B
+predicted:	D. A moon face and a buffalo hump are characteristic of the disease. | gold:	D
+predicted:	B. high intelligence and motivation to succeed. | gold:	D
+predicted:	D. always 1:1. | gold:	D
 predicted:	A. testosterone. | gold:	A
-predicted:	B. cortisol. | gold:	D
-predicted:	D. bound to albumin. | gold:	D
-predicted:	A. Every 4 hours. | gold:	C
-predicted:	A. increased when intracellular ADP rises. | gold:	A
-predicted:	A. 10 mmHg. | gold:	C
+predicted:	A. insulin. | gold:	D
+predicted:	B. as lipoproteins. | gold:	D
+predicted:	C. Every 12 hours. | gold:	C
+predicted:	D. always lower in Type II fibres than Type I fibres. | gold:	A
+predicted:	B. 4 mmHg. | gold:	C
 predicted:	D. Ataxic breathing. | gold:	B
 predicted:	D. 30:02:00 | gold:	D
-predicted:	D. 0.93. | gold:	D
-predicted:	B. gain in body mass. | gold:	B
-predicted:	A. systole, diastole, and rest. | gold:	C
+predicted:	D. 0.93 | gold:	D
+predicted:	C. muscle cramps. | gold:	B
+predicted:	The cardiac cycle consists of the phases: A. systole, diastole, and rest. | gold:	C
 predicted:	D. Ingestion of carnitine during exercise. | gold:	D
-predicted:	A. 3, 1, 2, 4. | gold:	B
-predicted:	A. a fall in the cell concentration of ADP. | gold:	C
+predicted:	C. 1, 2, 3, 4. | gold:	B
+predicted:	B. inhibition of ATP production. | gold:	C
 predicted:	A. The finding of a palpable median groove in the prostate is an adverse finding. | gold:	B
-predicted:	A. A well-fitting pouch. | gold:	C
-predicted:	A. Systemic Sclerosis is more common in females than males. | gold:	D
-predicted:	C. Aortic regurgitation. | gold:	A
-predicted:	A. 5%. In hypovolaemic shock, up to 5% blood loss can be tolerated before changes in heart rate and blood pressure become apparent. | gold:	D
+predicted:	C. Leakage of effluent onto peristomal skin. | gold:	C
+predicted:	B. If telangiectasia are seen this clinches the diagnosis. | gold:	D
+predicted:	A. Right ventricular hypertrophy | gold:	A
+predicted:	B. 10%. | gold:	D
 predicted:	A. Reduces pain intensity and increases alertness. | gold:	B
-predicted:	A. When associated with neck stiffness is always due to meningitis. | gold:	D
-predicted:	D. the arteries have elastic recoil. | gold:	D
+predicted:	D. Tension headaches is a common cause of headache. | gold:	D
+predicted:	B. the vessels are contracted. | gold:	D
 predicted:	D. Poor technique, physical impairment, or lack of understanding. | gold:	D
 predicted:	B. should be undertaken under aseptic conditions. | gold:	A
 predicted:	D. varies with each patient. | gold:	C
 predicted:	D. Muscle ATP and phosphocreatine content. | gold:	D
 predicted:	A. Before using their bronchodilator inhaler. | gold:	D
-predicted:	C. the pH of the muscle falls. | gold:	D
-predicted:	 C. 30-50 seconds. | gold:	B
+predicted:	B. pyruvate cannot be formed from glucose breakdown. | gold:	D
+predicted:	B. 10-30 seconds. | gold:	B
 predicted:	A. Blood volume, preload, and afterload. | gold:	B
 predicted:	A. Proximal phalynx, middle phalynx, distal phalynx. | gold:	A
-predicted:	C. Glycogen. | gold:	B
-predicted:	C. below skin level. | gold:	B
-predicted:	A. Gain patient consent. | gold:	D
-predicted:	B) phosphocreatine breakdown occurs. | gold:	D
-predicted:	C. Trapezius squeeze. | gold:	B
+predicted:	B. Insulin | gold:	B
+predicted:	B. 3-5cm in length. | gold:	B
+predicted:	D. Ring patient's next of kin. | gold:	D
+predicted:	B. phosphocreatine breakdown occurs. | gold:	D
+predicted:	B. Pressure on the little finger pulp. | gold:	B
 predicted:	A. 156 | gold:	B
-predicted:	C. The rectal examination is of no value in a neurological examination. | gold:	D
-predicted:	D. They are unable to pass air through their vocal cords. | gold:	D
-predicted:	D. only when the wound dressing is changed. | gold:	A
-predicted:	A. amino acids in the muscles. | gold:	B
+predicted:	D. The rectal examination is indicated for the assessment of some gastrointestinal disorders. | gold:	D
+predicted:	D. It is too tiring. | gold:	D
+predicted:	B. daily. | gold:	A
+predicted:	B. amino acids in the liver. | gold:	B
 predicted:	D. Call for assistance from a medical practitioner. | gold:	D
 predicted:	C. refrigerated. | gold:	D
 predicted:	C. physical, psychological, and pharmacological needs followed by regular reassessment. | gold:	C
 predicted:	C. Alzheimer's disease. | gold:	C
 predicted:	C. Antidepressants. | gold:	C
-predicted:	A. Muscle glycogen is broken down enzymatically to glucose-1-phosphate. | gold:	D
-predicted:	 A. 98% or above. | gold:	C
-predicted:	A. always remove dentures. | gold:	C
-predicted:	A. 5 | gold:	D
-predicted:	D. A lack of potassium. | gold:	A
+predicted:	B. Elite endurance runners have a high proportion of Type I fibres in their leg muscles. | gold:	D
+predicted:	C. 80% or below. | gold:	C
+predicted:	C. look for chest movements, listen for breath sounds, and feel for exhaled air on your cheek. | gold:	C
+predicted:	C. 0.5 | gold:	D
+predicted:	A. An accumulation of inorganic phosphate. | gold:	A
 predicted:	B. 2 seconds. | gold:	B
-predicted:	A. 0.192 | gold:	B
-predicted:	C. A raised TSH level. | gold:	C
+predicted:	D. 0.96 | gold:	B
+predicted:	A. Weight loss | gold:	C
 predicted:	C. Reduced amount of gastric acid. | gold:	C
 predicted:	D. Any of the above. | gold:	B
-predicted:	A keloid is a firm mass of scar tissue. | gold:	B
-predicted:	 D. Palmitic acid. | gold:	D
-predicted:	A. It contains red blood cells. | gold:	D
+predicted:	B. a firm mass of scar tissue. | gold:	B
+predicted:	D. Palmitic acid | gold:	D
+predicted:	D. it is clear or slightly yellow. | gold:	D
 predicted:	A. the number of X chromosomes from the mother. | gold:	D
-predicted:	C. Proprioceptive loss is a common feature. | gold:	A
-predicted:	D. gluconeogenesis. | gold:	D
+predicted:	B. Proprioceptive loss is a common feature. | gold:	A
+predicted:	B. glycogenolysis. | gold:	D
 predicted:	A. transfuse it as soon as possible and annotate the patient's notes with the time of administration. | gold:	C
-predicted:	A. when you can no longer hear the Korotkoff sounds because the bladder is equal with the diastolic pressure. | gold:	C
-predicted:	D. 500 | gold:	C
-predicted:	A. It is more slippery than soap or emollients. | gold:	D
-predicted:	C. 1 g/mL. | gold:	A
-predicted:	A. recessive. | gold:	A
+predicted:	B. when the Korotkoff sounds can be heard between systolic and diastolic phases. | gold:	C
+predicted:	D. 500. | gold:	C
+predicted:	D. It can cause dryness of the skin. | gold:	D
+predicted:	A. 1 mg/mL | gold:	A
+predicted:	C. repressed. | gold:	A
 predicted:	A. water intake is less than is needed to maintain balance. | gold:	A
 predicted:	D. A respiratory rate of 16 breaths per minute. | gold:	D
-predicted:	B. Glucose. | gold:	C
+predicted:	C. Carnosine | gold:	C
 predicted:	D. Diabetes is a complication. | gold:	B
 predicted:	A. Hypothermia, hypotension, and bradycardia. | gold:	D
 predicted:	B. Bladder outflow obstruction. | gold:	B
 predicted:	A. Small, soft toothbrush. | gold:	A
-predicted:	C. Erythromycin. | gold:	C
-predicted:	A. irreversible. | gold:	D
-predicted:	C. Within an abdominal crease. | gold:	A
-predicted:	A. women have evolved a greater muscle mass. | gold:	D
+predicted:	B. Ditropan. | gold:	C
+predicted:	D. inhibited by low pH in the muscle. | gold:	D
+predicted:	D. In close proximity to the incision site. | gold:	A
+predicted:	C. women have started training at an earlier age. | gold:	D
 predicted:	A. deoxyribonucleic acid. | gold:	A
 predicted:	D. diarrhoea. | gold:	C
-predicted:	A. respiratory failure. | gold:	A
-predicted:	D. 3 ATP. | gold:	B
+predicted:	D. being generally unwell. | gold:	A
+predicted:	B. 5 ATP. | gold:	B
 predicted:	C. the actin binding sites are uncovered. | gold:	A
-predicted:	A. Proprioceptive motor receptor found within main muscle body. | gold:	B
-predicted:	C. every time the left ventricle contracts. | gold:	D
+predicted:	B. Proprioceptive sensory receptor found at the junction between muscle and tendon. | gold:	B
+predicted:	B. when a vein is close to the surface of the skin. | gold:	D
 predicted:	B. catalyses the conversion of pyruvate to acetyl CoA. | gold:	B
-predicted:	A. The knee is a ball and socket joint. | gold:	C
-predicted:	C. The general public. | gold:	C
+predicted:	B. The knee is a hinge joint. | gold:	C
+predicted:	A. GPs. | gold:	C
 predicted:	D. Brisk finger jerks confirm a lower motor neurone lesion. | gold:	A
 predicted:	D. Idiopathic fibrosing alveolitis. | gold:	C
-predicted:	The correct answer is D. Using water may cause electrolyte imbalance. | gold:	C
-predicted:	The 'normal' range of flexion at the knee joint is 0-155 degrees. | gold:	B
-predicted:	D. A 500 ml bottle of Morphine 10 mg in 5 ml in oral suspension. | gold:	D
-predicted:	D. 4 minutes. | gold:	C
+predicted:	B. Bladder washout may be unsuccessful. | gold:	C
+predicted:	D. 0-175 degrees. | gold:	B
+predicted:	A. A 30 milligram ampoule of Codeine Phosphate for injection. | gold:	D
+predicted:	C. 1 minute | gold:	C
 predicted:	B. calcium binding to tropomyosin. | gold:	D
 predicted:	C. Exudate. | gold:	D
-predicted:	A. the difference between the charge on the outside and inside of a cell. | gold:	D
+predicted:	B. generated by the sodium-potassium ATPase. | gold:	D
 predicted:	D. store of calcium ions. | gold:	D
 predicted:	D. Blood glucose. | gold:	B
 predicted:	A. The GP, consultant, and named nurse. | gold:	B
 predicted:	D. It causes a more florid thyrotoxicosis than a smaller goitre. | gold:	B
-predicted:	The heart has two valves and two chambers. | gold:	B
+predicted:	A. two valves and two chambers. | gold:	B
 predicted:	D. Any patient who is acutely unwell pre-operatively or post-operatively and those who have undergone major surgery. | gold:	D
 predicted:	A. To create an air seal within the trachea and reduce the risk of aspirating saliva or gastric contents. | gold:	A
 predicted:	A. Peptide bonds. | gold:	A
-predicted:	C. Schamroth's sign. | gold:	D
-predicted:	A. the use of drugs to modify gene transcription. | gold:	B
-predicted:	The five main uses of the hand are for touch, feel, stroke, grip, and percussion. The three main uses are for touch, sensory, and for obtaining food or drink. The two main uses are for grasping and for percussion. | gold:	B
+predicted:	A. Inspect the nail-bed angle from above. | gold:	D
+predicted:	B. the use of genetic manipulation techniques to enhance performance in sport. | gold:	B
+predicted:	B. Grip, percussion, sensory. | gold:	B
 predicted:	C. A large mass arising out of the pelvis which disappears following urethral catheterization is caused by an ovarian cyst. | gold:	D
-predicted:	C. Best motor response. | gold:	D
-predicted:	A. Displaced apex beat; soft first heart sound; pan-systolic murmur; short mid-diastolic murmur. | gold:	A
+predicted:	Pupil response. | gold:	D
+predicted:	Displaced apex beat; soft first heart sound; pan-systolic murmur; short mid-diastolic murmur. | gold:	A
 predicted:	A. a reduction in anxiety and perceived pain intensity. | gold:	A
-predicted:	D. thirty-eight molecules of ATP. | gold:	B
-predicted:	A. 2 from glucose and 3 from glycogen. | gold:	A
-predicted:	D. Rectal cancer is the commonest cause of rectal bleeding. | gold:	A
+predicted:	B. two molecules of ATP. | gold:	B
+predicted:	C. 3 from glucose and 4 from glycogen. | gold:	A
+predicted:	B. Bright red blood on the finger usually signifies a caecal lesion. | gold:	A
 predicted:	D. occur spontaneously at a low rate. | gold:	D
 predicted:	A. 10 litres per minute of each other. | gold:	B
 predicted:	B. forced expiratory volume. | gold:	D
-predicted:	A. It can interfere with the effectiveness of other drugs such as Warfarin. | gold:	C
-predicted:	 D. Amino acid. | gold:	D
-predicted:	A. Pale stools and dark urine are characteristic of the jaundice of haemolytic anemia. | gold:	C
-predicted:	 D. Guanine. | gold:	A
-predicted:	A. Inspiratory component louder and longer with a gap between expiration and inspiration. | gold:	B
-predicted:	D. Cannabis. | gold:	C
-predicted:	C. Understanding others' speech. | gold:	B
-predicted:	A. Scaphoid, lunate, triquetral, pisiform, trapezoid, capitate. | gold:	A
+predicted:	C. Patients should carefully check the contents of over-the-counter cold remedies in order to prevent accidental overdose, as such preparations often contain additional paracetamol. | gold:	C
+predicted:	Purine and Pyrimidine form part of DNA, but Deoxyribose does not. | gold:	D
+predicted:	B. Bilirubin is used by the liver in the synthesis of red blood cells. | gold:	C
+predicted:	C. Uracil | gold:	A
+predicted:	B. Expiratory component louder and longer with a gap between inspiration and expiration. | gold:	B
+predicted:	C. Alcohol. | gold:	C
+predicted:	D. Understanding others' speech. | gold:	B
+predicted:	A. Scaphoid, lunate, triquetral, pisiform, trapezium, trapezoid, capitate, hamate. | gold:	A
 predicted:	A. mRNA, tRNA and ribosomes. | gold:	A
-predicted:	Correct. C. The delivery of medication straight into the bloodstream. | gold:	D
-predicted:	B. It is seven days after the tracheostomy tube was first inserted. | gold:	C
-predicted:	A. IV administration of a drug will delay its action. | gold:	C
-predicted:	D. All of the above. | gold:	D
+predicted:	B. Titration of a drug with its desired effect. | gold:	D
+predicted:	C. The cuff is deflated. | gold:	C
+predicted:	IV administration of a drug will delay its action. | gold:	C
+predicted:	C. The presence of certain metal ions. | gold:	D
 predicted:	B. creatine phosphorylation. | gold:	D
-predicted:	The answers are: A. baroreceptors and B. chemoreceptors. | gold:	A
+predicted:	A. baroreceptors. | gold:	A
 predicted:	D. Remove the catheter and recatheterize. | gold:	B
-predicted:	A. 3.5. | gold:	B
-predicted:	A. 24 hours. | gold:	D
-predicted:	D. amino acid composition of the ribonucleic acids. | gold:	C
-predicted:	A. 3 | gold:	D
-predicted:	Antibiotics may be used prior to catheterization if the patient has an artificial heart valve or if they request them. | gold:	C
-predicted:	B. Positive for hepatojugular reflux. | gold:	C
-predicted:	C. pyruvate dehydrogenase. | gold:	D
-predicted:	A. Bleeding haemorrhoids lead to melaena per rectum (PR). | gold:	B
+predicted:	D. 6.25 | gold:	B
+predicted:	D. 96 hours. | gold:	D
+predicted:	C. proteins formed as dictated by the genetic material. | gold:	C
+predicted:	C. 23 | gold:	D
+predicted:	A. If the patient has had a catheter in situ for a week. | gold:	C
+predicted:	A. A waggling earlobe | gold:	C
+predicted:	B. hexokinase. | gold:	D
+predicted:	Pregnancy is a predisposing factor in causing haemorrhoids (B). | gold:	B
 predicted:	A. steroid drugs that act on androgen receptors mimicking the effects of natural steroid hormones. | gold:	C
-predicted:	 A. yields 8 molecules of acetyl-CoA and some ATP and water. | gold:	A
+predicted:	A. yields 8 molecules of acetyl-CoA and some ATP and water. | gold:	A
 predicted:	A. Ammonia, hypoxanthine and uric acid. | gold:	A
-predicted:	C. flat on a firm surface. | gold:	C
-predicted:	D. about 4 minutes. | gold:	D
+predicted:	B. tilted to the left to keep the heart perfused. | gold:	C
+predicted:	B. about 30 seconds. | gold:	D
 predicted:	C. Synovial hinge joint. | gold:	C
-predicted:	A. | gold:	A
-predicted:	C. Good lighting. | gold:	B
-predicted:	A. usually remains constant during a race. | gold:	B
+predicted:	A. a solution that has a higher concentration of solutes than the normal human cell. | gold:	A
+predicted:	D. Patient lying at 45 degree angle. | gold:	B
+predicted:	D. is inversely related to muscle glycogen content. | gold:	B
 predicted:	C. a relatively small number of mitochondria and high ATPase activity. | gold:	C
 predicted:	A. the rate of muscle lactate production and the rate of muscle lactate efflux. | gold:	D
-predicted:	A. mitochondrion. | gold:	C
-predicted:	D. 50-60 seconds. | gold:	B
-predicted:	A. required by all enzymes in the cell. | gold:	D
-predicted:	A. Sensory loss is demonstrated in a stocking distribution. | gold:	A
-predicted:	Answer: C. A'milkmaid' grip is sometimes found in dystonia. | gold:	D
-predicted:	 D. Sodium valproate. | gold:	D
+predicted:	C. cytoplasm. | gold:	C
+predicted:	C. 30-40 seconds. | gold:	B
+predicted:	C. sites on the enzyme molecule that permit allosteric modification of enzyme activity. | gold:	D
+predicted:	D. Weakness is more marked proximally than distally. | gold:	A
+predicted:	B. Hemiballismus is due to a stroke causing paralysis of the distal half of the arm. | gold:	D
+predicted:	D. Sodium valproate | gold:	D
 predicted:	C. Lemon and glycerine swabs. | gold:	B
 predicted:	B. Give drugs regularly with provision for additional 'as required' pain relief for breakthrough pain. | gold:	B
-predicted:	A. Nociceptive pain. | gold:	A
-predicted:	C. pneumonia. | gold:	A
+predicted:	A. Pain resulting from actual or potential tissue damage, which causes the release of chemical mediators that stimulate nerve fibres to initiate pain signals to the brain. | gold:	A
+predicted:	A.... asthma. | gold:	A
 predicted:	A. If the patient is post-operative. | gold:	A
-predicted:	A. Bowing of a long bone is a characteristic feature. | gold:	A
+predicted:	B. Spinal cord compression is a common complication. | gold:	A
 predicted:	A. ensure the emergency team/services are called. | gold:	A
 predicted:	A. Acute urinary retention. | gold:	A
 predicted:	A. Increasing the protein intake above 3 grams per kg body mass per day will stimulate muscle growth and increase strength. | gold:	B
-predicted:	A. The named nurse. | gold:	B
-predicted:	A. contract faster. | gold:	C
-predicted:	A. acetylcholine. | gold:	A
-predicted:	A. These patients are more likely to bleed. | gold:	B
+predicted:	D. The GP. | gold:	B
+predicted:	B. break down phosphocreatine. | gold:	C
+predicted:	A. acetylcholine which traverses the neuromuscular junction. | gold:	A
+predicted:	B. These patients are more likely to get urinary tract infections if their blood sugar is unstable. | gold:	B
 predicted:	A. Movement with resistance, stretching at end of range. | gold:	D
-predicted:	A tracheostomy is an opening in the anterior wall of the trachea above the cricoid cartilage. | gold:	B
-predicted:	C. Abdominal pain is always present. | gold:	A
+predicted:	A. An opening in the anterior wall of the trachea above the cricoid cartilage. | gold:	B
+predicted:	A. A low blood pressure (<90mmHg systolic) and a tachycardia (>100/min) are worrying features. | gold:	A
 predicted:	A. Rheumatoid factor is present in 25% of rheumatoid cases. | gold:	C
-predicted:	C. The internet is aimed at younger people. | gold:	B
+predicted:	D. They may not be able to type. | gold:	B
 predicted:	B. It is caused by compression of the ulna nerve. | gold:	A
-predicted:	A. 2CO2 and 2ATP. | gold:	D
-predicted:	D. Infiltration. | gold:	A
+predicted:	B. 2CO2 and 16ATP. | gold:	D
+predicted:	A. Extravasation. | gold:	A
 predicted:	A. Lysozyme. | gold:	A
-predicted:	D. the DNA sequence of an entire chromosome. | gold:	B
+predicted:	B. the entire DNA sequence of an organism. | gold:	B
 predicted:	A. Acetyl choline and noradrenaline. | gold:	D
-predicted:	The first fibre types to fatigue in all-out exercise are the Type IIa and Type IIX fibres. | gold:	D
-predicted:	D. uptake and oxidation by other tissues. | gold:	D
+predicted:	A. Type I fibres. | gold:	D
+predicted:	C. excretion via the kidneys. | gold:	D
 predicted:	B. phosphocreatine breakdown. | gold:	B
-predicted:	The correct answer is D. Impulses for pain travel principally up the dorsal columns. | gold:	B
-predicted:	A. frequently rises by 1 - 3 mM. | gold:	A
+predicted:	D. Impulses for pain travel principally up the dorsal columns. | gold:	B
+predicted:	D. falls to hypoglycaemic levels. | gold:	A
 predicted:	C. carcinoma. | gold:	C
-predicted:	A surgical support can be used for high output stomas, herniation around the stoma, and retraction of the stoma. | gold:	C
-predicted:	 A. 350ml. | gold:	D
-predicted:	C. without the use of oxygen. | gold:	C
-predicted:	D. 500 kJ | gold:	C
-predicted:	D. 5 days. | gold:	B
-predicted:	Eccrine and apocrine glands are both types of sweat glands. | gold:	A
-predicted:	A. Grade 3/5 (MRC scale) represents movement of the arm only when gravity is eliminated. | gold:	C
-predicted:	This is Stage 2 on the phlebitis scale and you should consider treating the patient with anti-inflammatory medication and wrapping the cannula with an elastic bandage. | gold:	B
+predicted:	A. prolapsed stomas. | gold:	C
+predicted:	C. 1L. | gold:	D
+predicted:	A. without the involvement of ADP. | gold:	C
+predicted:	C. 300 kJ | gold:	C
+predicted:	C. 24 hours. | gold:	B
+predicted:	A. sweat glands. | gold:	A
+predicted:	D. Grade 1/5 power represents no movement or muscle contraction. | gold:	C
+predicted:	B. Stage 2 - re-site cannula. | gold:	B
 predicted:	A. Antidiuretic hormone. | gold:	A
 predicted:	D. results in greater reliance on muscle glycogen during exercise. | gold:	C
 predicted:	D. a lack of oxygen. | gold:	D
 predicted:	C. in the nucleus. | gold:	C
-predicted:	A. excessive intravascular fluid. | gold:	B
+predicted:	B. excessive extravascular fluid. | gold:	B
 predicted:	A. It works to dilate the airways quickly, allowing better deposition of other medications. | gold:	A
-predicted:	C. It is indicative of a cerebellar lesion. | gold:	C
+predicted:	B. It is caused by Parkinson's Disease. | gold:	C
 predicted:	A. via protein transporters called GLUT4. | gold:	A
-predicted:	Oxygen is used in the tricarboxylic acid cycle (Krebs' cycle) to produce energy for cellular processes. | gold:	B
-predicted:	C. cause an auscultatory gap. | gold:	D
-predicted:	B. A history of diarrhoea is not relevant. | gold:	A
-predicted:	D. To allow shaving at a time convenient to the patient. | gold:	C
+predicted:	C. in the tricarboxylic acid cycle (Krebs' cycle). | gold:	B
+predicted:	B. overestimate the blood pressure. | gold:	D
+predicted:	A. Drugs may be implicated in the causation of gout. | gold:	A
+predicted:	C. To minimize risk of cross-infection. | gold:	C
 predicted:	B. The pancreas. | gold:	B
-predicted:	The input is incorrect. The correct answer is that you should ask the patient to breathe normally while using the inhaler. | gold:	D
+predicted:	A. Ask them to take lots of small, quick breaths in before using the inhaler. | gold:	D
 predicted:	A. To ensure best lung expansion and accuracy and consistency of readings. | gold:	A
-predicted:	A tracheostomy may be necessary prior to neck surgery, in order to provide an open airway and facilitate the surgical procedure. | gold:	C
-predicted:	C. the TCA cycle (Krebs' cycle) to the production of ATP. | gold:	B
+predicted:	C. As an aid to weaning patients from a ventilator. | gold:	C
+predicted:	A. aerobic energy production. | gold:	B
 predicted:	B. Wound infection. | gold:	D
-predicted:	C. the sarcolemma. | gold:	D
-predicted:	A. | gold:	C
-Accuracy: 0.2981132075471698
+predicted:	A. the mitochondria. | gold:	D
+predicted:	D. can use the information to prescribe and administer the least possible amount of pain relief. | gold:	C
+Accuracy: 0.44150943396226416

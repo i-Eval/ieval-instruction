@@ -1,0 +1,115 @@
+predicted:	B. Media tour. | gold:	B
+predicted:	B: Stop all sales of the product throughout the nation and issue a recall for that product. | gold:	B
+predicted:	B. consumer relations. | gold:	B
+predicted:	A. 1917 | gold:	B
+predicted:	B. Person-oriented | gold:	C
+predicted:	To interpret trends for management (A). | gold:	B
+predicted:	B. When people hide their opinions if they do not agree with the majority. | gold:	A
+predicted:	What two elements do the planning models of Hendrix (2002), Kendall (1999), Merston (1963) and Parkinson and Ekachai (2006) have in common? 
+A. Research and evaluation
+B. Strategy and evaluation
+C. Strategy and implementation
+D. Objectives and implementation. | gold:	A
+predicted:	B. Planning the program | gold:	B
+predicted:	ingratiation | gold:	B
+predicted:	B. Doubled | gold:	C
+predicted:	D. Both have the potential to damage an organisation's reputation. | gold:	B
+predicted:	A. 1917 | gold:	B
+predicted:	D. 5,200 | gold:	C
+predicted:	B. Enabling | gold:	C
+predicted:	B. Television viewing, in particular, creates increased activity in the right hemisphere of the brain. | gold:	C
+predicted:	A politician, house of worship, and government institution cannot sue for libel. A publicly-traded company can sue for libel. | gold:	C
+predicted:	C. Cutlip et al (2006) | gold:	D
+predicted:	B. It is an example of a formal research tool for practitioners. | gold:	D
+predicted:	C. Write the blog yourself, identifying yourself as an employee of the utility, and quote the scientific opinions of a variety of sources. | gold:	C
+predicted:	C. Public affairs. | gold:	C
+predicted:	D. Evaluation | gold:	B
+predicted:	A. Consider the comprehension level of all of the target audiences. | gold:	B
+predicted:	B. Event | gold:	B
+predicted:	A. Media writing. | gold:	D
+predicted:	D. stakeholder analysis. | gold:	D
+predicted:	Representing clients using new social media environments (A). | gold:	D
+predicted:	A. Workforce development. | gold:	D
+predicted:	B. crisis management. | gold:	B
+predicted:	D. The behavioural role. | gold:	B
+predicted:	C. Grassroots marketing. | gold:	D
+predicted:	A public relations campaign. | gold:	B
+predicted:	B. 1989 | gold:	C
+predicted:	D. Online auctions. | gold:	B
+predicted:	B. product-oriented | gold:	B
+predicted:	C. Multiple choice. | gold:	C
+predicted:	C. Symbol | gold:	C
+predicted:	B. business and commercial areas | gold:	B
+predicted:	A. Solve their problems | gold:	A
+predicted:	D. Active | gold:	B
+predicted:	C. Familiarity with subject or issue. | gold:	C
+predicted:	B. Outputs | gold:	A
+predicted:	A. Content, quality of source, relevance. | gold:	B
+predicted:	A. to help the department stay focused on its strategic plan | gold:	A
+predicted:	B. Outputs | gold:	C
+predicted:	B. identification. | gold:	D
+predicted:	D. identification. | gold:	A
+predicted:	The Creel Committee. | gold:	A
+predicted:	A. An opinion. | gold:	A
+predicted:	A. Shannon and Weaver model | gold:	B
+predicted:	D. Information being delivered in different formats via various digital channels. | gold:	D
+predicted:	C. Person-oriented advertising. | gold:	C
+predicted:	D. Preparation. | gold:	B
+predicted:	D. Objective | gold:	C
+predicted:	D. copyright and trademark law. | gold:	D
+predicted:	A. London | gold:	B
+predicted:	D. Readership. | gold:	D
+predicted:	B. implementation | gold:	B
+predicted:	D. Nonprofits | gold:	A
+predicted:	C. Proximity. | gold:	D
+predicted:	B. Issues management. | gold:	B
+predicted:	D. Outcomes | gold:	B
+predicted:	B. Localize the news releases for audiences in your geography. | gold:	B
+predicted:	To regulate access to posts in the field. | gold:	C
+predicted:	B. Strategy involves setting objectives, developing tactics, and outlining measures of success. | gold:	B
+predicted:	A. Postwar Era, 1945 - 1965. | gold:	D
+predicted:	A. workplace violence | gold:	A
+predicted:	A. individual values, lifestyles and characteristics | gold:	A
+predicted:	D. Personality conflicts. | gold:	A
+predicted:	D. 80% | gold:	D
+predicted:	D. 9,574 | gold:	B
+predicted:	D. Grunig and Hunt (1984) | gold:	D
+predicted:	B. Media | gold:	B
+predicted:	B. People should be treated as an end, not a means to an end. | gold:	C
+predicted:	D. conducting a pre and post analysis of constituents' opinions. | gold:	D
+predicted:	D. Result-oriented | gold:	D
+predicted:	D. Almost all | gold:	C
+predicted:	D. identification. | gold:	B
+predicted:	B. public relations | gold:	C
+predicted:	A. It adapts to changing organizational environments. | gold:	A
+predicted:	A. Securities Act of 1933. | gold:	A
+predicted:	D. It happens suddenly. | gold:	D
+predicted:	B. 2 | gold:	C
+predicted:	D. Twitter | gold:	D
+predicted:	D. Business to business. | gold:	A
+predicted:	B. reactive. | gold:	B
+predicted:	Louis is using evasion of responsibility. | gold:	A
+predicted:	D. planning | gold:	D
+predicted:	A. a communication audit | gold:	A
+predicted:	B. Their ability to deliver specific, detailed information to narrowly defined target publics. | gold:	B
+predicted:	B. the number who change attitudes and opinions. | gold:	B
+predicted:	B. establish legitimacy. | gold:	A
+predicted:	D. Promotional writing | gold:	A
+predicted:	D. Evaluation. | gold:	C
+predicted:	A. Broad | gold:	A
+predicted:	B. People should be treated as an end, not a means to an end. | gold:	B
+predicted:	Starbucks | gold:	A
+predicted:	B. democracy, dialogic. | gold:	B
+predicted:	A. Research pricing and development costs for different services. | gold:	C
+predicted:	B. opinion change. | gold:	B
+predicted:	D. Marketing communications. | gold:	D
+predicted:	A. Change in attitude and Placement of message. | gold:	A
+predicted:	A. Dior | gold:	C
+predicted:	B. Edward Bernays | gold:	D
+predicted:	A. They offer flexibility of talents and skills. | gold:	A
+predicted:	D. Examining public records. | gold:	D
+predicted:	D. Readership. | gold:	D
+predicted:	C. 1980s | gold:	B
+predicted:	According to Esman (1972), which publics help an organization to exist by lending authority or assistance? A. Enabling, B. Functional, C. Normative, D. Diffused. | gold:	A
+predicted:	C. Third parties. | gold:	D
+Accuracy: 0.4636363636363636

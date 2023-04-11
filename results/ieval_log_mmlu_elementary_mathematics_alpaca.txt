@@ -1,0 +1,383 @@
+predicted:	D. p = 24 | gold:	C
+predicted:	D. 9 | gold:	C
+predicted:	C. −1 over 5 | gold:	D
+predicted:	D. 7 | gold:	B
+predicted:	D. t over 4 = 112; $28. | gold:	B
+predicted:	D. 32 | gold:	C
+predicted:	A. 1.1 over 11 | gold:	C
+predicted:	C. 0.01272 | gold:	B
+predicted:	A. 159.26 | gold:	D
+predicted:	A. 0.72 | gold:	D
+predicted:	B. 200 + 400 + 200 | gold:	C
+predicted:	The remainder of 21 divided by 7 is 1. | gold:	D
+predicted:	D. 63 | gold:	A
+predicted:	B. 11 | gold:	A
+predicted:	A. 10 bars of soap for $23.20 | gold:	C
+predicted:	C. 34 minutes | gold:	B
+predicted:	The median in the set of data 23, 13, 18, 29, 32, 25 is 25. | gold:	B
+predicted:	A. (60/6)—12=a | gold:	B
+predicted:	B. 25 | gold:	D
+predicted:	D. 33 | gold:	A
+predicted:	D. 16 | gold:	C
+predicted:	D. 406 | gold:	B
+predicted:	D. 7 | gold:	A
+predicted:	D. 83 | gold:	C
+predicted:	A. 11.1 | gold:	B
+predicted:	A. 32 | gold:	A
+predicted:	D. 45.6 | gold:	D
+predicted:	D. 578 r2 | gold:	D
+predicted:	5d+ 100 | gold:	A
+predicted:	D. t + 4 | gold:	A
+predicted:	D. 125,655 | gold:	B
+predicted:	D. 16 remainder 1 | gold:	B
+predicted:	D. 19 over 2 | gold:	A
+predicted:	D. 200,000 + 70,000 + 2,000 + 40 | gold:	C
+predicted:	D. 110 parts. | gold:	D
+predicted:	C. the median would increase. | gold:	A
+predicted:	D. 27 | gold:	A
+predicted:	D. p-3 | gold:	D
+predicted:	C. (6 × 5) × 10^2 | gold:	C
+predicted:	B. 3 | gold:	C
+predicted:	C. 150x | gold:	B
+predicted:	A. w > 2.3 | gold:	D
+predicted:	B. -5 | gold:	A
+predicted:	D. 48 | gold:	C
+predicted:	B. 15, 19 | gold:	D
+predicted:	B. 12 cans | gold:	B
+predicted:	A. 3.18, 3 and 1 over 8, 3.8,3 | gold:	D
+predicted:	D. 2 | gold:	C
+predicted:	C. 836,000 | gold:	D
+predicted:	D. −45 | gold:	D
+predicted:	B. 40 birds | gold:	A
+predicted:	D. 153 | gold:	B
+predicted:	Leslie spent 20 dollars and 8 cents at a store. How is the amount of money Leslie spent written as a fraction?
+Leslie's spending was written as 20/8, meaning she spent 20 dollars out of 8 dollars. | gold:	B
+predicted:	B. 80 miles | gold:	A
+predicted:	D. subtract 6 from both sides | gold:	B
+predicted:	C. 21 | gold:	A
+predicted:	A. 84 − 11 = t; 73°F | gold:	D
+predicted:	D. 9 ÷ 72 = 0.125 | gold:	A
+predicted:	C. 5 boxes. | gold:	D
+predicted:	The least common multiple of 4 and 10 is 60. | gold:	B
+predicted:	C. 14 over 28 | gold:	D
+predicted:	10 years are there in a decade. | gold:	B
+predicted:	D. 1,406 push-ups. | gold:	C
+predicted:	The two numbers are 5 and 10. | gold:	C
+predicted:	B. −2 | gold:	D
+predicted:	D. 460 | gold:	C
+predicted:	C. 750 and 1,000. | gold:	D
+predicted:	C. 48 | gold:	A
+predicted:	D. 18,000 and 28,000. | gold:	C
+predicted:	C. 7 • 11 • 13 | gold:	D
+predicted:	B. $28.93 | gold:	C
+predicted:	D. 640 | gold:	A
+predicted:	D. 0.2121 | gold:	B
+predicted:	D. (40 × 12) + (60 × 12) = 480 + 720. | gold:	C
+predicted:	B. $6,049 | gold:	B
+predicted:	B. SSSSS; AAA. | gold:	D
+predicted:	A. $2.82 | gold:	A
+predicted:	D. 5 over 6. | gold:	D
+predicted:	A. 3 over 2 | gold:	D
+predicted:	D. 8,000 books | gold:	A
+predicted:	C. 144 | gold:	B
+predicted:	D. 17 | gold:	A
+predicted:	B. 4 | gold:	D
+predicted:	B. 4 over 5 | gold:	C
+predicted:	A. m = 1/6 + e | gold:	B
+predicted:	D. 14 | gold:	D
+predicted:	A. 8.1 | gold:	A
+predicted:	C. 140° | gold:	C
+predicted:	B. 66.5 seconds | gold:	B
+predicted:	D. 96 | gold:	B
+predicted:	B. 70 | gold:	C
+predicted:	A. 1:04 | gold:	A
+predicted:	C. 36 | gold:	B
+predicted:	D. 54 | gold:	A
+predicted:	The greatest common factor of 42 and 84 is 42. | gold:	C
+predicted:	C. 160 feet 8 inches | gold:	D
+predicted:	A. $5,434 | gold:	C
+predicted:	D. 360 | gold:	A
+predicted:	D. 2,610 | gold:	A
+predicted:	B. 3.6 | gold:	C
+predicted:	B. Kim rode 3 more miles per week than Eric rode. | gold:	A
+predicted:	The solution for the equation 5x − 5 = −10 is D. −3. | gold:	A
+predicted:	D. 225 centimeters | gold:	B
+predicted:	C. s/3 = 4 | gold:	C
+predicted:	D. 2,500 | gold:	A
+predicted:	A. 2 over 5 and 8 over 10. | gold:	D
+predicted:	B. 107 seniors | gold:	C
+predicted:	B. Start with 0. Add 5 each time to get the next number. | gold:	C
+predicted:	D. 200 + 200 – 30 – 4 | gold:	A
+predicted:	D. divide 180 by 20 | gold:	B
+predicted:	D. 40 minutes | gold:	C
+predicted:	B. 46+w= 231 | gold:	B
+predicted:	B. 9 | gold:	B
+predicted:	A. 687 | gold:	A
+predicted:	C. 24 hours. | gold:	A
+predicted:	D. 9 | gold:	D
+predicted:	C. 34.018 L | gold:	A
+predicted:	D. 70 | gold:	B
+predicted:	B. 1 hour 12 minutes | gold:	B
+predicted:	The answer to the riddle is cylinder. | gold:	B
+predicted:	B. $14.00 | gold:	B
+predicted:	D. 10,000 | gold:	A
+predicted:	D. 2x+8 | gold:	A
+predicted:	D. (5 + 19) × 12 | gold:	B
+predicted:	B. $4.54 | gold:	B
+predicted:	D. 10,000 + 8,000 + 90 + 6 | gold:	C
+predicted:	D. 13 qt | gold:	D
+predicted:	C. 9 | gold:	C
+predicted:	B. There are 7 groups of marbles with 7 marbles in each group. | gold:	C
+predicted:	D. 19,712 | gold:	D
+predicted:	A. The value of the 4 in the tenths place is 1/10 the value of the 4 in the tens place. | gold:	D
+predicted:	C. 72 km/h | gold:	D
+predicted:	C. 1 kilometer | gold:	B
+predicted:	D. 210 minutes. | gold:	C
+predicted:	The LCM of 24 and 36 is 120. | gold:	C
+predicted:	D. 2 gallons | gold:	C
+predicted:	B. surveying people wearing hats for the visiting team. | gold:	C
+predicted:	D. 25 | gold:	D
+predicted:	C. 118.5 | gold:	B
+predicted:	B. 18 | gold:	C
+predicted:	D. 120 | gold:	D
+predicted:	D. 0 | gold:	C
+predicted:	C. 6 | gold:	D
+predicted:	A. 3:58 p.m. | gold:	A
+predicted:	B. 1 and 1 over 2 ft | gold:	B
+predicted:	D. 240 | gold:	C
+predicted:	The ratio of low-fat gallons to chocolate gallons in the Tranquility Inn’s weekly milk order is 3:01. | gold:	D
+predicted:	5xn= 20 (where n is the number of students in the entire fourth grade) | gold:	C
+predicted:	D. 52 | gold:	C
+predicted:	D. 3 + 4(2) | gold:	B
+predicted:	D. n =7÷4 | gold:	C
+predicted:	C. 1,200,000 | gold:	B
+predicted:	D. 92 | gold:	A
+predicted:	B. conducting the survey at all shoe stores. | gold:	C
+predicted:	The difference in elevation between Talon Bluff and Salt Flats is 620 feet. | gold:	D
+predicted:	A. 12 students. | gold:	D
+predicted:	D. 15, 30, 40, 55, 65... | gold:	C
+predicted:	D. 54 stickers. | gold:	A
+predicted:	B. −3, −6, 7, 11, –9 | gold:	A
+predicted:	A. 0.007 | gold:	B
+predicted:	B. 9 over 6 | gold:	A
+predicted:	D. 25 × 8 | gold:	D
+predicted:	D. 2,144 | gold:	D
+predicted:	A. 8.86 | gold:	D
+predicted:	D. about 40. | gold:	B
+predicted:	C. The mean will decrease. | gold:	B
+predicted:	C. 500 and 699. | gold:	A
+predicted:	A. {10, 15, 20} | gold:	D
+predicted:	D. 9 days. | gold:	C
+predicted:	D. 24 | gold:	C
+predicted:	A. 0.25 1.6 1.0 | gold:	C
+predicted:	B. −7 | gold:	A
+predicted:	B. 20 | gold:	C
+predicted:	C. 77 | gold:	C
+predicted:	D. −62 | gold:	A
+predicted:	B. 794 | gold:	C
+predicted:	D. 5+5+5+5+5 | gold:	C
+predicted:	D. 9x90 | gold:	C
+predicted:	A. 1 and 4 over 7 | gold:	B
+predicted:	D. −56 | gold:	A
+predicted:	C. (232 - 190)x6=b | gold:	A
+predicted:	D. 3,000 | gold:	C
+predicted:	D. 1,046 | gold:	B
+predicted:	D. 5 gallons. | gold:	B
+predicted:	A. 3(x+2) and 3x+2 | gold:	D
+predicted:	A. 860,460 gallons | gold:	D
+predicted:	C. 640 | gold:	D
+predicted:	D. 18 − p = 4; 22 | gold:	B
+predicted:	D. 216 | gold:	B
+predicted:	The mean of the set of data 18, 9, 9, 10, 11, 14, 30, 19 is D. 11. | gold:	B
+predicted:	B. 159 square miles per county | gold:	D
+predicted:	D. −76°C | gold:	B
+predicted:	C. 14 is 3 times as many as 42. | gold:	D
+predicted:	A. 437 | gold:	D
+predicted:	D. 6.3 miles | gold:	C
+predicted:	B. 0.0261 | gold:	B
+predicted:	C. Between 12 and 15 lb | gold:	B
+predicted:	B. 30/5 | gold:	B
+predicted:	D. All the numbers in the pattern can be divided equally by 7. | gold:	D
+predicted:	D. −1.1 | gold:	D
+predicted:	A. 46 over 108 | gold:	A
+predicted:	D. 79 | gold:	C
+predicted:	The GCD of 25 and 55 is 11. | gold:	A
+predicted:	A. 1.8 | gold:	B
+predicted:	B. It is located at -15 and is to the right of point A on the numberline. | gold:	C
+predicted:	D. 3 | gold:	D
+predicted:	B. 12 + 12 | gold:	D
+predicted:	B. 7^3 | gold:	B
+predicted:	D. 60 | gold:	D
+predicted:	D. −32 | gold:	C
+predicted:	B. 18 over 56 | gold:	C
+predicted:	C. 15 cm | gold:	C
+predicted:	D. 74 | gold:	C
+predicted:	B. 300.58 | gold:	B
+predicted:	C. $42.46 | gold:	A
+predicted:	C. 7 | gold:	A
+predicted:	D. $59 | gold:	B
+predicted:	D. 14.72 | gold:	A
+predicted:	B. pounds. | gold:	B
+predicted:	D. $10 profit | gold:	C
+predicted:	D. 40 | gold:	B
+predicted:	B. 2 subjects. | gold:	C
+predicted:	B. (215 × 7) – (467 × 3) | gold:	D
+predicted:	A. 240 ÷ 12 | gold:	A
+predicted:	D. 137. | gold:	C
+predicted:	D. −36 | gold:	D
+predicted:	A. 3.99p + 2.99d | gold:	B
+predicted:	A. 4 ÷ 12 = t | gold:	D
+predicted:	D. 23 | gold:	B
+predicted:	D. 5 | gold:	A
+predicted:	B. 7:15 a.m. | gold:	B
+predicted:	B. $0.60 | gold:	C
+predicted:	C. 2^3 • 3^2 | gold:	D
+predicted:	C. 224 | gold:	B
+predicted:	B. 0.0115 | gold:	D
+predicted:	A. 11.9 in. | gold:	D
+predicted:	A. 2 : 96; 2 : 16 | gold:	B
+predicted:	D. 268 | gold:	A
+predicted:	A. 1,801 | gold:	D
+predicted:	C. 2.67 cm | gold:	D
+predicted:	C. 393 × 3 | gold:	D
+predicted:	D. 37 | gold:	B
+predicted:	B. 3 | gold:	C
+predicted:	A. 12 × 3 | gold:	B
+predicted:	B. 100 miles | gold:	B
+predicted:	D. 4,535,343 | gold:	C
+predicted:	D. 32.5 minutes | gold:	B
+predicted:	A. 3 over 4 | gold:	A
+predicted:	A. 1,300 and 1,500. | gold:	C
+predicted:	D. 2 • 2 • 2 • 3 • 11 | gold:	D
+predicted:	B. m × 4 = 12 | gold:	D
+predicted:	D. 93 | gold:	A
+predicted:	D. (x • 4) – 22 | gold:	A
+predicted:	D. 1,122,202 | gold:	B
+predicted:	A. 3 and 5 over 9. | gold:	D
+predicted:	A. $99.89 | gold:	A
+predicted:	B. 8 × t = 56 | gold:	B
+predicted:	Ms. Fisher used the expression (6 × 8) × 12 to find the total number of markers needed for her students’ art project. This expression is equal to  (6 × 8) × 12 = 512. | gold:	D
+predicted:	D. 408 | gold:	B
+predicted:	B. (2+4)x6 | gold:	D
+predicted:	D. 45 | gold:	C
+predicted:	C. 8.027. | gold:	D
+predicted:	D. 25 words per minute. | gold:	C
+predicted:	B. divide 18 by 3. | gold:	C
+predicted:	D. 6+4 × p = 18 | gold:	D
+predicted:	A. 458 | gold:	D
+predicted:	D. −57 | gold:	B
+predicted:	C. 314 | gold:	C
+predicted:	A. 22.75 | gold:	A
+predicted:	A. 6, −1, 8, −3, −4 | gold:	B
+predicted:	D. 4,125 | gold:	B
+predicted:	The length of a football field in yards. | gold:	C
+predicted:	D. 5 problems per minute. | gold:	C
+predicted:	D. 180 | gold:	D
+predicted:	B. $117.30 | gold:	B
+predicted:	D. 48 | gold:	A
+predicted:	A. 1,399 and 1,599. | gold:	C
+predicted:	B. 500 | gold:	C
+predicted:	D. 432 horses | gold:	A
+predicted:	B. $35.20 | gold:	C
+predicted:	D. 88 | gold:	C
+predicted:	A. one hundred seventy-nine thousand twelve | gold:	D
+predicted:	A. 1725 ft^3. | gold:	C
+predicted:	C. 440 | gold:	B
+predicted:	B. 10,354, 10,600, 104,321, 106,213 | gold:	B
+predicted:	D. 5 out of 10. | gold:	D
+predicted:	D. 22.4 | gold:	C
+predicted:	A. 7 over 24 | gold:	A
+predicted:	D. 30 in. by 57 in. | gold:	D
+predicted:	B. 2,400 | gold:	A
+predicted:	B. Rocco had six baseballs and gave away two of them. | gold:	A
+predicted:	A. 4 and 19 over 20 | gold:	A
+predicted:	D. 42 × 7 | gold:	A
+predicted:	A. 38 | gold:	D
+predicted:	D. 128.1 | gold:	D
+predicted:	A. 177 remainder 9. | gold:	C
+predicted:	B. 88^3 | gold:	D
+predicted:	D. 450 | gold:	C
+predicted:	D. 9 | gold:	B
+predicted:	The mode of the numbers 22, 25, 14, 11, 23, 27, 46 is 23. | gold:	D
+predicted:	The quotient of 1,224/9 is 136. | gold:	B
+predicted:	B. 3x + 5x and 15x | gold:	C
+predicted:	D. $37.25 | gold:	C
+predicted:	D. 63 | gold:	D
+predicted:	D. $16.00 | gold:	A
+predicted:	A. 96 over 216 | gold:	C
+predicted:	C. 29,250 yards^2 | gold:	B
+predicted:	D. 15 | gold:	C
+predicted:	D. $12 | gold:	B
+predicted:	A. 389 + 116 = 405 points in total. | gold:	C
+predicted:	B. $26.50 | gold:	D
+predicted:	D. 189 days. | gold:	D
+predicted:	D. 30x + 15y | gold:	D
+predicted:	Dani has 45 marbles and Joe has 9 marbles. | gold:	C
+predicted:	C. 28 | gold:	C
+predicted:	D. 870 | gold:	C
+predicted:	D. 270° | gold:	D
+predicted:	D. 320 | gold:	D
+predicted:	C. 64,000 feet | gold:	D
+predicted:	A. 13 over 36. | gold:	A
+predicted:	B. 0.0406 | gold:	A
+predicted:	B. the total number of students in each teacher’s class. | gold:	B
+predicted:	D. 3x9=d | gold:	D
+predicted:	D. 43.29 | gold:	B
+predicted:	D. All rhombi are squares because they have 4 sides that are all the same length. | gold:	B
+predicted:	B. Cup | gold:	B
+predicted:	D. 59.24 m | gold:	A
+predicted:	A. 7-Mar | gold:	D
+predicted:	B. 5 over 6, 1 over 3, 0.75, 1 over 8 | gold:	C
+predicted:	A. 52.0902 | gold:	A
+predicted:	A. 3 < 5 (False)
+B. 5 > 3 (False)
+C. −5 > −3 (False)
+D. −3 > −5 (False) | gold:	C
+predicted:	D. 300,561 | gold:	D
+predicted:	A. 4 over 5 and 24 over 30 | gold:	D
+predicted:	D. 36 | gold:	C
+predicted:	D. 60 | gold:	D
+predicted:	D. 30 square feet. | gold:	D
+predicted:	B. Quadrant II | gold:	B
+predicted:	C. 2 m | gold:	C
+predicted:	A. 3 bottles of juice for $6.72 | gold:	D
+predicted:	D. 118 | gold:	B
+predicted:	The median of the set of data is $17.88. | gold:	C
+predicted:	D. 81m + 27t | gold:	D
+predicted:	D. 12 | gold:	A
+predicted:	C. 3-Jan | gold:	A
+predicted:	D. 42 | gold:	B
+predicted:	D. 8 | gold:	A
+predicted:	B. 120h | gold:	D
+predicted:	A. the total number of points if a player made 7 shots and each shot was worth 2 points. | gold:	A
+predicted:	D. 360 | gold:	A
+predicted:	D. 47,924 | gold:	B
+predicted:	C = 8π. | gold:	B
+predicted:	B. $2.28 | gold:	D
+predicted:	B. 2,589,200 | gold:	B
+predicted:	C. 25 bouquets. | gold:	C
+predicted:	C. 25 + m | gold:	A
+predicted:	A. The product of 5 x 2 is even because both of the factors are even. | gold:	D
+predicted:	A. y - 36 = 13 | gold:	A
+predicted:	A. 15 | gold:	B
+predicted:	B. 36 | gold:	C
+predicted:	D. 668 | gold:	B
+predicted:	D. 25 | gold:	C
+predicted:	B. 3 + b = 24 | gold:	C
+predicted:	C. 8 | gold:	B
+predicted:	D. 1,176 | gold:	D
+predicted:	A. 1:03 | gold:	A
+predicted:	D. 11 over 16 | gold:	C
+predicted:	D. 3 over 5 | gold:	D
+predicted:	D. 47 | gold:	C
+predicted:	C. 2 times the sum of 7 and m | gold:	A
+predicted:	D. 4,750 | gold:	B
+predicted:	C. 4 over 10 | gold:	D
+predicted:	A. 2x (5x4) | gold:	B
+predicted:	D. 421 | gold:	B
+predicted:	D. 140 | gold:	D
+predicted:	D. 49 | gold:	A
+predicted:	D. 99,000 | gold:	D
+predicted:	The median of the set of data 13, 35, 26, 8, 24, 10, 22, 10, 32 is 22. | gold:	C
+predicted:	B. Divide 25 by 5. | gold:	B
+Accuracy: 0.24074074074074073

@@ -1,0 +1,224 @@
+predicted:	C. P(t > 1.54) with df = 7. The P-value of the hypothesis test is 0.42. | gold:	B
+predicted:	B. 31.7 to 39.3 minutes | gold:	C
+predicted:	C. The mean (expected value) always equals the sum of the products obtained by multiplying each value by its corresponding probability. | gold:	D
+predicted:	A. If there is sufficient evidence to reject a null hypothesis at the 10% level, then there is sufficient evidence to reject it at the 5% level. | gold:	D
+predicted:	D. is significantly different from the other observations in the data set. | gold:	D
+predicted:	A. 95 percent of the students in her school are from families whose income is between $35,095 and $45,005. | gold:	D
+predicted:	A. The probability of a Type I error and the probability of a Type II error would both decrease. | gold:	D
+predicted:	C. The man, because he is 74 inches tall and the woman is only 70 inches tall. | gold:	D
+predicted:	D. t-distributions are more spread out than the normal distribution. | gold:	C
+predicted:	D. This study was an experiment in which the subjects were used as their own controls. | gold:	D
+predicted:	A. It describes a process that creates estimates that are too high on average or too low on average. | gold:	A
+predicted:	B. Halting the production process when the tissue strength is below specifications. | gold:	C
+predicted:	A. 75 - 0.30(14) | gold:	D
+predicted:	A. increases the interval size by 9%. | gold:	C
+predicted:	B. The number of points a hockey team receives in 10 games, where two points are awarded for wins, one point for ties, and no points for losses. | gold:	D
+predicted:	D. I and II | gold:	D
+predicted:	I and II only. In order to use χ2 procedures, you must have at least 2 degrees of freedom. | gold:	B
+predicted:	D. E and F are both independent and mutually exclusive. | gold:	D
+predicted:	D. 0.0036 | gold:	D
+predicted:	B. The number of cities among the 10 largest in New York State for which the weather is cloudy for most of a given day. | gold:	D
+predicted:	C. 0.21 | gold:	D
+predicted:	B. We use z for proportions because proportions are approximately normal. Means are not. | gold:	D
+predicted:	B. Asking questions in a neutral manner to avoid influencing the responses (Neutrality of the survey questions is most important to reduce bias.) | gold:	C
+predicted:	C. 0.4 | gold:	B
+predicted:	B. $25,300 | gold:	A
+predicted:	B. $23,700 | gold:	D
+predicted:	A. A sample must be reasonably large to be properly considered a simple random sample. (False) | gold:	A
+predicted:	B. Her procedure makes use of chance. | gold:	A
+predicted:	A. Option II if it wants to maximize expected return. | gold:	D
+predicted:	A. 1.345 < t< 1.761. | gold:	D
+predicted:	B. Make a list of all the customers who joined in the last 12 months and choose a random sample of customers on this list. | gold:	D
+predicted:	B. 1.96 | gold:	D
+predicted:	B. A two-sample z-test of population means. | gold:	D
+predicted:	A. The mean price and the range of prices will increase by 50 cents. | gold:	D
+predicted:	C. We are 95% confident that the average donation in November is between about $91 and $219. | gold:	A
+predicted:	B. I & II only | gold:	D
+predicted:	D. It is the difference between the statistic and the truth due to use of a random sample. | gold:	C
+predicted:	A. We are 95 percent confident that the proportion of women interested in shopping on Sundays exceeds the proportion of men interested in shopping on Sundays. | gold:	A
+predicted:	B. In an experiment, the researcher manipulates some variable to observe its effect on a response variable; in an observational study, he or she simply observes and records the observations. | gold:	A
+predicted:	B. 27.70 – 22.30 = 5.40 | gold:	B
+predicted:	P(A ∪ B) = 1 implies events A and B are mutually exclusive. | gold:	D
+predicted:	D. 390 | gold:	D
+predicted:	C. Between 38% and 48% of those surveyed expressed fear about going to school. | gold:	A
+predicted:	B. Sample survey | gold:	A
+predicted:	A. The first study was an experiment without a control group, while the second was an observational study. | gold:	A
+predicted:	B. Plan II | gold:	B
+predicted:	B. because a sample statistic is used to estimate a population parameter. | gold:	B
+predicted:	C. I or II (but not both) and III. | gold:	C
+predicted:	D. This is a double-blind experiment because the experimenters could prevent both groups of patients from knowing what sort of treatment the other group is receiving. | gold:	C
+predicted:	A. The null hypothesis should be rejected. | gold:	D
+predicted:	B. The population variances from each group are unknown. | gold:	D
+predicted:	C. The events E and F are mutually exclusive but not independent. | gold:	D
+predicted:	B. There is one explanatory variable with three levels of response. | gold:	D
+predicted:	A. H0: p ≤ 0.60 and Ha: p > 0.60. | gold:	A
+predicted:	B. A change in which variable is called x and which is called y. | gold:	D
+predicted:	C. It multiples the interval size by 1.732. | gold:	D
+predicted:	B. 0.42 | gold:	A
+predicted:	D. z = 2.40 | gold:	D
+predicted:	C. Sex is a blocking factor. | gold:	C
+predicted:	C. 90% of the variation in GPAs can be explained by variation in number of study hours per day. | gold:	D
+predicted:	C. 86.65; she qualified. | gold:	C
+predicted:	C. An observational study with comparison and randomization. | gold:	D
+predicted:	A. Niacin lowers cholesterol an average of 18 points, while Lipitor lowers cholesterol an average of 41 points. | gold:	D
+predicted:	A. In repeated samplings of the same size, 95 percent of the intervals constructed will contain the true mean weight of the oranges of this variety. | gold:	A
+predicted:	A. 30 times for each game. | gold:	D
+predicted:	B. The population standard deviations at both locations are not equal. | gold:	D
+predicted:	D. 0.60. | gold:	B
+predicted:	B. μ = 3.977, σ = 3.861 | gold:	B
+predicted:	C. HA: μ1− μ2≠ 0. | gold:	A
+predicted:	B. I and II | gold:	B
+predicted:	C. Use of a confounding variable to control the placebo effect. | gold:	C
+predicted:	A. The probability of a Type II error does not depend on the probability of a Type I error. | gold:	D
+predicted:	A. central tendency. | gold:	B
+predicted:	D. There is a fixed number of trials. | gold:	C
+predicted:	C. 4.085 pounds | gold:	D
+predicted:	The distribution of the sample proportion will be more spread out. | gold:	B
+predicted:	C. 64.0%. | gold:	D
+predicted:	D. 141 pounds | gold:	C
+predicted:	A. The probability of getting a finding at least as extreme as that obtained by chance alone if the null hypothesis is true is 0.20. | gold:	A
+predicted:	D. Expected frequencies in each cell should be at least 5, and to achieve this, one sometimes combines categories for one or the other or both of the variables. | gold:	C
+predicted:	A. This week his time was two minutes lower than his time last week. | gold:	D
+predicted:	D. 86.7% | gold:	C
+predicted:	B. Mary's score is 8% higher than Pam's. | gold:	C
+predicted:	D. People who want to avoid depression should consider drinking green tea on a daily basis. | gold:	D
+predicted:	This is a simple random sample obtained in an easier and less costly manner than procedures involving sampling from the entire population of principals. | gold:	D
+predicted:	B. the same treatment given the experimental group without knowing they are receiving the treatment. | gold:	C
+predicted:	A. There is no advantage. Because the mean and the standard deviation are about the same, the confidence interval computed using 35 observations should be approximately the same as that computed using 15 observations. | gold:	D
+predicted:	B. The shape is somewhat skewed right with a mean of 210 and a standard deviation of 3.75. | gold:	B
+predicted:	C. Taking more careful measurements to reduce variability in the response would increase the power of the test. | gold:	C
+predicted:	A warranted halt in production to adjust the machinery. | gold:	C
+predicted:	D. None of the above. | gold:	D
+predicted:	B. A reasonable time-and-cost-saving procedure would be to randomly choose families and include all drivers in each of these families in the sample. | gold:	D
+predicted:	A. No matter how the population is distributed, as the sample size increases, the mean of the sample means becomes closer to the mean of the population. | gold:	D
+predicted:	C. A randomized block design, blocked on temperature, with six treatment groups. | gold:	B
+predicted:	A. While this study may have its faults, it still does prove causation. | gold:	B
+predicted:	B. The correlation coefficient is 0.71. | gold:	D
+predicted:	A. Yes, because every employee has the same chance of being selected. | gold:	D
+predicted:	B. A t-test for a mean. | gold:	B
+predicted:	Proper use of chance as evidenced by the simple random sample makes this a well-designed survey. | gold:	C
+predicted:	B. A third group that randomly hears either classical or light rock music each day. | gold:	A
+predicted:	D. 0.658 | gold:	D
+predicted:	D. 11 | gold:	A
+predicted:	C. 70 minutes to 264 minutes. | gold:	C
+predicted:	A. Her grade will go up by 40.05 points. | gold:	B
+predicted:	A two-sample t-test. | gold:	C
+predicted:	D. Block on exercise level because it is associated with cholesterol level. | gold:	D
+predicted:	B. by blocking on sleep length. | gold:	A
+predicted:	C. 84% | gold:	C
+predicted:	A. μx+y = 76, σx+y = 8.5. | gold:	B
+predicted:	A. Use the surveys that were returned and change the sample size to 48 for the analysis. | gold:	D
+predicted:	B. Mr. Em's class is more homogeneous than Mr. Bee's. | gold:	B
+predicted:	C. 0.765 | gold:	A
+predicted:	C. both of the above. | gold:	A
+predicted:	A. The first study is a controlled experiment, while the second is an observational study. | gold:	B
+predicted:	D. Experimental units are the same as subjects. | gold:	D
+predicted:	A. 0.168 | gold:	D
+predicted:	B. 144 | gold:	D
+predicted:	D. an observational study. | gold:	D
+predicted:	A. The number of heads in three tosses of a coin | gold:	B
+predicted:	A. The first showed 58% and the second 13% because of the lack of randomization as evidenced by the wording of the questions.
+B. The first showed 13% and the second 58% because of a placebo effect due to the wording of the questions.
+C. The first showed 58% and the second 13% because of the lack of a control group.
+D. The first showed 58% and the second 13% because of response bias due to the wording of the questions. | gold:	D
+predicted:	C. For both companies, the probability that a fuse will last at least 1 hour is 0.159. | gold:	C
+predicted:	C. Subaru owners are approximately 19.7% more satisfied with their drive systems than are Toyota owners. | gold:	D
+predicted:	B. A correlation of 1 indicates a perfect cause-and-effect relationship between the variables. | gold:	C
+predicted:	C. The number of successes and the number of failures for the two groups are not all large enough. | gold:	C
+predicted:	A. 12 - 0.99(0.3) ounces | gold:	B
+predicted:	D. 6.68% | gold:	D
+predicted:	A. 0.8333 | gold:	D
+predicted:	B. The player will gain about $1.44. | gold:	D
+predicted:	A. By the law of large numbers, the next toss is more likely to be an odd number than another even number. | gold:	D
+predicted:	D. 0.94 | gold:	D
+predicted:	A. The true proportion of students at this university with the correct address on record is within the confidence interval constructed. | gold:	D
+predicted:	B. The specified mean length of 3.5 cm is not within a 90 percent confidence interval. | gold:	B
+predicted:	B. P(X = 2 out of 7) | gold:	D
+predicted:	B. χ2 is defined only for nonnegative values of the variable. | gold:	D
+predicted:	D. For every year the car gets older, the selling price drops by approximately $983. | gold:	D
+predicted:	B. α = 0.05, n = 15. | gold:	C
+predicted:	A. Because tis more extreme than ±1.96, he should reject the null hypothesis. He has convincing evidence at the 5% significance level that the mean mass of eggs from these hens is different from 56 grams. | gold:	B
+predicted:	B. All county residents. | gold:	B
+predicted:	A. Yes, because every student has the same chance of being selected. | gold:	D
+predicted:	B. If properly designed, observational studies can establish cause-and-effect relationships just as strongly as properly designed experiments. | gold:	C
+predicted:	A. 0.42 | gold:	D
+predicted:	B. The t-distributions are lower at the mean and higher at the tails, and so are more spread out than the normal distribution. | gold:	D
+predicted:	A. Dialysis center: Type I error, towel manufacturer: Type I error. | gold:	C
+predicted:	A. Stratified sample, because the population is divided into five strata—namely, five offices in five different countries. | gold:	A
+predicted:	D. 0.91 | gold:	D
+predicted:	D. The median of all the salaries. | gold:	D
+predicted:	A. Yes, because he is comparing the means of two small groups. | gold:	D
+predicted:	B. If the linear model is good, the number of positive residuals will be the same as the number of negative residuals. | gold:	C
+predicted:	B. No, because while this design may point out an association between reading and GPA, it cannot establish a cause-and-effect relationship. | gold:	D
+predicted:	D. A distribution of all the values taken by a statistic from all possible samples of a given size. | gold:	D
+predicted:	C. P(t > 2) with 15 degrees of freedom. | gold:	C
+predicted:	A. the effect of a treatment unit. | gold:	B
+predicted:	A. a completely randomized design, with the currently marketed medicine and the experimental medicine as two treatments. | gold:	A
+predicted:	A. μ = 14,900; σ = 6100 | gold:	C
+predicted:	D. Assign numbers 0, 1, 2, 3, 4 to successfully selling a policy to a customer and numbers 5, 6, 7, 8, 9 to failing to sell a policy to a customer. | gold:	A
+predicted:	B. 58 points. | gold:	D
+predicted:	D. no matter what the value of n or what the distribution of the original population. | gold:	C
+predicted:	D. All of the above are valid conclusions. | gold:	B
+predicted:	B. $10,356 | gold:	B
+predicted:	D. 3.37 | gold:	C
+predicted:	B. A least squares regression line showing high correlation | gold:	D
+predicted:	A. They will most likely feel that the officiating could have been better, but that it was the team's poor play, not the officiating, that was primarily responsible for the loss. | gold:	C
+predicted:	D. 0.48. | gold:	B
+predicted:	A. The variables "gender" and "attitude toward abortion" are related. | gold:	B
+predicted:	B. It would not be unexpected for 3% of the population to begin using coupons or stop using coupons. | gold:	D
+predicted:	B. 0.05 | gold:	D
+predicted:	B. Standard deviation | gold:	D
+predicted:	C. reduce variation within treatments. | gold:	C
+predicted:	A. Matched pairs comparison of population proportions. | gold:	B
+predicted:	A. 90% of politicians running for a congressional seat spend between $117,500 and $132,500. | gold:	D
+predicted:	A. 0.0057. | gold:	A
+predicted:	B. Simple random sample (SRS) | gold:	C
+predicted:	D. 0.93 | gold:	D
+predicted:	A. 1536 | gold:	C
+predicted:	D. The population has a symmetric distribution. | gold:	B
+predicted:	A. (3,034, 3,466) | gold:	A
+predicted:	A. 0.460 | gold:	D
+predicted:	B. Keeping the park open when the lead levels are in excess of the allowed limit. | gold:	A
+predicted:	A. Because the population standard deviations are not known and conditions are met, the student shoulduse a two-sample t-test. | gold:	D
+predicted:	D. 587.4 | gold:	C
+predicted:	D. It will increase by 40 points. | gold:	B
+predicted:	A. The sample size is too small compared to the number of employees in the system to give a fair representation. | gold:	D
+predicted:	A. 42.2 g | gold:	B
+predicted:	D. About 95% of polls conducted in this way will give a sample proportion within 3.2 percentage points of the actual proportion of all Americans who approve of the job the president is doing. | gold:	D
+predicted:	B. 0.10 | gold:	D
+predicted:	B. The mean life expectancy of one model is 6 years, while the mean life expectancy of the other is 12 years. | gold:	D
+predicted:	A. 0.8 | gold:	B
+predicted:	D. A stratified random sample provides information about each stratum in the population as well as an estimate for the population as a whole, and a simple random sample does not. | gold:	A
+predicted:	A. 0.0278. | gold:	C
+predicted:	B. No meaningful conclusion is possible without knowing something more about the characteristics of his listeners. | gold:	A
+predicted:	D. Too high, because convenience samples overestimate average results. | gold:	C
+predicted:	D. Range. | gold:	A
+predicted:	B. Use the 88 who did respond, using 120 as the sample size in the analysis. | gold:	C
+predicted:	A. 0.44, 0.5, 0.2
+If A and B are mutually exclusive, then P(A ∪ B) = P(A) + P(B) = 0.3 + 0.2 = 0.5.
+If A and B are independent, then P(A ∪ B) = P(A) × P(B) = 0.3 × 0.2 = 0.6.
+If B is a subset of A, then P(A ∪ B) = P(A) + P(B|A) = 0.3 + 0.2 = 0.5.
+P(A ∪ B) = 0.44, 0.5, 0.2. | gold:	D
+predicted:	C. The probabilities of all possible values of X must add up to one. | gold:	C
+predicted:	A. Small sample size and 95% confidence. | gold:	C
+predicted:	D. 0.65. | gold:	D
+predicted:	D. 82.1%. | gold:	D
+predicted:	B. 0.1446. | gold:	B
+predicted:	B. A and B may or may not be mutually exclusive. | gold:	A
+predicted:	B. An experiment, thus making cause and effect a reasonable conclusion. | gold:	A
+predicted:	C. The probability of rejecting the null hypothesis if it is, in fact, false. | gold:	D
+predicted:	C. $190 | gold:	D
+predicted:	C. Teachers in the study who were more satisfied with their job were less confident in their ability to control their situation. | gold:	D
+predicted:	B. E(X + Y) = 619, var(X + Y) = 10 | gold:	D
+predicted:	The sets have identical medians. | gold:	D
+predicted:	A. In a well-designed, well-conducted sample survey, sampling error is effectively eliminated. | gold:	D
+predicted:	A. I and II only | gold:	A
+predicted:	D. 423 | gold:	D
+predicted:	A. 2 | gold:	C
+predicted:	A. A 95% confidence interval of mean height of teachers in a small town. | gold:	D
+predicted:	D. The probability of rejecting the null hypothesis if it is, in fact, false. | gold:	D
+predicted:	A. Patients will spend more money on Heartaid, even though it is actually not any more effective than the current medication. | gold:	C
+predicted:	B. Students in the second class generally scored higher than students in the first class. | gold:	A
+predicted:	D. There is evidence to conclude that the new process is producing engines with a mean thrust under 9500 pounds. | gold:	D
+predicted:	The name given to a point whose removal has this kind of effect on statistical calculations is "Statistically significant point". | gold:	D
+Accuracy: 0.28703703703703703

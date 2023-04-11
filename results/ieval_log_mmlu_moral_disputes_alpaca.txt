@@ -1,0 +1,347 @@
+predicted:	A. jus in bello. | gold:	A
+predicted:	A. violates human dignity. | gold:	C
+predicted:	A. obscures the harms of noncoerced, consensual sex by implying that because what is coerced is bad what is noncoerced is good. | gold:	A
+predicted:	C. both its quantity and its quality. | gold:	C
+predicted:	B. the wider effects on human beings. | gold:	B
+predicted:	A. skin cell nuclear transfer. | gold:	C
+predicted:	A. we allow the patient to harm him- or herself. | gold:	D
+predicted:	B. proportional | gold:	B
+predicted:	B. consequentialism | gold:	D
+predicted:	D. all of the above | gold:	D
+predicted:	B. the problem that the bad effects of current carbon dioxide emissions will fall largely on future generations. | gold:	D
+predicted:	A. it fails to reconcile prima facie duties. | gold:	B
+predicted:	A. often have to be made quickly and without immediate authorization. | gold:	B
+predicted:	Baxter argues that we should view our treatment of the environment as a matter of various trade-offs whose aim is to minimize damage incurred by all individual living beings. | gold:	D
+predicted:	B. virtue ethics | gold:	C
+predicted:	C. both of the above. | gold:	C
+predicted:	A. because dead people no longer exist, and thus cannot benefit from choosing to die. | gold:	A
+predicted:	B. the right to life belongs to all living creatures, human or not. | gold:	A
+predicted:	A. retributive theories of punishment. | gold:	A
+predicted:	B. She says the claim is implausible. | gold:	B
+predicted:	C. It will produce harmful biological mutations as clones produce further clones. | gold:	C
+predicted:	B. his argument does not require that marital and political freedom of association be equally important. | gold:	B
+predicted:	A. this policy is morally problematic because it harms the environment. | gold:	D
+predicted:	D. murder is wrong. | gold:	C
+predicted:	B. differential treatment. | gold:	B
+predicted:	C. that the only important more concepts are care and compassion. | gold:	B
+predicted:	A. fail to give an adequate answer to the argument from marginal cases. | gold:	C
+predicted:	D. he is still confident that the threat of the death penalty at least sometimes prevents murder. | gold:	D
+predicted:	A. consequentialist and dignity-based. | gold:	C
+predicted:	C. The consequences of helping the poor would be worse than the consequences of not helping them. | gold:	D
+predicted:	B. We can't tell what the motives of the parents are. | gold:	A
+predicted:	A. a distributionist. | gold:	C
+predicted:	B. Kant is wrong to think about the wrong of sexual objectification in terms of humanity. | gold:	A
+predicted:	A. you have no obligation to let the violinist use your kidneys for that hour. | gold:	D
+predicted:	B. there is a difference between rules of membership and rules about settlement within a physical territory. | gold:	B
+predicted:	B. around one third of all human deaths. | gold:	A
+predicted:	D. 82 percent | gold:	C
+predicted:	B. necessary for sexual objectification. | gold:	C
+predicted:	B. non-consensual. | gold:	B
+predicted:	B. letting die in itself is morally worse than killing. | gold:	C
+predicted:	B. all and only sentient creatures have direct moral standing. | gold:	C
+predicted:	B. It involves the idea of alternative actions open to the agent. | gold:	D
+predicted:	B. they are dominated by their partners insofar as they are not free to do as they please. | gold:	A
+predicted:	D. humanitarian duties (e.g., preventing systematic violations of human rights) | gold:	B
+predicted:	A. to do his or her duty. | gold:	C
+predicted:	D. economically motivated. | gold:	A
+predicted:	D. all of the above. | gold:	B
+predicted:	A. this would still not justify drug prohibition. | gold:	A
+predicted:	B. an actual or hypothetical social agreement of some sort. | gold:	B
+predicted:	A. to which we need to give a precise answer. | gold:	B
+predicted:	D. Paternalism is always justified when the paternalistic practices truly are in the best interest of those affected. | gold:	A
+predicted:	D. All of the above. | gold:	B
+predicted:	B. having to choose between addressing immediate harm and addressing structural injustice. | gold:	A
+predicted:	Ashford argues that illicit cash flow to tax havens from rich countries exceeds aid to the world's poor (Answer A). | gold:	D
+predicted:	Papadaki argues that A. sexual objectification is not always wrong. | gold:	D
+predicted:	A. naturalness arguments and arguments from fidelity. | gold:	C
+predicted:	C. just war theory. | gold:	D
+predicted:	B. the fragmentation of the effects of greenhouse gas emissions across generations. | gold:	C
+predicted:	B. they minimize the amount of suffering in the world. | gold:	C
+predicted:	C. abortion is presumptively morally wrong but can become permissible in certain extreme cases. | gold:	A
+predicted:	B. ethical killing | gold:	D
+predicted:	A. some optimal state of pollution. | gold:	A
+predicted:	B. the ethics of prime facie duty. | gold:	B
+predicted:	A and B only. | gold:	D
+predicted:	A. argue that nature is not inherently normative. | gold:	B
+predicted:	A. only whole ecosystems (not any of the individuals that make up those ecosystems) have direct moral standing. | gold:	B
+predicted:	A. just war theory. | gold:	B
+predicted:	According to Reiman, van den Haag's arguments in favor of the death penalty (B. are incompatible with the right to retaliation. | gold:	D
+predicted:	B. It leads us into "tragedy of the commons" situations and they instill in us an atomistic view of persons. | gold:	D
+predicted:	B. there are some penalties worse than death. | gold:	A
+predicted:	B. relationships. | gold:	C
+predicted:	B. It assumes that all innate desires are good ones. | gold:	B
+predicted:	A. a consequentialist approach. | gold:	A
+predicted:	B. consequentialist theory | gold:	B
+predicted:	B. including bodily harm to persons and the destruction of property. | gold:	B
+predicted:	C. knowledge of one's abilities, such as intelligence, strength, and so on. | gold:	D
+predicted:	B. moderate and/or controlled use of illegal drugs is the norm. | gold:	B
+predicted:	A. at least some nonhuman beings. | gold:	C
+predicted:	A. abandon the world's poor to their unjust predicament. | gold:	C
+predicted:	D. the principle of minimizing suffering. | gold:	D
+predicted:	C. desirable as a means. | gold:	C
+predicted:	D. all of the above. | gold:	D
+predicted:	D. the principle of legal moralism. | gold:	A
+predicted:	A. moral standing. | gold:	A
+predicted:	A. all countries cooperating to change the existing incentive structure by introducing a system of enforceable sanctions to curb climate change. | gold:	A
+predicted:	D. It requires that we punish criminals in ways that are morally unacceptable. | gold:	D
+predicted:	A. to use consequentialist arguments to show that cloning is immoral | gold:	B
+predicted:	D. All of the above. | gold:	D
+predicted:	D. the Bible explicitly opposes all forms of technological enhancement. | gold:	B
+predicted:	B. electrocution at nonlethal levels. | gold:	A
+predicted:	B. letting die. | gold:	B
+predicted:	A. the ability to act and choose while free from distress. | gold:	C
+predicted:	B. contrast originating a harmful sequence with allowing a harmful sequence to continue. | gold:	B
+predicted:	B. it affirms the autonomy of individuals apart from others. | gold:	B
+predicted:	B. by eliminating the patient's capacity for self-determination. | gold:	A
+predicted:	A. Kantian considerations. | gold:	A
+predicted:	B. indirect | gold:	B
+predicted:	B. nature ought to be honored over personal choice. | gold:	C
+predicted:	A. most | gold:	B
+predicted:	D. the duty of nonmaleficence | gold:	C
+predicted:	C. obesity | gold:	D
+predicted:	D. all of the above. | gold:	D
+predicted:	Sarah Fine's "internal critique" of Wellman's argument targets his claim that A. we have an absolute right to freedom of association (i.e., one that cannot be outweighed by anything else). | gold:	B
+predicted:	B. users who do not expect to get addicted to "hard" drugs almost always do. | gold:	D
+predicted:	D. act utilitarianism. | gold:	D
+predicted:	A. if the proposal were to be realized, the operation must be conducted consistently. | gold:	C
+predicted:	B. a moral right is a kind of claim that is justified by the fact that its recognition will not diminish overall welfare. | gold:	C
+predicted:	Singer suggests requiring genetic engineering for every newborn child. | gold:	C
+predicted:	A. hedonistic utilitarianism | gold:	A
+predicted:	B. specific punishments are justified based on the overall intrinsic value that they produce. | gold:	B
+predicted:	A. direct moral standing. | gold:	B
+predicted:	A. the intrinsic value of caring attitudes which motivate caring actions. | gold:	B
+predicted:	C. both A and B. | gold:	C
+predicted:	A. life. | gold:	C
+predicted:	A. the wrongfulness of murder. | gold:	A
+predicted:	C. drug laws reduce access to illegal drugs. | gold:	C
+predicted:	B. In reproductive cloning, one seeks to impose one's will on a child's future. | gold:	B
+predicted:	A. killing. | gold:	A
+predicted:	A. voluntary euthanasia. | gold:	A
+predicted:	B. use moral judgment to determine which duty should be obeyed. | gold:	B
+predicted:	A. nature in itself has no moral value. | gold:	B
+predicted:	B. by suggesting that the harm of rape is that it is nonconsensual, it implies that all consensual sex is good. | gold:	B
+predicted:	A. individuals. | gold:	A
+predicted:	A. voluntary euthanasia. | gold:	C
+predicted:	B. drug addiction is a problem that drug legalization cannot address. | gold:	C
+predicted:	A. sometimes an action can be permissible even if it is motivated by a bad desire. | gold:	A
+predicted:	A. abortion is always morally permissible. | gold:	A
+predicted:	C. increasing welfare. | gold:	A
+predicted:	A. violations of human rights that pertain to the structure of a person's practical, social, and political agency. | gold:	B
+predicted:	B. freely made commitments | gold:	D
+predicted:	A. is always hate speech, because it involves violence. | gold:	B
+predicted:	A. a moral patient. | gold:	B
+predicted:	D. the difference in social setting. | gold:	D
+predicted:	C. to promote greater understanding of historical and contemporary oppression. | gold:	B
+predicted:	 Aristotle's moral theory is a version of virtue ethics. | gold:	A
+predicted:	A. the liberal state cannot claim to be primarily an intimate or expressive association. | gold:	A
+predicted:	D. the right to exercise religious freedom. | gold:	D
+predicted:	D. all of the above | gold:	D
+predicted:	D. John Stuart Mill. | gold:	C
+predicted:	D. use psychological rather than military tactics. | gold:	C
+predicted:	C. the argument from marginal cases. | gold:	C
+predicted:	C. facts about human nature. | gold:	C
+predicted:	C. utilitarianism. | gold:	D
+predicted:	A. Doctors are as qualified as any other mature adult to decide whether a life is worth living. | gold:	D
+predicted:	A. one's individual mindset and social setting. | gold:	A
+predicted:	A. egalitarian values concerning the elimination of inequalities that make people vulnerable to oppression. | gold:	C
+predicted:	B. Abortion will harm the woman. | gold:	C
+predicted:	A. expressive harm. | gold:	D
+predicted:	B. overpopulation leads to creation of food banks that help curb poverty rates. | gold:	D
+predicted:	B. fetal stage. | gold:	C
+predicted:	B. The suffering of the puppies is necessary for gustatory pleasure, whereas the suffering of animals on factory farms is simply a by-product of the conditions dictated by economic considerations. | gold:	D
+predicted:	D. all of the above | gold:	C
+predicted:	Pogge argues that we have very stringent positive duties towards the global poor. | gold:	C
+predicted:	A. It must be for an offense against legal rules. | gold:	C
+predicted:	C. people do actually desire it. | gold:	C
+predicted:	B. a patient's worthiness of being protected or cared for. | gold:	C
+predicted:	B. honesty | gold:	B
+predicted:	B. moral | gold:	A
+predicted:	B. It assumes that economic motives are morally relevant. | gold:	A
+predicted:	B. handing out too much foreign aid, which increases need. | gold:	A
+predicted:	D. all of the above | gold:	D
+predicted:	C. animals lack the capacity for suffering, and humans do. | gold:	B
+predicted:	A. the action, apart from its effects, is morally permissible. | gold:	A
+predicted:	A. natural law conception of morality. | gold:	A
+predicted:	B. a capacity for moral thought. | gold:	A
+predicted:	C. sentience. | gold:	C
+predicted:	A. a list of crimes ranked according to their seriousness. | gold:	D
+predicted:	B. "ought." | gold:	B
+predicted:	B. minimize distorted thinking. | gold:	A
+predicted:	A. deontological approach. | gold:	C
+predicted:	A. Heroin use was much higher among military personnel in Vietnam than it was among veterans who returned to the United States. | gold:	A
+predicted:	A. liberal egalitarianism should almost always press for more openness toward immigrants and refugees. | gold:	A
+predicted:	D. all of the above. Carens accepts that it is possible for the sudden opening of one country's borders to do more harm than good from a liberal egalitarian perspective, but he argues that sometimes you have to do more harm than good in the short term to do more good in the long term. | gold:	A
+predicted:	B. teach society the wrong kind of lesson. | gold:	B
+predicted:	A. laws permitting euthanasia can and have been abused. | gold:	C
+predicted:	D. all of the above. | gold:	C
+predicted:	D. all of the above | gold:	B
+predicted:	B. Speech codes treat hate speakers with less than equal consideration. | gold:	D
+predicted:	C. a prescription of how we should treat nonhuman animals. | gold:	D
+predicted:	A. respect for the dignity of persons. | gold:	A
+predicted:	B. its use would be unfair. | gold:	D
+predicted:	B. does not justify state prohibition of drug use. | gold:	B
+predicted:	A. human life. | gold:	D
+predicted:	A. direct moral standing. | gold:	A
+predicted:	A. He would say this begs the question because the immigration question is identical to the freedom-of-movement question. | gold:	C
+predicted:	D. all of the above | gold:	D
+predicted:	C. an eye for an eye. | gold:	C
+predicted:	D. All of the above. | gold:	D
+predicted:	C. respect for other persons. | gold:	D
+predicted:	B. exploitation of other people. | gold:	A
+predicted:	According to the Humanity formulation of Kant's principle, we must treat persons B. never as a mere means. | gold:	B
+predicted:	B. can implies ought. | gold:	C
+predicted:	B. obesity (Answer) | gold:	B
+predicted:	A. Harmful punishment that is proportionate to the harm done by the wrongdoing. | gold:	B
+predicted:	According to the principle of greatest equal liberty proposed by John Rawls, each person is to have an equal right to the most extensive basic liberty compatible with a similarly liberty for others. | gold:	D
+predicted:	C. consequentialism. | gold:	D
+predicted:	A. the moral reflection of many generations. | gold:	A
+predicted:	Kant argues that marriage allows spouses to treat each other not as mere means when engaging in sexual activity because C. in marriage two persons equally and reciprocally transfer their whole person to the other. | gold:	C
+predicted:	C. both A and B. | gold:	C
+predicted:	A. "good is to be done, evil to be avoided." | gold:	A
+predicted:	D. all of the above | gold:	C
+predicted:	C. a complex matter of the mother's personal integrity and her ideals about motherhood and creation. | gold:	C
+predicted:	D. all of the above | gold:	C
+predicted:	A. people are entitled to keep their earnings only if there is no way for them to prevent a greater evil by giving them away. | gold:	A
+predicted:	A. The value of pleasure. | gold:	D
+predicted:	The phrase "something bad" is deliberately left vague. | gold:	C
+predicted:	B. the pursuit of justice by marking out racism, sexism, and classism. | gold:	C
+predicted:	D. all of the above. | gold:	A
+predicted:	A. such a policy actually implies that the protected culture is inferior. | gold:	B
+predicted:	D. we do not repeat the wrongs of terrorism in the process. | gold:	D
+predicted:	B. it doesn't make sense to say that a person exercises higher mental capacities. | gold:	D
+predicted:	D. All of the above. | gold:	D
+predicted:	B. the patient | gold:	C
+predicted:	D. the benefits of prohibiting these products would not outweigh the costs. | gold:	B
+predicted:	D. none of the above | gold:	A
+predicted:	A. The animal's direct moral standing. | gold:	C
+predicted:	A. the patient's opportunities for self-determination. | gold:	A
+predicted:	A. moral injury. | gold:	A
+predicted:	A. the impression of truth all the clearer. | gold:	A
+predicted:	A. shows conclusively that reproductive cloning is always wrong. | gold:	D
+predicted:	A. the capacity for suffering. | gold:	C
+predicted:	B. The use, sale, and manufacturing of drugs should be illegal. | gold:	D
+predicted:	C. excluding people who wish to pursue interests specific to that state is still potentially harmful. | gold:	C
+predicted:	A. it is just bad for the government to fail to recognize natural rights. | gold:	D
+predicted:	D. pollution. | gold:	D
+predicted:	C. treat disease. | gold:	C
+predicted:	A. Deliberation should include sympathy and direct attendance to concrete particulars. | gold:	A
+predicted:	D. all of the above. | gold:	A
+predicted:	C. kindness | gold:	D
+predicted:	A. must not conflict with the rights and duties that liberal egalitarianism itself prescribes. | gold:	A
+predicted:	A. a Kantian approach. | gold:	C
+predicted:	A and B. | gold:	C
+predicted:	D. all of the above. | gold:	B
+predicted:	B. we can often bring ourselves to have attitudes of care indirectly. | gold:	B
+predicted:	C. we do not know whether wasteful driving is wrong. | gold:	C
+predicted:	B. Kantianism | gold:	B
+predicted:	D. the punishment is proportional to the wrongness of the crime. | gold:	A
+predicted:	B. "The light of Thy countenance, O Lord, is signed upon us." | gold:	B
+predicted:	B. appealing to the fact that a fetus is biologically human and arguing that it is presumptively morally wrong to kill biologically human beings. | gold:	D
+predicted:	D. increased disparity between the rich and the poor. | gold:	A
+predicted:	A. genetic transformation will actually strengthen the bond between parent and child. | gold:	C
+predicted:	B. seriously presumptively wrong. | gold:	B
+predicted:	B. terminally ill patients are not capable of freely choosing to end their own lives. | gold:	C
+predicted:	C. a cold war. | gold:	C
+predicted:	A. masks a bad argument by analogy. | gold:	D
+predicted:	Terrorism is a form of freedom of speech. | gold:	A
+predicted:	A. anti-egalitarianism is compatible with liberal cosmopolitanism. | gold:	D
+predicted:	A. make amends to others for any past wrongs one has done to them. | gold:	A
+predicted:	C. both A and B are true. | gold:	B
+predicted:	C. an embryo. | gold:	D
+predicted:	C. practical guidance. | gold:	A
+predicted:	C. the common good. | gold:	C
+predicted:	B. sending poisoned food. | gold:	A
+predicted:	A. he believes that abstract arguments are more likely to convince one to act. | gold:	D
+predicted:	D. none of the above; Cohen holds that animals can have rights. | gold:	A
+predicted:	A. an unfertilized egg. | gold:	A
+predicted:	A. (i) explain the harms of anal sex and (ii) establish that all homosexuals will inevitably suffer those harms. | gold:	B
+predicted:	B. Utilitarianism | gold:	B
+predicted:	A. direct and basic. | gold:	B
+predicted:	Nagel clarifies that absolutism is the view that we should prevent murder at all costs. | gold:	B
+predicted:	A. some have more goods (e.g., happiness) than others. | gold:	C
+predicted:	A. the principles of equality and harm. | gold:	C
+predicted:	B. those who value strong protections for freedom of speech. | gold:	A
+predicted:	B. does not need to be intentionally inflicted. | gold:	B
+predicted:	D. If people's prejudicial attitudes do not change, then we should not allow SCNT. | gold:	D
+predicted:	B. the logical consistency behind the motive of actions of the same type. | gold:	D
+predicted:	A. moral relationship with that person becomes impaired. | gold:	A
+predicted:	D. too easy to satisfy. | gold:	B
+predicted:	C. membership in a legitimate self-governing community. | gold:	C
+predicted:	D. none of the above. | gold:	C
+predicted:	A. The female who carries the zygote to term. | gold:	B
+predicted:	C. we should have respect for the dignity of human beings. | gold:	C
+predicted:	Rachels believes that active euthanasia is better than passive euthanasia in cases where A. the patient will suffer more if he or she is allowed to die, compared to how much he or she would suffer if the physician actively ended his or her life. | gold:	A
+predicted:	B. a harm that derives from the kind of attitude expressed in the act of hate speech. | gold:	A
+predicted:	B. sexual objectification does not occur. | gold:	C
+predicted:	C. Self-governance is morally irrelevant to the immigration debate. | gold:	C
+predicted:	B. Neither active nor passive euthanasia involves the intentional termination of a human life with dignity; therefore, both are morally permissible. | gold:	C
+predicted:	A. A is a better athlete. | gold:	B
+predicted:	B. causal harm | gold:	D
+predicted:	A. an ethical dilemma. | gold:	D
+predicted:	D. neither A nor B | gold:	C
+predicted:	D. All of the above. | gold:	D
+predicted:	B. universalizable | gold:	C
+predicted:	B. SCNT should not be allowed unless a healthy baby could be guaranteed. | gold:	C
+predicted:	A. The problems associated with how we should use our natural environment ultimately concern how human beings should treat each other. | gold:	C
+predicted:	D. All of the above. | gold:	B
+predicted:	D. we follow the Golden Rule. | gold:	C
+predicted:	C. the incitement effect | gold:	A
+predicted:	A. does not prove that government officials ought to promote it. | gold:	B
+predicted:	C. consider such speech hate speech. | gold:	C
+predicted:	A. why the act of destroying nature might be immoral. | gold:	B
+predicted:	C. both A and B. | gold:	C
+predicted:	B. natural law theory | gold:	C
+predicted:	C. dichotomous thinking. | gold:	B
+predicted:	C. explanatory power. | gold:	B
+predicted:	A. acknowledge the force of the criticism that effective altruism is at best a band-aid approach while diffusing this same criticism. | gold:	A
+predicted:	D. all of the above | gold:	D
+predicted:	B. They use a drug to relieve a craving. | gold:	D
+predicted:	D. all of the above. | gold:	C
+predicted:	A. John's duty to return to Mary that car that he borrowed from her. | gold:	A
+predicted:	B. this is an implication of the freedom of association that we must accept. | gold:	A
+predicted:	B. The central idea of the argument-that the action or practice under consideration will lead us down a path to disaster-turns out not to be plausible. | gold:	C
+predicted:	The mentally disabled should not be accorded direct moral standing. | gold:	D
+predicted:	B. killing/murder | gold:	C
+predicted:	Macedo's position on immigration is politically neutral. He believes that immigrants should be treated humanely and that the government should enforce existing laws while pursuing comprehensive reform. He also believes that immigration is beneficial for the economy and that immigrants should be able to fully participate in society. This is a neutral position, as opposed to being liberal or conservative. | gold:	A
+predicted:	D. the dispersion of fault and blame for causing greenhouse gas emissions. | gold:	A
+predicted:	C. praiseworthiness. | gold:	D
+predicted:	C. distributive | gold:	C
+predicted:	C. engage in consensual sexual activity outside of marriage. | gold:	D
+predicted:	West actually thinks that people in the U.S. disproportionately recognize these harms. | gold:	C
+predicted:	B. physician-assisted suicide. | gold:	B
+predicted:	C. relationships as fundamental to one's identity and as a source of moral obligation. | gold:	D
+predicted:	A. It is unclear that they show that capital punishment is degrading, and so therefore wrong. | gold:	C
+predicted:	C. Mary's moral character. | gold:	B
+predicted:	A. exclude | gold:	A
+predicted:	B. fails to account for cases where there can be unintentional disregard of a person's humanity. | gold:	B
+predicted:	A. torture works in only limited situations. | gold:	C
+predicted:	C. a war simpliciter. | gold:	A
+predicted:	Carens defends a form of libertarian cosmopolitanism. | gold:	D
+predicted:	A. they can't know this to be true without an anonymous survey. | gold:	A
+predicted:	C. the right to citizenship. | gold:	C
+predicted:	A. social norms or rules play a significant role in influencing behavior. | gold:	A
+predicted:	A. is justly punished. | gold:	B
+predicted:	A. freedom of speech | gold:	B
+predicted:	C. our beliefs about it. | gold:	A
+predicted:	Nathan is likely applying a moral theory of virtue ethics, which holds that one should strive to develop moral character and seek out morally good actions. | gold:	A
+predicted:	A. reinforces a corrupt legal system. | gold:	C
+predicted:	A. The SCNT individual has genetic material primarily from one person instead of two. | gold:	A
+predicted:	C. they are genetically and functionally identifiable as parts of the male or female potential parents. | gold:	C
+predicted:	C. the fetus gains more capacities over time. | gold:	C
+predicted:	B. it promotes individualism and valorizes individual choice. | gold:	B
+predicted:	A. what a virtuous person ought to do in a particular situation. | gold:	D
+predicted:	B. the difference between combatants and noncombatants is a matter of degree. | gold:	B
+predicted:	D. keeping actual inequalities as small as possible. | gold:	C
+predicted:	D. all of the above. | gold:	B
+predicted:	B. a disposition to avoid extremes in feeling and action. | gold:	B
+predicted:	B. it is permissible to harm as a foreseen but unintended consequence of action. | gold:	D
+predicted:	A. being at least six feet tall (in a population where this is above average) | gold:	A
+predicted:	B. natural law theory. | gold:	B
+predicted:	Van den Haag responds to the "miscarriages of justice" objection by claiming that A. miscarriages of justice are offset by the moral benefits and usefulness of doing justice. | gold:	A
+predicted:	B. If a practice is riskier than the alternatives, then that practice is immoral, prudent, or otherwise to be pursued. | gold:	B
+predicted:	A and B. | gold:	C
+predicted:	B. violence and oppression in the form of subordination, exploitation, and cultural imperialism. | gold:	B
+predicted:	Little argues that it can be a sign of respect to terminate a pregnancy when certain background conditions, like a loving family, are not met. | gold:	A
+predicted:	C. moral contempt | gold:	C
+predicted:	A. persons. | gold:	B
+Accuracy: 0.3786127167630058

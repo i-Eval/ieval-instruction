@@ -1,0 +1,256 @@
+predicted:	D. 6 | gold:	B
+predicted:	B. 2 | gold:	C
+predicted:	A. 0 | gold:	D
+predicted:	Statement 1 | A factor group of a non-Abelian group is non-Abelian.
+Statement 2 | If K is a normal subgroup of H and H is a normal subgroup of G, then K is a normal subgroup of G.
+A. True, True
+B. False, False
+C. True, False
+D. False, True | gold:	B
+predicted:	B. 6x^2 + 4x + 6 | gold:	B
+predicted:	Statement 1 | If a group has an element of order 15 it must have at least 8 elements of order 15.
+Statement 2 | If a group has more than 8 elements of order 15, it must have at least 16 elements of order 15.
+A. True, True
+B. False, False
+C. True, False
+D. False, True | gold:	A
+predicted:	Statement 1 | Every homomorphic image of a group G is isomorphic to a factor group of G.
+Statement 2 | The homomorphic images of a group G are the same (up to isomorphism) as the factor groups of G. 
+A. True, True
+B. False, False
+C. True, False
+D. False, True | gold:	A
+predicted:	A. True, True
+B. False, False
+C. True, False
+D. False, True | gold:	D
+predicted:	D. 6 | gold:	B
+predicted:	A. 1 | gold:	C
+predicted:	Statement 1 | If H is a subgroup of G and a belongs to G then |aH| = |Ha|.
+Statement 2 | If H is a subgroup of G and a and b belong to G, then aH and Hb are identical or disjoint.
+A. True, True
+B. False, False
+C. True, False
+D. False, True | gold:	C
+predicted:	C. both symmetric and anti-symmetric. | gold:	C
+predicted:	D. 11 | gold:	A
+predicted:	D. (x - 1)(x - 4)(x - 2). | gold:	C
+predicted:	D. 105 | gold:	C
+predicted:	A. True, True | gold:	B
+predicted:	D. -i | gold:	C
+predicted:	D. (3,6) | gold:	C
+predicted:	A. multiplication is not a binary operation | gold:	D
+predicted:	Statement 1: True
+Statement 2: True | gold:	A
+predicted:	Statement 1 | For finite groups G and H, |G + H| = |G||H|. (G + H is the internal direct product.) Statement 2 | If r divides m and s divides n then Z_m + Z_n has a subgroup isomorphic to Z_r + Z_s.
+A. True, True
+B. False, False
+C. True, False
+D. False, True | gold:	A
+predicted:	B. 6x^2 + 4x + 6 | gold:	A
+predicted:	A. True, True | gold:	D
+predicted:	B. commutative semigroups with identity | gold:	D
+predicted:	Statement 1 | Every maximal ideal is a prime ideal. True, True
+Statement 2 | If I is a maximal ideal of a commutative ring R, then R/I is field. False, False | gold:	B
+predicted:	A. subgroup | gold:	C
+predicted:	A. True, True | gold:	C
+predicted:	A. Yes, with p=2. | gold:	B
+predicted:	B. False, False | gold:	D
+predicted:	Statement 1 | The homomorphic image of a cyclic group is cyclic.
+A. True
+B. False
+C. True
+D. False
+
+Statement 2 | The homomorphic image of an Abelian group is Abelian.
+A. True
+B. False
+C. True
+D. False
+
+Answer: A and D are the correct answers. | gold:	A
+predicted:	Statement 1 | If H is a subgroup of a group G and a belongs to G, then aH = Ha.
+Statement 2 | If H is normal of G and a belongs to G, then ah = ha for all h in H.
+A. True, True
+B. False, False
+C. True, False
+D. False, True | gold:	B
+predicted:	B. abelian group | gold:	B
+predicted:	A. True, True | gold:	A
+predicted:	C. (g o h)^2 = g^2 o h^2 for every g,h in G. | gold:	C
+predicted:	Statement 1 | If T: V -> W is a linear transformation and dim(V ) < dim(W) < 1, then T must be injective.
+Statement 2 | Let dim(V) = n and suppose that T: V -> V is linear. If T is injective, then it is a bijection.
+A. True, True
+B. False, False
+C. True, False
+D. False, True | gold:	A
+predicted:	D. 6 | gold:	B
+predicted:	D. 22 | gold:	D
+predicted:	A. Yes, with p=2. | gold:	B
+predicted:	The generator for the finite field Z_7 is A. 1. | gold:	C
+predicted:	A. True, True | gold:	D
+predicted:	C. -1 | gold:	C
+predicted:	D. 30 | gold:	A
+predicted:	Statement 1 | Some abelian group of order 45 has a subgroup of order 10.
+True, True | gold:	B
+predicted:	Statement 1 | Every integral domain with characteristic 0 is infinite.
+A. True, True
+B. False, False
+C. True, False
+D. False, True | gold:	C
+predicted:	Statement 1 | The function f must necessarily be injective.
+Statement 2 | The function f must necessarily be surjective.
+A. True, True
+B. False, False
+C. True, False
+D. False, True | gold:	C
+predicted:	Statement 1 | For any two groups G and G', there exists a homomorphism of G into G'.
+Statement 2 | Every homomorphism is a one-to-one map.
+A. True, True
+B. False, False
+C. True, False
+D. False, True | gold:	C
+predicted:	Statement 1 | A homomorphism may have an empty kernel. True
+Statement 2 | It is not possible to have a nontrivial homomorphism of some finite group into some infinite group. False | gold:	B
+predicted:	A. 0 | gold:	B
+predicted:	Statement 1 | If a R is an integral domain, then R[x] is an integral domain. True, True
+
+Statement 2 | If R is a ring and f(x) and g(x) are in R[x], then deg (f(x)g(x)) = deg f(x) + deg g(x). True, True | gold:	C
+predicted:	D. 24 | gold:	B
+predicted:	Statement 1 | Every solvable group is of prime-power order.
+True, True | gold:	D
+predicted:	A. 0 | gold:	B
+predicted:	C. 4 | gold:	A
+predicted:	Statement 1 | If G, H and K are groups of order 4, at least two of them are isomorphic.
+A. True, True
+B. False, False
+C. True, False
+D. False, True
+
+Statement 2 | If Z_r + Z_s is isomorphic to a subgroup Z_m + Z_n, then r divides m and s divides n.
+A. True, True
+B. False, False
+C. True, False
+D. False, True | gold:	C
+predicted:	B. 2 | gold:	B
+predicted:	A. True, True | gold:	A
+predicted:	A. True, True | gold:	D
+predicted:	The generator for the finite field Z_11 is 4. | gold:	B
+predicted:	Statement 1 | Every group of order 159 is cyclic. True
+Statement 2 | Every group of order 102 has a nontrivial proper normal subgroup. False | gold:	A
+predicted:	Statement 1 | If H and K are subgroups of G and one of H or K is a normal subgroup of G, then HK is a subgroup of G.
+Statement 2 | All groups of order p^2 where p is prime are Abelian.
+A. True, True
+B. False, False
+C. True, False
+D. False, True | gold:	A
+predicted:	A. True, True | gold:	D
+predicted:	Statement 1 | The set of 2 x 2 matrices with integer entries and nonzero determinant is a group under matrix multiplication.
+Statement 2 | The set of 2 x 2 matrices with integer entries and determinant 1 is a group under matrix multiplication.
+A. True, True
+B. False, False
+C. True, False
+D. False, True | gold:	D
+predicted:	A. True, True
+B. False, False
+C. True, False
+D. False, True | gold:	C
+predicted:	B. transitive | gold:	B
+predicted:	C. infinitely many. | gold:	B
+predicted:	A. True, True | gold:	C
+predicted:	Statement 1 | If R is a ring and f(x) and g(x) are in R[x], then deg (f(x)+g(x)) = maximum (deg f(x), deg g(x)). Statement 2 | If F is a field then every ideal of F[x] is principal. 
+A. True, True
+B. False, False
+C. True, False
+D. False, True | gold:	D
+predicted:	A. a,b in H=> a * b in H
+B. a in H => a^-1 in H
+C. a,b in H=> a * b^-1 in H
+D. H contains the identity element | gold:	C
+predicted:	A. (x − 2)(x + 2)(x − 1)(x + 1). | gold:	A
+predicted:	A. True, True | gold:	A
+predicted:	D. (2+a)*-1 | gold:	D
+predicted:	D. 6 | gold:	C
+predicted:	D. 4 | gold:	D
+predicted:	D. 30 | gold:	B
+predicted:	Statement 1 | If a and b are elements of a group and a is not equal to b, then a^2 is not equal to b^2.
+Statement 2 | The set of rotations in a dihedral group form a cyclic subgroup.
+A. True, True
+B. False, False
+C. True, False
+D. False, True | gold:	D
+predicted:	A. True, True | gold:	B
+predicted:	Statement 1 | S_n is non-Abelian for all n >= 3. True, True
+Statement 2 | If a is a permutation that is an m-cycle and b is a permutation that is an n-cycle, then |ab| = lcm(m,n). False, False | gold:	C
+predicted:	The characteristic of the ring Z x Z is 0. | gold:	A
+predicted:	A. True, True | gold:	D
+predicted:	Statement 1 | If K is a nonzero subgroup of a finitely generated free abelian group, then K is free abelian. Statement 2 | If K is a nonzero subgroup of a finitely generated free abelian group, then G / K is free abelian.
+A. True, True
+B. False, False
+C. True, False
+D. False, True | gold:	C
+predicted:	A. True, True | gold:	B
+predicted:	Statement 1 | Every nonzero free abelian group has an infinite number of bases. Statement 2 | Every free abelian group of rank at least 2 has an infinite number of bases.
+A. True, True
+B. False, False
+C. True, False
+D. False, True | gold:	D
+predicted:	A. True, True | gold:	A
+predicted:	Statement 1 | If a group has an element of order 10, then it has elements of orders 1, 2, and 5.
+Statement 2 | If a group has an element of order 2 and an element of order 3, then it has an element of order 6.
+A. True, True
+B. False, False
+C. True, False
+D. False, True | gold:	C
+predicted:	Statement 1 | The function g must necessarily be injective.
+Statement 2 | The function g must necessarily be surjective.
+A. True, True
+B. False, False
+C. True, False
+D. False, True | gold:	D
+predicted:	A. True, True | gold:	C
+predicted:	Statement 1 | If H and K are subgroups of a group G, then |HK| = |H||K|/|H intersection K|.
+A. True, True
+B. False, False
+C. True, False
+D. False, True
+
+Statement 2 | A group of order 2p where p is an odd prime is cyclic or isomorphic to D_p.
+A. True, True
+B. False, False
+C. True, False
+D. False, True | gold:	A
+predicted:	D. 10 | gold:	A
+predicted:	D. 6 | gold:	A
+predicted:	A. True, True | gold:	C
+predicted:	Statement 1 | If a finite group has order n then the group contains a subgroup of order d for every positive divisor d of n. Statement 2 | If a belongs to a finite group then |a| divides |G|.
+A. True, True
+B. False, False
+C. True, False
+D. False, True | gold:	D
+predicted:	A. 4Z
+B. 4Z, 2 + 4Z
+C. 2Z
+D. Z | gold:	B
+predicted:	A. Every equivalence relation is a partial-ordering relation.
+B. Number of relations form A = {x, y, z} to B= (1, 2), is 64.
+C. Empty relation is reflexive
+D. Properties of a relation being symmetric and being un-symmetric are negative of each other. | gold:	B
+predicted:	D. 105 | gold:	A
+predicted:	Statement 1 | Q is an extension field of Z_2.
+Statement 2 | Every non-constant polynomial over a field has a zero in some extension field.
+A. True, True
+B. False, False
+C. True, False
+D. False, True | gold:	D
+predicted:	Statement 1 | If H is a subgroup of G and a belongs to G then aH is a subgroup of G if and only if a is in H.
+Statement 2 | If H is a subgroup of G and a and b belong to G then aH = bH if and only if ab is in H.
+A. True, True
+B. False, False
+C. True, False
+D. False, True | gold:	C
+predicted:	A. 0 | gold:	B
+predicted:	D. 30 | gold:	C
+predicted:	C. 12 | gold:	C
+predicted:	A. True, True | gold:	C
+Accuracy: 0.16

@@ -1,0 +1,136 @@
+predicted:	A. paralysis of the facial muscles. | gold:	A
+predicted:	A. a protruding mandible due to reactivation of the condylar cartilage by acromegaly. | gold:	B
+predicted:	B. Kidney | gold:	A
+predicted:	B. Skeletal muscles | gold:	C
+predicted:	B. Glomerulus | gold:	B
+predicted:	D. Breathing will be unaffected. | gold:	B
+predicted:	C. Hypogastric. | gold:	A
+predicted:	Mucous membranes. | gold:	B
+predicted:	B. eight weeks post-fertilization. | gold:	C
+predicted:	B. bilateral contraction of limb musculature. | gold:	D
+predicted:	B. hard palate and upper lip. | gold:	D
+predicted:	Pupillary constriction and a medial strabismus. | gold:	D
+predicted:	B. Its articular surfaces are covered by hyaline cartilage. | gold:	D
+predicted:	D. cricothyroid muscle is paralyzed but the interarytenoids are weak. | gold:	B
+predicted:	C. The ossification centre appears about 8 weeks I.U.L medial to Meckel's cartilage. | gold:	A
+predicted:	B. It is mediated by the inferior colliculi in the midbrain. | gold:	C
+predicted:	B. External intercostal muscles and diaphragm. | gold:	B
+predicted:	C. Prostate | gold:	D
+predicted:	B. Carotid arteries | gold:	D
+predicted:	C. Trachea. | gold:	C
+predicted:	A. Between the left atrium and the left ventricle. | gold:	C
+predicted:	B. superficial to its superior border. | gold:	C
+predicted:	B. left and right submental lymph nodes. | gold:	B
+predicted:	C. mesoderm formation and occurs before neurulation. | gold:	B
+predicted:	D. can be reactivated in patients affected by acromegaly. | gold:	B
+predicted:	D. Oxygen | gold:	C
+predicted:	C. Nephrolithiasis. | gold:	C
+predicted:	A. facial artery crosses the mandible. | gold:	A
+predicted:	C. Spleen | gold:	C
+predicted:	A. It is formed of autonomic nerve processes and is the only electrical connection between the atria and the ventricles. | gold:	B
+predicted:	C. Flexion | gold:	C
+predicted:	B. upward movement of the epiglottis. | gold:	A
+predicted:	B. Duodenum | gold:	B
+predicted:	D. Prone. | gold:	B
+predicted:	A. palatine processes. | gold:	C
+predicted:	A. connects the inner ear and nasopharynx. | gold:	C
+predicted:	D. Spleen | gold:	D
+predicted:	C. Thoracic and abdominal. | gold:	C
+predicted:	A. cartilage, smooth muscle and respiratory epithelium. | gold:	D
+predicted:	C. Liver | gold:	C
+predicted:	C. Gastroesophageal reflux disease. | gold:	C
+predicted:	The muscles of the soft palate are innervated by branches of the trigeminal and glossopharyngeal nerves. | gold:	C
+predicted:	B. Femur | gold:	B
+predicted:	B. lower lip and mandibular teeth. | gold:	C
+predicted:	A. internal laryngeal nerve which is the afferent limb of the cough reflex. | gold:	A
+predicted:	B. endochondral ossification and follow the neural growth pattern. | gold:	C
+predicted:	B. Lower leg. | gold:	B
+predicted:	A. Lymphocyte | gold:	C
+predicted:	A. frontal and parietal bones. | gold:	A
+predicted:	A. hyoid bone, cricoid cartilage, thyroid cartilage. | gold:	C
+predicted:	D. All of the above | gold:	D
+predicted:	D. The vagus nerves. | gold:	D
+predicted:	A. Left ventricle → aorta → arteries → veins → capillaries. | gold:	B
+predicted:	D. transverse. | gold:	B
+predicted:	A. deep to masseter and enters the mouth opposite the upper second molar. | gold:	B
+predicted:	B. Outward | gold:	D
+predicted:	A. is a terminal branch of the maxillary division of the trigeminal nerve. | gold:	A
+predicted:	C. Peristalsis | gold:	C
+predicted:	D. Synapse | gold:	D
+predicted:	C. Lateral pterygoid. | gold:	D
+predicted:	D. Pancreas | gold:	D
+predicted:	A. loss of taste over the anterior two-thirds of the tongue. | gold:	C
+predicted:	D. pupillary contriction. | gold:	B
+predicted:	C. Pulmonary arteries. | gold:	C
+predicted:	A. extend their neck against resistance. | gold:	C
+predicted:	B. The muscles of mastication and anterior belly of digastric. | gold:	B
+predicted:	D. On the anterior side of the neck. | gold:	D
+predicted:	B. skilled movements decussate in the medial lemniscus. | gold:	C
+predicted:	A. thyroid cartilage. | gold:	D
+predicted:	The mental nerve. | gold:	B
+predicted:	A. the capsule and ligaments of the TMJ and the medial pterygoid muscle. | gold:	B
+predicted:	A. Acetylcholine | gold:	A
+predicted:	C. Lamina V. | gold:	D
+predicted:	A. anterior fragment to be displaced downwards by the action of the digastric muscle. | gold:	A
+predicted:	A. oculomotor nerve. | gold:	D
+predicted:	B. flaccid paralysis. | gold:	C
+predicted:	D. hyporeflexia. | gold:	A
+predicted:	A. right lung because the right main bronchus is wider and more vertical than the left. | gold:	A
+predicted:	C. Electrolytes | gold:	C
+predicted:	B. sympathetic pre- and post-ganglionic neurons | gold:	D
+predicted:	B. Bartholin's | gold:	B
+predicted:	C. inferior to the cricoid cartilage. | gold:	B
+predicted:	B. dura mater and arachnoid mater. | gold:	C
+predicted:	B. Epiglottis | gold:	B
+predicted:	C. The lateral wall. | gold:	B
+predicted:	B. the floor of the orbit and the upper posterior teeth. | gold:	C
+predicted:	C. The zygomaticomaxillary sutures contribute to increase in height and length of the maxilla. | gold:	C
+predicted:	D. the parotid salivary gland. | gold:	C
+predicted:	B. The anterior ethmoidal and frontal sinuses. | gold:	C
+predicted:	A. Collagen | gold:	A
+predicted:	B. changes in flexure of the developing brain. | gold:	D
+predicted:	A. The palatal surfaces of the upper molars and lingual surfaces of the lower incisors. | gold:	B
+predicted:	B. the mucosa covering the vocal folds is tightly attached to underlying tissues. | gold:	B
+predicted:	C. arise from the arch of the aorta and fill during systole. | gold:	D
+predicted:	B. Right lateral pterygoid muscle | gold:	A
+predicted:	A. diaphragm. | gold:	C
+predicted:	A. third cranial nerves. | gold:	A
+predicted:	A. light pink in colour on both sides of the mucogingival junction. | gold:	C
+predicted:	A. maxillary and mandibular processes. | gold:	A
+predicted:	C. to be palpable both intra- and extraorally. | gold:	C
+predicted:	A. deposit bone and differentiate from periosteal mesenchymal cells. | gold:	D
+predicted:	A. is attached to the coronoid process and elevates the mandible. | gold:	D
+predicted:	A. pulmonary vein to the aorta. | gold:	C
+predicted:	B. The ribs and sternum. | gold:	B
+predicted:	A. keratinised and has submucosa and minor salivary glands posterolaterally. | gold:	A
+predicted:	A. The inferior articular facet of T5 and superior articular facet of T6. | gold:	C
+predicted:	C. Spleen | gold:	C
+predicted:	A. articular cartilage and synovial membrane. | gold:	D
+predicted:	D. Respiration | gold:	D
+predicted:	A. skull bones and dura mater. | gold:	A
+predicted:	B. maxillary anterior teeth and their labial gingivae. | gold:	C
+predicted:	B. The foramen ovale and rotundum. | gold:	C
+predicted:	Narcolepsy. | gold:	D
+predicted:	A. Alveoli. | gold:	A
+predicted:	A. Closed, greenstick. | gold:	A
+predicted:	B. Fallopian tube. | gold:	B
+predicted:	A. the neural tube. | gold:	D
+predicted:	B. Prostate | gold:	B
+predicted:	B. is prevented from everting by papillary muscles. | gold:	B
+predicted:	C. The hypothalamus | gold:	D
+predicted:	B. Cecum | gold:	C
+predicted:	C. through medial pterygoid. | gold:	B
+predicted:	C. Pernicious anemia. | gold:	C
+predicted:	A. The maxillary bone. | gold:	B
+predicted:	C. lumbar spinal nerves. | gold:	D
+predicted:	B. Pupillary constriction and vasodilation of facial vessels. | gold:	B
+predicted:	C. Olfactory | gold:	C
+predicted:	The vital centres are located in the pons and medulla oblongata of the brainstem. | gold:	C
+predicted:	B. Proteins | gold:	A
+predicted:	During swallowing, the rima glottis opens. | gold:	A
+predicted:	A. sensory neuronal processes. | gold:	A
+predicted:	D. Pituitary | gold:	D
+predicted:	A. lingual branch of the mandibular trigeminal nerve. | gold:	A
+predicted:	C. Urethra. | gold:	C
+predicted:	B. The mandibular canal and maxillary sinus. | gold:	D
+Accuracy: 0.4148148148148148

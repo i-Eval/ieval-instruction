@@ -1,0 +1,101 @@
+predicted:	B. it is not capable of expressing complex protection requirements. | gold:	A
+predicted:	A. {-6,-2, -1, 1, 2, 6} | gold:	C
+predicted:	A. 1:4 | gold:	B
+predicted:	A. C1: (3,3), C2: (4,4), C3: (6,6) | gold:	A
+predicted:	D. {NAND} | gold:	C
+predicted:	D. M = 6, m = 4. | gold:	C
+predicted:	I and II only. Resolution theorem proving for propositional logic has the property that it is a sound proof system (I) and it is a complete proof system (II). It is not a succinct proof system (III) because the length of a resolution proof is not necessarily polynomial in the length of the formula. | gold:	C
+predicted:	III only | gold:	B
+predicted:	D. Some rational numbers have no exact representation. | gold:	C
+predicted:	If the owner is allowed to delete a file, dangling links may result. | gold:	C
+predicted:	D. I, II, and III. | gold:	D
+predicted:	B. n + 1 | gold:	A
+predicted:	D. 13 | gold:	A
+predicted:	B. Routing packets through the network | gold:	C
+predicted:	D. I and II only. | gold:	A
+predicted:	D. None of the above. | gold:	D
+predicted:	C. There is no other work for the processor to do. | gold:	D
+predicted:	D. context-free, but not regular. | gold:	B
+predicted:	D. Networks connected by Ethernets are limited in length to a few hundred meters. (False) | gold:	A
+predicted:	B. II only | gold:	D
+predicted:	D. One-time pad | gold:	D
+predicted:	C. Finding ALL spanning trees of G. | gold:	B
+predicted:	B. Routing packets through the network. | gold:	A
+predicted:	C. log_10 (1/N) | gold:	A
+predicted:	D. Having processes time out and restart after a random interval of waiting. | gold:	A
+predicted:	I and II. | gold:	D
+predicted:	A. Abstract Syntax Tree (AST) | gold:	C
+predicted:	C. Heapsort | gold:	D
+predicted:	C. I and II only. | gold:	D
+predicted:	D. Polygons can be filled with solid colors and textures. | gold:	C
+predicted:	C. They can indicate completion of an I/O operation. | gold:	C
+predicted:	I and III only. | gold:	D
+predicted:	B. 999 | gold:	D
+predicted:	C. I and II | gold:	A
+predicted:	A. Values of local variables. | gold:	B
+predicted:	D. It cannot call procedures implemented in a different language. | gold:	C
+predicted:	C. Merge sort, with a running time that is least dependent on the initial ordering of the input. | gold:	C
+predicted:	A. 20 and 10 seconds | gold:	D
+predicted:	B. Sign and magnitude and one's complement only. | gold:	D
+predicted:	B. I/O ports are placed at addresses on the bus and are accessed just like other memory locations. | gold:	B
+predicted:	A. integer multiplication is a function whose inverse, factorization, remains difficult for a large class of inputs. | gold:	A
+predicted:	D. All bit strings with more ones than zeros. | gold:	D
+predicted:	III only. A Boolean formula expressing this condition is (p_1 ∧ p_2 ∧ p_3 ∧ p_4) → (p_1 ∨ p_2 ∨ p_3 ∨ p_4). | gold:	A
+predicted:	B. 1/(n(n-1)) | gold:	D
+predicted:	B. II only | gold:	D
+predicted:	D. II and III only. | gold:	C
+predicted:	D. 0.5 | gold:	D
+predicted:	A. Currying can be applied to any function to the point where it has exactly one input argument. | gold:	A
+predicted:	B. 256 | gold:	A
+predicted:	D. I, II, and III. | gold:	D
+predicted:	A. The threat is over as soon as the process is killed. | gold:	D
+predicted:	D. II and III only. | gold:	B
+predicted:	B. h = 1/c * log2(N). | gold:	C
+predicted:	C. Merge sort | gold:	C
+predicted:	D. IsEmpty(Push(Push(Stack,Elem1),Elem2)) = false | gold:	A
+predicted:	B. 2 | gold:	C
+predicted:	D. (I, II) and (I, III) only. | gold:	D
+predicted:	C. Instructions requiring widely varying numbers of cycles to execute. | gold:	D
+predicted:	C. k log k | gold:	B
+predicted:	III only. | gold:	D
+predicted:	II only. | gold:	D
+predicted:	D. Local variables on the call stack. | gold:	B
+predicted:	B. To determine the IP address of a given host name. | gold:	D
+predicted:	C. Two-dimensional arrays. | gold:	A
+predicted:	A. xyz | gold:	A
+predicted:	A. Θ(n) | gold:	C
+predicted:	D. I and II only. | gold:	A
+predicted:	B. II only | gold:	B
+predicted:	5/3 | gold:	B
+predicted:	A. 0x01001234; page mapped with READ/WRITE access. The debugger has mapped the same text segment at 0x01000000 in its virtual address space, allowing it to write to any location within the segment. | gold:	A
+predicted:	D. I, II, and III. | gold:	D
+predicted:	C. I and III | gold:	A
+predicted:	A. 11111111, 00000001 | gold:	D
+predicted:	B. 25,000 bytes/ second | gold:	C
+predicted:	III. The grammar is suitable for bottom-up parsing. | gold:	D
+predicted:	D. Symbol table lookup: Given a program identifier, find its type and address. | gold:	C
+predicted:	B. n!/(n - m)! | gold:	A
+predicted:	D. 1/w + 1/x < 1/y + 1/z. | gold:	B
+predicted:	B. Write-back usually results in a better hit ratio than write-through. | gold:	C
+predicted:	C. 38% | gold:	D
+predicted:	A. I only | gold:	B
+predicted:	C. Operator precedence. | gold:	C
+predicted:	D. II and III. | gold:	D
+predicted:	B. Priority queuing | gold:	A
+predicted:	A. O(log N) | gold:	D
+predicted:	C. 1 / 2 | gold:	D
+predicted:	D. I and II only. | gold:	A
+predicted:	I and II only. | gold:	B
+predicted:	D. 7 | gold:	C
+predicted:	A. Temporary inconsistencies among views of a file by different machines can result. | gold:	A
+predicted:	B. 256 | gold:	C
+predicted:	D. 10 | gold:	C
+predicted:	B. P_1 can be solved in polynomial time but P_2 is not known to be solvable in polynomial time. | gold:	B
+predicted:	A. it does not allow simultaneous access to the intended data and its tag. | gold:	C
+predicted:	D. I and III only. | gold:	D
+predicted:	A. one in which each main memory word can be stored at any of 3 cache locations. | gold:	A
+predicted:	A. one instance link and then zero or more subclass links. | gold:	A
+predicted:	D. I and III | gold:	D
+predicted:	B. 1.2 microseconds | gold:	C
+predicted:	D. 99.80%. | gold:	D
+Accuracy: 0.27

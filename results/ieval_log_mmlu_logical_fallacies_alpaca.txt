@@ -1,0 +1,167 @@
+predicted:	A. includes two or more alternatives | gold:	A
+predicted:	A. Changing the meaning of a word or phrase from one part of the argument to another. | gold:	C
+predicted:	C. poisoning the well | gold:	C
+predicted:	A. a specific type of false cause fallacy that argues that since two event happened at the same time one event must have caused the other. | gold:	D
+predicted:	A. arguing that something should be done because that's the way it's been done in the past. | gold:	C
+predicted:	C. ad crumenam | gold:	D
+predicted:	C. characterizing an opponent's position in such way to make it or its consequences appear to be ridiculous. | gold:	A
+predicted:	C. Equivocation. | gold:	A
+predicted:	A. ignoring another person's arguments and attacking her character instead | gold:	A
+predicted:	B. Guilt by association. | gold:	B
+predicted:	B. Appeal to ignorance. | gold:	D
+predicted:	B. Equivocation | gold:	C
+predicted:	B. Affirming the Consequent | gold:	D
+predicted:	A. arguing that something is necessarily bad because it doesn't cost very much. | gold:	C
+predicted:	C. Question begging epithets. | gold:	B
+predicted:	A. Tu quoque | gold:	C
+predicted:	D. appeal to the people. | gold:	D
+predicted:	B. reject all but one choice | gold:	C
+predicted:	B. arguing against a position based only on negative personal feelings toward the position. | gold:	C
+predicted:	D. argument against the person. | gold:	D
+predicted:	A. Using rhetoric | gold:	D
+predicted:	A. hasty generalization | gold:	C
+predicted:	A. Begging the Question | gold:	B
+predicted:	A. attributing the cause of an event to a simple cause when the cause is more complex. | gold:	B
+predicted:	A. False analogy | gold:	C
+predicted:	D. Begging the question | gold:	D
+predicted:	C. Fallacy of Composition | gold:	A
+predicted:	D. argument from authority. | gold:	B
+predicted:	B. A form of loaded language that uses an emotionally charged restatement of the claim, often in the form of name calling, in place of support for the claim. | gold:	B
+predicted:	A. arguing a claim should be accepted based only on evidence that unidentified authorities accept it. | gold:	B
+predicted:	A. cannot be materially true. | gold:	D
+predicted:	D. False dichotomy. | gold:	D
+predicted:	D. tu quoque ("you too"): When someone uses your own argument against you. | gold:	C
+predicted:	A. arguing that a single event caused another when the cause is really several events. | gold:	D
+predicted:	C. False dilemma | gold:	A
+predicted:	A. asking a question that includes either an unproven assumption or more than one question, thus making a straightforward yes or no answer meaningless. | gold:	D
+predicted:	D. ignorance of refutation. | gold:	C
+predicted:	B. Disjunctive syllogism | gold:	C
+predicted:	D. False dichotomy. | gold:	A
+predicted:	A. including more than one claim in the proposition and treating proof for one claim as proof for all the claims. | gold:	A
+predicted:	Anecdotal evidence is a specific kind of False Criteria. | gold:	D
+predicted:	B. Logically flawed | gold:	B
+predicted:	D. Hypostatization. | gold:	B
+predicted:	A. asserting an argumentative opponent has taken an easily defeated position, which the opponent has not really taken, defeating the position, and acting as if you've done significant damage to that person's overall argument. | gold:	B
+predicted:	D. reductio ad absurdum | gold:	D
+predicted:	C. Appeal to ignorance. | gold:	A
+predicted:	A. arguing that someone should do something based only on the assertion that it will make him or her feel happier. | gold:	A
+predicted:	B. Sweeping generalization | gold:	A
+predicted:	B. characterizing an opponent's position in a way that makes it seem ridiculous. | gold:	C
+predicted:	C. Appeal to ignorance. | gold:	C
+predicted:	B. Guilt by association. | gold:	A
+predicted:	A. saying someone should do something because he or she dislikes someone else | gold:	B
+predicted:	D. False dilemma. | gold:	D
+predicted:	A. no valid conclusion can be drawn. | gold:	A
+predicted:	A. Equivocation | gold:	A
+predicted:	A. reasoning that an act or series of acts should be carried out because they will have no significant consequences, when there is no evidence there will be no consequences. | gold:	D
+predicted:	A. Unacceptable premises | gold:	B
+predicted:	A. Using emotionally charged language to create an impression about the subject of a claim, without making an argument that the language fits the subject. | gold:	C
+predicted:	A. asking a question that includes either an unproven assumption or more than one question, thus making a straightforward yes or no answer meaningless. | gold:	B
+predicted:	C. Appeal to ignorance. | gold:	C
+predicted:	A. eliminating a source of evidence from consideration by claiming the source is flawed, when there is no true relationship between the alleged flaw and the reliability of the source. | gold:	D
+predicted:	A. "you too" fallacy. | gold:	B
+predicted:	A. Attacking the Person (ad hominem) | gold:	C
+predicted:	C. Hypostatization | gold:	C
+predicted:	A. false criteria | gold:	B
+predicted:	C. ignorance of refutation | gold:	A
+predicted:	A. categorical | gold:	A
+predicted:	C. False dilemma. | gold:	C
+predicted:	D. Style over substance. | gold:	D
+predicted:	A. attacking the character or background of someone making an argument instead of his or her evidence and reasoning. | gold:	C
+predicted:	B. Appeal to ignorance | gold:	B
+predicted:	A. no valid conclusion can be drawn | gold:	B
+predicted:	A. Equivocation: Using different meanings of the same word in the same argument. (e.g. God is infinite, so He can create something from nothing.)
+B. Appeal to Authority: Using someone's title or reputation to support an argument. (e.g. Afterwards, through His will and His volition, He brought into existence out of nothing all the beings as they are, time itself being one of the created things.)
+C. Inconsisteny: When a statement leads to a conclusion that does not logically follow from the premises. (e.g. If God can create something from nothing, He can also create a rock that He cannot move.)
+D. Slippery Slope: When a small change in an argument leads to a large, unsupported conclusion. (e.g. If God can create something from nothing, He can create anything.) | gold:	C
+predicted:	A. Fallacy of Composition | gold:	A
+predicted:	B. False dilemma | gold:	C
+predicted:	A. genetic fallacy. | gold:	A
+predicted:	A. Fallacy of Composition | gold:	B
+predicted:	B. Changing the meaning of a word or phrase from one part of the argument to another. | gold:	B
+predicted:	A. trying to make an opponent's argument seem ridiculous | gold:	D
+predicted:	A. a disjunctive syllogism | gold:	C
+predicted:	B. Guilt by association. | gold:	C
+predicted:	C. appeal to the people | gold:	C
+predicted:	A. The minor premise must either affirm the antecedent or deny the consequent. | gold:	B
+predicted:	D. appeal to tradition. | gold:	D
+predicted:	C. appeal to anonymous authority. | gold:	C
+predicted:	B. False dilemma | gold:	B
+predicted:	A. arguing that what is true of part of an object is necessarily true of the entire object | gold:	D
+predicted:	A. arguing that what is true of a few members of a class is true of all members of the class. | gold:	D
+predicted:	D. ignoratio elenchi. | gold:	C
+predicted:	C. false criteria. | gold:	C
+predicted:	C. Extension | gold:	C
+predicted:	A. a specific type of false cause fallacy that argues that since two event happened at the same time one event must have caused the other. | gold:	B
+predicted:	A. basing a conclusion on an analogy when the items being compared are not similar enough to sustain the analogy. | gold:	B
+predicted:	B. The fallacy of accident | gold:	A
+predicted:	A. determining the conclusion one wants first, then accepting only evidence supporting that conclusion, or interpreting all evidence as support for that conclusion. | gold:	C
+predicted:	A. A formally valid syllogism may be materially untrue. | gold:	B
+predicted:	B. Toulmin | gold:	D
+predicted:	D. arguing that someone should do something because of loyalty to a person or a group. | gold:	D
+predicted:	B. common person appeal | gold:	B
+predicted:	C. arguing actions should be taken to avoid exaggerated, unlikely, or irrelevant negative results. | gold:	C
+predicted:	A. Prejudicial Language | gold:	B
+predicted:	C. Fallacy of accident | gold:	A
+predicted:	A. an appeal to emotion that argues against a position based only on negative personal feelings toward the position. | gold:	B
+predicted:	D. Loaded language. | gold:	D
+predicted:	B. False dilemma. | gold:	C
+predicted:	D. Hasty Generalization | gold:	B
+predicted:	A. arguing that a single event caused another when the cause is really several events | gold:	B
+predicted:	A. a specific type of false sign that argues there is necessarily an inverse relationship between cost and quality, so something is necessarily a better value because it costs less. | gold:	A
+predicted:	A. Equivocation | gold:	A
+predicted:	D. It is a formally invalid conditional syllogism. | gold:	C
+predicted:	A. reasoning that a claim is true based only on the evidence that it has been made so often. | gold:	D
+predicted:	B. Categorical. | gold:	B
+predicted:	A. Fallacy of Accident | gold:	B
+predicted:	C. false criteria. | gold:	A
+predicted:	D. both A and B. | gold:	A
+predicted:	A. Begging the question | gold:	A
+predicted:	A. Sufficiently similar | gold:	D
+predicted:	C. responding to charges of wrongdoing by saying the accuser does the same thing | gold:	C
+predicted:	D. tu quoque (Responding to charges of wrongdoing by saying the accuser or others do the same thing). | gold:	D
+predicted:	D. Extension | gold:	B
+predicted:	The genetic fallacy consists of arguing that a conclusion should be made based on feeling sorry for someone when that feeling is irrelevant to the conclusion (A). responding to charges of wrongdoing by saying the accuser does something just as bad (B). arguing that an idea should be accepted or rejected based only on who originated the idea (C). causing confusion during refutation because of a real or feigned lack of ability to engage in refutation (D). | gold:	C
+predicted:	B. Bifurcation | gold:	D
+predicted:	C. ignorance of refutation. | gold:	C
+predicted:	B. Questionable Analogy | gold:	A
+predicted:	A. Attacking the Person (ad hominem) | gold:	C
+predicted:	B. appeal to a pride | gold:	B
+predicted:	D. Prejudicial Language | gold:	A
+predicted:	A. Argument from Ignorance | gold:	B
+predicted:	B. appeal to tradition | gold:	B
+predicted:	D. Imperfect analogy. | gold:	D
+predicted:	A. significance. | gold:	C
+predicted:	D. Appeal to ignorance. | gold:	B
+predicted:	C. The minor premise must affirm the antecedent or deny the consequent. | gold:	C
+predicted:	B. hasty generalization | gold:	A
+predicted:	B. Misusing ambiguity | gold:	A
+predicted:	A. Straw Man | gold:	C
+predicted:	A. arguing that a claim is true based only on evidence that an authority figure accepts the claim. | gold:	C
+predicted:	A. Anecdotal evidence | gold:	D
+predicted:	A. Appeal to Authority | gold:	D
+predicted:	D. Argument from authority. | gold:	D
+predicted:	D. Equivocation. | gold:	D
+predicted:	B. Guilt by association | gold:	D
+predicted:	A. valid categorical syllogism | gold:	A
+predicted:	A. arguing that since someone is poor she must have high moral character | gold:	B
+predicted:	C. argument by consensus. | gold:	A
+predicted:	C. arguing that someone is not really harmed because things could be worse or by pointing out what they have to be thankful for. | gold:	C
+predicted:	B. False dilemma | gold:	C
+predicted:	A. a way of suppressing evidence that eliminates a source of evidence from consideration by claiming the source is flawed, when there is no true relationship between the alleged flaw and the reliability of the source. | gold:	A
+predicted:	A. arguing someone should do something only because it will make him or her better liked. | gold:	B
+predicted:	C. appeal to beliefs | gold:	A
+predicted:	A. reasoning that a claim must be true because it's been made so often. | gold:	C
+predicted:	A. Using emotionally charged language to create an impression about the subject of a claim, without making an argument that the language fits the subject. | gold:	A
+predicted:	A. Not reasonable. | gold:	A
+predicted:	B. There is good reason to think that doing one action will inevitably lead to another undesirable action. | gold:	D
+predicted:	A. Reasoning that ideas presented in an appealing manner are correct, regardless of the content of the message. | gold:	D
+predicted:	D. Relevant only in court. | gold:	C
+predicted:	C. slippery slope. | gold:	C
+predicted:	A. attributing the cause of an event to a single cause when the cause is more complicated | gold:	B
+predicted:	D. Hasty Generalization | gold:	B
+predicted:	D. Appeal to the person | gold:	D
+predicted:	A. Using emotionally charged languages to create an impression about the subject of a claim, without making an argument that the language fits the subject. | gold:	C
+predicted:	A. Amphiboly. | gold:	A
+predicted:	C. false consolation. | gold:	C
+Accuracy: 0.3558282208588957

@@ -1,0 +1,238 @@
+predicted:	B. Global disarmament and nuclear non-proliferation. | gold:	A
+predicted:	B. Why European states went on to attain military superiority over non-Western powers in the modern era. | gold:	B
+predicted:	A. They kept horses in their court, which would have come from the Mongols. | gold:	D
+predicted:	A. the Arab-Israeli conflict. | gold:	C
+predicted:	D. Korea remains divided into two nations near the 38th parallel. | gold:	D
+predicted:	Dickens's view of the French Revolution was cynical and enthusiastic, while Wordsworth's view was optimistic and encouraging. | gold:	C
+predicted:	A. Revolutionary progressivism does not always concern itself with gender equality. | gold:	A
+predicted:	B. Sub-Saharan Africans consolidated new states and kingdoms by trading with the Europeans for firearms. | gold:	B
+predicted:	C. A widespread belief in Germany that it had been unfairly treated at the end of World War I. | gold:	C
+predicted:	B. can be viewed as a reaction to the systemic brute force with which the British governed India. | gold:	B
+predicted:	D. Their labor is only moderately difficult. | gold:	B
+predicted:	A. Uneasy allies. | gold:	A
+predicted:	D. Liberate the Zulus from British colonialism. | gold:	A
+predicted:	A. Pan-Africanism | gold:	A
+predicted:	D. Agriculture was collectivized, with the result that entire communities shared fields instead of individuals owning the land as private property. | gold:	D
+predicted:	C. The annexation of Manchuria by the Japanese. | gold:	D
+predicted:	D. A decrease in German economic output. | gold:	A
+predicted:	D. A lack of emphasis on martial ability. | gold:	B
+predicted:	A. Adroit diplomacy and establishment of client relationships with bordering nomads. | gold:	B
+predicted:	A. Emphasis on trade networks. | gold:	A
+predicted:	C. Communist agitators. | gold:	A
+predicted:	D. Containment | gold:	D
+predicted:	B. Nonviolent resistance. | gold:	B
+predicted:	The encomienda system. | gold:	C
+predicted:	D. The presence of highly developed port cities. | gold:	B
+predicted:	B. The use of religion to justify armed violence. | gold:	A
+predicted:	A. The aggressive expansion of the slave trade to provide labor for Caribbean sugar plantations. | gold:	A
+predicted:	B. British victory over Indian rebels and the strengthening of the British East India Company. | gold:	D
+predicted:	A. That they obediently fulfill their obligations within the home. | gold:	A
+predicted:	D. apartheid. | gold:	D
+predicted:	C. the Enlightenment | gold:	C
+predicted:	A. That the majority of Muslims were more peaceful than Christians during the crusading era. | gold:	D
+predicted:	A. The conquest of Constantinople by the armies of the Abbasid Caliphate. | gold:	B
+predicted:	A. Rules of royal succession. | gold:	B
+predicted:	D. Nomadic migrations created powerful empires during the period. | gold:	B
+predicted:	B. Killing of civilians during wartime. | gold:	B
+predicted:	B. Declarations of human rights. | gold:	C
+predicted:	B. The differing views of Catholics and Reformers on the appropriate use and interpretation of biblical texts. | gold:	B
+predicted:	A. Highlight the extent of the author's property losses. | gold:	D
+predicted:	D. Overhunting and depletion of furbearing animals. | gold:	D
+predicted:	Women's power increasingly fell within the private sphere. | gold:	C
+predicted:	D. Interpreting them as an act of submission. | gold:	D
+predicted:	C. Stalin's push to make the Soviet Union a nuclear nation. | gold:	C
+predicted:	A. The British crown offered incentives to those who would establish homesteads in the unsettled lands of South Africa. | gold:	D
+predicted:	D. Socialism | gold:	D
+predicted:	B. British support for growing resistance movements in Eastern Europe. | gold:	D
+predicted:	C. The cooperatives of peasants on the farmland and an emphasis on countryside steel production brought famine and poverty to the Chinese peasantry. | gold:	C
+predicted:	A. British sale of opium in China. | gold:	A
+predicted:	C. They logically decided to develop weapons better suited to their immediate military needs. | gold:	C
+predicted:	B. The government undertook a program of conquest in the Pacific. | gold:	C
+predicted:	B. Russia benefited by becoming the administrative center of Mongol political activity. | gold:	A
+predicted:	D. Hardening of anti-immigrant sentiment. | gold:	D
+predicted:	B. Persia and Arabia interacted infrequently throughout the period. | gold:	D
+predicted:	A. Outmigration from Africa due to political violence. | gold:	B
+predicted:	D. The Crusades | gold:	D
+predicted:	Martin Luther | gold:	B
+predicted:	B. The Ming Dynasty sought to regulate trade strictly to limit contact with foreigners and ease collection of taxes. | gold:	B
+predicted:	C. Pan-Africanism | gold:	C
+predicted:	A. It is hypocritical to sell one country a substance banned as harmful in one's own. | gold:	A
+predicted:	D. Unforeseen consequences of British imperialism. | gold:	D
+predicted:	B. universal taxation. | gold:	A
+predicted:	He had lost the blessing of the gods. | gold:	A
+predicted:	Most classical empires shared the trait of requiring cultural assimilation of conquered peoples to limit diversity within the empire. | gold:	C
+predicted:	A. A clerical or ecclesiastical authority. | gold:	C
+predicted:	D. Officers in the armed forces. | gold:	A
+predicted:	B. Religious restrictions were not universally observed by all Muslims. | gold:	B
+predicted:	A. Keynes would recommend government intervention in order to maintain aggregate demand. | gold:	A
+predicted:	A. Ancient Egyptians had a less gloomy view of the afterlife than ancient Sumerians. | gold:	A
+predicted:	B. The rise of a literate class of scribes in cities who could record poems. | gold:	A
+predicted:	D. The relatively high level of urbanization in Tang China. | gold:	A
+predicted:	D. The New World | gold:	D
+predicted:	D. Qin and Etruscan. | gold:	C
+predicted:	C. Hostility to women's rights on the part of new elites. | gold:	D
+predicted:	B. Rulers were limited in their political authority by powerful religious figures. | gold:	A
+predicted:	A. Mali's wealth came in large part from its exploitation of minerals. | gold:	A
+predicted:	A. Chinese merchants' domination of East Asian trade. | gold:	C
+predicted:	Mao's quotation is best understood in the context of governments implementing liberal political and economic reforms to mitigate social unrest. | gold:	B
+predicted:	B. They study Islamic law faithfully. | gold:	B
+predicted:	B. The ideals of the Enlightenment as stated by political revolutionaries such as Maximilian Robespierre. | gold:	A
+predicted:	D. Maintenance of large armies. | gold:	B
+predicted:	A. The wealth of the church. | gold:	C
+predicted:	C. The civil rights movements that changed the legal status of minorities in the United States. | gold:	C
+predicted:	D. Gold mining. | gold:	A
+predicted:	D. The imposition of social stratification based on origin of birth. | gold:	D
+predicted:	C. The empires of steppe nomads united trade links across Eurasia. | gold:	C
+predicted:	A. Emerging systems of coerced labor. | gold:	A
+predicted:	A. Rigid societal gender roles. | gold:	A
+predicted:	B. The Mongols invested in building large-scale monuments, whereas the Persians focused on public works. | gold:	A
+predicted:	B. The colonization of the interior of Africa. | gold:	B
+predicted:	B. Centralized and state-directed campaigns of modernization. | gold:	B
+predicted:	D. The chartering of companies to assume costs and share profits. | gold:	D
+predicted:	B. Imperial rescripts emphasized the birth of able sons over daughters to fulfill conscription quotas. | gold:	C
+predicted:	A. was only tolerant of Orthodox Christianity, while the Mongol administration in China favored many religious traditions. | gold:	B
+predicted:	C. The Industrial Revolution. | gold:	A
+predicted:	A. a concern for high educational standards in a rapidly growing society. | gold:	B
+predicted:	A. Victories against outsiders granted legitimacy to leaders of states. | gold:	A
+predicted:	C. The establishment of the Tokugawa Shogunate. | gold:	C
+predicted:	D. The caste system was integral to the Hindu religion, transcending historical eras. | gold:	D
+predicted:	B. Collective defense | gold:	B
+predicted:	C. Four hundred slaves, of whom three hundred were women. | gold:	D
+predicted:	C. A proposal to increase the standing of Africa in the modern world. | gold:	C
+predicted:	That European colonizers sometimes interfered with native religious practices. | gold:	C
+predicted:	Compared to the message communicated by the excerpt, Buddhist doctrine regarding reincarnation most resembled Hinduism in that it proposed a heavenly existence after death. | gold:	A
+predicted:	C. Communism | gold:	C
+predicted:	C. The conquest of Constantinople by Latin Christians. | gold:	C
+predicted:	B. The former king began with careful attention to the bonds that hold men together. | gold:	C
+predicted:	A. Laissez-faire. | gold:	A
+predicted:	B. A successful ban of the opium trade in all Chinese territories. | gold:	A
+predicted:	The author means that the empire became too large to control effectively. | gold:	B
+predicted:	A. Portuguese explorers were convinced that the route to the New World was easier traveled by going east. | gold:	D
+predicted:	A. Transformation of the social class structure. | gold:	B
+predicted:	War of Spanish Succession. | gold:	D
+predicted:	A. Constitutions around the world decreed representative governments for their citizens. | gold:	A
+predicted:	C. The end justifies the means. | gold:	C
+predicted:	A. were an expansionist empire geographically located between two other expansionists. | gold:	A
+predicted:	A. Existentialism | gold:	A
+predicted:	B. It was a pragmatic rather than an ethical or religious ideology. | gold:	B
+predicted:	B. Trade contacts who came from the north across the Sahara. | gold:	B
+predicted:	A. He is found everywhere and contained in everything. | gold:	A
+predicted:	C. The importance of sacrifice to the gods. | gold:	C
+predicted:	A. They were probably rebelling against the oppression of women in Islam. | gold:	B
+predicted:	D. World War II. The boycott mentioned in the fifth paragraph was part of the Indian Independence Movement, which ultimately led to India becoming an independent nation in 1947. World War II had a major impact on the British Empire, as it caused them to divert resources from their Indian possessions. This, in turn, weakened British control over India, and ultimately led to their withdrawal. | gold:	D
+predicted:	B. The establishment of successful democratic regimes in targets of foreign investment. | gold:	C
+predicted:	A. The use of religion to justify gender relations. | gold:	C
+predicted:	A. Discontent among the peasantry due to oppressive taxation. | gold:	A
+predicted:	D. The consolidation of states along the Atlantic coast of Africa. | gold:	A
+predicted:	B. Revolts organized by provincial elites in Latin American nations. | gold:	B
+predicted:	A. A lack of common ethnicity, language, or religion. | gold:	A
+predicted:	D. The implementation of joint-stock companies. | gold:	C
+predicted:	B. The fight for independence in South America. | gold:	B
+predicted:	The impact of European demand for Chinese goods was that the British sought control of the Malacca Strait. | gold:	C
+predicted:	A. Policies of religious toleration. | gold:	A
+predicted:	B. Disunity is what originally led many African nations into disarray. | gold:	D
+predicted:	D. Despite abuses on the part of Lenin and Stalin, the Soviet regime managed significant achievements. | gold:	D
+predicted:	D. Amiable cultural exchange between Europe and Asia. | gold:	D
+predicted:	A. The first union of independent Latin American states. | gold:	A
+predicted:	C. The promulgation of royal decrees insisting on more humane treatment of the natives. | gold:	C
+predicted:	B. It was written long after the time period in which Xuanzang lived. | gold:	A
+predicted:	C. contact with Muslim trade caravans. | gold:	C
+predicted:	D. Morality and justice | gold:	D
+predicted:	C. The person traditionally credited with composing the Mahabarata was born to a fisherwoman. | gold:	C
+predicted:	A. The colonization of the interior of Africa by European powers. | gold:	B
+predicted:	The poet means that the worldcondemns South Africa’s discrimination. | gold:	B
+predicted:	C. World War II. | gold:	C
+predicted:	B. There is an expectation of an afterlife. | gold:	B
+predicted:	C. Serfdom. | gold:	C
+predicted:	A. All adult men born within the geographic boundaries of the state. | gold:	C
+predicted:	C. Decolonization | gold:	C
+predicted:	B. Ancient cities featured areas for worshipping their patron deities. | gold:	B
+predicted:	A. The formation of far-flung diaspora communities as a result of interregional commerce. | gold:	A
+predicted:	B. Ancient Egyptians believed that moral behavior affected one's fate after death. | gold:	B
+predicted:	A. The ability of commerce to foster cultural diffusion. | gold:	A
+predicted:	B. Incursions of barbarian peoples into the empire | gold:	C
+predicted:	C. Protestant | gold:	A
+predicted:	C. widely did not condone intermingling with the natives. | gold:	C
+predicted:	C. The imposition of the Brezhnev Doctrine against anti-Soviet protesters in Europe. | gold:	B
+predicted:	A. key economic processes within Islamic society. | gold:	C
+predicted:	A. The strain placed on merchant families by long periods of separation. | gold:	A
+predicted:	C. U.S. involvement in Panama’s independence. | gold:	C
+predicted:	C. Ancient leaders were given divine origins to bolster their legitimacy. | gold:	C
+predicted:	B. Empires welcomed migrations of barbarian peoples as sources of military manpower or economic productivity. | gold:	A
+predicted:	A decline in the appeal of religions of salvation. | gold:	B
+predicted:	B. Absolutist | gold:	B
+predicted:	A. The Song abolished the Confucian civil service exams. | gold:	C
+predicted:	A. To facilitate trade with the predominantly Muslim merchants during this era. | gold:	A
+predicted:	A. An organization dedicated to asserting an ideological tenet over the world. | gold:	C
+predicted:	A. Pilgrimages to centers of religious significance. | gold:	A
+predicted:	D. French women remained without full political rights until well into the following century. | gold:	D
+predicted:	D. was seen by those who killed them as a religious duty. | gold:	A
+predicted:	A. Monarchs were involved in and interested in voyages of discovery. | gold:	A
+predicted:	The Chinese government abandoned Confucian principles to allow merchants a greater participation in local government. | gold:	A
+predicted:	B. The importance of attending to the affairs of others. | gold:	D
+predicted:	Unlike Arab slave merchants, those involved in the Atlantic slave trade were motivated by religion. | gold:	B
+predicted:	D. The reduced demand for furs among European and Asian elites. | gold:	B
+predicted:	C. Large-scale military losses and resentment of the working classes. | gold:	C
+predicted:	B. Spain refused to purchase slaves from Africa, relying instead on native American labor. | gold:	C
+predicted:	D. Religious tolerance. | gold:	D
+predicted:	A. European maritime exploration. | gold:	A
+predicted:	The official encouragement of Buddhist edicts. | gold:	D
+predicted:	A. showing that state-level antagonisms in the Middle East during the crusading era were not always reflected in personal or economic life. | gold:	A
+predicted:	D. The case of Rajputana was a typical one in the Mughal Empire. | gold:	B
+predicted:	C. Disagreement about the appropriate use of religious iconography. | gold:	C
+predicted:	C. Europe's economic domination of China. | gold:	C
+predicted:	B. International trade with Sub-Saharan Africa involved the exchange of mineral resources. | gold:	B
+predicted:	A puritanical injunction to adhere to a strict code of conduct. | gold:	A
+predicted:	D. Furs | gold:	D
+predicted:	Lenin's call to power was based on Marxism. | gold:	D
+predicted:	The event symbolizing the end of South Africa's institutionalized discrimination was the election of Nelson Mandela. | gold:	B
+predicted:	C. The Spanish wanted to preserve the independence of Native states in the New World as a buffer against Portuguese expansion. | gold:	B
+predicted:	A. Imams and muezzins ensured that all Africans adhered to Islamic law. | gold:	B
+predicted:	The Mongols generally ignored or assimilated to the cultural identities of the people whom they conquered. | gold:	A
+predicted:	B. Established public health care and pensions. | gold:	B
+predicted:	D. Development of the slave trade in Sub-Saharan Africa. | gold:	D
+predicted:	B. Kongolese noblemen were frequently taken as slaves by the Portuguese. | gold:	D
+predicted:	A. Gave over his crown to King Ferdinand. | gold:	C
+predicted:	C. Barbarian peoples were uniformly relegated to a servile status through the laws of their host societies. | gold:	B
+predicted:	D. The supremacy of piety. | gold:	D
+predicted:	D. The African slave trade. | gold:	B
+predicted:	B. Robespierre | gold:	B
+predicted:	D. The Industrial Revolution. | gold:	D
+predicted:	A. Latin America has excelled in poetry. | gold:	D
+predicted:	C. A modernist tendency to question the validity of faith-based moralities. | gold:	C
+predicted:	C. Xuanzang's study and retrieval of Buddhist texts from India. | gold:	C
+predicted:	A. Reverence for nature leads to tranquility and peaceful transitions of power. | gold:	B
+predicted:	D. A decrease in the frequency of voyages of exploration undertaken by the Spanish. | gold:	A
+predicted:	A. Africans passively accepted their capture and subsequent enslavement. | gold:	C
+predicted:	C. Because these were strongholds of the Holy Roman Empire, the narrator warns the Winter King to stay away. | gold:	B
+predicted:	A. Intervention by the United States and European powers in the independence of Latin American countries. | gold:	D
+predicted:	B. The influence of Chinese science on Islamic civilizations through European immigration to Islamic lands. | gold:	D
+predicted:	B. The adaptation of Western literary forms by non-Western authors. | gold:	B
+predicted:	C. China refused to allow a meaningful volume of European goods to be sold there. | gold:	C
+predicted:	Stalin's efforts to advance Russia were vindicated by the German invasion of Russia in 1941. | gold:	D
+predicted:	C. Zoroastrianism | gold:	A
+predicted:	D. Buddhists were granted limited toleration by Zoroastrians. | gold:	A
+predicted:	B. The compass | gold:	B
+predicted:	D. The invention of steam-powered ships. | gold:	C
+predicted:	D. A strong political union. | gold:	B
+predicted:	Ibn Battuta's experiences were most similar to those of Marco Polo. Both travelled extensively throughout the world and described their experiences in great detail. They encountered similar places and people, and even described many of the same landmarks and monuments. | gold:	C
+predicted:	B. The geography of Greece contains numerous freshwater lakes that facilitated a successful fishing industry. | gold:	D
+predicted:	C. A time of intense political conflict among warring Italian city-states and other factions. | gold:	C
+predicted:	A. European merchants were confined to a few cities designated for foreign trade. | gold:	A
+predicted:	B. The new liberties gained by revolution typically fail to benefit women or ethnic minorities. | gold:	C
+predicted:	B. The beginning of the Industrial Revolution. | gold:	C
+predicted:	A. Cynicism about the loyalty of a ruler's subjects. | gold:	A
+predicted:	B. Religious toleration gained acceptance with the laws of most states in the period. | gold:	B
+predicted:	A. Legalization of slavery in overseas colonies. | gold:	B
+predicted:	B. Latin America has survived many invaders and will endure. | gold:	B
+predicted:	A. A reduction of barriers to trade across international borders. | gold:	D
+predicted:	B. The Columbian Exchange | gold:	B
+predicted:	B. The British sought to end what they considered an inhumane practice without endangering their own authority. | gold:	B
+predicted:	A. Demonstrate the possibility of African unity | gold:	B
+predicted:	D. The competing colonization companies in the Scramble for Africa. | gold:	A
+predicted:	B. That China's rigid form of dictatorial rule suppressed any spirit of military or technological innovation. | gold:	D
+predicted:	C. Labor unions | gold:	C
+predicted:	C. They had no interest in the products that Great Britain could provide. | gold:	C
+predicted:	A. The population increased due to the increased diversity of crops. | gold:	A
+predicted:	D. The Ghanians had a self-sufficient farming economy. | gold:	C
+Accuracy: 0.5063291139240507

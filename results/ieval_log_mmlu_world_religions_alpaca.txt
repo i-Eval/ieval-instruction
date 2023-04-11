@@ -1,0 +1,172 @@
+predicted:	D. Idols | gold:	D
+predicted:	D. Humanistic Buddhism. | gold:	B
+predicted:	C. 451 CE. | gold:	D
+predicted:	A. Akitu | gold:	A
+predicted:	D. Ikebana | gold:	D
+predicted:	D. Harmony and balance. | gold:	A
+predicted:	A. Shabad | gold:	A
+predicted:	A. Muhammad's miraculous ascent to heaven. | gold:	A
+predicted:	A. Laws of Dharma | gold:	D
+predicted:	A. The Holy Book | gold:	C
+predicted:	D. Eternal Spirit | gold:	B
+predicted:	C. Nichiren. | gold:	D
+predicted:	B. Langar | gold:	B
+predicted:	D. Shamanism | gold:	B
+predicted:	B. Submission. | gold:	B
+predicted:	D. No-self. | gold:	D
+predicted:	A. Spiritual narratives | gold:	C
+predicted:	C. Mahayana | gold:	C
+predicted:	C. Agama | gold:	D
+predicted:	The most important prayer in Judaism is The Shema, which is found in Deuteronomy 6:4-9 and repeated twice a day by Jewish people. | gold:	A
+predicted:	B. Legalistic asceticism. | gold:	A
+predicted:	The Battle of Uhud. | gold:	C
+predicted:	A. Remembering the Divine Name | gold:	A
+predicted:	B. Buddhism | gold:	A
+predicted:	C. Disciple | gold:	A
+predicted:	A. The sages of the Zhuangzi. | gold:	A
+predicted:	A. Anointed one | gold:	A
+predicted:	D. Non-soul | gold:	D
+predicted:	C. Seated meditation. | gold:	C
+predicted:	B. Bodily pleasure | gold:	D
+predicted:	B. Wrathful and merciful. | gold:	B
+predicted:	A. Palestine and Babylonia. | gold:	A
+predicted:	B. Buddhism | gold:	A
+predicted:	A. Kali yuga | gold:	A
+predicted:	A. Hymns | gold:	A
+predicted:	Pure Land. | gold:	A
+predicted:	According to Hindu tradition, the ideal wife is Sita. | gold:	A
+predicted:	Rabi'a (B). | gold:	B
+predicted:	A. Andal | gold:	A
+predicted:	B. Clare of Assisi | gold:	C
+predicted:	C. Religion | gold:	B
+predicted:	D. Quakers. | gold:	D
+predicted:	C. Jesus | gold:	A
+predicted:	C. 1965 | gold:	A
+predicted:	C. Women ascetics who lived in communities. | gold:	D
+predicted:	Zhuangzi describes a state as ziran, which means non-action. | gold:	C
+predicted:	A. hand gestures. | gold:	A
+predicted:	D. Antiochus IV Epiphanes | gold:	D
+predicted:	C. 33 | gold:	A
+predicted:	D. Cow | gold:	D
+predicted:	D. Apprenticeship. | gold:	A
+predicted:	B. Destruction of the Second Temple. | gold:	B
+predicted:	D. Shinran | gold:	C
+predicted:	C. Indonesia | gold:	C
+predicted:	C. Athanasius | gold:	A
+predicted:	A. Enlightened being | gold:	A
+predicted:	Guru Tegh Bahadur (B). | gold:	B
+predicted:	Guru Hargobind (C). | gold:	C
+predicted:	B. In faith in God | gold:	D
+predicted:	B. Humans can align themselves with life energy through worship of kami. | gold:	A
+predicted:	B. Sri Lakshmi | gold:	B
+predicted:	D. Joseon | gold:	B
+predicted:	B. Patanjali | gold:	B
+predicted:	D. It is a square building. | gold:	A
+predicted:	B. Ganesha | gold:	B
+predicted:	B. Mahavira | gold:	C
+predicted:	A. Ban Zhao | gold:	A
+predicted:	D. 7,000 | gold:	A
+predicted:	A. Ultimate Reality | gold:	A
+predicted:	B. Hukam | gold:	B
+predicted:	D. 47 | gold:	C
+predicted:	C. Humanistic Buddhism | gold:	C
+predicted:	D. They believed that the omniscient Jina must eat and sleep. | gold:	B
+predicted:	A. Namokar Mantra | gold:	A
+predicted:	C. Fifth century BCE | gold:	B
+predicted:	C. 24 | gold:	C
+predicted:	A. Ocean of Love | gold:	C
+predicted:	C. Sri (Lakshmi) | gold:	C
+predicted:	C. Devotion | gold:	C
+predicted:	C. Sarasvati | gold:	C
+predicted:	The Jewish prayer used for mourning since the Middle Ages is The Kaddish. | gold:	B
+predicted:	B. Vishnu | gold:	B
+predicted:	C. Rulers, warriors | gold:	C
+predicted:	A. Toward the end of the first millennium BCE. | gold:	C
+predicted:	A. Correct knowledge. | gold:	C
+predicted:	A. Activist and militant organization in Sri Lanka | gold:	A
+predicted:	A. Julian of Norwich. | gold:	A
+predicted:	B. Paap | gold:	A
+predicted:	A. Obon | gold:	A
+predicted:	Mahavira means "The Great One". | gold:	A
+predicted:	D. Three buddhas. | gold:	B
+predicted:	C. Korea | gold:	C
+predicted:	C. Female goddesses. | gold:	D
+predicted:	C. Caliph | gold:	C
+predicted:	D. Divine inspiration. | gold:	D
+predicted:	A. He is the last of the ascetic prophets. | gold:	A
+predicted:	A. Bardo Thodol | gold:	A
+predicted:	A. Deepavali | gold:	A
+predicted:	A. 5–7 a.m. | gold:	D
+predicted:	B. The Dalai Lama | gold:	A
+predicted:	B. At least 17. | gold:	B
+predicted:	C. Conservative | gold:	A
+predicted:	A. Khalsa | gold:	A
+predicted:	A. Guru Gobind Singh | gold:	B
+predicted:	C. Auspiciousness. | gold:	C
+predicted:	D. Epic of Origins | gold:	A
+predicted:	A. Thesmophoria. | gold:	A
+predicted:	C. Pentecostalism | gold:	C
+predicted:	C. A spiritual gift. | gold:	C
+predicted:	C. Direction of prayer. | gold:	C
+predicted:	B. Original ground. | gold:	B
+predicted:	A. Hizmet | gold:	A
+predicted:	A. Brahmins | gold:	A
+predicted:	B. Hwanung | gold:	B
+predicted:	B. Bhikshunis | gold:	B
+predicted:	C. Zohar | gold:	C
+predicted:	D. Confucius | gold:	C
+predicted:	C. Adultery | gold:	D
+predicted:	A. Theravada | gold:	A
+predicted:	The Dalai Lama. | gold:	D
+predicted:	A. Baptism and Eucharist | gold:	A
+predicted:	B. Divali | gold:	C
+predicted:	B. Gabriel | gold:	C
+predicted:	C. Birth stories. | gold:	C
+predicted:	B. 1052-1616 | gold:	C
+predicted:	C. Brit | gold:	D
+predicted:	C. Direct lineage of ancestors. | gold:	D
+predicted:	Bishnoi | gold:	B
+predicted:	B. Kannon | gold:	C
+predicted:	D. All of the above. | gold:	D
+predicted:	C. Marduk | gold:	C
+predicted:	B. Reform Judaism | gold:	D
+predicted:	A. 1947 | gold:	B
+predicted:	C. Orthodox | gold:	C
+predicted:	C. Suffering | gold:	C
+predicted:	B. 1517 | gold:	B
+predicted:	A. Zen Buddhism | gold:	A
+predicted:	A. Jupiter | gold:	A
+predicted:	D. Daoism | gold:	D
+predicted:	A. Shu and Set. | gold:	C
+predicted:	C. Heart-mind. | gold:	C
+predicted:	C. Ashramas. | gold:	C
+predicted:	D. tafsir | gold:	D
+predicted:	B. The Shi'a | gold:	B
+predicted:	D. Samurai | gold:	B
+predicted:	C. Kannon | gold:	C
+predicted:	C. Anthony | gold:	C
+predicted:	B. Matthew, Mark, John. | gold:	C
+predicted:	D. The Classic of Changes | gold:	D
+predicted:	 D. Eleusis. | gold:	D
+predicted:	A. 515 BCE | gold:	C
+predicted:	D. Lightning | gold:	C
+predicted:	B. Samsara | gold:	B
+predicted:	B. Classic of Changes | gold:	B
+predicted:	D. All of the above. | gold:	D
+predicted:	D. Grand festivals | gold:	D
+predicted:	C. Cicero | gold:	C
+predicted:	A. "Sky-clad" | gold:	C
+predicted:	The Hijab. | gold:	B
+predicted:	C. Inspiration for personal meditation throughout the day. | gold:	C
+predicted:	B. Talmud | gold:	D
+predicted:	A. A ritual circumciser | gold:	A
+predicted:	C. Pure Land. | gold:	B
+predicted:	B. Second and First Century BCE. | gold:	C
+predicted:	A. Islamic identity | gold:	A
+predicted:	C. Tanakh | gold:	A
+predicted:	C. Truth and love. | gold:	A
+predicted:	C. The Queen Mother of the West. | gold:	C
+predicted:	A. of a similar substance | gold:	B
+predicted:	B. Izanagi | gold:	B
+predicted:	A. Divine power. | gold:	A
+Accuracy: 0.543859649122807

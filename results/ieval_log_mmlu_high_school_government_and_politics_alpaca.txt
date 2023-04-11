@@ -1,0 +1,198 @@
+predicted:	D. Once Congress has created an administrative agency, that agency can be dissolved only by a constitutional amendment. | gold:	D
+predicted:	Registered voters between the ages of 35 and 45 are more likely to vote than are those under the age of 21. | gold:	B
+predicted:	C. The media to which the child is exposed. | gold:	B
+predicted:	C. Having representation in Congress. | gold:	A
+predicted:	C. promote the defeat of incumbents in the federal and state legislatures. | gold:	A
+predicted:	A. Impeachment, conviction, and removal from office by Congress. | gold:	A
+predicted:	B. president's chief of staff | gold:	B
+predicted:	D. The importance of the issue to a particular individual or group. | gold:	D
+predicted:	A. which special interest groups have endorsed which candidates. | gold:	B
+predicted:	C. Judicial review. | gold:	C
+predicted:	D. An official who leaves the State Department to work as a paid consultant to foreign governments. | gold:	D
+predicted:	The Supreme Court does not have the power to override constitutional amendments. | gold:	A
+predicted:	B. It limits the dangers of factionalism by diluting political power. | gold:	B
+predicted:	C. Low-income Americans are more likely to vote Democratic than are upper-income Americans. | gold:	D
+predicted:	D. stare decisis | gold:	D
+predicted:	D. Voters aged 18-29. | gold:	D
+predicted:	B. the strength of the federal government relative to the states | gold:	B
+predicted:	A. United States domestic policy grew more conservative in the 1990s. | gold:	D
+predicted:	A. create "separate but equal" facilities to facilitate racial segregation. | gold:	C
+predicted:	A. the membership of committees often overrepresents constituencies with the greatest stake in the committee's business. | gold:	A
+predicted:	D. authorize the treasury to print money. | gold:	B
+predicted:	B. ethical conduct of House members | gold:	D
+predicted:	B. Marbury v. Madison | gold:	D
+predicted:	A. minimize the cost of running the election | gold:	D
+predicted:	A. the executive branch to veto legislation approved by Congress | gold:	D
+predicted:	A. require disclosure of campaign donations. | gold:	B
+predicted:	A. Publicly expressing rejection of a bill. | gold:	C
+predicted:	D. It has become more influenced by evangelical Christians. | gold:	D
+predicted:	Voter turnout is lower in midterm elections than it is in presidential elections. (True) | gold:	D
+predicted:	D. Executive orders bypass congressional approval. | gold:	A
+predicted:	B. Fiscal federalism. | gold:	B
+predicted:	B. making it difficult for one faction to gain the power necessary to govern. | gold:	B
+predicted:	A. voters are more likely to support government-enforced affirmative action programs. | gold:	C
+predicted:	A. reflect population shifts indicated by the national census. | gold:	A
+predicted:	D. Appellate judges review decisions of lower courts. | gold:	D
+predicted:	B. The bill goes back to each house's committee and restarts the legislative process. | gold:	D
+predicted:	C. I, III, and IV only | gold:	C
+predicted:	D. These groups' constituents contribute heavily to many legislators' campaigns, and in doing so, gain greater access to legislators. | gold:	C
+predicted:	C. as a relatively independent organization that exists at all levels of government. | gold:	C
+predicted:	D. The Supreme Court has original jurisdiction over all constitutional matters. | gold:	C
+predicted:	D. Northern ethnic minorities. | gold:	A
+predicted:	B. Under some circumstances, the death penalty may not violate the Eighth Amendment. | gold:	B
+predicted:	B. Checks and balances | gold:	B
+predicted:	The difference in size between the two chambers means that more work is done on the floor in the Senate and more work is done in committees in the House. | gold:	A
+predicted:	D. Voters increasingly vote based on a party's platform. | gold:	B
+predicted:	B. The right to privacy is explicitly granted in the Preamble to the Constitution. | gold:	C
+predicted:	B. The majority of American citizens support the proposed legislation. | gold:	A
+predicted:	D. Religious institutions. | gold:	C
+predicted:	C. increase the power of the national government. | gold:	C
+predicted:	B. A pocket veto. | gold:	B
+predicted:	D. party activists, whose political participation is disproportionate to their numbers, tend to be very conservative. | gold:	D
+predicted:	D. end a filibuster and force a vote on a bill in the Senate. | gold:	D
+predicted:	A. The Supreme Court allows a lower court ruling to stand by refusing to hear an appeal. | gold:	C
+predicted:	D. Its jurisdiction includes the tax system. | gold:	D
+predicted:	D. It reserves powers to the states. | gold:	D
+predicted:	D. The Constitution should be interpreted in light of the intent of those who wrote it. | gold:	D
+predicted:	A. Incumbent senators are more likely to be reelected than are incumbent members of the House of Representatives. | gold:	C
+predicted:	C. the constitutional fragmentation of power. | gold:	C
+predicted:	D. Each political party tends to focus its campaign on a single issue. | gold:	A
+predicted:	C. the remoteness of most political issues to the daily lives of young people. | gold:	D
+predicted:	A. A defendant who wants to know what witnesses the plaintiff plans to call.
+B. Former presidents who wish to send instructions to the justices who they appointed.
+C. A senator who wants to impeach a Supreme Court justice.
+D. Companies that are not involved in a court case but wish to affect the outcome. 
+Answer: A, B, C, D. | gold:	D
+predicted:	B. The voter's political party affiliation. | gold:	B
+predicted:	D. The results of electoral college voting tend to distort the winner's margin of victory, when compared with the popular vote for president. | gold:	D
+predicted:	A. avoid "horse race" politics | gold:	B
+predicted:	B. Giving tangible gifts to lawmakers | gold:	B
+predicted:	D. Fourteenth Amendment | gold:	D
+predicted:	C. African American, male or female. | gold:	A
+predicted:	To make it easier for citizens to register to vote. | gold:	B
+predicted:	D. voters may vote in the election of a party other than the one to which they are registered. | gold:	D
+predicted:	C. Entitlement programs | gold:	C
+predicted:	C. A reporter announces which candidate leads in a public opinion poll. | gold:	C
+predicted:	A. income equality | gold:	A
+predicted:	B. extend voting rights to racial minorities and women | gold:	C
+predicted:	C. State legislatures | gold:	C
+predicted:	B. a reprieve grants a release from legal punishment, while a pardon postpones it. | gold:	C
+predicted:	A. Grant reprieves and pardons. | gold:	A
+predicted:	A. Near v. Minnesota and New York Times v. Sullivan. | gold:	D
+predicted:	A. Framers' unqualified commitment to individual rights. | gold:	D
+predicted:	D. representatives more often run uncontested. | gold:	C
+predicted:	C. judicial restraint. | gold:	A
+predicted:	B. Party leadership is dispersed among numerous officials at the national, state, and local levels. | gold:	B
+predicted:	A. realignment | gold:	B
+predicted:	B. A bill can be passed only if a majority of congresspersons from rural districts approve of it. | gold:	D
+predicted:	D. increases the control voters have over their elected officials. | gold:	D
+predicted:	D. The Ninth Amendment reserves powers to the people. | gold:	C
+predicted:	A. system of checks and balances among the three branches of the national government | gold:	D
+predicted:	A. establish a bill of rights that would protect citizens from the government | gold:	D
+predicted:	A constitutional amendment would be required to ban flag burning because that activity is currently protected by the right to free speech. | gold:	D
+predicted:	C. oversight of executive branch agencies. | gold:	C
+predicted:	D. The division and sharing of power between the national and state governments. | gold:	D
+predicted:	A. avoid battleground states and focus their campaigns on "safe" states | gold:	B
+predicted:	D. Senate sessions, unlike House sessions, are open to the public. | gold:	D
+predicted:	C. Southerners. | gold:	C
+predicted:	C. reapportionment | gold:	D
+predicted:	B. The Senate may use the filibuster to block an executive order. | gold:	A
+predicted:	B. it gave executive powers to the legislature. | gold:	C
+predicted:	B. Those elections saw major shifts in party alignment that would last for decades. | gold:	B
+predicted:	B. Senate committees have relatively little power to alter legislation. | gold:	D
+predicted:	D. Affluent individuals are less likely to vote than impoverished individuals. | gold:	C
+predicted:	C. reduce the federal deficit | gold:	C
+predicted:	B. A voter chooses the presidential nominee of one major party, but chooses congressional nominees of the other major party. | gold:	B
+predicted:	D. Development of a two-party system. | gold:	D
+predicted:	B. banned race-based discrimination | gold:	D
+predicted:	A. determines both the rules of the House and conditions for legislative process | gold:	A
+predicted:	D. orders the lower court to retry the case. | gold:	A
+predicted:	B. I and II only | gold:	C
+predicted:	B. Low levels of political efficacy among registered voters | gold:	A
+predicted:	B. gerrymandering | gold:	D
+predicted:	D. the doctrine of incorporation. | gold:	D
+predicted:	B. The incumbent vice president of the United States. | gold:	D
+predicted:	C. any registered voter may participate, regardless of party affiliation. | gold:	C
+predicted:	A. redrawing congressional district boundaries | gold:	A
+predicted:	A. They displace one of the two major parties and become major parties themselves. | gold:	D
+predicted:	D. Pendleton Act of 1883 | gold:	D
+predicted:	The term "iron triangle" refers to the interrelationship of the local, state, and federal governments. | gold:	D
+predicted:	A. A federal mandate | gold:	A
+predicted:	A. appoint a nominee for the U.S. Supreme Court | gold:	C
+predicted:	B. due process clause | gold:	B
+predicted:	A. political parties can provide a check to the political influence wielded by corporations. | gold:	B
+predicted:	B. Drafting appropriations bills | gold:	C
+predicted:	C. States are equally represented in the House, while representation in the Senate is proportional to population. | gold:	D
+predicted:	A. resigns to take a position as a consultant to lobbying groups. | gold:	C
+predicted:	Acquiring corporate campaign donations for candidates. | gold:	D
+predicted:	A. a perception of the government as illegitimate | gold:	D
+predicted:	D. Typically, the general population is less ideological than the delegates. | gold:	D
+predicted:	D. the State of the Union address. | gold:	A
+predicted:	B. The court helps set the public agenda by deciding which appeals to hear. | gold:	B
+predicted:	D. petition the government for a redress of grievances. | gold:	D
+predicted:	C. Voting participation for racial minority voters has increased. | gold:	C
+predicted:	A. an iron triangle. | gold:	A
+predicted:	A. will review a lower court decision. | gold:	A
+predicted:	D. The term length for members of Congress (Answer) | gold:	B
+predicted:	B. Vertical federalism. | gold:	D
+predicted:	B. The two are entirely autonomous, and neither ever hears cases that originate in the other. | gold:	C
+predicted:	D. money given by the federal government to states to fund Head Start early education programs. | gold:	D
+predicted:	B. issues a writ of certiorari. | gold:	B
+predicted:	B. They are appointed for life and can only be removed by impeachment. | gold:	B
+predicted:	A. be led by a group of commissioners representing both major political parties | gold:	A
+predicted:	C. It occurs every 10 years to reflect changes in population according to the census. | gold:	C
+predicted:	The Federalist Papers are a collection of essays arguing the merits of the Constitution. | gold:	C
+predicted:	B. The federal court system has exclusive jurisdiction over them. | gold:	A
+predicted:	D. Their activities are limited to national presidential elections. | gold:	D
+predicted:	A. violated the legislative process by which bills become laws. | gold:	A
+predicted:	A. Plessy v. Ferguson | gold:	A
+predicted:	A. Department of Education special acts and authorizations. | gold:	C
+predicted:	A. Peace Corps | gold:	B
+predicted:	B. on appeal by state prosecutors | gold:	D
+predicted:	A. less interested in influencing the outcome of elections. | gold:	B
+predicted:	A. the president's nominees must be approved by the Senate before taking office. | gold:	C
+predicted:	D. The use of racial quotas in public university admissions. | gold:	D
+predicted:	C. Increasing concentration of ownership in the news media. | gold:	C
+predicted:	C. each group is dependent on the other to perform its job effectively. | gold:	C
+predicted:	D. president | gold:	D
+predicted:	A. negotiate treaties. | gold:	A
+predicted:	D. Fourteenth Amendment | gold:	D
+predicted:	B. delegating the responsibility for electing senators to the state legislatures. | gold:	B
+predicted:	A. Only Congress can pass laws. | gold:	D
+predicted:	A. are appointed by presidents of the same political party | gold:	A
+predicted:	B. By overturning the "separate but equal" principle, the Civil Rights Act of 1964 ended segregation in public schools. | gold:	C
+predicted:	A. the winning candidate receives less than 50 percent of the popular vote. | gold:	A
+predicted:	B. The federal government granting power over a policy area to the states. | gold:	D
+predicted:	A. to representation by an attorney | gold:	A
+predicted:	C. Congressional Management Foundation Chair | gold:	C
+predicted:	A. When there is a strong front-runner in a state, people in that state are less likely to vote. | gold:	D
+predicted:	B. Representation in the House is allocated equally among the states, while representation in the Senate is allocated proportional to population. | gold:	D
+predicted:	B. While the Congress creates laws, and the executive branch enacts and enforces those laws, only the Supreme Court may decide which laws and executive actions are unconstitutional. | gold:	D
+predicted:	C. religious beliefs | gold:	B
+predicted:	A. First Amendment | gold:	A
+predicted:	C. Congress, through the local offices of its elected representatives. | gold:	B
+predicted:	D. Sixty percent. | gold:	B
+predicted:	D. I, II, and IV only. | gold:	D
+predicted:	B. Funds with few restrictions that are provided to state or local governments for general purpose use. | gold:	B
+predicted:	B. Ways and Means | gold:	B
+predicted:	A. Allowing states to decide how to meet federally mandated greenhouse gas emissions targets (devolution) | gold:	A
+predicted:	D. Rules. | gold:	D
+predicted:	B. affirmative action programs | gold:	B
+predicted:	D. concentrate their campaign efforts on "battleground" states. | gold:	D
+predicted:	A constitutional amendment to the contrary of a court decision (Cannot limit the influence of the federal courts). | gold:	D
+predicted:	A. negotiate treaties | gold:	D
+predicted:	A. lack of a chief executive office | gold:	D
+predicted:	A. call special sessions of Congress. | gold:	A
+predicted:	C. Congress must pay benefits to anyone who qualifies to receive them. | gold:	C
+predicted:	D. They flourished during periods of widespread dissatisfaction. | gold:	D
+predicted:	D. John Locke | gold:	D
+predicted:	A. reapportionment of voting districts. | gold:	D
+predicted:	A. Congressional oversight activities most often take place at the committee and subcommittee levels. | gold:	A
+predicted:	A. Fewer than 5% of petitions for writs of certiorari are granted by the Supreme Court. | gold:	A
+predicted:	A. an area that has a substantial community of non-English speakers, voters be provided with ballots in their native language. | gold:	A
+predicted:	A. proves U.S. politicians are not concerned about serving working-class constituencies. | gold:	C
+predicted:	C. states' power to challenge federal regulation | gold:	D
+predicted:	C. The courts. | gold:	C
+predicted:	B. The Department of Justice | gold:	B
+predicted:	B. incorporation of the Fifth Amendment through the due process clause of the Fourteenth Amendment. | gold:	B
+Accuracy: 0.5077720207253886

@@ -1,0 +1,129 @@
+predicted:	A. True, True | gold:	D
+predicted:	A. True, True | gold:	C
+predicted:	A. True, True | gold:	B
+predicted:	C. 48 | gold:	D
+predicted:	A. convolutional networks | gold:	A
+predicted:	A. True, True | gold:	B
+predicted:	D. O(ND^2) | gold:	A
+predicted:	A. True, True | gold:	B
+predicted:	D. 16 | gold:	C
+predicted:	D. None of the above. As the number of training examples goes to infinity, the variance of the model trained on that data will go to zero. | gold:	A
+predicted:	A. True, True | gold:	A
+predicted:	D. all of the above | gold:	C
+predicted:	A. True, True | gold:	A
+predicted:	A. True, True | gold:	B
+predicted:	A. pure | gold:	B
+predicted:	A. True, True | gold:	B
+predicted:	A. This feature has a strong effect on the model (should be retained). | gold:	C
+predicted:	C. The initial choice of weights. | gold:	A
+predicted:	B. Whether we learn the weights by matrix inversion or gradient descent | gold:	A
+predicted:	A. True, True | gold:	A
+predicted:	A. Requires the dimension of the feature space to be no bigger than the number of samples. | gold:	C
+predicted:	A. True, True | gold:	A
+predicted:	D. 3 | gold:	B
+predicted:	A. True, True | gold:	C
+predicted:	B. Density-based clustering | gold:	B
+predicted:	A. True, True | gold:	A
+predicted:	MLE estimates are often undesirable because they have high variance. | gold:	B
+predicted:	B. linear in N | gold:	C
+predicted:	B. Decrease bias | gold:	D
+predicted:	D. All of the above. | gold:	C
+predicted:	A. Optimize a convex objective function | gold:	C
+predicted:	D. None of the above. The prior probability of testing positive is 0. | gold:	C
+predicted:	A. After mapped into feature space Q through a radial basis kernel function, 1-NN using unweighted Euclidean distance may be able to achieve better classification performance than in original space (though we can’t guarantee this).
+B. The VC dimension of a Perceptron is smaller than the VC dimension of a simple linear SVM. | gold:	B
+predicted:	The disadvantage of Grid search is A. It can not be applied to non-differentiable functions. | gold:	D
+predicted:	A. Supervised learning | gold:	A
+predicted:	D. It discovers causal relationships | gold:	D
+predicted:	C. To make the training set error smaller. | gold:	D
+predicted:	A. True, True | gold:	B
+predicted:	D. Reducing the noise in the training data is not a valid way to reduce overfitting. | gold:	B
+predicted:	A. True, True | gold:	A
+predicted:	A. For two dimensional data points, the separating hyperplane learnt by a linear SVM will be a straight line.
+B. In theory, a Gaussian kernel SVM cannot model any complex separating hyperplane.
+C. For every kernel function used in a SVM, one can obtain an equivalent closed form basis expansion.
+D. Overfitting in an SVM is not a function of number of support vectors. | gold:	A
+predicted:	A. P(H, U, P, W) = P(H) * P(W) * P(P | W) * P(U | H, P). | gold:	C
+predicted:	A. True, True | gold:	B
+predicted:	A. True, True | gold:	B
+predicted:	B. Mini-Batch Gradient Descent | gold:	D
+predicted:	A. Decreases model bias | gold:	A
+predicted:	D. 15 | gold:	D
+predicted:	B. anomaly detection | gold:	A
+predicted:	Statement 1| We learn a classifier f by boosting weak learners h. The functional form of f’s decision boundary is the same as h’s, but with different parameters. (e.g., if h was a linear classifier, then f is also a linear classifier). Statement 2| Cross validation can be used to select the number of iterations in boosting; this procedure may help reduce overfitting. 
+A. True, True
+B. False, False
+C. True, False
+D. False, True | gold:	D
+predicted:	A. True, True | gold:	D
+predicted:	B. O( N ) | gold:	B
+predicted:	A. True, True | gold:	A
+predicted:	A. True, True | gold:	D
+predicted:	C. Is bounded between 0 and 1. | gold:	C
+predicted:	A. Linear hard-margin SVM. | gold:	A
+predicted:	B. K-means clustering
+C. Grid based clustering
+D. All of the above | gold:	D
+predicted:	A. True, True | gold:	D
+predicted:	A. True, True | gold:	D
+predicted:	B. P(E, F), P(H), P(E|H), P(F|H) | gold:	B
+predicted:	A. The use of sampling with replacement as the sampling technique. | gold:	B
+predicted:	A. True, True | gold:	B
+predicted:	A. True, True | gold:	A
+predicted:	D. 3 | gold:	C
+predicted:	A. The examples farthest from the decision boundary. | gold:	B
+predicted:	A. True, True | gold:	A
+predicted:	B. Regularization is too high and model is overfitting. | gold:	C
+predicted:	D. 0.97. | gold:	C
+predicted:	A. True, True | gold:	A
+predicted:	A. True, True | gold:	A
+predicted:	B. CART | gold:	A
+predicted:	C. You are overfitting. | gold:	A
+predicted:	C. cubic in K | gold:	A
+predicted:	A. True, True | gold:	B
+predicted:	B. 1/4 | gold:	D
+predicted:	B. Yann LeCun. | gold:	C
+predicted:	A. True, True | gold:	B
+predicted:	A. Whether kernel function is Gaussian versus triangular versus box-shaped. | gold:	C
+predicted:	A. True, True | gold:	A
+predicted:	C. Whether we have equal class priors or priors estimated from the data. | gold:	B
+predicted:	A. True, True | gold:	D
+predicted:	A. True, True | gold:	A
+predicted:	A. True, True | gold:	C
+predicted:	A. Supervised learning. | gold:	B
+predicted:	A. Transform data to zero mean. | gold:	A
+predicted:	A. True, True | gold:	C
+predicted:	C. will never decrease the testing error. | gold:	A
+predicted:	A. p(y|x, w) | gold:	A
+predicted:	A. True, True | gold:	C
+predicted:	B. The use of probabilistic modelling for regression. | gold:	C
+predicted:	A. True, True
+B. False, False
+C. True, False
+D. False, True | gold:	A
+predicted:	A. True, True | gold:	C
+predicted:	B. Lasso | gold:	B
+predicted:	B. Maximization. | gold:	B
+predicted:	B. Whether we learn the class centers by Maximum Likelihood or Gradient Descent. | gold:	B
+predicted:	A. True, True | gold:	B
+predicted:	D. Naive Bayesian | gold:	A
+predicted:	A. True, True | gold:	A
+predicted:	D. P(A | B, C) * P(C) | gold:	C
+predicted:	D. All of the above. | gold:	B
+predicted:	L0 norm. | gold:	D
+predicted:	A. P(A|B) decreases | gold:	B
+predicted:	A. True, True | gold:	A
+predicted:	Bias increase ; Variance increase. | gold:	B
+predicted:	A. \texttt{5 + torch.randn(10,5) * 16} ; \texttt{torch.rand(10,10,low=-1,high=1)} | gold:	C
+predicted:	A. True, True | gold:	A
+predicted:	A. After applying batch normalization, the layer’s activations will follow a standard Gaussian distribution. | gold:	B
+predicted:	A. $\nabla_w f(w) = (X^\top X + \lambda I)w - X^\top y + \lambda w$. | gold:	C
+predicted:	B. Convoluting an image with $\begin{bmatrix}0 & 0 & 0\\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{bmatrix}$ would not change the image. | gold:	B
+predicted:	A. Semantic segmentation models predict the class of each pixel, while multiclass image classifiers predict the class of entire image. (True)
+B. A bounding box with an IoU (intersection over union) equal to $96\%$ would likely be considered at true positive. (False)
+C. When a predicted bounding box does not correspond to any object in the scene, it is considered a false positive. (True)
+D. A bounding box with an IoU (intersection over union) equal to $3\%$ would likely be considered at false negative. (False) | gold:	D
+predicted:	B. Leaky ReLU $\max\{0.01x,x\}$ is convex. | gold:	C
+predicted:	B. 110010 | gold:	A
+predicted:	A. True, True | gold:	C
+Accuracy: 0.3125

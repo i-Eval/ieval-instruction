@@ -1,0 +1,122 @@
+predicted:	The ordinarily exercises jurisdiction in respect of crimes committed on board vessels is the flag State. | gold:	B
+predicted:	A. Justiciability refers to the possibility of enforcement of a particular right by the relevant rights holders. | gold:	A
+predicted:	R2P is different from humanitarian intervention in that it requires a call for assistance by the State in distress (B), is less arbitrary because it requires some UNSC input (C), and involves the use of armed force (D) while humanitarian intervention does not (A). | gold:	C
+predicted:	A. The so-called Lotus principle is that'restrictions upon the independence of States cannot therefore be presumed', or, as it has been construed, 'whatever is not prohibited is permitted in international law'. | gold:	A
+predicted:	C. The UK Constitution is uncodified and can be found in a number of sources. | gold:	C
+predicted:	It is an obligation of conduct, ie States have an obligation to try to resolve their disputes through peaceful means. This does not entail an obligation to resolve their disputes. | gold:	B
+predicted:	A. Protocol 14 changed the committee that hears admissibility cases from a three judge to a one judge formation (False) | gold:	C
+predicted:	C. Rocks are the islands which cannot sustain human habitation or economic life of their own and according to article 121 (3) have no Exclusive Economic Zone or continental shelf. | gold:	C
+predicted:	B. It means having rights and duties under international law and a capacity to enforce these by or against the relevant actor. | gold:	B
+predicted:	The UN Human Rights Committee (A). | gold:	A
+predicted:	C. All types of rights are indivisible, interrelated and interdependent. | gold:	C
+predicted:	B. The principal sources of immunity for IOs are headquarters agreements and multilateral treaties providing specific immunities. | gold:	B
+predicted:	A. Yes, the States that were the founding members of the United Nations are vested with more powers and authority. | gold:	C
+predicted:	A. Recognition is determinate for the existence of statehood. | gold:	B
+predicted:	A. Standard-setting means putting forward binding legal standards. | gold:	C
+predicted:	B. The Kadi judgment demanded that all UNSC resolutions be incorporated without any further implementing legislation. | gold:	A
+predicted:	B. An agreement in 1215 between the King and his barons, which guaranteed certain protections for subjects. | gold:	B
+predicted:	A. Individuals enjoy international legal personality, but this is limited. | gold:	A
+predicted:	A. Yes, all the political methods (e.g. negotiation, mediation, inquiry, conciliation) should be exhausted prior to resorting to legal methods. | gold:	C
+predicted:	C. In the 1990's it became apparent the European Court of Human Rights had to be reformed because it was a part time court that could not process the growing number of complaints. | gold:	D
+predicted:	C. The victim State may only use such means and force as it is necessary to defeat the aggressor. | gold:	C
+predicted:	C. Jurisdiction is ordinarily territorial. | gold:	C
+predicted:	A. Custom, treaties and judicial decisions. | gold:	C
+predicted:	The determination of baselines is used for the measuring of the internal waters of coastal States (A). | gold:	B
+predicted:	A. Conciliation is the continuation of mediation with the difference that conciliation produces a binding result, while mediation not. | gold:	C
+predicted:	D. A state knows or ought to have known. | gold:	A
+predicted:	A. Only the principal organs of the UN may request an advisory opinion (Security Council, General Assembly, ECOSOC, Trusteeship Council, Secretariat). | gold:	C
+predicted:	Its aim is to provide jurisdiction to all States in respect of particular crimes. | gold:	C
+predicted:	A. The conduct of any State organ shall be considered an act of that State, even in the case that this conduct was unauthorized or ultra vires. | gold:	A
+predicted:	A. Treaties are all agreements concluded between States, international organizations and non-State entities (e.g. corporations). | gold:	B
+predicted:	A. Such conduct is a public act (jure imperii). | gold:	C
+predicted:	A. The Court held that the right to a fair trial trumped the privilege of immunity. | gold:	C
+predicted:	The Badinter Commission required a commitment to submit disputes to the ICJ (A), a change in boundaries (B), a commitment to human rights and democracy (C), and an exchange of ethnic populations (D). | gold:	C
+predicted:	A. Treaties are to be interpreted in good faith in accordance with the ordinary meaning to be given to the terms of the treaty in their context and in the light of its object and purpose. | gold:	A
+predicted:	A. Port States generally do not enforce their criminal jurisdiction over crimes that do not infringe their customs laws or disrupt peace and public order. | gold:	A
+predicted:	A. GA Resolutions are considered as additional sources of international law and thus binding upon States. | gold:	D
+predicted:	B. Treaties create both obligations and rights for third States. | gold:	C
+predicted:	Articles 3, 8, 9, and 11 are all qualified rights. | gold:	A
+predicted:	A. Dualism suggests that international and domestic law are part of a unified legal system. | gold:	B
+predicted:	A. An act is jure imperii when undertaken by an international organisation. | gold:	B
+predicted:	D. General Principles of Law supersede both custom and treaties. | gold:	A
+predicted:	A. Resolution 678 allowed the allies to attack Iraq with nuclear and chemical weapons. | gold:	D
+predicted:	C. Treaties may 1) codify customary law, 2) 'crystallise' customary law, 3) lead to the emergence of customary law. | gold:	C
+predicted:	C. Sovereignty means freedom to determine one's own affairs without external interference. | gold:	C
+predicted:	A. Recognition is a function as opposed to a power. | gold:	C
+predicted:	B. The act of State doctrine denotes that the assessment as to the existence of an alleged tort committed by a State belongs to the executive and not the courts. | gold:	B
+predicted:	B. International society consists of a constellation of sovereign States and other international organizations, which are dispersed in a rather horizontal order of authority. | gold:	B
+predicted:	B. Customary crimes must be contained in a multilateral treaty in order to be automatically incorporated. | gold:	D
+predicted:	A. The contiguous zone functions as a security zone of the coastal State. | gold:	C
+predicted:	D. To provide housing for all those homeless within a state. | gold:	D
+predicted:	A. Goodwin v UK (2002) | gold:	D
+predicted:	B. All the members of the arbitral tribunal are appointed by the parties. | gold:	A
+predicted:	A. Yes. | gold:	D
+predicted:	A. Recognition is determinative of statehood. | gold:	A
+predicted:	D. A reporting mechanism and right to individual petition. | gold:	D
+predicted:	B. Piracy jure gentium is subject to universal jurisdiction. | gold:	B
+predicted:	B. Self-executing treaties are clear and precise enough so as not to require any further implementing measures. | gold:	B
+predicted:	C. In the Nicaragua case the ICJ dismissed the accumulation theory. | gold:	A
+predicted:	A. According to the lis pendens rule, the court or the tribunal that seizes first the dispute has exclusive jurisdiction to adjudicate it. | gold:	C
+predicted:	A. When the coastal State cannot harvest the 'total allowable catch', the coastal State is to give other State access to that surplus with priority to be given to developing and land-locked States. | gold:	A
+predicted:	C. Immunity shields States from being sued in the courts of other States. | gold:	C
+predicted:	B. It is jurisdiction based on where the offence was committed. | gold:	C
+predicted:	A. Social and economic rights. | gold:	B
+predicted:	A. Fragmentation of international law concerns the possibility of different legal regimes apply the same rules of international law. | gold:	B
+predicted:	B. Functional immunity covers the act and incidentally also the person committing the act. | gold:	B
+predicted:	A. Implied authorisation on the basis of a specific number of votes by UNSC members. | gold:	A
+predicted:	B. Emmanuel Kant | gold:	D
+predicted:	A. Treaties are concluded by the competent representatives of States. Heads of States, heads of governments, ministers of foreign affairs and heads of diplomatic missions are presumed to have such authority. | gold:	A
+predicted:	A. The State which persistently objects to the rule in question after its formation. | gold:	C
+predicted:	A. The right to self-defence by more than one nation acting in concert. | gold:	C
+predicted:	C. Civil and political rights. | gold:	C
+predicted:	C. International tribunals share some, but not all, of the jurisdictional principles applicable to national courts. | gold:	D
+predicted:	D. Collective rights entail a right of the group as such as well as individual rights of the group's members. | gold:	B
+predicted:	B. States are under an obligation so to conduct themselves that the negotiations are meaningful. | gold:	B
+predicted:	A. On the one hand, naturalism is based on a set of rules that are of universal and objective scope and on the other hand, positivism is based on a structured and coherent legal system that is created by States in light of their interests and desires. | gold:	A
+predicted:	A. An international wrongful conduct is an action or omission which is in breach of a rule of international criminal law. | gold:	C
+predicted:	The effects doctrine serves to confer jurisdiction on the State sharing the nationality of the offender. | gold:	D
+predicted:	A. 'De facto organs' are the individuals that are empowered by law to exercise elements of governmental authority. | gold:	B
+predicted:	A. Custom is incorporated if it is not in conflict with existing legislation. | gold:	A
+predicted:	D. Armed force was not regulated under international law prior to 1945. | gold:	C
+predicted:	A. It is jurisdiction based on the harm to national interests by conduct committed abroad. | gold:	A
+predicted:	B. The Council of Europe was established in 1949 and consists of 47 member states. | gold:	B
+predicted:	B. An equitable result is what a judge or the arbitrator would decide ex aequo et bono, i.e. upon their discretion and in light of what they consider as fair and equitable in a delimitation case. | gold:	C
+predicted:	A. Derogations are exemptions from particular human rights obligations contained in a treaty. | gold:	C
+predicted:	A. Acts jure gestionis are those undertaken by States in a private capacity. | gold:	A
+predicted:	A. Culture relativism posits that human rights apply equally to all without restrictions. | gold:	D
+predicted:	A. Recognition of governments is very prevalent in contemporary practice. | gold:	B
+predicted:	A. The UDHR is a multilateral treaty. | gold:	B
+predicted:	A. The ECHR applies outside Europe where human rights are violated by ECHR member States abroad. | gold:	B
+predicted:	A. Parties to a treaty should be cognizant of its terms and not misinterpret them. | gold:	C
+predicted:	C. The absence of implementing legislation with respect to the Council's founding treaty meant that individuals did not derive rights and duties from it in the English legal system. | gold:	C
+predicted:	A. The Human Rights Act 1998 incorporates the European Convention on Human Rights into UK law. | gold:	A
+predicted:	C. Reparation includes restitution, compensation, and satisfaction, either alone or alongside other forms of reparation. | gold:	C
+predicted:	A. They are peremptory norms of international law, from which no derogations are allowed and which can never be altered even with the consent of the States. | gold:	A
+predicted:	A. They are acts that States perform as practice in the context of custom. | gold:	B
+predicted:	A. Such abduction constitutes abuse of process and leads to a stay of proceedings. | gold:	A
+predicted:	B. Secondary rules are the rules that govern the legal consequences arising from a breach of the primary rules, ie of the international obligations of the States. | gold:	B
+predicted:	The doctrine of incorporation requires that all treaties undergo legislative transformation before they become domestic law. | gold:	D
+predicted:	D. Yes, it has been consistently held by the Court since the La Grand case (2001) that they are binding. | gold:	D
+predicted:	A. Countermeasures are illegal when inter alia are disproportionate or in violation of a peremptory norm of international law (e.g. the use of force, human rights). | gold:	A
+predicted:	A. The outcome arising from legal methods, ie arbitration or adjudication by the ICJ, is final and binding upon the parties, whereas this is not the case with diplomatic methods. | gold:	A
+predicted:	A. The local remedies rule aims to free up international tribunals to deal with the most serious cases. | gold:	C
+predicted:	A. Golder v UK (1978) | gold:	C
+predicted:	C. The recognition of foreign judgments is dependent on the existence of appropriate bilateral or multilateral treaties. | gold:	C
+predicted:	C. The Pinochet case confirmed that former heads of State cease to enjoy personal immunity once removed from office. | gold:	C
+predicted:	D. The war crimes trials found that "superior orders" could not be used as a defence for war crimes or crimes against humanity. | gold:	A
+predicted:	A. All States may exercise jurisdiction over foreign vessels on the high seas. | gold:	C
+predicted:	A. Treaties should always be designated as such and assume a particular form. | gold:	C
+predicted:	B. Monism posits that international and domestic law are part of the same legal order. | gold:	B
+predicted:	C. We look for general principles of international law recognized by international courts and tribunals. | gold:	B
+predicted:	When it is committed against a public vessel of another State (A). | gold:	D
+predicted:	A. Armed attack includes all types of armed force. | gold:	B
+predicted:	A State is 'injured' in cases that there has been a violation of a peremptory norm of international law. | gold:	D
+predicted:	B. Personal immunity is that which is afforded in a personal capacity and hence does not cover conduct of the State as such. | gold:	C
+predicted:	A. The UN Human Rights Council has the power to impose economic sanctions on a state for human rights violations. | gold:	B
+predicted:	A reservation is invalid when it is incompatible with the object and purpose of the treaty. | gold:	D
+predicted:	A. The coastal State enjoy ipso facto and ab initio sovereign rights over its continental shelf for the purpose of exploring it and exploiting its natural resources. | gold:	A
+predicted:	C. Yes, article 103 of the UN Charter cannot trump jus cogens norms. | gold:	C
+predicted:	B. Only customary international law prevails over domestic law. | gold:	C
+predicted:	A. Implied are those powers which are necessary in order for an organisation to carry out the tasks conferred upon it and which are not stipulated in its charter. | gold:	A
+predicted:	C. It requires a permanent population, a defined territory, a government and a capacity to enter into foreign relations. | gold:	C
+Accuracy: 0.4297520661157025

@@ -1,0 +1,236 @@
+predicted:	C. 10 N | gold:	A
+predicted:	D. All of these. | gold:	B
+predicted:	B. passes into the air above | gold:	B
+predicted:	A. always. | gold:	B
+predicted:	B. changes | gold:	A
+predicted:	C. Blue | gold:	D
+predicted:	D. All of these. | gold:	D
+predicted:	C. Both of these. | gold:	A
+predicted:	B. ordered | gold:	B
+predicted:	A wave transfers amplitude. | gold:	D
+predicted:	B. opposite. | gold:	B
+predicted:	C. radiation | gold:	C
+predicted:	B. 2 A | gold:	B
+predicted:	B. decrease. | gold:	A
+predicted:	B. mg | gold:	B
+predicted:	C. greater. | gold:	A
+predicted:	D. a mixture of green and yellow. | gold:	A
+predicted:	A. speed | gold:	B
+predicted:	A. volume | gold:	D
+predicted:	Polarization is a property of transverse waves. | gold:	A
+predicted:	D. All of these | gold:	A
+predicted:	A. thermal energy. | gold:	C
+predicted:	A. move farther than the input piston. | gold:	D
+predicted:	B. increases | gold:	C
+predicted:	B. half the bend. | gold:	C
+predicted:	B. doubles | gold:	A
+predicted:	D. 9 minutes. | gold:	D
+predicted:	A. move at a constant speed in a straight line | gold:	A
+predicted:	B. relativistic speeds. | gold:	C
+predicted:	B. condensation | gold:	C
+predicted:	C. equal in height. | gold:	B
+predicted:	A. force due to gravity is the same on each. | gold:	D
+predicted:	B. doubles. | gold:	C
+predicted:	A. equals mass moving at the speed of light squared. | gold:	D
+predicted:	D. All of these. | gold:	D
+predicted:	C. increases by 2 | gold:	A
+predicted:	C. remains the same. | gold:	A
+predicted:	B. 40 km/h | gold:	C
+predicted:	D. frequency. | gold:	D
+predicted:	C. neutrons | gold:	A
+predicted:	C. The same. | gold:	C
+predicted:	Bow waves are produced by waves of water constructively interfering. | gold:	D
+predicted:	C. day with steady temperature. | gold:	B
+predicted:	A. half | gold:	C
+predicted:	A. hot to cold ever | gold:	D
+predicted:	C. nitrogen. | gold:	A
+predicted:	C. the same | gold:	C
+predicted:	B. 0.8 N | gold:	B
+predicted:	A. along and parallel to the wave. | gold:	A
+predicted:	C. Both of these. | gold:	A
+predicted:	C. Both of these. | gold:	A
+predicted:	A. inside the nucleus. | gold:	A
+predicted:	B. absorbed | gold:	A
+predicted:	B. interference | gold:	B
+predicted:	B. two or more appropriate colors | gold:	D
+predicted:	B. 2 A | gold:	D
+predicted:	C. Both speed and wavelength. | gold:	C
+predicted:	D. 16 Hz | gold:	B
+predicted:	A. frequency | gold:	D
+predicted:	B. uncharged. | gold:	C
+predicted:	A. absorbed | gold:	C
+predicted:	B. thorium-238 | gold:	C
+predicted:	B. away from you | gold:	C
+predicted:	D. all of these | gold:	D
+predicted:	B. twice as much | gold:	B
+predicted:	A. breaking the sound barrier | gold:	C
+predicted:	A. becomes slightly radioactive. | gold:	B
+predicted:	A. fluorescence. | gold:	D
+predicted:	B. mainly reflected. | gold:	A
+predicted:	A. 1/100 as much. | gold:	C
+predicted:	C. Both of these | gold:	A
+predicted:	A. more dense. | gold:	A
+predicted:	D. All of these. | gold:	C
+predicted:	C. radiation | gold:	C
+predicted:	A torque is a force A. like any other force. | gold:	B
+predicted:	D. None is outside the family; all are electromagnetic waves. | gold:	D
+predicted:	B. forces | gold:	B
+predicted:	B. may become an atom of a different element. | gold:	A
+predicted:	B. open-structured ice crystals | gold:	B
+predicted:	C. Both | gold:	A
+predicted:	C. Both of these. | gold:	C
+predicted:	A. one-quarter the value for a tube open at both ends. | gold:	B
+predicted:	A. 1/10 s | gold:	A
+predicted:	D. Both C and D. | gold:	A
+predicted:	B. follows the inverse-square law. | gold:	D
+predicted:	B. Pascal’s principle. | gold:	A
+predicted:	D. more than your distance in front of the mirror. | gold:	C
+predicted:	B. particles on springs | gold:	C
+predicted:	C. low temperatures. | gold:	A
+predicted:	B. light waves | gold:	C
+predicted:	C. remains much the same. | gold:	B
+predicted:	B. are included in the wire. | gold:	B
+predicted:	B. kinetic energy of fission fragments. | gold:	B
+predicted:	D. in the form of cosmic rays. | gold:	A
+predicted:	C. red light. | gold:	C
+predicted:	D. may be greater or less than mg depending on the speed of the ball. | gold:	B
+predicted:	C. upward | gold:	A
+predicted:	B. at right angles to the Sun | gold:	A
+predicted:	B. 25 m. | gold:	A
+predicted:	C. about the same. | gold:	A
+predicted:	D. violet | gold:	C
+predicted:	B. 3 A | gold:	B
+predicted:	B. Magnesium-20 | gold:	D
+predicted:	B. 20 years. | gold:	B
+predicted:	C. Nitrogen | gold:	A
+predicted:	C. Both of these | gold:	A
+predicted:	C. three times greater | gold:	D
+predicted:	C. the same mass per nucleon. | gold:	B
+predicted:	C. radiation. | gold:	C
+predicted:	B. lower order to higher order | gold:	A
+predicted:	B. gravitational pressure. | gold:	C
+predicted:	B. amplitudes | gold:	A
+predicted:	A satellite in Earth orbit is above Earth’s gravitational field. | gold:	A
+predicted:	B. period | gold:	B
+predicted:	B. becomes more ordered. | gold:	B
+predicted:	C. conserved as the phase change occurs. | gold:	A
+predicted:	C. half as strong | gold:	B
+predicted:	B. increased diameter of coil and an increase in the number of coils | gold:	C
+predicted:	C. Both | gold:	B
+predicted:	C. Gamma. | gold:	C
+predicted:	B. fluids | gold:	B
+predicted:	C. 10 V | gold:	D
+predicted:	B. 14 m/s | gold:	B
+predicted:	B. 2 km/h | gold:	C
+predicted:	C. Coulomb’s law. | gold:	B
+predicted:	C. gases | gold:	D
+predicted:	C. kinetic energy of the neutron. | gold:	C
+predicted:	A. transverse waves. | gold:	A
+predicted:	C. interference. | gold:	B
+predicted:	A. 0 kelvin | gold:	C
+predicted:	A. speed and direction | gold:	A
+predicted:	D. natural frequency | gold:	D
+predicted:	A. increases | gold:	B
+predicted:	C. blue | gold:	C
+predicted:	C. neither younger nor older. | gold:	B
+predicted:	B. vertical | gold:	A
+predicted:	A. atoms with a definite geometrical arrangement. | gold:	A
+predicted:	D. Any of these | gold:	B
+predicted:	A. middle of the 1900s. | gold:	D
+predicted:	A. lunar eclipse. | gold:	B
+predicted:	B. remains unchanged; is conserved. | gold:	A
+predicted:	B. decrease | gold:	C
+predicted:	B. double. | gold:	A
+predicted:	C. depth of the pond. | gold:	D
+predicted:	B. absorption | gold:	D
+predicted:	A. current | gold:	C
+predicted:	D. Higher than 30°C | gold:	B
+predicted:	D. dependent on your distance from the mirror. | gold:	B
+predicted:	B. perpendicular to the wave. | gold:	B
+predicted:	B. 1134 Hz | gold:	D
+predicted:	Huygens’ principle for light is primarily described by waves. | gold:	A
+predicted:	A. also increases. | gold:	A
+predicted:	C. Both of these. | gold:	B
+predicted:	C. green and yellow. | gold:	D
+predicted:	D. X-rays | gold:	B
+predicted:	D. a value between zero and g. | gold:	D
+predicted:	A and B. | gold:	A
+predicted:	C. remains much the same. | gold:	A
+predicted:	C. Both | gold:	C
+predicted:	D. None of these for the moon does not rotate about an axis. | gold:	B
+predicted:	C. may be greater or less than mg. | gold:	B
+predicted:	B. in opposite directions | gold:	A
+predicted:	D. 2000 W | gold:	B
+predicted:	B. interference | gold:	B
+predicted:	B. light waves | gold:	D
+predicted:	C. number of nucleons. | gold:	C
+predicted:	B. direction | gold:	B
+predicted:	C. Both of these. | gold:	D
+predicted:	B. energy | gold:	D
+predicted:	B. compressions | gold:	C
+predicted:	C. Both | gold:	A
+predicted:	B. 26. | gold:	B
+predicted:	A. absorbs red. | gold:	B
+predicted:	D. more than 1000 times greater. | gold:	B
+predicted:	C. cyan | gold:	A
+predicted:	D. 140% | gold:	A
+predicted:	B. overlapping one another. | gold:	D
+predicted:	B. 5 N | gold:	D
+predicted:	D. 2000 J | gold:	D
+predicted:	C. 16q. | gold:	D
+predicted:	B. electrons; electrons. | gold:	D
+predicted:	A. magnetic north and geographic north. | gold:	D
+predicted:	B. frequency | gold:	B
+predicted:	C. remains the same. | gold:	B
+predicted:	C. increases by 2 | gold:	B
+predicted:	B. a magnetic field | gold:	A
+predicted:	C. minus 2 | gold:	A
+predicted:	B. resonance. | gold:	B
+predicted:	A. fluorescence | gold:	C
+predicted:	A. shorter in the direction of travel. | gold:	A
+predicted:	A. frequency decreases, the wavelength increases, and the speed increases. | gold:	B
+predicted:	A. 9.8 m/s2 | gold:	A
+predicted:	C. Earth’s interior. | gold:	A
+predicted:	D. ejected neutrons. | gold:	D
+predicted:	C. appreciably weaker than at Earth’s surface. | gold:	D
+predicted:	C. cyan | gold:	B
+predicted:	B. in one direction | gold:	B
+predicted:	C. high voltage and low body resistance. | gold:	D
+predicted:	B. 3000 N | gold:	B
+predicted:	The speed of a wave is determined by multiplying its frequency by its wavelength. The correct answer is B. wavelength. | gold:	B
+predicted:	C. elliptical | gold:	B
+predicted:	B. second law | gold:	B
+predicted:	B. generates electricity directly | gold:	A
+predicted:	C. Both | gold:	B
+predicted:	B. 3 and the volume by 27. | gold:	C
+predicted:	B. voltage | gold:	D
+predicted:	C. Both of these. | gold:	B
+predicted:	B. particle model | gold:	B
+predicted:	B. twice as much | gold:	B
+predicted:	C. 6.00 m | gold:	C
+predicted:	A. breaking the sound barrier | gold:	C
+predicted:	B. gravitational pressure | gold:	C
+predicted:	C. Both of these. | gold:	A
+predicted:	B. molecular structure. | gold:	D
+predicted:	A. at speeds near that of light. | gold:	C
+predicted:	C. the same in all frames of reference. | gold:	D
+predicted:	B. increases by 1 | gold:	B
+predicted:	B. joules | gold:	C
+predicted:	C. Both of these. | gold:	B
+predicted:	C. All of these. | gold:	D
+predicted:	B. are parts of one whole. | gold:	B
+predicted:	D. All of these. | gold:	D
+predicted:	B. away from the axis. | gold:	B
+predicted:	D. is unchanged | gold:	C
+predicted:	C. refraction | gold:	D
+predicted:	A. hold particles together | gold:	B
+predicted:	A. first law | gold:	B
+predicted:	C. Both | gold:	B
+predicted:	B. compresses with speed. | gold:	B
+predicted:	B. radial lines | gold:	A
+predicted:	C. remains largely unchanged. | gold:	B
+predicted:	C. 0.125 g | gold:	C
+predicted:	A. decreased temperatures | gold:	B
+predicted:	B. compression. | gold:	A
+predicted:	C. in mechanical equilibrium with a net force of zero. | gold:	D
+Accuracy: 0.30638297872340425

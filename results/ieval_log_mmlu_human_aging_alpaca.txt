@@ -1,0 +1,227 @@
+predicted:	C. Geriatrics | gold:	A
+predicted:	A. Being African or Hispanic American. | gold:	B
+predicted:	B. Those who experience high environmental demands become more docile. | gold:	A
+predicted:	A. Aerobic exercise. | gold:	A
+predicted:	C. Development in any particular areas (e.g., social) is tied to development in other areas (e.g., cognitive). | gold:	B
+predicted:	C. Continuity vs. discontinuity. | gold:	D
+predicted:	C. It becomes clouded. | gold:	D
+predicted:	D. Smarthouse | gold:	D
+predicted:	D. Practice Tai chi. | gold:	A
+predicted:	C. Claim that senescence follows a predetermined plan. | gold:	C
+predicted:	A. Many pessimists die at a younger age. | gold:	A
+predicted:	C. Avoidance. | gold:	A
+predicted:	B. Lifestyle factors like not exercising. | gold:	B
+predicted:	A. Has lost a lot of sweet taste buds and cannot taste sweetness as well anymore. | gold:	A
+predicted:	B6 and B12. | gold:	B
+predicted:	C. Generativity. | gold:	B
+predicted:	D. Avoiding stress. | gold:	C
+predicted:	B. An alternative to marriage. | gold:	B
+predicted:	A. That place holds many memories. | gold:	A
+predicted:	B. Between 45 and 55. | gold:	B
+predicted:	C. Agreeableness | gold:	C
+predicted:	B. Foos. | gold:	D
+predicted:	A. A higher proportion of older women have completed menopause. | gold:	B
+predicted:	D. Mid-life crisis. | gold:	B
+predicted:	B. Pick's. | gold:	A
+predicted:	A. Stay in school | gold:	A
+predicted:	A. Emotional | gold:	A
+predicted:	A. Men than women | gold:	A
+predicted:	B. Suppression of the immune system. | gold:	B
+predicted:	C. Rates of dementia. | gold:	D
+predicted:	B. Get out and be active. | gold:	C
+predicted:	B. Perceived as support. | gold:	B
+predicted:	A. Normal metabolism | gold:	A
+predicted:	A. Ageism | gold:	A
+predicted:	D. Hospice | gold:	D
+predicted:	D. Frequent (close to 50%) | gold:	B
+predicted:	A. Prevent some diseases | gold:	A
+predicted:	C. Children | gold:	B
+predicted:	A. Have higher reliability. | gold:	B
+predicted:	C. Rods. | gold:	A
+predicted:	D. They are very rare. | gold:	B
+predicted:	A. Differences in weight. | gold:	A
+predicted:	D. Does personality decline as we grow older? | gold:	B
+predicted:	A researcher who wants to examine both age and cohort differences is advised to use a Cross-sequential design. | gold:	B
+predicted:	C. Having others to wait on you. | gold:	C
+predicted:	D. Queen honey bee, with a life span of up to 3-4 weeks. | gold:	B
+predicted:	B. One can make funeral and estate plans with the loved one. | gold:	B
+predicted:	B. Mechanistic | gold:	B
+predicted:	D. Viasterol. | gold:	D
+predicted:	B. With children | gold:	A
+predicted:	C. Are 100 or more years old. | gold:	C
+predicted:	A. Older adults are almost always portrayed in a negative way. | gold:	D
+predicted:	A. African-American | gold:	D
+predicted:	B. Organismic | gold:	C
+predicted:	A. A black man | gold:	D
+predicted:	D. Dementia (Answer) | gold:	B
+predicted:	D. Take a long time. | gold:	C
+predicted:	B. Blood vessels | gold:	B
+predicted:	B. Working | gold:	D
+predicted:	B. Show high satisfaction that steadily declines as the years pass. | gold:	C
+predicted:	B. Attempt to explain findings and guide future research. | gold:	B
+predicted:	B. Biological clock. | gold:	C
+predicted:	A. Older adults experience more negative effects from smoking than younger adults. | gold:	C
+predicted:	A. Active observer | gold:	B
+predicted:	A. Care for an ailing parent while continuing to work. | gold:	A
+predicted:	D. They change quite a lot. | gold:	B
+predicted:	C. Mostly genetic. | gold:	C
+predicted:	A. Higher levels of positive emotions. | gold:	D
+predicted:	A. California | gold:	D
+predicted:	C. Florida | gold:	B
+predicted:	D. Identity | gold:	B
+predicted:	B. The rules of some religions which forbid unhealthy behaviors. | gold:	D
+predicted:	C. The human side of the equation. | gold:	B
+predicted:	B. For something that happened a long time ago | gold:	C
+predicted:	The total number of people who have some disorder divided by the total number of people gives you the Prevalence. | gold:	A
+predicted:	D. Most common among those who have never been married before. | gold:	C
+predicted:	A. Receive more opportunities than older workers. | gold:	A
+predicted:	B. About 25% | gold:	B
+predicted:	D. Total | gold:	B
+predicted:	Tai chi has been found to improve balance for older adults. | gold:	A
+predicted:	C. Diabetes | gold:	B
+predicted:	B. Loss of muscle strength and bone density. | gold:	B
+predicted:	D. 75% | gold:	A
+predicted:	C. Female hormone levels | gold:	C
+predicted:	B. Social security | gold:	B
+predicted:	B. Occur more for some and less for others and, within the same person, more for some systems and less for others. | gold:	B
+predicted:	B. Vascular | gold:	A
+predicted:	A. Longevity | gold:	A
+predicted:	B. An generation of people who lived through major events | gold:	B
+predicted:	C. Agreeable. | gold:	A
+predicted:	B. Education about older adults. | gold:	B
+predicted:	A. Determining what first causes the senescence in the immune system. | gold:	A
+predicted:	C. Have been married more than 40 years. | gold:	A
+predicted:	B. Niacin | gold:	B
+predicted:	D. Clinical depression. | gold:	B
+predicted:	B. Longitudinal. | gold:	A
+predicted:	B. Increase insomnia | gold:	A
+predicted:	D. All of the above. | gold:	D
+predicted:	B. Convoy | gold:	B
+predicted:	A. Find a job quicker because of their greater experience. | gold:	B
+predicted:	B. Those who are closest to us. | gold:	B
+predicted:	D. Family and friends | gold:	C
+predicted:	D. Older adults. | gold:	C
+predicted:	B. Select new network members based on emotional factors. | gold:	A
+predicted:	D. All of the above. | gold:	D
+predicted:	A. Osteoblasts | gold:	A
+predicted:	C. Cognitive decline. | gold:	A
+predicted:	B. Sweden | gold:	C
+predicted:	C. Complex | gold:	C
+predicted:	B. Internal | gold:	B
+predicted:	D. DNR | gold:	A
+predicted:	B. Be able to avoid certain diseases | gold:	A
+predicted:	C. Women lose hair less frequently but more rapidly than men. | gold:	B
+predicted:	A. You can't do it right | gold:	A
+predicted:	B. Conscientiousness | gold:	B
+predicted:	A. Be absent from work | gold:	C
+predicted:	C. Have very different brain biochemistry. | gold:	A
+predicted:	C. Working as a system. | gold:	C
+predicted:	A. Islam. | gold:	B
+predicted:	C. Rorschach ink blot test | gold:	B
+predicted:	A. Accuracy | gold:	B
+predicted:	A. Japan | gold:	A
+predicted:	C. Keep blood vessels from stiffening. | gold:	C
+predicted:	D. The Eden Alternative | gold:	D
+predicted:	D. Those that can be successfully treated by medicine if they are caught early enough. | gold:	A
+predicted:	D. Internal | gold:	C
+predicted:	D. Increases in life expectancy at a specified age. | gold:	B
+predicted:	C. Are informed about our study and give their consent to participate. | gold:	C
+predicted:	A. They are much older than we are. | gold:	B
+predicted:	B. Some animals show little or no senescence. | gold:	A
+predicted:	C. Changes in hormone levels. | gold:	A
+predicted:	A. Stress and loss of social support. | gold:	A
+predicted:	D. Gerontological | gold:	B
+predicted:	B. Variable as they have more strategies. | gold:	B
+predicted:	D. Influenza | gold:	C
+predicted:	B. The brain | gold:	B
+predicted:	D. Their lives are full of events which they don't recall at a later time. | gold:	B
+predicted:	D. Older adults drink more herbal tea than do younger adults. | gold:	D
+predicted:	A. Activities of Daily Living | gold:	A
+predicted:	B. Korsakoff's | gold:	B
+predicted:	A. Always the same. | gold:	B
+predicted:	A. Jeanne Calment | gold:	A
+predicted:	A. Fluid pressure in the eye is above normal. | gold:	A
+predicted:	Workers in job A (cab drivers) still have mandatory retirements once they reach a certain age. | gold:	B
+predicted:	B. Is treated like a fellow human being. | gold:	B
+predicted:	B. Remain in close contact. | gold:	B
+predicted:	C. Size of our social networks. | gold:	A
+predicted:	D. Job satisfaction. | gold:	A
+predicted:	Life expectancy at birth (LEAB). | gold:	B
+predicted:	B. Healthy and independent | gold:	C
+predicted:	D. Memory is less well organized as we grow older and finding a memory can be quite difficult. | gold:	B
+predicted:	B. Improve sleep quality | gold:	B
+predicted:	B. Daily activities like walking, gesturing, and even fidgeting. | gold:	B
+predicted:	C. Cardiovascular diseases | gold:	A
+predicted:	B. Older workers never perform better than younger workers because with age, a worker's skills decline. | gold:	C
+predicted:	D. Their slower processing speed. | gold:	A
+predicted:	D. Household chores | gold:	C
+predicted:	C. Retirement routine | gold:	A
+predicted:	C. Cohort. | gold:	A
+predicted:	D. A change in walking style or gait. | gold:	C
+predicted:	D. They owe it to their children. | gold:	A
+predicted:	C. The contents of the message. | gold:	C
+predicted:	B. We gain some things and lose others at every age. | gold:	B
+predicted:	B. Control over one's own life story. | gold:	D
+predicted:	D. More than 50% | gold:	A
+predicted:	B. Smaller bladder. | gold:	B
+predicted:	A. Cardiovascular problems. | gold:	B
+predicted:	The law that requires all healthcare institutions that receive Medicaid funds to inform patients about advance directives is called the Advance Directive. | gold:	A
+predicted:	B. AIDS | gold:	B
+predicted:	B. The decline in vision with advanced age. | gold:	D
+predicted:	C. Ergonomic | gold:	C
+predicted:	C. Medicare | gold:	B
+predicted:	D. Pick's | gold:	C
+predicted:	A. Ask about their satisfaction with life and offer to help. | gold:	C
+predicted:	D. 75% | gold:	B
+predicted:	D. Alone | gold:	A
+predicted:	A. Well being | gold:	B
+predicted:	B. Environmental | gold:	B
+predicted:	A. Anger and guilt. | gold:	A
+predicted:	B. Live to be 100 or older. | gold:	B
+predicted:	D. Meta-memory | gold:	A
+predicted:	B. Cardiovascular disease | gold:	B
+predicted:	D. Biological aging | gold:	A
+predicted:	C. Creutzfeldt-Jakob. | gold:	C
+predicted:	A. Larger inner circles | gold:	D
+predicted:	A. Francis Galton | gold:	A
+predicted:	B. Less than 50% | gold:	C
+predicted:	B. Whether our measure is really measuring what it claims to measure. | gold:	C
+predicted:	A. May be very well rehearsed. | gold:	D
+predicted:	Episodic memory shows the biggest deficit with advanced age. | gold:	B
+predicted:	B. Parent | gold:	C
+predicted:	C. Free radicals and sunlight. | gold:	C
+predicted:	D. Increases funeral costs | gold:	A
+predicted:	B. Many theories will have to be combined to explain senescence. | gold:	B
+predicted:	D. 75 | gold:	A
+predicted:	A Naturalistic cemetery. | gold:	B
+predicted:	A. Sexually active. | gold:	A
+predicted:	B. Height | gold:	A
+predicted:	C. Increased disability and declining health. | gold:	C
+predicted:	A. They learn about memory and aging and learn some techniques. | gold:	A
+predicted:	B. Presbycusis | gold:	B
+predicted:	B. Doesn't change past age 50. | gold:	C
+predicted:	Eat the correct food but not too much. | gold:	C
+predicted:	D. Feelings of relief and release. | gold:	A
+predicted:	D. Telomerase. Telomerase is an enzyme that replenishes the telomeres, which are the protective caps on the ends of chromosomes that become shorter each time the cells divide. As the telomeres get shorter, the cells become weaker and more prone to disease and aging. Telomerase helps to lengthen the telomeres and slow down the aging process. | gold:	B
+predicted:	A. Get people to fill the survey out
+B. Interpret the answers you get from people
+C. Collect data in a timely manner
+D. Get anyone to believe your results | gold:	B
+predicted:	Other older adults. | gold:	A
+predicted:	B. Older adults | gold:	B
+predicted:	B. Age bias | gold:	D
+predicted:	A. A loss of resources and slower processing speed. | gold:	A
+predicted:	A. Rude | gold:	B
+predicted:	B. Nurture | gold:	A
+predicted:	A. Is 62 | gold:	C
+predicted:	C. Senescence | gold:	B
+predicted:	D. Anti-depressant drugs. | gold:	C
+predicted:	B. Have had an extraordinary number of offspring | gold:	C
+predicted:	Older workers are more likely to be laid off. | gold:	D
+predicted:	A. Time seems to speed up when you grow older. | gold:	A
+predicted:	A. True to life. | gold:	B
+predicted:	A. Speak a little slower than normal. | gold:	C
+predicted:	D. Supplement use. | gold:	A
+predicted:	B. Compression of morbidity. | gold:	B
+predicted:	A. Clark | gold:	B
+Accuracy: 0.39461883408071746

@@ -1,0 +1,164 @@
+predicted:	A. This type occurs in binary systems. | gold:	A
+predicted:	C. Its size. | gold:	D
+predicted:	C. Because the atmosphere preferentially scatters short wavelengths. | gold:	C
+predicted:	B. After you’ve repeated your experiment many times. | gold:	C
+predicted:	A and D. Titan is the only outer solar system moon with a thick atmosphere and its atmosphere is composed mostly of hydrocarbons. | gold:	D
+predicted:	B. 0.5*m/(R^3) | gold:	C
+predicted:	D. it was vaporized during a period of intense volcanism and was lost to space through thermal escape. | gold:	B
+predicted:	B. Radioactive dating of lunar samples shows that they are older. | gold:	B
+predicted:	B. Hydrogen | gold:	D
+predicted:	A. Near-Earth asteroids gradually disintegrate and spread out along their orbital path. When the Earth passes through the orbit of an asteroid we are bombarded by sand-sized particles which cause a meteor shower. | gold:	D
+predicted:	The conservation of the angular momentum in the tail keeps it always pointing away from the Sun. | gold:	D
+predicted:	A. By observing the duration of a solar eclipse. | gold:	C
+predicted:	A. a dwarf galaxy orbiting the Milky Way. | gold:	A
+predicted:	D. These craters contain the only permanently shadowed regions on Mercury. | gold:	D
+predicted:	B. Laniakea | gold:	B
+predicted:	C. Jupiter | gold:	C
+predicted:	C. It is the only one that has both a partially molten metallic core and reasonably rapid rotation. | gold:	C
+predicted:	D. Neptune and Pluto won't collide because of their orbital resonance. | gold:	A
+predicted:	B. raised rims | gold:	D
+predicted:	B. The star is getting colder. | gold:	C
+predicted:	C. material between the crust and the mantle. | gold:	D
+predicted:	B. the most opaque ring of Saturn made of highly reflective ice particles. | gold:	D
+predicted:	D. The time it takes for the Moon to make one circuit of our sky is one solar day. | gold:	D
+predicted:	A. pieces of comets rather than of asteroids. | gold:	B
+predicted:	B. 250 Kelvin. | gold:	C
+predicted:	D. Io | gold:	D
+predicted:	D. because Mars' axis is more tilted than the Earth's. | gold:	C
+predicted:	A. ExoMars | gold:	D
+predicted:	A. The resonance pulls Io in different directions and generates heat. | gold:	B
+predicted:	B. metals condensed first in the solar nebula and the rocks then accreted around them. | gold:	C
+predicted:	B. In the inner part of the nebula only metals and rocks were able to condense because of the high temperatures whereas hydrogen compounds although more abundant were only able to condense in the cooler outer regions. | gold:	B
+predicted:	They reveal that the age of the solar system is approximately 4.6 billion years. | gold:	C
+predicted:	C. Volcanism. | gold:	D
+predicted:	D. all of the above | gold:	D
+predicted:	B. You will see two distinct stars. | gold:	C
+predicted:	D. it switches polarity every 11 years. | gold:	D
+predicted:	A. The path of the Sun in the sky throughout a year. | gold:	A
+predicted:	C. the acceleration of the universe. | gold:	C
+predicted:	Bubbles of gas trapped in the crystals within meteorites are identical to the gases trapped in asteroids. | gold:	B
+predicted:	B. They actually contain a significant fraction of non-gaseous matter. | gold:	B
+predicted:	D. A planet travels faster when it is nearer to the Sun and slower when it is farther from the Sun. | gold:	C
+predicted:	D. Sagittarius A* | gold:	D
+predicted:	B. Saturn has a larger proportion of hydrogen and helium than Jupiter and is therefore less dense. | gold:	A
+predicted:	D. Earth was rotating so rapidly that the Moon split from it. | gold:	A
+predicted:	B. Hubble Space Telescope images that resolved Pluto's disk | gold:	C
+predicted:	B. They are chunks of rock or ice that condensed long after the planets and moons had formed. | gold:	D
+predicted:	D. From radioactive dating of rocks and meteorites. | gold:	D
+predicted:	B. aliens (panspermia). | gold:	A
+predicted:	B. The azimuth of the NCP is the same as your latitude. | gold:	C
+predicted:	A. Ozone transmits visible light allowing it to heat the surface but then absorbs most of the infrared heat trapping the heat near the surface. | gold:	B
+predicted:	B. Saturn has a larger proportion of hydrogen and helium than Jupiter and is therefore less dense. | gold:	A
+predicted:	B. 1:2 | gold:	D
+predicted:	B. radioactivity created metals in the core from the decay of uranium. | gold:	D
+predicted:	A and B. The U.S. and the U.S.S.R. have both sent landers to Venus. | gold:	A
+predicted:	B. Kirkwood Gaps. | gold:	D
+predicted:	C. without a strong magnetic field the solar wind stripped away most of the atmosphere significantly reducing the greenhouse effect and cooling Mars down. | gold:	C
+predicted:	D. Dione. | gold:	D
+predicted:	B. About 100 earth days | gold:	D
+predicted:	C. Higher in the sky. | gold:	C
+predicted:	A. Hundreds of millennia in the future. | gold:	D
+predicted:	C. They reflect enough of the sun's light to make them brighter than most background stars. | gold:	D
+predicted:	A. Collisions among planetesimals generated friction and heat. | gold:	D
+predicted:	B. You see the star’s blackbody spectrum with absorption lines due to hydrogen. | gold:	B
+predicted:	D. It does not have a metallic core. | gold:	A
+predicted:	C. It is highly processed. | gold:	C
+predicted:	C. an equatorial wind speed of more than 900 miles per hour. | gold:	C
+predicted:	D. 50 times brighter. | gold:	B
+predicted:	D. 12 | gold:	B
+predicted:	The nebular theory of the formation of the solar system successfully predicts all but one of the following. Which one does the theory not predict?
+A. Planets orbit around the Sun in nearly circular orbits in a flattened disk. (True)
+B. the equal number of terrestrial and jovian planets (True)
+C. the craters on the Moon (False)
+D. asteroids Kuiper-belt comets and the Oort cloud (True) | gold:	B
+predicted:	B. Mass 5kg weight 50N | gold:	C
+predicted:	B. Chicxulub Crater Yucatan Peninsula in Mexico. | gold:	B
+predicted:	A. The Earth must lie completely within the Moon's penumbra. | gold:	D
+predicted:	A. Solar eclipses would be much rarer. | gold:	C
+predicted:	D. Hawking radiation. | gold:	D
+predicted:	B. 2.1 million light years | gold:	C
+predicted:	C. organisms living deep in the oceans around seafloor volcanic vents and in hot springs. | gold:	C
+predicted:	A. By measuring the maximum altitude of the Sun in two cities at different latitudes at the same time on the same day. | gold:	A
+predicted:	C. one large satellite and three small satellites. | gold:	A
+predicted:	B. nitrogen methane and carbon monoxide ices which sublimate into an atmosphere near perihelion. | gold:	B
+predicted:	D. 4 | gold:	C
+predicted:	A. 1.38 × 10−21 m^3 · kg · s^−2 · K^−1 | gold:	C
+predicted:	D. The electrons can only orbit at particular energy levels. | gold:	C
+predicted:	A. human activities that are increasing the concentration of greenhouse gases in Earth's atmosphere. | gold:	A
+predicted:	Collisions are common in the asteroid belt and we can track the fragments from their source asteroid to the Earth where they become meteorites. | gold:	A
+predicted:	D. rotation period. | gold:	A
+predicted:	A. Distance at which one astronomical unit measures one arcsecond from Earth. | gold:	A
+predicted:	C. black holes. | gold:	C
+predicted:	C. H → He → Li → O → Ne → Si → Fe | gold:	B
+predicted:	B. Waning crescent New Waxing crescent | gold:	C
+predicted:	D. Moons contribute to all of the above. | gold:	D
+predicted:	A. 2.2x1011 kg | gold:	D
+predicted:	B. Because it’s in the southern hemisphere where it is winter now. | gold:	B
+predicted:	A. the atmosphere on Mars is too thin to trap a significant amount of heat. | gold:	A
+predicted:	D. Amino acids with a preferred orientation or "chirality". | gold:	D
+predicted:	D. A and B. | gold:	A
+predicted:	A. names for the layers of gaseous and metallic hydrogen deep within the planet. | gold:	B
+predicted:	B. Tritos and Deimos | gold:	D
+predicted:	A. 240 to 680 nm. | gold:	C
+predicted:	C. The period of rotation is the same on every point on the disk. | gold:	C
+predicted:	C. Cassiopeia | gold:	C
+predicted:	D. About 10 feet. | gold:	A
+predicted:	D. A and B. | gold:	D
+predicted:	B. 24 hours. | gold:	C
+predicted:	A. Will the Sun become a black hole?
+No
+B. Is the universe infinitely large?
+No
+C. How old is the visible universe?
+13.8 billion years
+D. Are we alone in the universe?
+No | gold:	D
+predicted:	A. The Moon will be closer to the Earth and the Earth’s day will be longer. | gold:	C
+predicted:	A. Hydrogen | gold:	A
+predicted:	A. exactly 3 times longer | gold:	B
+predicted:	C. Five kilograms of feathers. | gold:	C
+predicted:	A. The corona is made up mostly of charged particles which aren't luminous. | gold:	D
+predicted:	B. They formed as gas giants beyond the frost line and then migrated inwards. | gold:	B
+predicted:	A. Ability to magnify distant objects | gold:	B
+predicted:	B. 21.4 degrees | gold:	D
+predicted:	D. because the Moon's rotational and orbital periods are equal. | gold:	D
+predicted:	B. v = 2sqrt(GM/R) | gold:	C
+predicted:	D. Any craters that existed have been eroded through the strong winds on Io's surface. | gold:	A
+predicted:	B. Cassiopeia | gold:	D
+predicted:	A. Asteroid impacts elsewhere in the solar system throw sand-sized particles into space and occasionally the Earth passes through a cloud of these particles which burn up in our atmosphere and cause a meteor shower. | gold:	D
+predicted:	A. Greenhouse gases absorb infrared light from the Sun which then heats the atmosphere and the surface. | gold:	C
+predicted:	A. detecting the gravitational effect of an orbiting planet by looking for the Doppler shifts in the star's spectrum. | gold:	A
+predicted:	A. 9.3 x 1013 meters | gold:	D
+predicted:	A. To explain why more distant planets take longer to make a circuit through the constellations of the zodiac. | gold:	B
+predicted:	B. 11 | gold:	B
+predicted:	C. Earth | gold:	C
+predicted:	B. the atmosphere absorbs mostly blue light. | gold:	D
+predicted:	D. both a molten metallic core and reasonably fast rotation. | gold:	D
+predicted:	D. along Jupiter's orbit 60° ahead of and behind Jupiter. | gold:	D
+predicted:	A. hydrogen compounds (H2O CH4 NH3) light gases (H He) metals rocks | gold:	D
+predicted:	B. 1509 | gold:	C
+predicted:	D. the atmosphere on Mars is too thin to trap a significant amount of heat. | gold:	D
+predicted:	D. After you've repeated your experiment many times. | gold:	C
+predicted:	C. The relatively slow rotation of Uranus and Neptune allows methane to migrate to higher levels in the atmosphere and condense into clouds. | gold:	A
+predicted:	D. The Moon was once entirely molten. | gold:	B
+predicted:	A. Mars shows evidence of significant volcanism which implies that the climate was once warmer and therefore wetter. | gold:	C
+predicted:	B. by contracting changing gravitational potential energy into thermal energy. | gold:	B
+predicted:	D. Leo | gold:	D
+predicted:	A. infrared visible light ultraviolet X rays gamma rays radio. | gold:	D
+predicted:	D. 300 years | gold:	C
+predicted:	D. CO2 | gold:	D
+predicted:	C. Saturn | gold:	D
+predicted:	A. µ Muons. | gold:	C
+predicted:	D. 4.5 billion years. | gold:	A
+predicted:	A. Their large systems of moons and rings gravitationally attract the mass around the equator more. | gold:	C
+predicted:	B. nuclear fusion | gold:	C
+predicted:	A. the region around a star where liquid water can potentially exist on planetary surfaces. | gold:	A
+predicted:	B. To measure galactic distances. | gold:	B
+predicted:	D. The luminosity integrated over all wavelengths. | gold:	D
+predicted:	B. Arecibo Telescope | gold:	B
+predicted:	D. 13000 K | gold:	A
+predicted:	B. Sirius | gold:	D
+predicted:	D. From accretion within the solar nebula at the same time the planets formed. | gold:	A
+predicted:	C. dark lavas filling older impact basins. | gold:	C
+predicted:	A. 130 million km | gold:	B
+Accuracy: 0.3881578947368421

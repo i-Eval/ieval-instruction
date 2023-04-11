@@ -1,0 +1,101 @@
+predicted:	A. 5 permanent members with veto power, 10 rotating members with no veto power. | gold:	A
+predicted:	A. It allowed the US to intensify its involvement in Vietnam. | gold:	A
+predicted:	D. China | gold:	D
+predicted:	A. Richard Nixon | gold:	A
+predicted:	The Strategic Arms Reduction Treaty was the first accord A. on nuclear weapons signed between the United States and the Soviet Union. | gold:	D
+predicted:	B. Exceptionalism was enhanced by America's status as the 'leader of the free world'. | gold:	D
+predicted:	A. He believed that internal reform rather than international negotiation was the key to economic regeneration of the US. | gold:	A
+predicted:	D. Increased incorporation of public opinion in foreign policy making. | gold:	A
+predicted:	D. The United States became a creditor country and financial centre, with European war spending boosting the US economy. | gold:	D
+predicted:	A. the president of the United States. | gold:	D
+predicted:	B. Local developments were viewed through a geopolitical lens. | gold:	B
+predicted:	B. It was the first time NATO used military force. | gold:	C
+predicted:	B. The distribution of power in the international system. | gold:	B
+predicted:	D. If leaders revealed their programs, they would be more likely to be attacked. | gold:	D
+predicted:	B. the president. | gold:	B
+predicted:	B. Required the United States and Russia to dismantle a significant number of their nuclear weapons. | gold:	B
+predicted:	A. An American declaration that the US was always open to Chinese immigration. | gold:	C
+predicted:	B. Costs of free trade are concentrated, but benefits are dispersed. | gold:	B
+predicted:	C. Limited UN mandate and fear of a protracted conflict. | gold:	C
+predicted:	B. They serve American interests. | gold:	B
+predicted:	C. It indicated US reluctance to get involved in incidents outside of its immediate sphere of influence. | gold:	D
+predicted:	A. It democratizes countries. | gold:	C
+predicted:	A. containment. | gold:	C
+predicted:	B. The growing costs of war with France. | gold:	B
+predicted:	C. Bill Clinton | gold:	C
+predicted:	C. the idea that governments use their military to help pursue policy goals. | gold:	C
+predicted:	A. Promotion of Democracy, free-trade and international institutions. | gold:	A
+predicted:	B. US expansion was based on markets rather than territory post-1865. | gold:	B
+predicted:	C. That military spending gave the arms industry unwarranted influence on politics and government. | gold:	C
+predicted:	A. the Security Council. | gold:	A
+predicted:	A. Conservatives are skeptical of increases in defense spending; liberals advocate increases in defense spending. | gold:	C
+predicted:	C. Provide fora for discussion. | gold:	A
+predicted:	D. All of the above | gold:	D
+predicted:	A. Members of Congress negotiating directly with foreign governments. | gold:	A
+predicted:	B. The US promoted the marketization of the Russian economy. | gold:	B
+predicted:	D. 3 or more. | gold:	D
+predicted:	A. This would be an 'empire of liberty'. | gold:	A
+predicted:	B. war and peace. | gold:	C
+predicted:	B. An opportunity to use the collapse of the Soviet Union to extend US power. | gold:	B
+predicted:	B. Idealism | gold:	A
+predicted:	According to realists, the fundamental difference between the international system and the domestic system is anarchy (A). | gold:	B
+predicted:	B. They cannot get enough information about which leaders will abuse their citizens. | gold:	B
+predicted:	D. It encouraged the centralization of political power in the US. | gold:	B
+predicted:	D. All of the above | gold:	D
+predicted:	Détente, or the relaxing of tensions coupled with firm guarantees of mutual security, represented a shift in American foreign policy toward the communist world ushered in by A. Richard Nixon. | gold:	A
+predicted:	C. Autocracy | gold:	C
+predicted:	C. anticommunism. | gold:	C
+predicted:	B. an example of the doctrine of containment, because U.S. involvement was designed to prevent the fall of South Vietnam to the communists. | gold:	D
+predicted:	C. the State Department. | gold:	C
+predicted:	B. Ronald Reagan | gold:	B
+predicted:	A. Revelations that the NSA was monitoring the communications of American citizens without obtaining warrants. | gold:	A
+predicted:	A plan that provided economic assistance to rebuild Europe. | gold:	A
+predicted:	B. Having the capability to deter smaller states. | gold:	C
+predicted:	C. Collective action and coordination problems. | gold:	D
+predicted:	A. A new democratic internationalism led by the United States. | gold:	A
+predicted:	A. the United Nations. | gold:	A
+predicted:	D. Increase in US international influence. | gold:	A
+predicted:	D. ALL of the above. | gold:	D
+predicted:	B. It would have involved compromising opposition to slavery. | gold:	B
+predicted:	A. "mutual assured destruction." | gold:	B
+predicted:	A. Reagan's first term military spending pressured the Soviet Union to keep up its international commitments. | gold:	A
+predicted:	C. It encourages liberalization of global trade. | gold:	C
+predicted:	C. I, II, and III | gold:	C
+predicted:	D. Domestic environment, government and bureaucracy. | gold:	D
+predicted:	C. Between 16 and 25. | gold:	B
+predicted:	A. It indicated the primacy of economic containment. | gold:	C
+predicted:	B. States outside of the 'family of nations'. | gold:	B
+predicted:	D. the Monroe Doctrine. | gold:	D
+predicted:	They see it as an ideological façade for US imperialism. | gold:	B
+predicted:	B. Both focus on the decline of the American power. | gold:	D
+predicted:	D. It leads to a diminished focus on security, power and interest. | gold:	D
+predicted:	A and D. Socio-economic accounts of US Cold War foreign policy focus on class and economic interests and language and culture. | gold:	A
+predicted:	A. All of the world's leading economies were declining due to low growth and inflation. | gold:	B
+predicted:	A. the critical domestic and foreign policy advisers to the president. | gold:	C
+predicted:	A. The belief that the United States is different because it is concerned not only with Power, but also with Principles. | gold:	A
+predicted:	A. The Central Intelligence Agency (CIA). | gold:	A
+predicted:	D. the International Monetary Fund. | gold:	D
+predicted:	A. Maintaining a balance between the United States and other countries and not entering into alliances. | gold:	C
+predicted:	D. All of the above. | gold:	D
+predicted:	B. Diplomacy | gold:	D
+predicted:	B. Moving the Department of Defense Intelligence Agencies to the CIA for better coordination. | gold:	C
+predicted:	A. the National Security Council. | gold:	A
+predicted:	D. The search for new markets. | gold:	C
+predicted:	B. It views world government as impractical. | gold:	A
+predicted:	A. Realism | gold:	A
+predicted:	B. how the importance of oil is often overexaggerated. | gold:	C
+predicted:	D. secretary of state. | gold:	C
+predicted:	Ideational approaches to US foreign policy during the Cold War place greater emphasis on ideology and beliefs (C), while realist accounts place greater emphasis on material interests and power (B). | gold:	C
+predicted:	A. Congress asserted its primacy in foreign policy. | gold:	D
+predicted:	B. Ineffectiveness of multilateralism | gold:	D
+predicted:	B. Increased spending during wars, with demobilization bringing spending down but not back to prewar levels. | gold:	B
+predicted:	A. Threats to the state centralize political and economic power, threatening state development. | gold:	A
+predicted:	C. The idea that the fall of one state to communism would inexorably lead to the fall of its neighbors. | gold:	C
+predicted:	Conditional programs, such as the Millennium Challenge, that require change before receipt of aid (D). | gold:	A
+predicted:	The International Monetary Fund (IMF) was established at Bretton Woods in 1944 to stabilize the global economy. | gold:	D
+predicted:	D. Regime type | gold:	D
+predicted:	B. A proposal for the extension of democratic rule globally. | gold:	D
+predicted:	A. Voluntary reliance on an external power for security. | gold:	A
+predicted:	D. It increased international support for the United States. | gold:	A
+predicted:	A. James Madison | gold:	D
+Accuracy: 0.58

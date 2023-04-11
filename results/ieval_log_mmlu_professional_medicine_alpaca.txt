@@ -1,0 +1,273 @@
+predicted:	C. Complication of the IVC filter placement. | gold:	C
+predicted:	D. primary dysfunctional labor. | gold:	C
+predicted:	A. The findings are clinically and statistically significant. | gold:	B
+predicted:	C. Systemic hypertension. | gold:	C
+predicted:	D. Ulnar nerve at the elbow. | gold:	D
+predicted:	A. Fatty acid oxidation. | gold:	A
+predicted:	B. Assess for suicidal ideation. | gold:	B
+predicted:	B. Graves' disease. | gold:	C
+predicted:	C. Retropharyngeal | gold:	D
+predicted:	A. Carbonic anhydrase inhibitor | gold:	B
+predicted:	C. Determination of serum albumin concentration. | gold:	D
+predicted:	A. Amoxicillin | gold:	D
+predicted:	D. Olfactory nerve. | gold:	D
+predicted:	D. supraspinatus | gold:	D
+predicted:	A. anteriorly deviated distal femur | gold:	C
+predicted:	A. Administer amobarbital and then interview the patient. | gold:	B
+predicted:	D. Inability of leukocytes to kill intracellular microorganisms. | gold:	D
+predicted:	B. Polymerase chain reaction. | gold:	B
+predicted:	D. Oral dexamethasone therapy. | gold:	D
+predicted:	C. Escherichia coli. | gold:	C
+predicted:	A. Test of the stool for Clostridium difficile toxin. | gold:	D
+predicted:	D. Endometrial biopsy. | gold:	D
+predicted:	D. Receive genetic counseling. | gold:	A
+predicted:	Lumbar puncture. | gold:	B
+predicted:	B. Institute fundal massage. | gold:	D
+predicted:	A. Asthma | gold:	A
+predicted:	B. P-selectin. | gold:	D
+predicted:	B. The patient is a carrier of the disease based on her family history of DMD. | gold:	D
+predicted:	D. Repeat the PPD skin test. | gold:	B
+predicted:	B. motor paralytic bladder | gold:	D
+predicted:	D. Order the MRI as the patient requests. | gold:	B
+predicted:	A. Intramural (pre-prostatic) | gold:	B
+predicted:	C. res ipsa loquitur | gold:	C
+predicted:	D. Osteoporosis | gold:	A
+predicted:	B. Obtain a swallowing evaluation. | gold:	B
+predicted:	D. Non-small cell lung carcinoma. | gold:	D
+predicted:	B. Excisional biopsy of glandular tissue. | gold:	A
+predicted:	A. Cryptosporidium parvum | gold:	A
+predicted:	B. Glucose release from skeletal muscle. | gold:	C
+predicted:	B. Dextromethorphan intoxication. | gold:	C
+predicted:	A. Granulosa tumor. | gold:	C
+predicted:	A. aortic insufficiency | gold:	B
+predicted:	B. Application of topical collagenase. | gold:	A
+predicted:	D. Spondylolisthesis. | gold:	A
+predicted:	A. Disruption of vascular basement membranes. | gold:	D
+predicted:	C. Mammography. | gold:	D
+predicted:	D. The physician's amount of experience in the medical field. | gold:	B
+predicted:	Decreased filtration coefficient (Kf). | gold:	D
+predicted:	D. Formation of antibodies to RhD. | gold:	C
+predicted:	D. Dissection of the aorta. | gold:	C
+predicted:	D. Metoprolol | gold:	D
+predicted:	D. Vitamin B12 (cyanocobalamin). | gold:	D
+predicted:	C. Open-labeled clinical trial. | gold:	C
+predicted:	A. Carvedilol | gold:	D
+predicted:	D. Vaccine response among African American subjects was not the primary outcome measure. | gold:	D
+predicted:	B. Explain to the physician that you suspect he is intoxicated and ask him to submit to a blood sample to check his blood alcohol concentration. | gold:	C
+predicted:	B. Cryptorchidism of the left testis. | gold:	D
+predicted:	D. Vancomycin. | gold:	D
+predicted:	D. Use of rubber urethral catheters. | gold:	D
+predicted:	C. Herniorrhaphy should be scheduled at the earliest convenient time. | gold:	C
+predicted:	B. Adjusting her medication regimen. | gold:	B
+predicted:	B. Hyperthyroidism. | gold:	B
+predicted:	D. Trinucleotide repeat expansion. | gold:	D
+predicted:	B. Examination of sputum for eosinophils. | gold:	C
+predicted:	C. Peripheral edema. | gold:	B
+predicted:	D. Status asmaticus. | gold:	A
+predicted:	D. Nocturnal continuous positive airway pressure (CPAP). | gold:	C
+predicted:	D. Preterm labor and delivery. | gold:	D
+predicted:	C. Interleukin-1 (IL-1) | gold:	D
+predicted:	B. fibromyalgia | gold:	B
+predicted:	B. Echocardiography | gold:	D
+predicted:	B. anterior rami of T6-T10. | gold:	B
+predicted:	D. α-Toxin | gold:	D
+predicted:	C. Immune complex deposition in tissues. | gold:	C
+predicted:	C. Remove the patient from the ventilator and ventilate him with a bag-valve mask. | gold:	D
+predicted:	A. Diffuse interstitial fibrosis. | gold:	A
+predicted:	A. Bordetella pertussis | gold:	B
+predicted:	A. adjustment disorder with anxious mood | gold:	A
+predicted:	B. Incidence of chronic prostatitis in the general population. | gold:	D
+predicted:	A. Projection. | gold:	D
+predicted:	D. Paroxetine. | gold:	D
+predicted:	A. Decreased AM serum cortisol concentration. | gold:	B
+predicted:	A. adjustment disorder with depressed mood | gold:	A
+predicted:	A. Bacterial vaginosis. | gold:	B
+predicted:	D. Inhibition of T-lymphocyte function. | gold:	A
+predicted:	B. Decreased metabolism of codeine to morphine. | gold:	B
+predicted:	The most likely diagnosis is aortic stenosis. | gold:	B
+predicted:	Acalculous cholecystitis. | gold:	D
+predicted:	A. Begin a trial of a β-blocking medication. | gold:	B
+predicted:	A. Increased estrogen stimulation of the sebaceous glands. | gold:	D
+predicted:	B. Mucosal edema. | gold:	B
+predicted:	D. 90%. | gold:	D
+predicted:	A. Decreased pulmonary capillary wedge pressure. | gold:	B
+predicted:	D. Increased serum bradykinin concentrations. | gold:	D
+predicted:	B. Attention-deficit/hyperactivity disorder | gold:	A
+predicted:	C. Intra-arterial tissue plasminogen activator (tPA) therapy. | gold:	D
+predicted:	A. Dermatomyositis. | gold:	A
+predicted:	A. Chlamydia trachomatis | gold:	B
+predicted:	D. Vincristine | gold:	D
+predicted:	C. Polysomnography. | gold:	C
+predicted:	A. Acute myocardial infarction | gold:	B
+predicted:	D. β-Adrenergic blocking agent therapy. | gold:	A
+predicted:	C. Optic nerve. | gold:	C
+predicted:	C. Intravenous penicillin and vancomycin. | gold:	D
+predicted:	D. Uterine cavity. | gold:	C
+predicted:	D. Strict low-calorie diet | gold:	C
+predicted:	D. Stage of disease. The most critical factor in formulating a management plan for this patient is the stage of disease. Based on the patient's symptoms and physical examination, she is likely in the later stages of cervical cancer and will need to be referred to a specialist for further diagnosis and treatment. | gold:	D
+predicted:	D. lymphoma. | gold:	B
+predicted:	C. placing an ice compress over the nose. | gold:	D
+predicted:	D. Melanocytes. | gold:	A
+predicted:	B. Intravenous penicillin. | gold:	A
+predicted:	B. Myasthenia gravis. | gold:	C
+predicted:	D. malabsorption of vitamins A, D, E, and K. | gold:	D
+predicted:	D. Broad-spectrum antibiotic therapy | gold:	A
+predicted:	D. The infant has a 75% risk for hemophilia. | gold:	B
+predicted:	C. complete blood count | gold:	D
+predicted:	A. Babinski sign present bilaterally. | gold:	B
+predicted:	C. Statistically significant overall decrease in risk. | gold:	D
+predicted:	C. Branch of the thyrocervical trunk. | gold:	C
+predicted:	C. Atlanto-axial instability. | gold:	C
+predicted:	A. Discharge the patient after she has signed an "against medical advice" form. | gold:	C
+predicted:	A. Adenovirus. | gold:	A
+predicted:	A. Arrange for transjugular intrahepatic portal vein shunting. | gold:	C
+predicted:	D. PCP (phencyclidine) | gold:	D
+predicted:	A. Recommend behavioral therapy. | gold:	A
+predicted:	D. No treatment is needed at this time. | gold:	D
+predicted:	B. Second-degree atrioventricular block, type I. | gold:	D
+predicted:	B. He can date her because she is no longer his patient. | gold:	D
+predicted:	D. Hypothyroidism. | gold:	A
+predicted:	A. Administer an epidural injection of methylprednisolone. | gold:	D
+predicted:	B. Exposure to sexually transmitted diseases. | gold:	D
+predicted:	A. Adhere to the patient's wishes and discuss home-care options. | gold:	A
+predicted:	D. Regional enteritis. | gold:	B
+predicted:	A. administer an epidural anesthetic | gold:	D
+predicted:	B. Obtain a court order permitting evaluation. | gold:	A
+predicted:	A. Acute respiratory distress syndrome. | gold:	B
+predicted:	C. Midsystolic click. | gold:	D
+predicted:	D. Reaction formation. | gold:	A
+predicted:	D. Intramuscular penicillin therapy. | gold:	D
+predicted:	D. Hypovolemic shock. | gold:	C
+predicted:	C. Pertussis | gold:	B
+predicted:	B. Adenylyl cyclase. | gold:	A
+predicted:	B. feeding through a nasogastric feeding tube. | gold:	D
+predicted:	A. Measurement of serum proinsulin and insulin antibodies. | gold:	D
+predicted:	A. Carbamazepine | gold:	A
+predicted:	A. His daily glucose control is better than recorded. | gold:	D
+predicted:	A. high velocity, low amplitude. | gold:	B
+predicted:	B. Dexamethasone | gold:	C
+predicted:	B. Bone marrow biopsy | gold:	D
+predicted:	D. Insurance company | gold:	D
+predicted:	A. Estradiol-secreting Leydig cell tumor. | gold:	D
+predicted:	C. X-rays of the spine. | gold:	B
+predicted:	C. Laparoscopy | gold:	A
+predicted:	D. Systemic sclerosis (scleroderma). | gold:	D
+predicted:	B. Fine-needle aspiration of the nodule. | gold:	B
+predicted:	D. previous seizures | gold:	D
+predicted:	B. Meconium aspiration syndrome. | gold:	D
+predicted:	C. Power of the study | gold:	B
+predicted:	D. the patient was previously treated for osteoarthritis of the cervical spine. | gold:	C
+predicted:	B. Individuals who take Drug X have four times the risk of dying from this type of cancer. | gold:	D
+predicted:	D. Sertraline. Sertraline is an antidepressant that has been used successfully to treat chronic idiopathic constipation. | gold:	B
+predicted:	B. Case series. | gold:	B
+predicted:	B. α2-Adrenergic agonist | gold:	D
+predicted:	C. Deep venous thrombosis. | gold:	B
+predicted:	C. Myocardium. | gold:	D
+predicted:	D. Hair follicle. | gold:	D
+predicted:	A. injection with a sclerosing agent. | gold:	D
+predicted:	B. Double-stranded nucleic acid genome. | gold:	D
+predicted:	Metabolism. Carbamazepine is a strong CYP3A4 inducer, and may reduce the efficacy of other medications metabolized by this enzyme, including vitamin D. Increasing the vitamin D intake may help restore the steady state levels of both carbamazepine and vitamin D. | gold:	D
+predicted:	D. M (Metaphase). The point mutation in the p53 gene leads to an inactive gene product, thereby defecting cell cycle arrest in mitosis. As a result, the tumor is able to progressively grow despite irradiation therapy. | gold:	B
+predicted:	C. Dopamine agonist | gold:	B
+predicted:	C. Intralobar sequestration. | gold:	C
+predicted:	D. 75%. | gold:	C
+predicted:	B. Oral amoxicillin therapy | gold:	B
+predicted:	A. Skeletal survey | gold:	B
+predicted:	A. Abdominal ultrasonography of the right upper quadrant. | gold:	A
+predicted:	A. Clostridium difficile | gold:	D
+predicted:	D. pilonidal abscess. | gold:	D
+predicted:	B. Arrange for consultation with a home hospice team. | gold:	B
+predicted:	D. Streptococcus pneumoniae | gold:	D
+predicted:	B. CT scan of the chest | gold:	D
+predicted:	D. Polycystic ovarian syndrome. | gold:	D
+predicted:	C. fine-needle aspiration. | gold:	D
+predicted:	D. Herpes simplex virus. | gold:	B
+predicted:	D. Superficial inguinal. | gold:	D
+predicted:	C. Minimize ascertainment bias. | gold:	C
+predicted:	B. Serum B-type natriuretic peptide concentration | gold:	D
+predicted:	D. Metronidazole | gold:	B
+predicted:	B. Cortical basal ganglionic degeneration. | gold:	D
+predicted:	A. Androgen insensitivity. | gold:	A
+predicted:	D. Streptococcus pneumoniae | gold:	D
+predicted:	C. T7-L2 | gold:	C
+predicted:	B. Insertion of viral promotors adjacent to cellular growth factor genes. | gold:	A
+predicted:	B. Aortic valve stenosis. | gold:	D
+predicted:	C. Medication-induced suppression of central respiratory drive. | gold:	C
+predicted:	B. heart rate and apnea monitoring. | gold:	D
+predicted:	D. Metronidazole | gold:	A
+predicted:	D. Preventing fibrin and platelet plugs. | gold:	A
+predicted:	D. Order a transthoracic echocardiography. | gold:	D
+predicted:	B. Bereavement reaction | gold:	A
+predicted:	A. Candida albicans and Chlamydia trachomatis. | gold:	B
+predicted:	D. Prescribe sertraline. | gold:	A
+predicted:	D. Captopril therapy. | gold:	A
+predicted:	D. Arthrocentesis. | gold:	D
+predicted:	C. Infectious mononucleosis. | gold:	C
+predicted:	A. debridement of the burns, pain management, a thorough history and physical examination, and baseline laboratory studies. | gold:	C
+predicted:	B. Increase the dosage of cyclosporine. | gold:	D
+predicted:	C. Systolic blood pressure. | gold:	D
+predicted:	C. Peritoneal lavage. | gold:	D
+predicted:	D. Mitral stenosis complicated by atrial fibrillation. | gold:	D
+predicted:	D. Subarachnoid hemorrhage. | gold:	D
+predicted:	C. It is a sequence variant of unknown significance. | gold:	B
+predicted:	Somatic symptom disorder. | gold:	D
+predicted:	D. Refer the patient to a child psychiatrist. | gold:	D
+predicted:	C. Serum follicle-stimulating hormone and luteinizing hormone concentrations. | gold:	A
+predicted:	D. The patient is at no increased risk. | gold:	D
+predicted:	A. prescription for a proton pump inhibitor and a prokinetic agent. | gold:	D
+predicted:	D. Increased peripheral vascular resistance. | gold:	D
+predicted:	A. Amygdala | gold:	A
+predicted:	D. Impaired phagocytic oxidative metabolism. | gold:	D
+predicted:	D. There is an increased likelihood of statistically significant findings. | gold:	A
+predicted:	C. Proteasomal degradation. | gold:	D
+predicted:	C. Clarithromycin. Clarithromycin is a macrolide antibiotic that is effective against many bacterial infections, including HIV. It is not associated with an increased risk of anaphylaxis and is well-tolerated by the majority of patients. Amoxicillin, ciprofloxacin, and erythromycin are also appropriate therapies for this patient, but clindamycin is not recommended due to her previous reaction to penicillin. | gold:	D
+predicted:	B. Benign positional vertigo. | gold:	D
+predicted:	A. Incision and drainage | gold:	A
+predicted:	D. vanillylmandelic acid. | gold:	D
+predicted:	C. Foramen rotundum. | gold:	B
+predicted:	D. Valacyclovir. | gold:	C
+predicted:	C. Subscapularis. | gold:	A
+predicted:	D. Bone marrow aspiration. | gold:	D
+predicted:	A. Administer the meningococcal vaccine. | gold:	D
+predicted:	D. Positive Kussmaul sign (rise in jugular venous pulse with inspiration). | gold:	B
+predicted:	D. Initiation of a daily corticosteroid inhaler. | gold:	D
+predicted:	C. Administer intravenous fluids. | gold:	C
+predicted:	A. Avoids the concern for reversion to virulence. | gold:	A
+predicted:	A. Incision and drainage. | gold:	A
+predicted:	B. Attention-deficit/hyperactivity disorder | gold:	C
+predicted:	D. Echocardiography. | gold:	D
+predicted:	C. Superficial thrombophlebitis of the basilic vein. | gold:	A
+predicted:	D. Spleen | gold:	D
+predicted:	B. The patient is a CFTR obligate carrier. | gold:	D
+predicted:	B. Bacterial meningitis | gold:	D
+predicted:	B. Hemothorax, not under tension. | gold:	A
+predicted:	B. Continuous intravenous infusion of heparin titrated to a PTT of 1.5 to 2.0 times the control value. | gold:	D
+predicted:	A. Chronic lymphocytic thyroiditis (Hashimoto disease). | gold:	A
+predicted:	B. Contact the father by telephone and arrange for him to give a blood sample at a local hospital. | gold:	D
+predicted:	D. Mastoiditis. | gold:	D
+predicted:	B. Decreased osteoclast activity. | gold:	B
+predicted:	D. Timolol | gold:	D
+predicted:	A. Administer intravenous antibiotics | gold:	A
+predicted:	A. Reassure the patient that her chance of becoming addicted to narcotics is minuscule. | gold:	A
+predicted:	C. Osteomalacia. | gold:	D
+predicted:	D. Her suitability for home dialysis. | gold:	D
+predicted:	C. chronic lymphocytic leukemia | gold:	C
+predicted:	C. Ultrasound-guided needle aspiration of the mass. | gold:	D
+predicted:	A. Azathioprine | gold:	C
+predicted:	C. Refer her to an allergist. | gold:	D
+predicted:	D. Presynaptic neuromuscular junction. | gold:	D
+predicted:	C. Middle ear effusion. | gold:	A
+predicted:	A. autonomy overrides beneficence. | gold:	D
+predicted:	D. Carrying self-injectable epinephrine. | gold:	D
+predicted:	D. Heroin | gold:	D
+predicted:	C. mammary duct ectasia. | gold:	C
+predicted:	D. Sexual activity. | gold:	D
+predicted:	B. Triple screening for MSAFP, serum β-hCG, and serum estriol concentrations. | gold:	C
+predicted:	B. Cyclin-dependent kinases | gold:	B
+predicted:	D. Calcium urate. | gold:	C
+predicted:	A. amyotrophic lateral sclerosis | gold:	A
+predicted:	A. Adverse effect of medication | gold:	B
+predicted:	B. Ferrous sulfate therapy. | gold:	D
+predicted:	C. Observation to allow passage of the nail via normal peristalsis. | gold:	D
+predicted:	A. Increases cAMP concentration | gold:	B
+Accuracy: 0.4007352941176471

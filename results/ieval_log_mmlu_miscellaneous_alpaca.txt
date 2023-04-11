@@ -1,0 +1,795 @@
+predicted:	C. Dun & Bradstreet, Inc. | gold:	C
+predicted:	C. Self-Regulated Strategy Development | gold:	B
+predicted:	D. 451 degrees. | gold:	D
+predicted:	D. Grape | gold:	C
+predicted:	A. Morgan and Mason | gold:	B
+predicted:	C. Guided reading. | gold:	C
+predicted:	C. the chicken pox virus | gold:	C
+predicted:	D. Silicon | gold:	A
+predicted:	C. freshman | gold:	A
+predicted:	A. Jude Law | gold:	B
+predicted:	A. an even, solid paint application. | gold:	A
+predicted:	B. Harry S Truman | gold:	B
+predicted:	A. Granite, gabbro, diorite, quartz, feldspar. | gold:	B
+predicted:	C. Increased genetic diversity within a planted field. | gold:	B
+predicted:	C. Character development. | gold:	A
+predicted:	Taxi Driver | gold:	B
+predicted:	A. A grayish, milky fluid. | gold:	A
+predicted:	D. monkey | gold:	A
+predicted:	C. Seed plate. | gold:	A
+predicted:	A. Ireland | gold:	A
+predicted:	B. Formation of a cloud from water vapor. | gold:	D
+predicted:	A. Cannes | gold:	A
+predicted:	A. yahtzee | gold:	C
+predicted:	D. Robbie | gold:	B
+predicted:	B. Jaws' | gold:	D
+predicted:	C. Geraldine Jones | gold:	C
+predicted:	C. bird | gold:	C
+predicted:	C. Stomach | gold:	C
+predicted:	C. Red | gold:	D
+predicted:	A. 0 degrees or below. | gold:	A
+predicted:	A. cat | gold:	D
+predicted:	B. Harry Truman | gold:	C
+predicted:	A. Xenon | gold:	C
+predicted:	B. 2 mol | gold:	D
+predicted:	Nat Turner | gold:	C
+predicted:	C. to make holes | gold:	C
+predicted:	C. Carpals | gold:	C
+predicted:	Calf. | gold:	D
+predicted:	B. Fendi | gold:	B
+predicted:	A. determining whether a toddler is securely attached | gold:	B
+predicted:	D. Japan | gold:	C
+predicted:	A. dependent on the demand for the final product that the labor is used to produce. | gold:	A
+predicted:	C. Emptying the gas tank. | gold:	B
+predicted:	Thrust. | gold:	C
+predicted:	D. The Moon. | gold:	D
+predicted:	B. persons classified as unemployed or employed | gold:	B
+predicted:	A. A campaign manager's introduction of a mayoral candidate. | gold:	A
+predicted:	Stalag 13 | gold:	A
+predicted:	D. 100,000 liters. | gold:	C
+predicted:	C. a kettle pot | gold:	C
+predicted:	B. work without pay. | gold:	B
+predicted:	The largest animal ever to live on Earth is the blue whale. | gold:	A
+predicted:	C. Sanskrit | gold:	C
+predicted:	A. obtuse | gold:	C
+predicted:	C. capacity to capture sharp detail. | gold:	B
+predicted:	A. an oligopoly | gold:	A
+predicted:	B. Victoria | gold:	C
+predicted:	D. golf | gold:	D
+predicted:	B. flat bread | gold:	B
+predicted:	A. St Augustine Florida | gold:	B
+predicted:	B. The amount of the illuminated side of the Moon that can be seen from Earth. | gold:	B
+predicted:	C. Mathematics | gold:	C
+predicted:	C. Cutie Patootie | gold:	C
+predicted:	D. Foreshortening. | gold:	D
+predicted:	A. 6*10^8 J | gold:	C
+predicted:	A. Charles Dickens | gold:	A
+predicted:	If you were born on Halloween, your astrological sign is Scorpio. | gold:	A
+predicted:	C. twelve feet | gold:	B
+predicted:	A. influence the outcome of a Supreme Court case. | gold:	A
+predicted:	B. Red and Yellow | gold:	B
+predicted:	A. Earthquakes | gold:	A
+predicted:	D. 10. | gold:	C
+predicted:	C. Hexagon | gold:	B
+predicted:	B. knife | gold:	B
+predicted:	C. stroll | gold:	C
+predicted:	C. Expressing speech in print. | gold:	C
+predicted:	C. phi | gold:	B
+predicted:	B. The water table would be found at an elevation lower than 550 feet above sea level but above sea level. | gold:	C
+predicted:	B. Los Angeles Lakers | gold:	C
+predicted:	D. 6*10^11 W | gold:	B
+predicted:	C. England | gold:	C
+predicted:	D. Marzipan | gold:	B
+predicted:	A. black | gold:	C
+predicted:	B. I wish I were your man | gold:	D
+predicted:	C. Impasto. | gold:	C
+predicted:	B. Milhous | gold:	B
+predicted:	C. Japan | gold:	C
+predicted:	D. rice | gold:	D
+predicted:	A. three analogous colors | gold:	B
+predicted:	B. Ty Cobb | gold:	C
+predicted:	A. Increased varieties of each crop planted. | gold:	B
+predicted:	Sherwood Forest. | gold:	D
+predicted:	A. one | gold:	B
+predicted:	D. Guatemala | gold:	D
+predicted:	A. were living in the areas still in rebellion. | gold:	A
+predicted:	D. Kouroi | gold:	D
+predicted:	B. Steve Cauthen | gold:	B
+predicted:	C. from many one | gold:	C
+predicted:	D. 21-Apr | gold:	B
+predicted:	D. The levying of taxes | gold:	D
+predicted:	D. jaguar | gold:	D
+predicted:	C. a political party. | gold:	C
+predicted:	D. Copper(II) sulfate hydrate. | gold:	B
+predicted:	B. Ray Romano | gold:	B
+predicted:	C. pro wrestling | gold:	C
+predicted:	B. Two plates pull away from each other, and magma oozes out. | gold:	A
+predicted:	D. 10 | gold:	A
+predicted:	D. I, II, III, and IV. | gold:	C
+predicted:	B. Martin Luther | gold:	B
+predicted:	D. mercury | gold:	D
+predicted:	D. Studies of the speeds and travel paths of seismic waves passing through Earth. | gold:	D
+predicted:	A. overproduce the good relative to the socially optimal level of output | gold:	A
+predicted:	A. New entrants to the labor market. | gold:	C
+predicted:	B. Kentucky Fried Chicken | gold:	A
+predicted:	D. Akron Ohio | gold:	D
+predicted:	A. Oberlin College | gold:	A
+predicted:	D. dishwater blond | gold:	C
+predicted:	D. large hued in green and blue | gold:	B
+predicted:	D. Harlem Renaissance | gold:	D
+predicted:	B. Big Gulp | gold:	B
+predicted:	A. Japan | gold:	A
+predicted:	A. Water | gold:	D
+predicted:	B. Ireland | gold:	B
+predicted:	B. Ivory | gold:	B
+predicted:	C. Liverpool | gold:	C
+predicted:	C. Parliamentary | gold:	C
+predicted:	A. 10 | gold:	B
+predicted:	They're brothers. | gold:	B
+predicted:	C. crocheting. | gold:	D
+predicted:	D. North Pole | gold:	D
+predicted:	C. Negative feedback | gold:	A
+predicted:	D. 51 | gold:	C
+predicted:	A. Charles I | gold:	D
+predicted:	C. frog | gold:	C
+predicted:	C. Lower market prices. | gold:	C
+predicted:	B. $200,000,000 | gold:	B
+predicted:	D. Maine Coon | gold:	C
+predicted:	D. 200,000,000,000 | gold:	C
+predicted:	A. almonds | gold:	A
+predicted:	Rover is green. | gold:	C
+predicted:	B. Chex | gold:	C
+predicted:	D. 4 | gold:	C
+predicted:	B. Monica | gold:	B
+predicted:	B. progressive | gold:	B
+predicted:	D. institutionalism | gold:	D
+predicted:	D. big toe. | gold:	D
+predicted:	D. The Club. | gold:	B
+predicted:	C. hemophilia. | gold:	C
+predicted:	D. The JPEG format compresses file size by selectively discarding data. | gold:	D
+predicted:	D. Reptiles and amphibians. | gold:	D
+predicted:	D. Chicken pox | gold:	D
+predicted:	A. piggybank | gold:	B
+predicted:	D. Your Grace. | gold:	D
+predicted:	C. All the President's Men' | gold:	C
+predicted:	B. a protozoan | gold:	B
+predicted:	D. Keith Richards | gold:	B
+predicted:	B. talking to the cops | gold:	B
+predicted:	B. St Louis | gold:	B
+predicted:	According to the popular slogan, people should not'mess with' Rhode Island. | gold:	B
+predicted:	B. the Gold Glove | gold:	B
+predicted:	C. Categorize the components of a technical system. | gold:	A
+predicted:	B. Martin Van Buren | gold:	D
+predicted:	D. 2*10^6 kg/yr | gold:	A
+predicted:	D. 10 minutes | gold:	B
+predicted:	D. the working class. | gold:	D
+predicted:	According to the proverb necessity is the mother of invention. | gold:	A
+predicted:	C. lieutenant general. | gold:	C
+predicted:	A. 6' | gold:	A
+predicted:	B. Studs | gold:	B
+predicted:	A. China | gold:	A
+predicted:	A. a fish the offspring of a male shad and a female haddock. | gold:	D
+predicted:	A. seven | gold:	C
+predicted:	D. The snakes outnumber the grasshoppers in the community. | gold:	C
+predicted:	A. political partisanship | gold:	D
+predicted:	D. 70 years. | gold:	A
+predicted:	A. crazy | gold:	A
+predicted:	Zeta (Zeta) | gold:	B
+predicted:	C. Tempo | gold:	C
+predicted:	D. ten | gold:	A
+predicted:	D. green bean | gold:	B
+predicted:	D. Narrative | gold:	D
+predicted:	D. Mental incapacity. | gold:	B
+predicted:	A. galant style | gold:	A
+predicted:	D. Its marginal revenue increases as output sold increases. | gold:	B
+predicted:	B. Lando | gold:	D
+predicted:	B. The Coriolis effect and rotation of Earth tend to enhance tidal flow in the higher latitudes. | gold:	C
+predicted:	A. Dill | gold:	C
+predicted:	A. St Isidore of Seville | gold:	C
+predicted:	D. the weathering of continental rocks | gold:	C
+predicted:	D. Pinch hitter. | gold:	D
+predicted:	C. Argentina | gold:	C
+predicted:	C. 81 | gold:	C
+predicted:	A. Absorption lines in the solar spectrum are consistent with the presence of sodium. | gold:	A
+predicted:	C. GHI | gold:	B
+predicted:	B. The culture of the local community. | gold:	D
+predicted:	B. black with white spots | gold:	C
+predicted:	D. Israel | gold:	D
+predicted:	B. Casey Kasem | gold:	B
+predicted:	D. reptiles | gold:	C
+predicted:	B. MiSTies | gold:	B
+predicted:	D. Hyundai | gold:	D
+predicted:	D. Weight. | gold:	C
+predicted:	A. Weaving | gold:	A
+predicted:	A. Carbon | gold:	A
+predicted:	B. ichthyologist | gold:	B
+predicted:	C. series of infrared pulses. | gold:	C
+predicted:	A. four inches. | gold:	A
+predicted:	C. 7. Lemon juice has a pH of around 7. | gold:	B
+predicted:	B. The quantity demanded will increase. | gold:	A
+predicted:	B. Having faith in God will be rewarded in the afterlife. | gold:	D
+predicted:	D. Jimmy Carter | gold:	B
+predicted:	A. money supply | gold:	D
+predicted:	B. Links | gold:	B
+predicted:	B. Salary expense is increased by $300,000; cash is decreased by $300,000. | gold:	B
+predicted:	D. Ben | gold:	D
+predicted:	A. two years | gold:	C
+predicted:	A. head | gold:	A
+predicted:	B. Counting | gold:	B
+predicted:	A. using language in a wide variety of situations improves grammar. | gold:	A
+predicted:	C. Rhea | gold:	C
+predicted:	B. Oral Roberts | gold:	D
+predicted:	The Fair Labor Standards Act (FLSA) prescribes standards for wages and overtime pay that affect most private and public employment. | gold:	C
+predicted:	B. Chloroplast | gold:	B
+predicted:	B. Chicago | gold:	D
+predicted:	C. Homer | gold:	C
+predicted:	A. fashion designer | gold:	C
+predicted:	D. Reciprocal teaching. | gold:	B
+predicted:	B. 6 hours 25 minutes | gold:	C
+predicted:	D. A decrease in the United States trade deficit. | gold:	A
+predicted:	B. passage of the Gulf of Tonkin Resolution by Congress | gold:	B
+predicted:	D. San Antonio Spurs | gold:	D
+predicted:	D. Robin Quivers | gold:	D
+predicted:	B. 1940s | gold:	B
+predicted:	A. cheese | gold:	A
+predicted:	Portfolio assessment is the most effective way to evaluate the development of a student's drafting skills throughout the school year. | gold:	B
+predicted:	B. through a human body | gold:	B
+predicted:	C. soak ones feet. | gold:	C
+predicted:	A. Benjamin Franklin | gold:	A
+predicted:	D. pork | gold:	B
+predicted:	The negative connector is designated by black. | gold:	A
+predicted:	C. IRA | gold:	C
+predicted:	B. biking | gold:	C
+predicted:	D. Ulysses S Grant | gold:	D
+predicted:	D. brown | gold:	C
+predicted:	C. Seersucker | gold:	B
+predicted:	D. 4:00 | gold:	A
+predicted:	B. CO2 from fossil fuels. | gold:	B
+predicted:	C. Large-scale deforestation of the Amazon or Congo basin tropical forests. | gold:	C
+predicted:	B. Pete Sampras | gold:	D
+predicted:	A monument made of granite is most susceptible to damage by acid precipitation. | gold:	C
+predicted:	D. Dick Dastardly. | gold:	A
+predicted:	C. goat | gold:	C
+predicted:	B. 540 million years ago | gold:	B
+predicted:	B. tango | gold:	A
+predicted:	A. Ninth | gold:	A
+predicted:	B. Caricature | gold:	B
+predicted:	A. eliminate a surplus in the market | gold:	D
+predicted:	D. Project your voice by relaxing the rib cage and maintaining good posture. | gold:	D
+predicted:	The description of the sun in the second sentence contains personification. | gold:	D
+predicted:	D. Induction. | gold:	D
+predicted:	D. meat drippings. | gold:	C
+predicted:	A dictionary. | gold:	D
+predicted:	A. France | gold:	B
+predicted:	Pikes Peak (A). | gold:	B
+predicted:	B. Woody Guthrie | gold:	C
+predicted:	C. Neptune | gold:	B
+predicted:	EDigital. | gold:	B
+predicted:	Dweezil (A), Ahmet (B), Moon Unit (C), Lumpy Gravy (D). | gold:	D
+predicted:	C. 75 cents | gold:	A
+predicted:	A. Finding a nontoxic product to use and adapting the art-making process as necessary. | gold:	B
+predicted:	Chicken Little. | gold:	A
+predicted:	A. ukulele | gold:	A
+predicted:	D. Kingdom | gold:	A
+predicted:	A. one hour forward. | gold:	A
+predicted:	C. Donna Karan | gold:	C
+predicted:	A. Calvin Coolidge | gold:	D
+predicted:	B. The woman pays. | gold:	D
+predicted:	C. New York City. | gold:	C
+predicted:	C. Oklahoma has produced the most Heisman Trophy winners with five: Billy Sims (1978), Steve Owens (1969), Bobby Mitchell (1956), Jack Mildren (1955), and Cliff Speegle (1941). | gold:	A
+predicted:	A. acidity | gold:	A
+predicted:	B. 1000 | gold:	C
+predicted:	D. compound-complex. | gold:	B
+predicted:	A. Independence Day | gold:	C
+predicted:	A. Paris | gold:	A
+predicted:	B. Conveyor | gold:	B
+predicted:	A. Complementary | gold:	B
+predicted:	D. Decomposing quantities. | gold:	D
+predicted:	A. Fancy Feast | gold:	C
+predicted:	B. computer code | gold:	D
+predicted:	C. 186000 miles per second. | gold:	C
+predicted:	D. King Tut | gold:	D
+predicted:	B. Prince Andrew | gold:	A
+predicted:	B. Sweden | gold:	B
+predicted:	D. 8:00 AM | gold:	A
+predicted:	C. gross domestic product | gold:	C
+predicted:	C. Stonefish | gold:	C
+predicted:	A. centrifugal | gold:	A
+predicted:	D. weird | gold:	C
+predicted:	B. meat | gold:	B
+predicted:	D. 21 | gold:	B
+predicted:	B. cardiologist | gold:	D
+predicted:	C. playing the piano | gold:	C
+predicted:	A. 2 | gold:	A
+predicted:	D. France | gold:	D
+predicted:	B. seven | gold:	B
+predicted:	D. four of a kind. | gold:	B
+predicted:	C. light-textured soil, such as loamy sand. | gold:	C
+predicted:	A. Bismarck | gold:	A
+predicted:	B. an increase in government spending. | gold:	B
+predicted:	D. III and IV only. | gold:	C
+predicted:	D. 4*10^16 kg | gold:	A
+predicted:	D. Labrador retriever | gold:	D
+predicted:	B. Madonna | gold:	B
+predicted:	D. in gibberish. | gold:	B
+predicted:	A. iris | gold:	A
+predicted:	B. film production | gold:	B
+predicted:	D. Louis XVI, who reigned from 1774 to 1792. | gold:	B
+predicted:	D. replaces nonnative ornamentals with native shrubs that do not require irrigation. | gold:	D
+predicted:	A. $120 million annual Revenue. | gold:	B
+predicted:	B. Zulu | gold:	B
+predicted:	A. 20 | gold:	C
+predicted:	D. the nature of the audience | gold:	D
+predicted:	A. Indira Gandhi | gold:	A
+predicted:	A. Baby Ruth | gold:	C
+predicted:	D. hypermetropic | gold:	B
+predicted:	C. Saturn | gold:	C
+predicted:	B. Pee Wee Herman | gold:	C
+predicted:	B. courtroom | gold:	B
+predicted:	A. Amish | gold:	A
+predicted:	Zamfir | gold:	A
+predicted:	D. sea lion | gold:	A
+predicted:	D. 320,000 | gold:	B
+predicted:	C. Relocation | gold:	A
+predicted:	B. condense, forming large amounts of dew | gold:	C
+predicted:	B. Cronus | gold:	B
+predicted:	A. cancer | gold:	A
+predicted:	A. Grace Slick | gold:	B
+predicted:	B. Paul VI | gold:	C
+predicted:	C. Cucumber | gold:	C
+predicted:	B. HTTP | gold:	B
+predicted:	B. Albuquerque | gold:	B
+predicted:	C. The division of national power into different branches of government. | gold:	D
+predicted:	D. horse racing. | gold:	D
+predicted:	A. Ovule..... production of pollen
+B. Vascular cambium..... formation of apical meristem
+C. Xylem..... transport of sugars
+D. Guard cell..... regulation of transpiration rate | gold:	D
+predicted:	B. A rapid increase in money supply. | gold:	B
+predicted:	C. 19th | gold:	C
+predicted:	C. struggle between the United States and the Soviet Union to gain political hegemony in world affairs. | gold:	C
+predicted:	A. Parka | gold:	A
+predicted:	C. 100 square inches. | gold:	D
+predicted:	B. Bloat. | gold:	B
+predicted:	A. an adjective clause | gold:	C
+predicted:	A. gaggle | gold:	A
+predicted:	C. directory assistance | gold:	C
+predicted:	C. radishes | gold:	C
+predicted:	A. up to 250 | gold:	D
+predicted:	Pillsbury | gold:	C
+predicted:	B. Increasing government spending and decreasing taxes. | gold:	B
+predicted:	A. Analyzing the audience | gold:	B
+predicted:	B. Q | gold:	C
+predicted:	A. Filing applications for building permits and variances. | gold:	D
+predicted:	C. three | gold:	B
+predicted:	D. The Iron Sheik. | gold:	B
+predicted:	D. Planting bean seeds in paper cups, placing them on the windowsill, and watering them daily. | gold:	B
+predicted:	A. To generate energy. | gold:	A
+predicted:	D. centrifugal | gold:	D
+predicted:	A. fuzz | gold:	A
+predicted:	C. tangelo | gold:	C
+predicted:	A. Frank and Bill | gold:	B
+predicted:	D. Orangutan | gold:	D
+predicted:	C. Wookiee | gold:	C
+predicted:	A. peace symbol | gold:	B
+predicted:	The tallest trees on Earth are Coast Redwoods, reaching heights of up to 379 feet. | gold:	A
+predicted:	C. Brush | gold:	C
+predicted:	B. Air Force | gold:	C
+predicted:	B. Ponch | gold:	B
+predicted:	C. Ability to identify the main idea. | gold:	C
+predicted:	D. solitaire. | gold:	C
+predicted:	A. two | gold:	C
+predicted:	The most likely impact of an increase in interest rates is that Investment levels diminish. | gold:	A
+predicted:	A. George Washington | gold:	D
+predicted:	B. the stockholders. | gold:	B
+predicted:	C. Reese's Pieces | gold:	B
+predicted:	D. New York City | gold:	C
+predicted:	A. Acquiring all the tools necessary for the building. | gold:	D
+predicted:	A. Sticks & Stones' | gold:	D
+predicted:	A. Faust' | gold:	D
+predicted:	A. Charlie | gold:	A
+predicted:	C. Russians | gold:	C
+predicted:	A. hurried | gold:	D
+predicted:	D. brakes | gold:	D
+predicted:	B. thistle | gold:	B
+predicted:	D. $10 billion | gold:	C
+predicted:	B. Fozzie Bear | gold:	D
+predicted:	A. hypnophobia (fear of sleep) | gold:	D
+predicted:	Appointing agency heads. | gold:	B
+predicted:	B. Japan | gold:	B
+predicted:	B. Asia | gold:	B
+predicted:	B. It stimulated the development of a market revolution. | gold:	B
+predicted:	A. whooping cough | gold:	A
+predicted:	A. provide a basis for students to apply for and win proficiency awards. | gold:	D
+predicted:	B. External combustion engine. | gold:	B
+predicted:	A. Government authority is created as the result of a social contract. (Thomas Hobbes and John Locke) | gold:	A
+predicted:	B. the home team | gold:	B
+predicted:	D. a wooden dummy. | gold:	D
+predicted:	How many states were in the Confederate States of America? A. 11, B. 13, C. 16, D. 22. Answer: B. 13. | gold:	A
+predicted:	The Chicago Seven were war protesters. | gold:	A
+predicted:	A. Pluto | gold:	C
+predicted:	A. Estee Lauder | gold:	A
+predicted:	B. German | gold:	B
+predicted:	D. meat | gold:	D
+predicted:	D. use leading questions to help the student review and analyze the relative merits of several assembly procedures. | gold:	D
+predicted:	If the government places a price ceiling on leather garments that is below the equilibrium price, then the demand curve for leather garments will shift leftward and the supply curve for leather garments will shift rightward. The result of this will be an increase in the quantity of leather garments demanded and a decrease in the quantity supplied, leading to a shortage in the market. | gold:	A
+predicted:	C. funding the construction of the interstate highway system. | gold:	C
+predicted:	B. Chordates | gold:	B
+predicted:	D. I respect you as a person with your own ideas and feelings. | gold:	D
+predicted:	A. Outlining | gold:	B
+predicted:	C. SEC | gold:	C
+predicted:	D. Norm. | gold:	A
+predicted:	C. Schist | gold:	C
+predicted:	D. Plasma. | gold:	A
+predicted:	C. 4.5 billion years | gold:	C
+predicted:	C. Receiving a recommendation from a current employee. | gold:	C
+predicted:	C. triple sec | gold:	A
+predicted:	C. to hold a ship in place | gold:	C
+predicted:	C. carving (Answer) | gold:	C
+predicted:	C. Encouraging students to name and discuss their feelings throughout the day. | gold:	D
+predicted:	A. declaring bankruptcy | gold:	A
+predicted:	D. one hundred thousand ($100,000). | gold:	C
+predicted:	A. Identifying attributes of objects | gold:	A
+predicted:	B. Willard Scott | gold:	B
+predicted:	B. enforceable | gold:	D
+predicted:	The name of the first ship to sail around the world was 'Victoria' (A). | gold:	B
+predicted:	A. The Chinese commissioner of trade in Canton (Guangzhou) banned the opium trade in that city. | gold:	B
+predicted:	B. Cow | gold:	B
+predicted:	File Transfer Protocol (FTP) is a network protocol used to exchange files over a computer network. | gold:	A
+predicted:	A. calligraphy | gold:	A
+predicted:	D. the Trinity | gold:	D
+predicted:	D. 1988 | gold:	B
+predicted:	A. heredity | gold:	A
+predicted:	B. Silicon | gold:	B
+predicted:	B. Stephen King | gold:	B
+predicted:	B. Camaro. | gold:	D
+predicted:	B. Students are taught individual letter sounds first, followed by letter combination sounds and the rules of putting these combinations together to make words. | gold:	B
+predicted:	D. Beethoven | gold:	D
+predicted:	A. Chicago | gold:	C
+predicted:	C. striker | gold:	C
+predicted:	D. chimpanzee | gold:	B
+predicted:	A. Gulf of Sidra. | gold:	A
+predicted:	D. Old Sparky | gold:	D
+predicted:	D. Spanish | gold:	D
+predicted:	A. Denny's | gold:	A
+predicted:	B. Quartz | gold:	A
+predicted:	A. tea | gold:	A
+predicted:	B. identity vs. identity confusion. | gold:	B
+predicted:	A. Paradise Lost' | gold:	C
+predicted:	B. pigs in a blanket | gold:	B
+predicted:	C. Simon and Garfunkel. | gold:	C
+predicted:	D. caps lock | gold:	A
+predicted:	A. John Paul Revere. | gold:	C
+predicted:	D. The Mask' | gold:	A
+predicted:	B. Luigi | gold:	B
+predicted:	B. Kris Krist offerson | gold:	D
+predicted:	B. Mini-Me | gold:	B
+predicted:	C. freezing. | gold:	D
+predicted:	A. California | gold:	A
+predicted:	D. 30 seconds | gold:	B
+predicted:	C. Static figures and a sense of optical surface movement. | gold:	C
+predicted:	B. Three | gold:	A
+predicted:	D. really big | gold:	B
+predicted:	C. Mickey Finn | gold:	C
+predicted:	D. Families interested in visiting Lake McDonald. | gold:	D
+predicted:	A. 0.25 | gold:	C
+predicted:	B. Grey Darjeeling | gold:	A
+predicted:	A. suggest that science fiction is not a serious literary genre | gold:	B
+predicted:	B. poppy seed bagels | gold:	B
+predicted:	D. 110 m.p.h. | gold:	B
+predicted:	C. Led Zeppelin | gold:	A
+predicted:	D. Smithsonian. | gold:	A
+predicted:	A. John Constable | gold:	A
+predicted:	C. proceed with caution. | gold:	A
+predicted:	Schubert | gold:	A
+predicted:	C. Water | gold:	C
+predicted:	A. France | gold:	A
+predicted:	A. African elephant | gold:	C
+predicted:	C. dog | gold:	C
+predicted:	D. blue | gold:	B
+predicted:	C. eye | gold:	C
+predicted:	B. A frontier camp meeting of the Second Great Awakening during the early nineteenth century. | gold:	B
+predicted:	B. two | gold:	D
+predicted:	A. Nomadic | gold:	A
+predicted:	D. Dutch | gold:	D
+predicted:	D. shellfish | gold:	D
+predicted:	B. Global division of labor | gold:	B
+predicted:	C. hygrometer | gold:	C
+predicted:	C. Corporation | gold:	C
+predicted:	B. King Arthur | gold:	B
+predicted:	D. Read-Only Memory | gold:	D
+predicted:	D. 21 | gold:	C
+predicted:	Rosie Perez made her film debut in Spike Lee's 'Do the Right Thing'. | gold:	B
+predicted:	A. 1500 | gold:	A
+predicted:	B. euclidean | gold:	B
+predicted:	B. Marginal cost | gold:	D
+predicted:	C. George Orwell's 1984 | gold:	C
+predicted:	B. Wellington | gold:	B
+predicted:	D. Lite Brite. | gold:	B
+predicted:	B. May | gold:	C
+predicted:	D. Shemp | gold:	B
+predicted:	D. palette | gold:	D
+predicted:	C. scallop | gold:	C
+predicted:	D. silver | gold:	D
+predicted:	D. Does the author use personal connections and stories to appeal to the audience's emotions? | gold:	D
+predicted:	D. War of 1812 | gold:	D
+predicted:	A. pig | gold:	A
+predicted:	D. silty. | gold:	A
+predicted:	A. has more interest in the complexities of people's personalities. | gold:	C
+predicted:	A. The tilt of Earth's axis of rotation relative to the ecliptic as Earth revolves around the Sun. | gold:	A
+predicted:	D. Miriam. | gold:	D
+predicted:	B. Pennsylvania | gold:	B
+predicted:	A. a cow | gold:	A
+predicted:	Vitamin A | gold:	A
+predicted:	D. 8*10^27 | gold:	C
+predicted:	Richard Rodgers | gold:	A
+predicted:	D. Saturday | gold:	D
+predicted:	Cinco de Mayo. | gold:	C
+predicted:	A. Clostridium botulinum | gold:	A
+predicted:	C. Ne, Ar, Kr, and Rn. | gold:	D
+predicted:	C. Diabetes | gold:	C
+predicted:	B. Steve Wozniak | gold:	D
+predicted:	A. Hillary Clinton | gold:	A
+predicted:	B. a World War I gun | gold:	B
+predicted:	Knock on it. | gold:	A
+predicted:	B. car | gold:	B
+predicted:	A. hemophilia. | gold:	A
+predicted:	C. Uranium | gold:	C
+predicted:	A. Nissan | gold:	A
+predicted:	C. Radio waves. | gold:	A
+predicted:	C. Natural gas | gold:	A
+predicted:	C. Guard cell | gold:	C
+predicted:	D. A decline in the number of political action committees. | gold:	A
+predicted:	A. the index value of government services such as Medicaid and public housing. | gold:	C
+predicted:	B. America Online | gold:	B
+predicted:	C. Granny Smith | gold:	A
+predicted:	C. The Netherlands | gold:	C
+predicted:	A. potato | gold:	A
+predicted:	B. four | gold:	C
+predicted:	D. finikia | gold:	A
+predicted:	C. clear | gold:	A
+predicted:	C. Russians | gold:	C
+predicted:	C. The sentences are a vivid way of describing the ease and authority the sitters feel during the evening. | gold:	C
+predicted:	C. Sioux | gold:	C
+predicted:	A. A United States car dealer importing Japanese cars | gold:	A
+predicted:	A. Promotion | gold:	C
+predicted:	B. bed sheets. | gold:	A
+predicted:	C. Indianapolis 500. | gold:	C
+predicted:	C. earth; environment | gold:	A
+predicted:	C. They focused on everyday problems. | gold:	C
+predicted:	B. kangaroo | gold:	B
+predicted:	D. warp and weft. | gold:	D
+predicted:	C. Bones | gold:	C
+predicted:	C. chocolate | gold:	C
+predicted:	B. Run chart | gold:	B
+predicted:	A. Asking students to stand in a line, from the shortest person to the tallest. | gold:	B
+predicted:	D..exe | gold:	D
+predicted:	C. anagram | gold:	C
+predicted:	B. mitosis | gold:	B
+predicted:	B. rabies | gold:	B
+predicted:	D. Saturn | gold:	B
+predicted:	D. coffee | gold:	D
+predicted:	B. dairy | gold:	D
+predicted:	B. kidney | gold:	B
+predicted:	B. buy fewer units of X and more units of Y | gold:	B
+predicted:	B. bacon | gold:	D
+predicted:	B. China | gold:	B
+predicted:	D. IKEA | gold:	D
+predicted:	A. Downloading a trial version of the most popular software for evaluation. | gold:	C
+predicted:	A. Flight
+B. Said
+C. Things
+D. Lamp | gold:	B
+predicted:	C. England | gold:	C
+predicted:	B. Detect and respond to changes in the environment | gold:	B
+predicted:	D. reducing immigration quotas sharply, leading to a dramatic decline in immigration. | gold:	D
+predicted:	D. Nebular hypothesis | gold:	D
+predicted:	C. performance art | gold:	C
+predicted:	A. tomato juice | gold:	C
+predicted:	A. Spanish | gold:	A
+predicted:	B. Keeping the knees and hips flexed. | gold:	C
+predicted:	B. oil | gold:	B
+predicted:	A. African National Congress | gold:	A
+predicted:	A. Inviting a member of the new student's family to discuss the family's culture with the class. | gold:	B
+predicted:	D. Four | gold:	C
+predicted:	D. Corona | gold:	D
+predicted:	B. 1920s | gold:	C
+predicted:	C. One-celled organisms developed a colony on the seafloor. Shells made by these organisms accumulated and lithified, forming the sandstone. | gold:	B
+predicted:	C. Springfield Massachusetts. | gold:	C
+predicted:	C. Order of precedence. | gold:	C
+predicted:	A. Books | gold:	A
+predicted:	D. 16 | gold:	C
+predicted:	A. enlightening | gold:	C
+predicted:	D. diamond | gold:	B
+predicted:	D. He kills himself. | gold:	B
+predicted:	D. Turkey | gold:	B
+predicted:	B. Wednesday's child | gold:	B
+predicted:	B. a truck | gold:	B
+predicted:	B. The Daily Planet | gold:	B
+predicted:	D. Take periodic breaks to view natural lighting. | gold:	D
+predicted:	A. 10^-24 %. | gold:	A
+predicted:	D. San Francisco | gold:	D
+predicted:	Children's cognitive abilities are constantly changing at the age of 3-5. | gold:	A
+predicted:	A. Literature and art are not worthy of attention. Modernization must relies on science and technology, so science and technology are worthy of our attention. But literature and art are not science and technology. | gold:	C
+predicted:	C. The number of people who started smoking grass or taking snuff this year is more than the number who have given up smoking. | gold:	A
+predicted:	B. Action and movement | gold:	B
+predicted:	C. corned beef | gold:	C
+predicted:	D. 10-K filings with the SEC. | gold:	D
+predicted:	D. Tinky Winky. | gold:	B
+predicted:	A. Eros | gold:	A
+predicted:	B. Subtraction: 15 - 7 = 8 gallons. | gold:	B
+predicted:	B. Jonny Quest | gold:	D
+predicted:	A. marquetry | gold:	B
+predicted:	C. agnostic | gold:	D
+predicted:	B. Charlie Brown | gold:	B
+predicted:	A. haggis | gold:	B
+predicted:	A. change density significantly as its temperature changes. | gold:	B
+predicted:	D. Financial Industry Regulatory Authority | gold:	D
+predicted:	B. S | gold:	D
+predicted:	D. 42 | gold:	B
+predicted:	D. python | gold:	C
+predicted:	B. It's made of bone. | gold:	A
+predicted:	A. red | gold:	A
+predicted:	The Squeegee Guy. | gold:	D
+predicted:	D. antihistamines | gold:	D
+predicted:	Columbus set sail with three ships on his initial voyage to "the New World". | gold:	B
+predicted:	B. rapid eye movement | gold:	B
+predicted:	B. Prince William Sound. | gold:	B
+predicted:	Swee'pea. | gold:	D
+predicted:	A. Describing and mapping the building types on a plat map. | gold:	A
+predicted:	C. on wall-mounted shelves with sturdier works around them. | gold:	A
+predicted:	C. his car keys | gold:	B
+predicted:	A. Increasing the discount rate to member banks. | gold:	B
+predicted:	B. Lithium | gold:	B
+predicted:	B. green | gold:	D
+predicted:	D. pumice | gold:	D
+predicted:	C. Ann Landers | gold:	C
+predicted:	C. Any factors that could affect employee retention. | gold:	A
+predicted:	A. The author provides several explanations for taking a certain course of action. | gold:	B
+predicted:	C. 45 rpm. | gold:	B
+predicted:	B. War of 1812 | gold:	B
+predicted:	D. Huey Dewey Louie | gold:	D
+predicted:	B. Nabisco | gold:	B
+predicted:	C. The site might belong to a nonprofit agency. | gold:	C
+predicted:	A. 11 | gold:	B
+predicted:	B. spare rib | gold:	D
+predicted:	A. pink and orange. | gold:	D
+predicted:	A. A major shift of African American voters from the Republican to the Democratic Party. | gold:	A
+predicted:	B. Olympus | gold:	B
+predicted:	A. Humpty Dumpty' | gold:	B
+predicted:	D. Kirstie Alley | gold:	D
+predicted:	C. A mid-oceanic ridge. | gold:	A
+predicted:	B. trepanation. | gold:	B
+predicted:	B. Gary Larson | gold:	B
+predicted:	D. guajillo | gold:	B
+predicted:	A. one person's use of the public good does not reduce the amount available to others. | gold:	A
+predicted:	C. chocolate | gold:	C
+predicted:	B. ceramic | gold:	B
+predicted:	C. glaucoma | gold:	C
+predicted:	C. scarf | gold:	C
+predicted:	A. John Glenn | gold:	C
+predicted:	B. Paul McCartney | gold:	A
+predicted:	B. Crust | gold:	A
+predicted:	C. The Eagle and the Beetle' | gold:	A
+predicted:	C. cost of goods sold section of the income statement | gold:	B
+predicted:	A. musical instrument | gold:	A
+predicted:	B. Italian | gold:	D
+predicted:	A. Smaller organisms need less energy per gram of body weight than do larger organisms. | gold:	C
+predicted:	B. Buying Treasury bonds in the open market. | gold:	A
+predicted:	A. market research | gold:	C
+predicted:	D. bogey | gold:	B
+predicted:	C. Jaclyn Smith | gold:	C
+predicted:	C. George Bernard Shaw | gold:	C
+predicted:	D. drag racing | gold:	D
+predicted:	C. MTV | gold:	C
+predicted:	Fannie Mae. | gold:	B
+predicted:	C. Internal Security Position | gold:	D
+predicted:	C. Northern Exposure. | gold:	B
+predicted:	Wednesday | gold:	A
+predicted:	B. Betye Saar | gold:	A
+predicted:	The sudden demise of the dinosaurs. | gold:	B
+predicted:	B. federal judges have political independence to fulfill their duties. | gold:	B
+predicted:	A. 300 million cups per week. | gold:	C
+predicted:	B. New York | gold:	B
+predicted:	The traditional 20th wedding anniversary gift is china. | gold:	C
+predicted:	A. are often less experienced and less committed to the job than full-time employees. | gold:	A
+predicted:	C. tofu. | gold:	B
+predicted:	B. electric current. | gold:	B
+predicted:	B. depth to the subsoil. | gold:	A
+predicted:	B. 2*10^21 J | gold:	A
+predicted:	A. visa | gold:	A
+predicted:	The largest moon in the Solar System is the Earth's Moon. | gold:	A
+predicted:	B. mass migrations of African Muslims across the Indian Ocean. | gold:	D
+predicted:	Perskippity is not a city in the state of New York. The other three options are cities in the state of New York. | gold:	A
+predicted:	A. Agent 86 | gold:	A
+predicted:	B. trifecta | gold:	B
+predicted:	A. entropy | gold:	A
+predicted:	D. About 50%. | gold:	C
+predicted:	C. 16.0 grams | gold:	A
+predicted:	A. transpiration | gold:	A
+predicted:	A. number and variety of errors made by each student | gold:	D
+predicted:	D. Dual distribution. | gold:	B
+predicted:	D. goalkeeper | gold:	D
+predicted:	D. Pennsylvania | gold:	D
+predicted:	C. magic carpet | gold:	C
+predicted:	Mussolini. | gold:	B
+predicted:	A. burro | gold:	C
+predicted:	C. Nitrous oxide | gold:	A
+predicted:	D. grelp | gold:	D
+predicted:	C. indivisible | gold:	D
+predicted:	D. Espy | gold:	D
+predicted:	C. School | gold:	C
+predicted:	A. In year 1, a $100 billion increase in government spending would have increased real output by a maximum of $75 billion. | gold:	B
+predicted:	A. about 100 miles per hour | gold:	C
+predicted:	B. Reservoir | gold:	D
+predicted:	C. prevent business behavior that hampers competition | gold:	C
+predicted:	B. 23. | gold:	B
+predicted:	A. ENIAC | gold:	A
+predicted:	D. sublimation. | gold:	A
+predicted:	B. Left-lateral shear | gold:	D
+predicted:	A. Raku | gold:	B
+predicted:	B. 1929 | gold:	B
+predicted:	A. England | gold:	A
+predicted:	C. Flora | gold:	C
+predicted:	A. cursing them | gold:	A
+predicted:	B. Seine | gold:	B
+predicted:	C. acne | gold:	C
+predicted:	C. The Silver Bullet Band | gold:	A
+predicted:	B. Riverdale High. | gold:	B
+predicted:	C. veal parmigiano | gold:	C
+predicted:	Chicago | gold:	A
+predicted:	A. White balance | gold:	A
+predicted:	C. 40 mph. | gold:	B
+predicted:	A. Impressionists | gold:	D
+predicted:	B. Balderdash | gold:	B
+predicted:	D. bowling | gold:	D
+predicted:	C. Mixing vinegar with baking soda | gold:	C
+predicted:	B. Arrangement of soil particles. | gold:	A
+predicted:	A creole. | gold:	C
+predicted:	C. electric guitar | gold:	C
+predicted:	C. Pete Rose | gold:	C
+predicted:	Japanese is not one of the official languages of the United Nations. | gold:	A
+predicted:	C. Inca | gold:	C
+predicted:	NAACP (National Association for the Advancement of Colored People) | gold:	A
+predicted:	D. Pat Riley. | gold:	D
+predicted:	D. docksider (Answer) | gold:	A
+predicted:	B. oui | gold:	B
+predicted:	D. hoot | gold:	D
+predicted:	A. Edward Estlin | gold:	A
+predicted:	D. They are neither precise nor accurate. | gold:	D
+predicted:	D. Diagnosis | gold:	D
+predicted:	C. Sinn Fein | gold:	C
+predicted:	B. Malcolm Little | gold:	B
+predicted:	C. Correct toothbrushing technique. | gold:	C
+predicted:	D. music | gold:	D
+predicted:	D. Andy | gold:	D
+predicted:	D. An extruder. | gold:	D
+predicted:	A. stationary bicycle. | gold:	A
+predicted:	A. Statue of Liberty | gold:	C
+predicted:	B. nail polish | gold:	C
+predicted:	D. L = 10^25 kg * m^2 / s | gold:	B
+predicted:	A. Recruiting and hiring new employees | gold:	C
+predicted:	C. The effect the plant will have on the environment. | gold:	C
+predicted:	The Chicago Cubs have won the most World Series with 6 titles. | gold:	C
+predicted:	A. Law of Inertia | gold:	A
+predicted:	Sheryl Swoopes | gold:	D
+predicted:	A. a computer program | gold:	A
+predicted:	B. The firm will shut down if marginal revenue equals marginal cost but exceeds average variable cost. | gold:	C
+predicted:	A. Zaire | gold:	A
+predicted:	C. Land of Enchantment' | gold:	C
+predicted:	Phonics. | gold:	D
+predicted:	A. An asset for the consumer and a liability for the bank. | gold:	A
+predicted:	A. Nautilus | gold:	A
+predicted:	C. An array of radio telescopes. | gold:	A
+predicted:	D. the wisdom of Solomon. | gold:	A
+predicted:	C. Beaver | gold:	C
+predicted:	A. Mars and Mercury. | gold:	B
+predicted:	D. J Crew | gold:	D
+predicted:	What is the largest city in Pennsylvania?
+A. Philadelphia
+B. Stewartsville
+C. Harrisburg
+D. Pittsburgh
+Answer: A. Philadelphia | gold:	A
+predicted:	D. Having students determine whether the numbers of red and yellow apples are equal. | gold:	D
+Accuracy: 0.5300127713920817

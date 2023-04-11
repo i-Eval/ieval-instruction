@@ -1,0 +1,242 @@
+predicted:	A. total revenue is greater than total cost at its greatest distance. | gold:	A
+predicted:	A. Increase capital and decrease labor so that the marginal product of capital falls and the marginal product of labor rises. | gold:	C
+predicted:	B. neither party has an incentive to deviate from his or her strategy. | gold:	B
+predicted:	C. goods X and Y are complementary goods. | gold:	D
+predicted:	A. causes the equilibrium price to be artificially high
+B. causes the equilibrium price to be artificially low
+C. exists when markets cannot reach equilibrium
+D. results in an equilibrium that does not maximize the total benefit to society | gold:	D
+predicted:	A. Collusive output levels tend to increase, driving the price above competitive levels. | gold:	D
+predicted:	B. Perfectly horizontal demand curve. | gold:	D
+predicted:	C. Increase in production of SUVs. | gold:	C
+predicted:	A. all requirements for price discrimination. | gold:	D
+predicted:	C. decreasing-cost industry | gold:	B
+predicted:	A. Amount of wood used to make a desk. | gold:	C
+predicted:	C. Price is ambiguous, but quantity rises. | gold:	C
+predicted:	A. A bumper crop of oranges in Florida. | gold:	D
+predicted:	B. The demand curve lies above the marginal revenue curve. | gold:	C
+predicted:	B. plant and equipment. | gold:	B
+predicted:	C. Dorothy pulls weeds, since she has absolute advantage in cooking. | gold:	D
+predicted:	D. A new study reveals that apples increase your risk of cancer. | gold:	C
+predicted:	B. increase her consumption of chips until the marginal utility of chip consumption equals 30. | gold:	D
+predicted:	B. Market failure. | gold:	B
+predicted:	A. marginal cost (MC) intersects AVC and ATC at their maximum points. | gold:	C
+predicted:	A. disobey the law of demand. | gold:	D
+predicted:	A. A rival firm matches price decreases of rivals, but fails to match any price increases of rivals. | gold:	A
+predicted:	C. III only. | gold:	D
+predicted:	A. a monopoly produces more output and sells for a higher price | gold:	B
+predicted:	D. Distribution of income and goods on the basis of contribution or productivity. | gold:	B
+predicted:	A. efficiency is achieved. | gold:	D
+predicted:	C. Economic Costs = Explicit Costs minus Implicit Costs. | gold:	B
+predicted:	B. An upward shift in MPL. | gold:	D
+predicted:	B. 2 | gold:	B
+predicted:	A. The demand curve will shift to the left, decreasing the price of multigrained bread. | gold:	C
+predicted:	A. Ease of entry and exit in the long run. | gold:	A
+predicted:	B. placing limits on the quantity that can be produced. | gold:	B
+predicted:	A. Jason should shut down in the short run, with economic losses of $20. | gold:	D
+predicted:	D. Few firms. | gold:	A
+predicted:	A. consumer surplus is minimized, while producer surplus is maximized. | gold:	B
+predicted:	A. a 10 percent increase in income produces a 15 percent increase in consumption of DVDs. DVDs are a normal luxury good. | gold:	A
+predicted:	B. substitution effect. | gold:	B
+predicted:	D. A cashier at a restaurant receiving the same $8 an hour that other cashiers receive. | gold:	D
+predicted:	A. decrease price as demand is elastic. | gold:	A
+predicted:	A bilateral monopoly exists when a monopoly sells to two different types of consumers. | gold:	A
+predicted:	B. the market price of the product to increase. | gold:	D
+predicted:	A. AVC that first rises, but eventually falls, as output increases. | gold:	D
+predicted:	D. how scarce resources are allocated to satisfy unlimited wants. | gold:	D
+predicted:	A. This is long run increasing returns to scale. | gold:	D
+predicted:	C. A $1 ticket for admission to a museum. | gold:	B
+predicted:	D. The International Space Station | gold:	D
+predicted:	C. complements. | gold:	C
+predicted:	B. Demand for the good produced by this labor is stronger. | gold:	B
+predicted:	A. producer surplus is lost and consumer surplus is gained. | gold:	D
+predicted:	B. The quantity demanded equals the quantity supplied of good X. | gold:	B
+predicted:	A. Quantity demanded of pears rises. | gold:	C
+predicted:	A. equilibrium quantity rises, but the price change is ambiguous. | gold:	A
+predicted:	B. where marginal revenue equals marginal cost. | gold:	D
+predicted:	D. unit elastic. | gold:	B
+predicted:	A progressive tax system is designed to redistribute income from the wealthy to the poor. | gold:	A
+predicted:	B. Bob and Nancy each receive a "$1 off" coupon in the mail, but Bob redeems it while Nancy does not. | gold:	A
+predicted:	A. A government subsidy. | gold:	A
+predicted:	A. supply falls, increasing the price and decreasing the quantity. | gold:	D
+predicted:	B. the marginal benefit equals the marginal cost of the next cookie. | gold:	B
+predicted:	A. I, II, and III. | gold:	B
+predicted:	B. the demand is inelastic and the supply is inelastic. | gold:	B
+predicted:	A. is always below the short-run average cost curve. | gold:	D
+predicted:	D. Pricing at the kink. | gold:	B
+predicted:	A. is primarily concerned with money. | gold:	B
+predicted:	C. AVC + AFC = TC. | gold:	A
+predicted:	A. A wage payment lower than the marginal revenue product of labor. | gold:	A
+predicted:	B. complement goods. | gold:	A
+predicted:	B. Marginal revenue is decreasing. | gold:	D
+predicted:	A. Wage = Marginal factor cost. | gold:	D
+predicted:	A. monopolies are common among public utilities. | gold:	B
+predicted:	C. an increase in consumer surplus due to lower coffee prices. | gold:	A
+predicted:	A minimum wage in the market for fast-food workers is likely to produce a decrease in the supply of fast-food workers. | gold:	D
+predicted:	D. The firm may earn positive, negative, or normal profits. | gold:	D
+predicted:	C. The wage of coffee plantation workers falls. | gold:	B
+predicted:	D. total revenues from production are equal to the sum of explicit and implicit costs. | gold:	D
+predicted:	D. increase price because demand is inelastic. | gold:	D
+predicted:	C. Price competition. | gold:	A
+predicted:	B. The labor-leisure trade-off continues to favor the supply of more jobs, or the substitution effect. | gold:	C
+predicted:	D. Air. | gold:	D
+predicted:	The Lorenz Curve is used to measure the ratio of income inequality to income equality in different countries. | gold:	C
+predicted:	C. If the demand curve is price inelastic and the supply curve is perfectly elastic. | gold:	D
+predicted:	A. A decrease in the price of ice cream cones. | gold:	B
+predicted:	B. firms and how they make profits. | gold:	C
+predicted:	D. II, III, and V only. | gold:	D
+predicted:	A. A superstar basketball player's $50 million earnings. | gold:	A
+predicted:	A. A government subsidy. | gold:	B
+predicted:	D. Weak barriers to entry. | gold:	A
+predicted:	A. upward sloping. | gold:	B
+predicted:	A. a persistent shortage of the good. | gold:	C
+predicted:	Efforts to decrease the prices of substitute resources (C) is not among the methods unions use to increase wages. | gold:	C
+predicted:	B. Barriers to entry exist. | gold:	A
+predicted:	B. In the short run, all inputs are variable. | gold:	A
+predicted:	A. the long-run price is above minimum average total cost. | gold:	A
+predicted:	D. price greater than marginal revenue. | gold:	D
+predicted:	C. firms A and B are substitutes because the cross-price elasticity is greater than zero. | gold:	C
+predicted:	C. Marginal external cost | gold:	B
+predicted:	B. Price rises, but the change in quantity is ambiguous. | gold:	B
+predicted:	D. The price of crude oil, a raw material for gasoline, rises. | gold:	D
+predicted:	B. An increase in the price of tubas. | gold:	B
+predicted:	B. the total product of labor begins to fall. | gold:	D
+predicted:	D. opportunity cost. | gold:	D
+predicted:	D. Homogeneous products. | gold:	B
+predicted:	A. pays less and hires more. | gold:	D
+predicted:	B. Both would decrease. | gold:	A
+predicted:	B. There would be a shortage created of corn. | gold:	A
+predicted:	C. the maximum of average variable cost. | gold:	D
+predicted:	B. of opportunity cost. | gold:	C
+predicted:	A. the difference between limited wants and limited economic resources. | gold:	C
+predicted:	The Reds offer discounted parking for all home games. | gold:	A
+predicted:	D. I, II, III, and IV. | gold:	D
+predicted:	B. the marginal utility of the good divided by its price. | gold:	D
+predicted:	B. Nations should concentrate their resources on producing wholesome consumer goods as opposed to the weapons of war. | gold:	C
+predicted:	A. More consumer choices, greater price elasticity of demand, more competitors. | gold:	A
+predicted:	A. MC = AFC. | gold:	B
+predicted:	D. private ownership of economic resources. | gold:	D
+predicted:	A. price is set equal to marginal cost, creating zero economic profit. | gold:	C
+predicted:	C. A consumer pays more for a pizza than she thought it was worth at the margin of the purchase. | gold:	D
+predicted:	A. The price will rise and each firm's output will fall as firms exit the industry. | gold:	D
+predicted:	A. marginal product of labor is rising. | gold:	A
+predicted:	A. market segments with relatively elastic demand pay higher prices. | gold:	C
+predicted:	C. total revenue. | gold:	C
+predicted:	A. price elasticity of demand is highly elastic. | gold:	B
+predicted:	B. is the result of resources not being perfectly adaptable between the production of two goods. | gold:	B
+predicted:	B. It is used when equilibrium prices are too low. | gold:	D
+predicted:	D. lead the firm to hire more workers and to pay them higher wages. | gold:	C
+predicted:	A. demand for beef is price elastic and consumer spending on beef is falling. | gold:	A
+predicted:	A. producers have fewer alternative goods to produce. | gold:	D
+predicted:	D. Marginal social cost = marginal private cost + negative externality. | gold:	D
+predicted:	A. An increase in funding for education. | gold:	C
+predicted:	A. setting the price above marginal cost. | gold:	A
+predicted:	D. decreasing marginal utility and should be taxed. | gold:	D
+predicted:	A. Diminishing marginal productivity. | gold:	A
+predicted:	B. Subsidize the firm or its customers. | gold:	B
+predicted:	C. substitutes. | gold:	C
+predicted:	A. The proportion of the good of the consumer's budget is high. | gold:	A
+predicted:	A. has a demand curve that is more elastic than a non-discriminating monopoly. | gold:	C
+predicted:	D. II, III, and IV only. | gold:	D
+predicted:	A. a demand curve. | gold:	D
+predicted:	A. The demand for aluminum to rise. | gold:	B
+predicted:	A. progressive tax. | gold:	B
+predicted:	A. You and a friend take a road trip to Florida in your friend's car. You pay for the gas. | gold:	C
+predicted:	A. Air pollution from a factory blows downwind and harms children in a small community. Tax the citizens of the community. | gold:	D
+predicted:	D. The deadweight loss in this market would decrease. | gold:	D
+predicted:	D. A demand elasticity greater than one. | gold:	C
+predicted:	A. the demand curve will shift to the left. | gold:	D
+predicted:	The demand for daycare rises, increasing the market price. | gold:	B
+predicted:	D. Very few competitors. | gold:	C
+predicted:	C. Private property. | gold:	C
+predicted:	A. a price set below the current (or equilibrium) market price of the good. | gold:	A
+predicted:	A. Consumer surplus is greater than producer surplus by between $50 and $75. | gold:	D
+predicted:	A. The total utility from eating cookies is equal to zero. | gold:	D
+predicted:	C. Compare AVC to MR. | gold:	A
+predicted:	D. In the long run the market is allocatively efficient. | gold:	C
+predicted:	A. decreasing marginal costs | gold:	B
+predicted:	C. Factors of production. | gold:	C
+predicted:	C. marginal utility decreases with each additional unit of a good that is consumed. | gold:	C
+predicted:	A. Substitution effects and income effects. | gold:	A
+predicted:	D. allocative efficiency. | gold:	B
+predicted:	A. the marginal benefit of the second piece of cake is less than the marginal cost. | gold:	D
+predicted:	A. The marginal cost and average variable cost curves will shift upward. | gold:	B
+predicted:	B. It is used when the equilibrium price is too high. | gold:	C
+predicted:	A. Average total cost = total fixed costs divided by the number of units produced. | gold:	D
+predicted:	C. significant barriers to entry. | gold:	C
+predicted:	B. The demand for labor is independent of the demand for the products produced by labor. | gold:	D
+predicted:	D. price = marginal cost. | gold:	C
+predicted:	A. downward sloping and equal to the market demand curve. | gold:	B
+predicted:	A. elastic demand curve | gold:	D
+predicted:	A. (MC-P)/MC | gold:	C
+predicted:	A. an increase in the price of the good which the labor is producing | gold:	D
+predicted:	C. equal to earnings or profits that could have occurred using resources elsewhere. | gold:	C
+predicted:	A. should consider shutting down because she could make more elsewhere | gold:	C
+predicted:	A. the industry contracts as firms exit the market. | gold:	D
+predicted:	D. scarce economic resources. | gold:	D
+predicted:	B. Demand for automobiles. | gold:	A
+predicted:	D. All of the above. | gold:	D
+predicted:	B. one of a few sellers. | gold:	D
+predicted:	D. I, II, III, and IV. | gold:	D
+predicted:	A. The marginal cost of providing an additional unit of the good to additional citizens is greater than zero. | gold:	D
+predicted:	A. The benefit received from studying is greater than the opportunity cost of $8. | gold:	A
+predicted:	B. MP intersects AP at the maximum of MP. | gold:	A
+predicted:	C. Regressive | gold:	C
+predicted:	D. Decrease in the birth rate. | gold:	D
+predicted:	The demand curve shifts to the left, and the supply curve shifts to the right. | gold:	C
+predicted:	D. The firm will realize zero economic profits. | gold:	D
+predicted:	A. the market overallocates resources to the production of this good. | gold:	A
+predicted:	D. Deadweight loss exists. | gold:	B
+predicted:	B. She should increase her apple consumption and decrease her orange consumption until the marginal utility per dollar is equal for both. | gold:	B
+predicted:	C. Decreasing marginal cost as consumption rises. | gold:	A
+predicted:	C. the study of how decision makers choose the best way to satisfy their unlimited material wants with a scarce supply of resources. | gold:	C
+predicted:	B. a persistent surplus of good X. | gold:	B
+predicted:	A. the marginal social benefit exceeds the marginal social cost. | gold:	A
+predicted:	B. the opportunity cost of workers’ time. | gold:	D
+predicted:	B. individual firms face downward sloping labor demand curves. | gold:	A
+predicted:	The market demand curve for labor will shift to the right when the labor supply curve shifts to the right. | gold:	A
+predicted:	D. The Robinson-Patman Act. | gold:	A
+predicted:	B. The good is normal and the income effect is stronger than the substitution effect. | gold:	A
+predicted:	B. marginal revenue equals zero. | gold:	C
+predicted:	B. The cost of purchasing canned goods from a wholesale food distributor. | gold:	C
+predicted:	A. greater the proportion of capital costs to labor costs in the production of goods. | gold:	B
+predicted:	A. will charge the highest price it can on the demand curve. | gold:	D
+predicted:	B. law of demand | gold:	B
+predicted:	B. Private property is fundamental to innovation, growth, and trade. | gold:	A
+predicted:	B. The owners hire several part-time workers to cover the dinner shifts. | gold:	D
+predicted:	B. P = MR = MC > ATC. | gold:	D
+predicted:	B. Economies of scale are associated with the rising or increasing portions of an average total cost (ATC) curve. | gold:	B
+predicted:	A. falls below minimum average total cost. | gold:	C
+predicted:	B. P = MR = MC > ATC. | gold:	A
+predicted:	B. Price rises as firms enter the industry. | gold:	D
+predicted:	A decrease in the number of buyers (B). | gold:	C
+predicted:	C. Downward sloping. | gold:	B
+predicted:	A. Paper producers expect lower paper prices in the months ahead. | gold:	D
+predicted:	D. a straight diagonal line sloping downward from left to right. | gold:	D
+predicted:	A. Demand for the perfectly competitive firm's output. | gold:	D
+predicted:	B. diminishing marginal returns | gold:	A
+predicted:	A. aggregate the firm marginal revenue curves horizontally. | gold:	D
+predicted:	B. the marginal revenue is zero. | gold:	C
+predicted:	A. A downward sloping demand curve. | gold:	D
+predicted:	A. all productive resources. | gold:	B
+predicted:	A. P or wage rate of labor > MRP of labor and with one additional unit of labor, wage rate < MRP. | gold:	B
+predicted:	C. Indeterminate         Increases | gold:	B
+predicted:	D. The demand curve is of one continuous function. | gold:	D
+predicted:	D. One can have comparative advantage and no absolute advantage in producing x. | gold:	A
+predicted:	A. marginal utility is zero. | gold:	A
+predicted:	B. The firm should hire more labor so that the MRPL will decrease. | gold:	B
+predicted:	A. the market labor demand curve. | gold:	B
+predicted:	A. strong barriers to entry. | gold:	D
+predicted:	B. The marginal benefit of the fourth hour is at least as great as the marginal cost of the fourth hour. | gold:	B
+predicted:	A. government and its laws that affect commerce. | gold:	D
+predicted:	A. Marginal Social Costs = Private Marginal Costs + Negative Externality. | gold:	A
+predicted:	A. If the demand curve is perfectly elastic, the price rises by the amount of the tax. | gold:	D
+predicted:	C. Provide public goods using tax dollars. | gold:	C
+predicted:	A. Find the combination of labor and capital where the marginal product of labor is equal to the marginal product of capital. | gold:	C
+predicted:	D. Minimum average total cost equals price. | gold:	C
+predicted:	D. The total utility this student received from eating pizza is 20 utils. | gold:	D
+predicted:	A. The United States has comparative advantage in anchovy production, and Peru has comparative advantage in salmon production. | gold:	B
+predicted:	C. The ATC curve intersects the MC curve at the minimum point of the MC curve. | gold:	D
+predicted:	B. A price ceiling will increase the quantity of the good supplied. | gold:	A
+predicted:	A. cannot earn economic profits | gold:	B
+Accuracy: 0.35294117647058826

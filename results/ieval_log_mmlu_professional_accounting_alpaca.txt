@@ -1,0 +1,291 @@
+predicted:	A. 164% | gold:	A
+predicted:	D. Understated Understated. The effect of not recording the credit purchase of merchandise was to understate Arno's assets and liabilities on its balance sheet. | gold:	B
+predicted:	A. Nonsampling risk arises from the possibility that, when a substantive test is restricted to a sample, conclusions might be different than if the auditor had tested each item in the population. | gold:	B
+predicted:	D. Compare the latest available interim financial statements with the statements being audited. | gold:	D
+predicted:	A. Accounting Standards Updates. | gold:	A
+predicted:	D. $500 | gold:	C
+predicted:	A. Overstated, Understated. | gold:	D
+predicted:	B. $104.29 | gold:	D
+predicted:	A. It will be reclassified as an asset held for sale. | gold:	D
+predicted:	A. $28,000. | gold:	C
+predicted:	A. $100 | gold:	D
+predicted:	D. $40,000 | gold:	B
+predicted:	B. Risk analysis. | gold:	A
+predicted:	C. $25,000 | gold:	B
+predicted:	D. $10 billion. | gold:	C
+predicted:	D. Prior months’ bank statements obtained from the client. | gold:	B
+predicted:	C. $44,000 | gold:	C
+predicted:	B. Add a separate paragraph to the accountant's report that restricts the distribution of the financial statements to ‚Äúinternal use only.‚Äù | gold:	C
+predicted:	A. The buyer is purchasing the goods for a particular purpose and is relying on the seller’s skill or judgment to select suitable goods. | gold:	C
+predicted:	C. There have been substantial inventory write-offs just before the year end in each of the past four years. | gold:	B
+predicted:	B. Maintain redundant systems for instant availability to assure the flow of transactions. | gold:	B
+predicted:	D. 100 | gold:	D
+predicted:	B. Inherent risk and control risk exist independently of the audit. | gold:	B
+predicted:	A. $710,000 | gold:	C
+predicted:	A contract was formed on the day Jackson received Sands’ acceptance. (C) | gold:	D
+predicted:	Liability Expense: A and B. | gold:	B
+predicted:	B. The federal unemployment system is funded by both employer and employee taxes. | gold:	D
+predicted:	A. Each partner reports a capital gain of $33,333. | gold:	D
+predicted:	A. Provide reasonable assurance that personnel are adequately trained to fulfill their responsibilities. | gold:	B
+predicted:	B. $85 | gold:	C
+predicted:	B. $492,500 | gold:	B
+predicted:	B. Statements on Standards for Attestation Engagements. | gold:	B
+predicted:	D. A B and C. | gold:	A
+predicted:	B. Refer to the note in the financial statements that discusses the change. | gold:	A
+predicted:	A. Yes, because Long's agency survived Frost's incompetence. | gold:	D
+predicted:	B. The educational level and professional experiences of the internal auditor. | gold:	B
+predicted:	B. Obtain an understanding of the client's internal control activities. | gold:	B
+predicted:	B. 8.50%. | gold:	C
+predicted:	B. 6.25 percent | gold:	D
+predicted:	A. $25000 $25000 $0 | gold:	D
+predicted:	C. $30,000 | gold:	C
+predicted:	D. $242,000 | gold:	D
+predicted:	B. Liable to pay State only if State first seeks payment from Royal. | gold:	A
+predicted:	D. July. | gold:	A
+predicted:	A. There are unusual discrepancies between the entity's records and confirmation replies. | gold:	A
+predicted:	B. One. | gold:	A
+predicted:	A. Special revenue. | gold:	C
+predicted:	B. $50,000 | gold:	B
+predicted:	C. Dividend carryovers from years in which dividends were not paid. | gold:	C
+predicted:	D. Engage independent counsel as deemed necessary to carry out their duties. | gold:	C
+predicted:	A. (4,2),(2,2),(2,3) | gold:	A
+predicted:	B. $3,700 | gold:	A
+predicted:	B. Increasing the reliability of financial reporting and compliance with applicable laws and regulations. | gold:	B
+predicted:	A. Three months. | gold:	D
+predicted:	C. The procedures to be applied on a particular engagement are a matter of the auditor’s professional judgment. | gold:	C
+predicted:	B. Studio terminated as of April 9. | gold:	D
+predicted:	The major difference between the just-in-time (JIT) and traditional approaches to manufacturing is that the JIT approach usually involves a large number of suppliers while traditional approaches usually involve only a small number of suppliers (A). The JIT approach requires centralized purchasing while traditional approaches encourage purchasing decisions by production employees (B). The JIT approach uses a push-through system while traditional approaches use a pull-through system (C). The JIT approach operates with low inventory levels while traditional approaches may operate with high inventory levels (D). | gold:	D
+predicted:	D. $8,500,000 | gold:	D
+predicted:	B. Developing a new fixed asset system to manage the assets and related depreciation. | gold:	D
+predicted:	B. Desired assessed level of control risk is less than the prior year. | gold:	D
+predicted:	B. Is conditioned upon the demanding shareholder owning at least $5000 worth of stock. | gold:	C
+predicted:	B. Communicate deficiencies in the design of internal control to the entity's audit committee. | gold:	A
+predicted:	D. $340000 | gold:	D
+predicted:	D. $34,000 | gold:	A
+predicted:	D. $90,000 | gold:	B
+predicted:	B. Less than the initial investment. | gold:	C
+predicted:	D. $30,000 | gold:	C
+predicted:	D. $200,000 | gold:	C
+predicted:	D. Facts known to the predecessor auditor that might bear on the integrity of management. | gold:	D
+predicted:	C. Current liabilities of $400,000; long-term liabilities of $900,000. | gold:	C
+predicted:	B. 30000 | gold:	B
+predicted:	B. $100,276 | gold:	C
+predicted:	D. $36,000 | gold:	A
+predicted:	B. There is an indication of theft of the entity’s assets. | gold:	D
+predicted:	B. $10.00 | gold:	B
+predicted:	C. Attribute sampling. | gold:	A
+predicted:	B. Management receives limited information for decision making due to a lack of flexibility in EUC files. | gold:	A
+predicted:	A. Insuring the lives of key executives and listing the entity as beneficiary. | gold:	B
+predicted:	B. Current year’s depreciation expense was erroneously understated. | gold:	D
+predicted:	C. Depreciation. | gold:	C
+predicted:	C. Inaccurate accounting of employees’ hours. | gold:	B
+predicted:	A. There was substantial authority for the position. | gold:	B
+predicted:	A. $15000 cash inflow from financing activities. | gold:	A
+predicted:	C. $3.00 | gold:	B
+predicted:	D. $5,333 | gold:	C
+predicted:	D. Disclose the departure from GAAP in a separate paragraph of the accountant's report. | gold:	D
+predicted:	Cobb's weighted average cost of goods sold for May is $62.50. | gold:	A
+predicted:	A. $6,000 | gold:	C
+predicted:	C. Qualifying widow(er). | gold:	A
+predicted:	A. $23.22 | gold:	B
+predicted:	D. February 15, year 3. | gold:	D
+predicted:	C. Was reduced to $5. | gold:	D
+predicted:	B. Verify the existence of option holders in the issuer's payroll and human resources records. | gold:	C
+predicted:	D. Cash receipts journal to the customer's purchase orders. | gold:	A
+predicted:	B. Capitalizing all costs when incurred. | gold:	A
+predicted:	A. Quoted prices for identical assets and liabilities in markets that are not active. | gold:	C
+predicted:	D. Transfer pricing. | gold:	A
+predicted:	B. Sunk costs | gold:	B
+predicted:	C. Notes to the financial statements. | gold:	D
+predicted:	C. estimates the alpha of stock returns and their dependence on the market returns. | gold:	C
+predicted:	D. Money market fund. | gold:	A
+predicted:	B. Expresses limited assurance that the results will be within the projected range. | gold:	C
+predicted:	A. $280,000.00 | gold:	C
+predicted:	B. Not independent and, therefore, may not be associated with the financial statements. | gold:	D
+predicted:	Aston's share of AB's ordinary income is $15,000. | gold:	A
+predicted:	C. Identify internal control activities that are likely to prevent or detect material misstatements. | gold:	C
+predicted:	A compilation of financial statements in accordance with Statements on Standards for Accounting and Review Services is limited to presenting D. Supplementary financial information that has been subjected to inquiry and analytical procedures. | gold:	C
+predicted:	A. 9.4% and 11.2%
+B. −2.6% and 4.9% | gold:	A
+predicted:	A. $322,000 | gold:	B
+predicted:	Data covering financial trends (A). | gold:	A
+predicted:	A proposed accounting standards update. | gold:	B
+predicted:	B. Of the country in which the subsidiary is located. | gold:	D
+predicted:	D. Monitoring. | gold:	D
+predicted:	C. $200 | gold:	B
+predicted:	D. Failure to retain copies of prepared tax returns or a list of taxpayers for whom such returns were prepared for the last three years. | gold:	C
+predicted:	D. Include the paragraph immediately after the opinion paragraph in the audit report. | gold:	D
+predicted:	To which of the following parties will a CPA be liable if the CPA fraudulently issues an unqualified opinion on a corporation's materially misstated financial statements? Corporate shareholders, Corporate bondholders
+A. Yes Yes
+B. Yes No
+C. No Yes
+D. No No | gold:	A
+predicted:	B. Suspended losses can be carried forward, but not back, until utilized. | gold:	B
+predicted:	B. $100,000 | gold:	C
+predicted:	D. Use more experienced audit team members to perform year-end testing. | gold:	D
+predicted:	C. Effectiveness of the entity’s internal control activities. | gold:	D
+predicted:	A. Separate columns for governmental activities business-type activities and discretely presented component units. | gold:	A
+predicted:	A statement of scope limitation that will qualify the practitioner’s opinion. | gold:	C
+predicted:	B. $20.18 | gold:	C
+predicted:	D. Computer activity logs that indicate failed transactions. | gold:	D
+predicted:	C. 7.4 | gold:	D
+predicted:	A. Developing performance reports emphasizing costs and revenues that managers can control. | gold:	A
+predicted:	D. Higher Lower. | gold:	A
+predicted:	B. Goodwill has been created in the purchase of a business. | gold:	B
+predicted:	D. Four years. | gold:	B
+predicted:	B. Professional skepticism of management. | gold:	A
+predicted:	C. The adjustment is proper because it relates to a change in accounting method, which can be made retroactively irrespective of the statute of limitations. | gold:	D
+predicted:	D. $80,000 | gold:	C
+predicted:	D. 800000 | gold:	C
+predicted:	D. $4000 | gold:	D
+predicted:	D. $12,000 | gold:	B
+predicted:	D. $960,000 | gold:	C
+predicted:	D. Gross negligence. | gold:	D
+predicted:	D. $11,370 | gold:	B
+predicted:	A. The audit committee's approval of the initial selection of accounting principles. | gold:	D
+predicted:	B. Recording the number of products returned over time. | gold:	C
+predicted:	A. The CPA may be assessed a tax return preparer penalty. | gold:	A
+predicted:	B. Capitalized and depreciated over the term of the research and development project. | gold:	C
+predicted:	B. $550,000. | gold:	B
+predicted:	C. Accounts receivable that have been classified as uncollectible. | gold:	D
+predicted:	A. Accruals are concerned with expected future cash receipts and payments while deferrals are concerned with past cash receipts and payments. | gold:	A
+predicted:	A. Disclaim an opinion on the financial statements and advise the board of directors that the financial statements should not be relied upon. | gold:	D
+predicted:	D. Organizational meeting costs. | gold:	C
+predicted:	C. Benchmarking. | gold:	C
+predicted:	B. $12.80 | gold:	A
+predicted:	D. $186,500 | gold:	A
+predicted:	D. Lack of mental capacity. | gold:	A
+predicted:	D. $3,200. The MACRS depreciation schedule for five-year property is as follows: 20% in the first year, 32% in the second year, 19.20% in the third year, and 0.80% in the fourth and fifth years. Therefore, Baker can deduct $3,200 in the current year. | gold:	B
+predicted:	B. Advised management to make the adjustments necessary for the account balances to conform with GAAP. | gold:	C
+predicted:	A. Permanent Permanent | gold:	B
+predicted:	B. $100,000 is additionally invested. | gold:	D
+predicted:	A. Management is responsible for reporting to us any inadequate provisions for the safeguarding of assets. | gold:	D
+predicted:	A. Management reputation for failing to provide schedules to prior auditors on a timely basis. | gold:	C
+predicted:	A. Material misrepresentation and breach of contract. | gold:	C
+predicted:	A. In periods of rising prices, the LIFO method results in a lower cost of sales and higher taxable income, when compared to the FIFO method. | gold:	D
+predicted:	C. $8,400. | gold:	A
+predicted:	B. a decrease in bad debt losses. | gold:	A
+predicted:	B. Employees who handle cash receipts are not bonded. | gold:	A
+predicted:	B. Has been properly voided in the normal course of business. | gold:	B
+predicted:	B. Management’s assertions that internal controls exist and are operating efficiently. | gold:	D
+predicted:	B. List of the procedures performed (or reference thereto) and Mill's findings. | gold:	B
+predicted:	D. $36,000 gain. | gold:	B
+predicted:	B. Rose only. | gold:	D
+predicted:	C. $8.26 | gold:	D
+predicted:	D. Impossibility of performance. | gold:	D
+predicted:	D. Receiving reports for items received before year end but not yet recorded. | gold:	D
+predicted:	D. 7.50%. | gold:	A
+predicted:	B. $6,000. Greene's basis in Seagull at the end of the year is $6,000, which is equal to the sum of Seagull's loss of $5,000, plus the distribution of cash of $6,000. | gold:	B
+predicted:	B. As an increase in accumulated depreciation of $40000. | gold:	B
+predicted:	A. A lack of segregation of duties in the entity's accounting and payroll departments. | gold:	B
+predicted:	C. A contract required hair styling to be done to Toby's satisfaction but Toby was in good faith dissatisfied with the completed result. | gold:	B
+predicted:	D. Increasing the number of items selected for the test of controls usually increases the tolerable rate of deviations. | gold:	B
+predicted:	A. 0.24 | gold:	D
+predicted:	C. $50,000 ordinary loss. | gold:	C
+predicted:	A. $100000 - $150000 | gold:	C
+predicted:	B. $300,000 | gold:	C
+predicted:	A. Verify that the financial information supplied by the entity agrees with the books of original entry. | gold:	D
+predicted:	C. Request the client's management to document the matter in the management representation letter. | gold:	A
+predicted:	C. $150,000 | gold:	C
+predicted:	A. Theory of constraints. | gold:	A
+predicted:	A. Does the book value of the asset given up exceed the fair value of the asset received? (No) 
+B. Is the gain on the exchange less than the increase in future cash flows? (Yes) 
+C. Are the future cash flows expected to change significantly as a result of the exchange? (No) 
+D. Is the exchange nontaxable? (No) | gold:	C
+predicted:	B. Cost of equity will likely remain stable. | gold:	C
+predicted:	C. 3.40% | gold:	A
+predicted:	B. $25,000 | gold:	B
+predicted:	D. $9.60 | gold:	A
+predicted:	D. $6000 gain. | gold:	B
+predicted:	B. Their payouts (i.e. dividend or coupons) are made after corporation tax has already been deducted. | gold:	B
+predicted:	A. 0.667 | gold:	C
+predicted:	D. Monitoring the effectiveness of professional development activities. | gold:	C
+predicted:	C. $26,000. Strom's basis in Ace is the sum of his contribution plus the fair market value of the land at the time of the contribution, which is $26,000. | gold:	A
+predicted:	A. Bring the matter to the attention of the board of directors or audit committee. | gold:	C
+predicted:	D. 1500 | gold:	C
+predicted:	C. $300,000 | gold:	B
+predicted:	C. Is required to be included both in the notes to the financial statements and the auditor's report. | gold:	D
+predicted:	A. All accounts do not have an equal opportunity to be selected for confirmation. | gold:	C
+predicted:	C. 4.00% | gold:	D
+predicted:	B. Additional paid-in capital is credited for $2,700. | gold:	C
+predicted:	D. Someone erroneously disables edit checks in a software program designed to identify control exceptions. | gold:	C
+predicted:	B. upward sloping. | gold:	D
+predicted:	D. The entity was a campaign contributor to several local political candidates during the year. | gold:	B
+predicted:	D. $1,800 | gold:	A
+predicted:	A. Obtaining a listing of all current-year additions, vouching significant additions to original invoices, and determining that they have been placed in service. | gold:	A
+predicted:	A. Nonaudit services with revenues in aggregate of less than 5% of the total revenues paid by the issuer to the auditor during the fiscal year in which the nonaudit services are provided. | gold:	C
+predicted:	A. The accountant must indicate in the report those circumstances in which generally accepted accounting principles have not been consistently observed in the current period in relation to the preceding period. | gold:	C
+predicted:	B. $9,000 | gold:	B
+predicted:	A. An opinion about the fairness of the agreed-upon procedures. | gold:	C
+predicted:	D. We should use a single metric, like the NPV or the IRR, to have a coherent comparison. | gold:	C
+predicted:	C. Providing factual accounts in testimony explaining positions taken during the performance of any services provided to the client. | gold:	C
+predicted:	B. $140 | gold:	C
+predicted:	A. $2,005,000 | gold:	C
+predicted:	D. By recognizing $10,000 in profit or loss and $5,000 in other comprehensive income. | gold:	D
+predicted:	A. $18.00 | gold:	B
+predicted:	B. 8% | gold:	B
+predicted:	B. Yes No | gold:	A
+predicted:	C. Machinery and equipment used in a business. | gold:	B
+predicted:	B. Strengthening internal audit’s ability to deter and report improper behavior. | gold:	A
+predicted:	B. As a $60000 debit to insurance expense. | gold:	C
+predicted:	B. User credential setup and control over the actions that employees can perform. | gold:	D
+predicted:	A. An auditor takes the client’s audit committee to Las Vegas for the weekend. | gold:	B
+predicted:	A. Review the service auditor’s report and outline the accounting system in a memo to the working papers. | gold:	A
+predicted:	D. 550000 | gold:	C
+predicted:	B. Inquiry and other procedures such as observation. | gold:	B
+predicted:	D. $3,250 | gold:	D
+predicted:	An auditor of a nonissuer may not issue a qualified opinion when management prevents the auditor from observing the entity's inventory (B). | gold:	A
+predicted:	C. The lack of resources to monitor internal controls. | gold:	B
+predicted:	A. 11.5 percent. | gold:	D
+predicted:	A. Allocated on a pro rata basis to the nonmonetary assets acquired. | gold:	D
+predicted:	D. $37,000 | gold:	B
+predicted:	A. 24%. | gold:	D
+predicted:	C. $360,000 | gold:	D
+predicted:	A. Document the error in the workpapers. | gold:	C
+predicted:	D. Tolerable rate of deviations. | gold:	A
+predicted:	A. Perform tests of controls to determine whether significant internal control activities are properly maintained. | gold:	D
+predicted:	B. Program revenues in the category ‚ÄúCharges for Services.‚Äù | gold:	B
+predicted:	B. Increase Increase | gold:	C
+predicted:	D. Laws or regulations require that the activity’s costs of providing services including capital costs be recovered with taxes or similar revenues. | gold:	B
+predicted:	B. $10,000. | gold:	A
+predicted:	D. Compare the financial statements being reported on with those of the prior year. | gold:	B
+predicted:	D. 2.5. | gold:	C
+predicted:	A. Identify the types of potential misstatements that could occur. | gold:	A
+predicted:	B. $300,000 | gold:	A
+predicted:	B. 13.20% | gold:	B
+predicted:	B. $75000 $25000 | gold:	D
+predicted:	B. $500 | gold:	C
+predicted:	D. An opinion on whether the entity's internal control components are operating as designed in achieving their stated objectives. | gold:	A
+predicted:	A. Management displays a significant disregard for regulatory authorities. | gold:	A
+predicted:	C. Beneficiaries. | gold:	A
+predicted:	C. $7.4 million | gold:	B
+predicted:	C. $11,000 | gold:	B
+predicted:	Debit prepaid services and credit services expense for $30,000. | gold:	B
+predicted:	A. Issue a report on findings based on specified procedures performed. | gold:	A
+predicted:	C. Unrestricted net assets, temporarily restricted net assets, and permanently restricted net assets. | gold:	C
+predicted:	C. 17.0 percent | gold:	B
+predicted:	A. Must obtain the written permission of the beneficiary prior to signing as a tax return preparer. | gold:	B
+predicted:	B. $13,000 | gold:	D
+predicted:	B. Yes No | gold:	B
+predicted:	Answer: D. Introductory paragraph of the auditor’s report. The income tax basis differs from GAAP in that it focuses on the accounting rules that are necessary to determine income tax liabilities, rather than financial statement presentation and disclosure requirements as required by GAAP. | gold:	A
+predicted:	D. $18,000 | gold:	B
+predicted:	B. Whenever it is impossible to determine whether a change in an estimate or a change in accounting principle occurred, the change should be considered a change in principle. | gold:	C
+predicted:	A. To participate in management. | gold:	D
+predicted:	A. Arrangements regarding fees and billing. | gold:	A
+predicted:	C. Net realizable value. | gold:	A
+predicted:	A. The accountant has not audited or reviewed the financial statements. | gold:	B
+predicted:	A. 3.6 percent; 7.2 percent | gold:	B
+predicted:	D. $182,000 | gold:	C
+predicted:	D. Operating income. | gold:	D
+predicted:	A. Yes Net cash flow is $20000. | gold:	C
+predicted:	B. $21,000 | gold:	D
+predicted:	D. $200,000 | gold:	B
+predicted:	A. $24,000. | gold:	D
+predicted:	Current Ratio: A, Increases; Net Income: D, Decreases. | gold:	A
+predicted:	A. Agree to recommend the appropriate accounting treatment after performing sufficient research on weather hedges. | gold:	A
+predicted:	A. Rigg and Urco. | gold:	C
+predicted:	C. Review the former client's records to verify its compliance with debt and loan agreements. | gold:	A
+predicted:	A. Governmental fund financial statements. | gold:	C
+predicted:	A. A 5% price increase results in a 3% decrease in the quantity demanded. | gold:	A
+predicted:	B. Yes No | gold:	B
+Accuracy: 0.2872340425531915
