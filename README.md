@@ -30,7 +30,7 @@ python ./api/ServingLocalAlpacaStyle.py --serving_config_path ./configs/alpaca.y
 
 ```bash
 # python run.py --serving_config_path <serving_config_path> --dataset_path <ieval_dataset_json> --llm_service_address <llm_serving_address>
-python run.py --serving_config_path ./configs/alpaca.yaml --dataset_path ./data/mmlu/ieval_mmlu_college_biology.json --llm_service_address http://127.0.0.1:8181/llm_serving/
+python run.py --serving_config_path ./configs/alpaca.yaml --dataset_path ./data/mmlu/ieval_mmlu_college_biology.json --llm_service_address http://127.0.0.1:8080/llm_serving/
 ```
 
 
