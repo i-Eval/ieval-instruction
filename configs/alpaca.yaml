@@ -1,6 +1,6 @@
-model_path: /home/cl/Machiko/sft/trained_models_bsz144_machiko_data_0328_add3 # hugging face format model dir, loaded through AutoModel
+model_path: /home/cl/Machiko_v1/Machiko/sft/machiko_zh_en # hugging face format model dir, loaded through AutoModel
 model_name: alpaca # just a name for log file
-batch_size: 40
+batch_size: 20
 
 zero_shot_template: 
   no_input: "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\n{instruction}\n\n### Response:"
