@@ -1,4 +1,10 @@
-This repo is for Evaluating your Instruction-Tuning Models on open Benchmarks.
+This repo is for evaluating your Instruction-Tuned models on open Benchmarks.
+
+
+## Currently supported tasks
+1. MMLU (56 subjects)
+2. TruthfulQA (mc1 , mc2)
+3. HellaSwag (same as HELM's test examples, without acc normalization)
 
 ## Environment
 ```
@@ -11,11 +17,6 @@ pip install -e .
 pip install torch==2.0.0 --extra-index-url https://download.pytorch.org/whl/cu116 # set correct cuda verison
 cd ../..
 ```
-
-## Current supported tasks
-1. MMLU (56 subjects)
-2. TruthfulQA (mc1 , mc2)
-3. HellaSwag (same as HELM's test examples, without acc normalization)
 
 ## Start eval
 
