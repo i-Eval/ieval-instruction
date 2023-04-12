@@ -12,6 +12,8 @@ cd ../..
 
 ## current supported tasks
 1. MMLU (56 subjects)
+2. TruthfulQA (mc1 , mc2)
+3. HellaSwag (same as HELM test examples)
 
 ## start eval
 
@@ -26,20 +28,6 @@ bash eval_mmlu_all.sh # eval all mmlu task in zero shot manner
 python compute_avg_acc_mmlu.py ./results alpaca mmlu # compute avg acc on all mmlu tasks
 ```
 
-## Todos
-
-1. add more tasks' data
-2. speed up inference
-3. add api for evalauting OpenAI models
-4. implement few shots evaluation
-5. clean code
 
 
-
-## Results
-| Models(Zero-Shot)   | mmlu |
-|---------------------|----------------|
-| alpaca              | 0.38           | 
-| llama-i             | 0.47           |
-| ChatGPT(2023.04.10) | xxxx           |
 
