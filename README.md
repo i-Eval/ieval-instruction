@@ -54,7 +54,8 @@ python run.py --serving_config_path ./configs/alpaca.yaml --dataset_path ./data/
 ```
 
 3. OpenAI models
-./scripts/eval_oai.py can be used to evaluate OPENAI's models.
+
+`./scripts/eval_oai.py` can be used to evaluate OPENAI's models.
 
 
 ## Todos
