@@ -1,4 +1,4 @@
-model_path: /home/cl/Machiko_v1/Machiko/sft/machiko_zh_en # hugging face format model dir, loaded through AutoModel
+model_path: <path_to_your_trained_hf_model_checkpoint_dir> # hugging face format model dir, loaded through AutoModel
 model_name: alpaca # just a name for log file
 batch_size: 20
 
