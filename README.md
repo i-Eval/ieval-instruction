@@ -53,6 +53,9 @@ python scripts/compute_avg_acc_mmlu.py ./results alpaca mmlu # compute avg acc o
 python run.py --serving_config_path ./configs/alpaca.yaml --dataset_path ./data/truthful_qa/ieval_truthful_qa_mc1.json --llm_service_address http://127.0.0.1:8080/llm_serving/
 ```
 
+3. OpenAI models
+./scripts/eval_oai.py can be used to evaluate OPENAI's models.
+
 
 ## Todos
 1. enable few shots evaluation
