@@ -1,6 +1,6 @@
 # ieval-instruction
 
-This repo is for evaluating your Instruction-Tuned models on open Benchmarks, with just one command.
+This repo is for evaluating your Instruction-Tuned models on open Benchmarks, with just one command. All datasets are tranformed and evaluate through instruction tuning paradigm.
 
 
 ## Currently supported tasks
