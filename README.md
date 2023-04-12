@@ -6,7 +6,7 @@ This repo is for evaluating your Instruction-Tuned models on open Benchmarks, wi
 2. TruthfulQA (mc1 , mc2)
 3. HellaSwag (same as HELM's test examples, without acc normalization)
 
-all supported tasks are under `./data`, you can add new dataset following the same json format
+All supported tasks are under `./data`, you can add new dataset following the same json format. Pull request for adding new dataset is also welcomed.
 
 ## Environment
 ```
