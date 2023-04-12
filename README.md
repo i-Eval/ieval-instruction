@@ -46,9 +46,9 @@ bash eval_mmlu_all.sh # eval all mmlu task in zero shot manner
 python compute_avg_acc_mmlu.py ./results alpaca mmlu # compute avg acc on all mmlu tasks
 ```
 
-2. HellaSwag
+2. TruthfulQA
 ```
-python run.py --serving_config_path ./configs/alpaca.yaml --dataset_path ./data/hellaswag/ieval_hellaswag_helm_zs.json --llm_service_address http://127.0.0.1:8080/llm_serving/
+python run.py --serving_config_path ./configs/alpaca.yaml --dataset_path ./data/truthful_qa/ieval_truthful_qa_mc1.json --llm_service_address http://127.0.0.1:8080/llm_serving/
 ```
 
 
