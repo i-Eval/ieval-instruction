@@ -42,8 +42,8 @@ python run.py --serving_config_path ./configs/alpaca.yaml --dataset_path ./data/
 
 1. MMLU
 ```bash
-bash eval_mmlu_all.sh # eval all mmlu task in zero shot manner
-python compute_avg_acc_mmlu.py ./results alpaca mmlu # compute avg acc on all mmlu tasks
+bash scripts/eval_mmlu_all.sh # eval all mmlu task in zero shot manner
+python scripts/compute_avg_acc_mmlu.py ./results alpaca mmlu # compute avg acc on all mmlu tasks
 ```
 
 2. HellaSwag
