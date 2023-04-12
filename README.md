@@ -1,3 +1,5 @@
+This repo is for Evaluating your Instruction-Tuning Models on open Benchmarks.
+
 ## Environment
 ```
 conda create -n ieval python=3.10
