@@ -27,14 +27,16 @@ cd ../..
 1. set up llm service
 ```
 python ./api/ServingLocalAlpacaStyle.py --serving_config_path ./configs/alpaca.yaml --host 0.0.0.0 --port 8080
+
 # change serving_config_path to your own model config yaml file.
 ```
 
 2. start a new terminal, make evaluation request, the result will be saved under ./results
 
 ```bash
-# python run.py --serving_config_path <serving_config_path> --dataset_path <ieval_dataset_json> --llm_service_address <llm_serving_address>
 python run.py --serving_config_path ./configs/alpaca.yaml --dataset_path ./data/mmlu/ieval_mmlu_college_biology.json --llm_service_address http://127.0.0.1:8080/llm_serving/
+
+# python run.py --serving_config_path <serving_config_path> --dataset_path <ieval_dataset_json> --llm_service_address <llm_serving_address>
 ```
 
 
