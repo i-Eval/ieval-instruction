@@ -16,7 +16,7 @@ def get_args():
     parser = argparse.ArgumentParser()
     parser.add_argument("--serving_config_path", type=str, default="../configs/machiko.yaml")
     parser.add_argument("--host", type=str, default="0.0.0.0")
-    parser.add_argument("--port", type=str, default="8080")
+    parser.add_argument("--port", type=int, default="8080")
     
     return parser.parse_args()
 
