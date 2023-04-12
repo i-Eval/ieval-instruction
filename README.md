@@ -13,7 +13,7 @@ cd ../..
 ## Current supported tasks
 1. MMLU (56 subjects)
 2. TruthfulQA (mc1 , mc2)
-3. HellaSwag (same as HELM test examples)
+3. HellaSwag (same as HELM's test examples, without acc normalization)
 
 ## Start eval
 
@@ -38,4 +38,15 @@ python run.py --serving_config_path ./configs/alpaca.yaml --dataset_path ./data/
 bash eval_mmlu_all.sh # eval all mmlu task in zero shot manner
 python compute_avg_acc_mmlu.py ./results alpaca mmlu # compute avg acc on all mmlu tasks
 ```
+
+2. HellaSwag
+```
+python run.py --serving_config_path ./configs/alpaca.yaml --dataset_path ./data/hellaswag/ieval_hellaswag_helm_zs.json --llm_service_address http://127.0.0.1:8080/llm_serving/
+```
+
+
+## Todos
+1. enable few shots evaluation
+2. faster inference on local machine
+
 

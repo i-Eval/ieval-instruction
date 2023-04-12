@@ -3,6 +3,7 @@ import requests
 import argparse
 from tqdm import tqdm
 import yaml
+import time
 
 def request_anwser(address,examples):
     url = address
@@ -90,7 +91,8 @@ if __name__=="__main__":
     print("Accuracy: ",accuracy)
 
     # log modeloutput and accuracy
-    with open(f"results/ieval_log_{task_name}_{model_name}.txt", "w") as f:
+    datetime = time.strftime("%Y%m%d-%H%M%S")
+    with open(f"results/{datetime}_ieval_log_{task_name}_{model_name}.txt", "w") as f:
         for answers,gold_answers in zip(all_answers,all_gold_answers):
             for answer,gold_answer in zip(answers,gold_answers):
                 f.write(f"predicted:\t{answer} | gold:\t{gold_answer}\n")
