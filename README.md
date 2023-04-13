@@ -61,5 +61,7 @@ python run.py --serving_config_path ./configs/alpaca.yaml --dataset_path ./data/
 ## Todos
 1. enable few shots evaluation
 2. faster inference on local machine
+3. ieval run/interactive/serve client
+4. pip install ieval-instruction
 
 
