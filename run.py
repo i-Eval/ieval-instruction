@@ -55,10 +55,10 @@ def request_all_answers_gold_pair(address,dataset):
     return all_answers,all_gold_answers
 
 
-
 def matching_start_with(gold_anwser,predicted_anwser):
-    return predicted_anwser.startswith(gold_anwser)
-    
+    gold_answer_correct=' '+gold_answer+'.'
+    return gold_answer_correct in predicted_anwser or predicted_anwser.startswith(gold_anwser)
+    # return predicted_anwser.startswith(gold_anwser)
 
 if __name__=="__main__":
     # argument parsing
