@@ -54,7 +54,7 @@ python ./api/test_serve.py --serving_config_path ./configs/alpaca.yaml --dataset
 
 ## Examples
 
-1. MMLU
+1. MMLU evaluation in one command
 ```bash
 python ./api/run.py --llm_config_path=../configs/alpaca.yaml --dataset_json_path=../ieval/data/mmlu/ieval_mmlu_*.json --log_dir=../results/test
 ```
