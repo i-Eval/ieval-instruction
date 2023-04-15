@@ -1,0 +1,145 @@
+predicted:	A. maintain the population | gold:	C
+predicted:	B. a codon | gold:	C
+predicted:	C. allantois | gold:	A
+predicted:	B. Inosit | gold:	B
+predicted:	B. a DNA or | gold:	A
+predicted:	D. Matings are | gold:	A
+predicted:	B. heterochrom | gold:	B
+predicted:	C. Bacterial | gold:	B
+predicted:	D. bursts of | gold:	D
+predicted:	C. Replicate its | gold:	C
+predicted:	C. spiral cle | gold:	C
+predicted:	D. Chlorop | gold:	D
+predicted:	C. Fox populations will | gold:	C
+predicted:	D. I, II | gold:	D
+predicted:	D. Archaea | gold:	A
+predicted:	C. cortical reaction | gold:	C
+predicted:	C. They provide access | gold:	C
+predicted:	C. both instinctive | gold:	C
+predicted:	A. A DNA sequence | gold:	C
+predicted:	C. Taiga | gold:	A
+predicted:	D. They lower the | gold:	D
+predicted:	C. Zero population growth | gold:	C
+predicted:	A. homologous | gold:	B
+predicted:	C. vascular | gold:	A
+predicted:	C. introns. | gold:	D
+predicted:	C. secondary succession. | gold:	D
+predicted:	D. the maximum fit | gold:	A
+predicted:	D. lamel | gold:	C
+predicted:	D. rate of reci | gold:	A
+predicted:	B. Thin cut | gold:	C
+predicted:	D. fibrobl | gold:	A
+predicted:	D. A diplo | gold:	B
+predicted:	B. their realistic | gold:	B
+predicted:	A. high reproduct | gold:	D
+predicted:	D. 5′ | gold:	D
+predicted:	A. dominant spor | gold:	A
+predicted:	D. The proteins | gold:	B
+predicted:	B. Remove oil- | gold:	A
+predicted:	C. compound eye | gold:	C
+predicted:	A. Ontogeny | gold:	A
+predicted:	C. Pith; | gold:	D
+predicted:	B. Nuclei | gold:	B
+predicted:	C. Increasing | gold:	C
+predicted:	C. nodes. | gold:	A
+predicted:	C. masting | gold:	D
+predicted:	D. They are exc | gold:	D
+predicted:	D. An increase in | gold:	B
+predicted:	C. Ovary | gold:	C
+predicted:	C. pelagic | gold:	B
+predicted:	A. Thymine | gold:	A
+predicted:	A. oxidizing | gold:	A
+predicted:	D. inosit | gold:	C
+predicted:	D. Precurs | gold:	C
+predicted:	A. Injecting | gold:	A
+predicted:	D. Random mating | gold:	D
+predicted:	B. The blast | gold:	B
+predicted:	C. microfilaments | gold:	C
+predicted:	A. Each type of | gold:	C
+predicted:	C. mammals | gold:	B
+predicted:	C. Limited dispersal | gold:	D
+predicted:	A. Nucle | gold:	B
+predicted:	A. DNA provides the | gold:	D
+predicted:	D. association with the | gold:	A
+predicted:	D. Four | gold:	C
+predicted:	C. an increase in | gold:	D
+predicted:	B. It is typically | gold:	A
+predicted:	B. Casparian | gold:	D
+predicted:	C. Stomatal | gold:	B
+predicted:	D. Seeds en | gold:	D
+predicted:	B. Cliff- | gold:	B
+predicted:	D. IgM | gold:	A
+predicted:	C. gap junction | gold:	C
+predicted:	A. have segmented | gold:	A
+predicted:	D. 90 | gold:	A
+predicted:	B. Air has a | gold:	B
+predicted:	A. They are e | gold:	A
+predicted:	C. kinetoch | gold:	C
+predicted:	C. gravidotrop | gold:	A
+predicted:	C. ionizing groups | gold:	D
+predicted:	C. 1 tall | gold:	D
+predicted:	A. divide an in | gold:	C
+predicted:	C. Southern blot | gold:	D
+predicted:	D. parathy | gold:	D
+predicted:	C. Oxaloac | gold:	C
+predicted:	D. Double fertil | gold:	D
+predicted:	D. metabolic | gold:	D
+predicted:	A. a conditioned | gold:	B
+predicted:	B. males in order | gold:	B
+predicted:	B. Palisade | gold:	B
+predicted:	B. The interior of | gold:	B
+predicted:	D. The descendants | gold:	D
+predicted:	C. Microfilaments | gold:	C
+predicted:	C. random mating | gold:	B
+predicted:	D. Some are photos | gold:	D
+predicted:	D. Tyrosine | gold:	D
+predicted:	B. C4 plants | gold:	B
+predicted:	A. Thyla | gold:	A
+predicted:	D. reverse transcript | gold:	D
+predicted:	C. produced by repeated | gold:	D
+predicted:	B. Colchic | gold:	B
+predicted:	A. Plants have | gold:	D
+predicted:	D. Green algae | gold:	C
+predicted:	A. hydrogen bond | gold:	A
+predicted:	B. histones H | gold:	D
+predicted:	D. an archae | gold:	D
+predicted:	A. high temperature | gold:	B
+predicted:	D. The rapid mit | gold:	C
+predicted:	B. Reduction | gold:	A
+predicted:	B. Marine birds abs | gold:	C
+predicted:	B. High parental | gold:	B
+predicted:	C. Water that is | gold:	C
+predicted:	A. The frequencies of | gold:	A
+predicted:	B. if the trait | gold:	B
+predicted:	D. The enzym | gold:	A
+predicted:	A. A different pol | gold:	A
+predicted:	A. irreversibly | gold:	D
+predicted:	B. The threshold potential | gold:	C
+predicted:	C. The availability | gold:	C
+predicted:	C. Isolating | gold:	A
+predicted:	D. disruption of | gold:	A
+predicted:	A. histone | gold:	C
+predicted:	B. Photoperiod | gold:	B
+predicted:	B. It increases the | gold:	D
+predicted:	C. Cyanob | gold:	A
+predicted:	A. occurs the second | gold:	B
+predicted:	D. Nectar | gold:	C
+predicted:	C. embryo | gold:	D
+predicted:	C. Polarity | gold:	B
+predicted:	C. osmosis | gold:	C
+predicted:	D. receptor- | gold:	B
+predicted:	B. sieve t | gold:	C
+predicted:	A. The kidne | gold:	D
+predicted:	A. A type of | gold:	C
+predicted:	B. provide the foundation | gold:	D
+predicted:	B. mtD | gold:	B
+predicted:	A. there exist large | gold:	A
+predicted:	C. segregation | gold:	A
+predicted:	D. The oce | gold:	D
+predicted:	A. inheritance of both | gold:	A
+predicted:	D. Living cells of | gold:	A
+predicted:	C. Lignin | gold:	A
+predicted:	C. It requires ATP | gold:	C
+predicted:	A. High niche | gold:	B
+predicted:	C. Companion | gold:	D
+Accuracy: 0.4513888888888889

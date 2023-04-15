@@ -1,0 +1,224 @@
+predicted:	C. Geriatrics | gold:	A
+predicted:	D. Being married. | gold:	B
+predicted:	B. Those who experience | gold:	A
+predicted:	D. Increasing | gold:	A
+predicted:	B. Sociocult | gold:	B
+predicted:	D. All of these | gold:	D
+predicted:	C. It becomes cloud | gold:	D
+predicted:	D. Smarth | gold:	D
+predicted:	D. Practice Tai | gold:	A
+predicted:	C. Claim that | gold:	C
+predicted:	C. This may be | gold:	A
+predicted:	D. Assimilation | gold:	A
+predicted:	C. Hormonal | gold:	B
+predicted:	A. Has lost a | gold:	A
+predicted:	B6 and B1 | gold:	B
+predicted:	B. Identity | gold:	B
+predicted:	D. Avoiding | gold:	C
+predicted:	B. An alternative to | gold:	B
+predicted:	A. That place holds | gold:	A
+predicted:	B. Between 4 | gold:	B
+predicted:	D. Secondary control | gold:	C
+predicted:	D. Erikson. | gold:	D
+predicted:	A. A higher proportion | gold:	B
+predicted:	D. Mid-life | gold:	B
+predicted:	D. NeuroA | gold:	A
+predicted:	B. Eat the | gold:	A
+predicted:	A. Emotional | gold:	A
+predicted:	A. Men than women | gold:	A
+predicted:	B. Suppression of | gold:	B
+predicted:	C. Rates of | gold:	D
+predicted:	B. Get out and | gold:	C
+predicted:	D. External rather than | gold:	B
+predicted:	C. Lack of | gold:	A
+predicted:	A. Ageism | gold:	A
+predicted:	D. Hospice | gold:	D
+predicted:	C. Infrequent | gold:	B
+predicted:	A. Prevent some | gold:	A
+predicted:	C. Grandchildren | gold:	B
+predicted:	B. Are more visual | gold:	B
+predicted:	C. Retinal cells | gold:	A
+predicted:	C. They never last | gold:	B
+predicted:	D. Increasing | gold:	A
+predicted:	D. Does personality | gold:	B
+predicted:	B. Cross-sequ | gold:	B
+predicted:	C. Having others to | gold:	C
+predicted:	D. Queen honey | gold:	B
+predicted:	A. One can use | gold:	B
+predicted:	B. Continuous | gold:	B
+predicted:	D. Viasterol | gold:	D
+predicted:	D. In an institution | gold:	A
+predicted:	C. Are 1 | gold:	C
+predicted:	A. Older adult | gold:	D
+predicted:	B. White | gold:	D
+predicted:	B. Organismic | gold:	C
+predicted:	C. A black woman | gold:	D
+predicted:	C. Dementia | gold:	B
+predicted:	D. Should not be | gold:	C
+predicted:	B. Blood vessels | gold:	B
+predicted:	B. Working | gold:	D
+predicted:	B. Show high satisfaction | gold:	C
+predicted:	B. Attempt to | gold:	B
+predicted:	B. Biological clock | gold:	C
+predicted:	A. Older adult | gold:	C
+predicted:	A. Active observer | gold:	B
+predicted:	A. Care for an | gold:	A
+predicted:	D. They change quite | gold:	B
+predicted:	C. Mostly gen | gold:	C
+predicted:	A. Higher levels | gold:	D
+predicted:	C. Alaska. | gold:	D
+predicted:	C. Florida | gold:	B
+predicted:	C. Coping strateg | gold:	B
+predicted:	B. The rules of | gold:	D
+predicted:	A. The factors that | gold:	B
+predicted:	C. To do something | gold:	C
+predicted:	B. Incidence | gold:	A
+predicted:	A. More frequent for | gold:	C
+predicted:	A. Receive more | gold:	A
+predicted:	D. More than  | gold:	B
+predicted:	C. Primary. | gold:	B
+predicted:	A. Tai chi. | gold:	A
+predicted:	D. Cataract | gold:	B
+predicted:	B. Loss of | gold:	B
+predicted:	D. 75 | gold:	A
+predicted:	C. Female h | gold:	C
+predicted:	B. Social security. | gold:	B
+predicted:	B. Occur more | gold:	B
+predicted:	B. Vascular | gold:	A
+predicted:	A. Longe | gold:	A
+predicted:	B. A generation of | gold:	B
+predicted:	A. Generative | gold:	A
+predicted:	B. Education about older | gold:	B
+predicted:	A. Determining | gold:	A
+predicted:	C. Have been married | gold:	A
+predicted:	B. Niacin | gold:	B
+predicted:	D. Clinical | gold:	B
+predicted:	B. Longitudinal | gold:	A
+predicted:	B. Increase | gold:	A
+predicted:	D. All of the | gold:	D
+predicted:	B. Convoy | gold:	B
+predicted:	A. Find a job | gold:	B
+predicted:	B. Those who are | gold:	B
+predicted:	D. Family and friends | gold:	C
+predicted:	C. Single women. | gold:	C
+predicted:	A. Are more concerned | gold:	A
+predicted:	D. All of the | gold:	D
+predicted:	A. Osteob | gold:	A
+predicted:	C. Cognitive | gold:	A
+predicted:	C. Japan | gold:	C
+predicted:	C. Complex | gold:	C
+predicted:	B. Internal | gold:	B
+predicted:	D. Durable power | gold:	A
+predicted:	B. Be able to | gold:	A
+predicted:	C. Women lose hair | gold:	B
+predicted:	D. You have no | gold:	A
+predicted:	C. Openness | gold:	B
+predicted:	D. Become ir | gold:	C
+predicted:	C. Have very different | gold:	A
+predicted:	C. Working as a | gold:	C
+predicted:	A. Islam | gold:	B
+predicted:	C. Rorsch | gold:	B
+predicted:	A. Accuracy | gold:	B
+predicted:	A. Japan | gold:	A
+predicted:	C. Keep blood vessels | gold:	C
+predicted:	D. The Eden | gold:	D
+predicted:	A. Not due to | gold:	A
+predicted:	C. Internal. | gold:	C
+predicted:	C. Increases | gold:	B
+predicted:	C. Are informed about | gold:	C
+predicted:	C. They lived through | gold:	B
+predicted:	B. Some animals show | gold:	A
+predicted:	C. Changes in | gold:	A
+predicted:	C. The inability | gold:	A
+predicted:	D. Gerontological | gold:	B
+predicted:	B. Variable as they | gold:	B
+predicted:	D. Influen | gold:	C
+predicted:	B. The brain. | gold:	B
+predicted:	D. Their lives are | gold:	B
+predicted:	D. Older adult | gold:	D
+predicted:	A. Activities of | gold:	A
+predicted:	B. Korsak | gold:	B
+predicted:	D. Determined | gold:	B
+predicted:	A. Jeanne Cal | gold:	A
+predicted:	A. Fluid pressure | gold:	A
+predicted:	D. Computer programmers | gold:	B
+predicted:	B. Is treated like | gold:	B
+predicted:	B. Remain in | gold:	B
+predicted:	C. Size of our | gold:	A
+predicted:	D. Job satisfaction. | gold:	A
+predicted:	C. Life expectancy | gold:	B
+predicted:	B. Healthy and | gold:	C
+predicted:	D. Memory is less | gold:	B
+predicted:	B. Improve | gold:	B
+predicted:	B. Daily activities like | gold:	B
+predicted:	C. Cardiov | gold:	A
+predicted:	B. Older workers | gold:	C
+predicted:	D. Their slower processing | gold:	A
+predicted:	D. Household ch | gold:	C
+predicted:	C. Retirement routine | gold:	A
+predicted:	C. Cohort | gold:	A
+predicted:	C. Having no emot | gold:	C
+predicted:	D. They owe | gold:	A
+predicted:	C. The contents of | gold:	C
+predicted:	B. We gain some | gold:	B
+predicted:	D. Coher | gold:	D
+predicted:	D. More than  | gold:	A
+predicted:	C. Kidney problems | gold:	B
+predicted:	D. Graying of | gold:	B
+predicted:	D. Medicaid | gold:	A
+predicted:	C. Septicemia | gold:	B
+predicted:	B. The decline | gold:	D
+predicted:	C. Ergonom | gold:	C
+predicted:	C. Medicare | gold:	B
+predicted:	D. Pick's | gold:	C
+predicted:	A. Ask about their | gold:	C
+predicted:	B. 33 | gold:	B
+predicted:	D. Alone. | gold:	A
+predicted:	A. Well being | gold:	B
+predicted:	B. Ecological | gold:	B
+predicted:	A. Anger and | gold:	A
+predicted:	B. Live to be | gold:	B
+predicted:	D. Meta-memory | gold:	A
+predicted:	B. Cardiov | gold:	B
+predicted:	D. Biological ag | gold:	A
+predicted:	C. Creutzfeld | gold:	C
+predicted:	C. Smaller inner | gold:	D
+predicted:	C. Michelle Me | gold:	A
+predicted:	C. More than  | gold:	C
+predicted:	B. Whether our measure | gold:	C
+predicted:	A. May be very | gold:	D
+predicted:	C. Semantic memory | gold:	B
+predicted:	Parent (A. Sp | gold:	C
+predicted:	C. Free radicals | gold:	C
+predicted:	D. Cannot, at | gold:	A
+predicted:	C. The evidence for | gold:	B
+predicted:	D. 75 | gold:	A
+predicted:	B. Green | gold:	B
+predicted:	A. Sexually active | gold:	A
+predicted:	B. Height | gold:	A
+predicted:	C. Increased | gold:	C
+predicted:	A. They learn about | gold:	A
+predicted:	B. Presbycus | gold:	B
+predicted:	C. Pretty much | gold:	C
+predicted:	D. Make long- | gold:	C
+predicted:	D. Severe but | gold:	A
+predicted:	D. Telomerase | gold:	B
+predicted:	D. Get anyone to | gold:	B
+predicted:	B. Children younger than | gold:	A
+predicted:	B. Older adult | gold:	B
+predicted:	B. Age bias | gold:	D
+predicted:	A. A loss of | gold:	A
+predicted:	A. Rude | gold:	B
+predicted:	B. Nurture | gold:	A
+predicted:	C. Has been increasing | gold:	C
+predicted:	C. Senescence | gold:	B
+predicted:	D. Anti-de | gold:	C
+predicted:	C. Were born | gold:	C
+predicted:	A. Be absent from | gold:	D
+predicted:	A. Time seems to | gold:	A
+predicted:	A. True to life | gold:	B
+predicted:	A. Speak a | gold:	C
+predicted:	D. Supplement use | gold:	A
+predicted:	C. Klagmore | gold:	B
+predicted:	A. Clark | gold:	B
+Accuracy: 0.4125560538116592

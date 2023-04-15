@@ -1,0 +1,132 @@
+predicted:	D. Lumpect | gold:	B
+predicted:	D. all of the | gold:	D
+predicted:	A. can be treated | gold:	A
+predicted:	D. the Oed | gold:	A
+predicted:	A. paraphili | gold:	B
+predicted:	C. experienced guilt | gold:	C
+predicted:	D. all of the | gold:	D
+predicted:	C. an anxious- | gold:	C
+predicted:	B. Bruce likely participated | gold:	A
+predicted:	C. a gift from | gold:	C
+predicted:	C. between the ages | gold:	C
+predicted:	A. intimacy | gold:	B
+predicted:	D. all of the | gold:	D
+predicted:	C. asceticism | gold:	B
+predicted:	D. all of the | gold:	D
+predicted:	C. the cell structure | gold:	C
+predicted:	C. script theory. | gold:	D
+predicted:	B. Mexican Americans; | gold:	A
+predicted:	C. Masters and Johnson | gold:	A
+predicted:	C. sexually motiv | gold:	C
+predicted:	C. Gender schema | gold:	A
+predicted:	A. 4 inches | gold:	B
+predicted:	B and C. | gold:	D
+predicted:	B. F. Sk | gold:	C
+predicted:	C. It seems to | gold:	A
+predicted:	B. 24 | gold:	B
+predicted:	B. corpus l | gold:	B
+predicted:	C. hormones | gold:	C
+predicted:	C. Bartholin | gold:	C
+predicted:	D. Buffy' | gold:	D
+predicted:	C. ovulation. | gold:	C
+predicted:	B. immediately before org | gold:	D
+predicted:	D. all of the | gold:	D
+predicted:	C. Swedish | gold:	A
+predicted:	B. hormones | gold:	C
+predicted:	B. Sigmund Fre | gold:	D
+predicted:	B. negative evaluation | gold:	B
+predicted:	D. all of the | gold:	D
+predicted:	A. Chinese; North | gold:	B
+predicted:	C. sympathetic | gold:	D
+predicted:	C. mons. | gold:	D
+predicted:	C. 14 | gold:	C
+predicted:	D. legal and religion | gold:	A
+predicted:	A. the homosex | gold:	C
+predicted:	D. both a and | gold:	D
+predicted:	B. erotica | gold:	B
+predicted:	B. at birth. | gold:	C
+predicted:	D. all of the | gold:	D
+predicted:	C. take the birth | gold:	D
+predicted:	C. The diaph | gold:	A
+predicted:	C. sexual selection. | gold:	C
+predicted:	C. poor Puerto R | gold:	C
+predicted:	D. a and b | gold:	D
+predicted:	D. sex with a | gold:	B
+predicted:	B. corpus sp | gold:	D
+predicted:	D....the term | gold:	C
+predicted:	C. urophilia | gold:	B
+predicted:	A. males have one | gold:	A
+predicted:	D. both A and | gold:	D
+predicted:	D. pituit | gold:	A
+predicted:	A. fundamentally | gold:	D
+predicted:	A. will produce a | gold:	C
+predicted:	B. in vitro | gold:	D
+predicted:	B. it varies | gold:	B
+predicted:	B. 4 | gold:	B
+predicted:	A. Menstruation | gold:	A
+predicted:	D. Confusion stage | gold:	B
+predicted:	B. syphilis | gold:	B
+predicted:	D. all of the | gold:	A
+predicted:	C. highly sensitive n | gold:	A
+predicted:	B. If Aval | gold:	D
+predicted:	A. arousal | gold:	C
+predicted:	B. blood accumulation | gold:	B
+predicted:	B. sweat and | gold:	D
+predicted:	D. gonorr | gold:	D
+predicted:	D. Most swingers | gold:	D
+predicted:	A. Frotte | gold:	A
+predicted:	C. synthetic and | gold:	B
+predicted:	B. of the other | gold:	A
+predicted:	C. decreased s | gold:	D
+predicted:	B. erection, | gold:	D
+predicted:	C. zoophilia | gold:	B
+predicted:	B. menstrual | gold:	C
+predicted:	C. rear entry. | gold:	B
+predicted:	D. both A and | gold:	D
+predicted:	A. excitement | gold:	A
+predicted:	D. secretes h | gold:	C
+predicted:	A. painful men | gold:	A
+predicted:	B. an avoidant | gold:	B
+predicted:	D. 30 | gold:	B
+predicted:	C. transsexual | gold:	D
+predicted:	B. reproduction | gold:	B
+predicted:	B. psycho | gold:	A
+predicted:	C. civilizational | gold:	C
+predicted:	B. Pope Paul VI | gold:	B
+predicted:	C. provide an equal | gold:	A
+predicted:	B. He is over | gold:	C
+predicted:	C. As long as | gold:	C
+predicted:	D. (s) | gold:	A
+predicted:	B. foreskin | gold:	A
+predicted:	C. the lute | gold:	B
+predicted:	A. pituit | gold:	C
+predicted:	C. heterosexual | gold:	A
+predicted:	D. desensit | gold:	A
+predicted:	D. observing others | gold:	C
+predicted:	D. 20 | gold:	B
+predicted:	D. declined for | gold:	A
+predicted:	C. They typically want | gold:	D
+predicted:	B. becoming emotional | gold:	C
+predicted:	B. Mike suffers | gold:	B
+predicted:	B. Ectop | gold:	B
+predicted:	A....a male | gold:	A
+predicted:	C....a sharp | gold:	C
+predicted:	B. self-dis | gold:	B
+predicted:	A. in the hours | gold:	A
+predicted:	D. none of the | gold:	D
+predicted:	A. masturb | gold:	D
+predicted:	D. all of the | gold:	D
+predicted:	B. 10 | gold:	B
+predicted:	B. into the t | gold:	A
+predicted:	C. 3 | gold:	A
+predicted:	D. Trudeau | gold:	D
+predicted:	D. anxiety decre | gold:	A
+predicted:	A. mostly heterosex | gold:	C
+predicted:	B. orgasm | gold:	A
+predicted:	A....a protect | gold:	A
+predicted:	C. ureth | gold:	C
+predicted:	D. dilation and | gold:	A
+predicted:	A. chlamyd | gold:	D
+predicted:	D. Dartos | gold:	D
+predicted:	B. become less perm | gold:	D
+Accuracy: 0.44274809160305345

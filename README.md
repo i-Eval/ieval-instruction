@@ -22,21 +22,33 @@ pip install torch==2.0.0 --extra-index-url https://download.pytorch.org/whl/cu11
 cd ../..
 ```
 
-## Start eval
+## Features
 
-1. set up llm service
+1. One command evaluation 
+
+```bash
+python ./api/run.py --llm_config_path=../configs/alpaca.yaml --dataset_json_path=../ieval/data/mmlu/ieval_mmlu_*.json --log_dir=../results/test
+
+# --llm_config_path : llm config, generation config
+# --dataset_json_path : dataset paths, support glob pattern matching
+# --log_dir : dir to save the eval logs
+
 ```
-python ./api/ServingLocalAlpacaStyle.py --serving_config_path ./configs/alpaca.yaml --host 0.0.0.0 --port 8080
+
+
+2. LLM service
+
+First, set up a llm service
+```bash
+python ./api/serve.py --serving_config_path ./configs/alpaca.yaml --host 0.0.0.0 --port 8080
 
 # change serving_config_path to your own model config yaml file.
 ```
 
-2. start a new terminal, make evaluation request, the result will be saved under ./results
+Second, make request to the llm service, you can following request format in `test_serve.py` to make requests
 
 ```bash
-python run.py --serving_config_path ./configs/alpaca.yaml --dataset_path ./data/mmlu/ieval_mmlu_college_biology.json --llm_service_address http://127.0.0.1:8080/llm_serving/
-
-# python run.py --serving_config_path <serving_config_path> --dataset_path <ieval_dataset_json> --llm_service_address <llm_serving_address>
+python ./api/test_serve.py --serving_config_path ./configs/alpaca.yaml --dataset_path ./data/mmlu/ieval_mmlu_college_biology.json --llm_service_address http://127.0.0.1:8080/llm_serving/
 ```
 
 
@@ -44,18 +56,9 @@ python run.py --serving_config_path ./configs/alpaca.yaml --dataset_path ./data/
 
 1. MMLU
 ```bash
-bash scripts/eval_mmlu_all.sh # eval all mmlu task in zero shot manner
-python scripts/compute_avg_acc_mmlu.py ./results alpaca mmlu # compute avg acc on all mmlu tasks
+python ./api/run.py --llm_config_path=../configs/alpaca.yaml --dataset_json_path=../ieval/data/mmlu/ieval_mmlu_*.json --log_dir=../results/test
 ```
 
-2. TruthfulQA
-```
-python run.py --serving_config_path ./configs/alpaca.yaml --dataset_path ./data/truthful_qa/ieval_truthful_qa_mc1.json --llm_service_address http://127.0.0.1:8080/llm_serving/
-```
-
-3. OpenAI models
-
-`./scripts/eval_oai.py` can be used to evaluate OPENAI's models.
 
 
 ## Todos

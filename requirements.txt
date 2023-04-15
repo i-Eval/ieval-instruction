@@ -3,3 +3,4 @@ uvicorn
 fastapi
 accelerate
 sentencepiece
+datasets
