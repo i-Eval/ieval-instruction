@@ -36,7 +36,7 @@ python ./api/run.py --llm_config_path=../configs/alpaca.yaml --dataset_json_path
 ```
 
 
-2. LLM service
+2. LLM instruction following service
 
 First, set up a llm service
 ```bash
